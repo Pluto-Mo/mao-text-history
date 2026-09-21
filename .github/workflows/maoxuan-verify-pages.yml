@@ -18,26 +18,25 @@ jobs:
           sparse-checkout: |
             archive/records
       - run: python -m pip install pymupdf==1.26.4
-      - name: Render selected already preserved PDF pages, never execute embedded content
+      - name: Render bounded preserved source pages with verified raw hashes
         run: |
           python - <<'PY'
           import json, pathlib, subprocess, hashlib
           import pymupdf
           selected={
-            'A-0a774548ee55c2288a21':[316,317,318,323,324],
-            'A-53fc15cb527a2de9836d':[285],
-            'A-3aabe7d7d8be471b024f':[12,16,164,165],
-            'A-6130598a9549289f51ca':[10,14,180,181],
-            'A-08e901d73dcd78e98c4b':[551,552],
-            'A-93d18940d055820ccb0b':[552,567],
-            'A-bc29fda8b40043e7d0d2':[603]
+            'A-97c183f19ad837e7deff':[557,558],
+            'A-08e901d73dcd78e98c4b':[273,274,455,456],
+            'A-3aabe7d7d8be471b024f':[161,162],
+            'A-ce6e7a65555cd6cd36fd':[285],
+            'A-0a774548ee55c2288a21':[348,349],
+            'A-93d18940d055820ccb0b':[327],
+            'A-264a603d150bc5388914':[196,197]
           }
           out=pathlib.Path('/tmp/maoxuan-page-review');out.mkdir()
           manifest=[]
           for rid,numbers in selected.items():
             r=json.loads(pathlib.Path('archive/records/'+rid+'.json').read_text())
-            chunks=[subprocess.check_output(['git','show','HEAD:'+p]) for p in r['raw_paths']]
-            raw=b''.join(chunks)
+            raw=b''.join(subprocess.check_output(['git','show','HEAD:'+p]) for p in r['raw_paths'])
             assert hashlib.sha256(raw).hexdigest()==r['raw_sha256'],rid
             doc=pymupdf.open(stream=raw,filetype='pdf')
             for num in numbers:
