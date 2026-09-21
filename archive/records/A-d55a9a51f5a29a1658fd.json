@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-122.htm",
+  "title": "党内通讯（一九五九年四月二十九日）",
+  "catalogue_entry_ids": [
+    "I-e58a040577dc9927"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d55a9a51f5a29a1658fd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:55.974669+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-122.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"110a-57a298c55df8a\"",
+  "last_modified": "Thu, 08 Nov 2018 16:15:50 GMT",
+  "raw_sha256": "68c5e0de01e5e8a04c7f872b0978e3b684c2dc344388e4d111f2b4cabab4bcde",
+  "raw_bytes": 4362,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/68c5e0de01e5e8a04c7f872b0978e3b684c2dc344388e4d111f2b4cabab4bcde.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "党内通讯（一九五九年四月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-121.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-123.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d55a9a51f5a29a1658fd.txt",
+  "text_sha256": "bba87df30df103a99a3707ecd5181470f2fcfd1cd71287511d2935f1bbb8a538",
+  "text_chars": 1605,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-d55a9a51f5a29a1658fd.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

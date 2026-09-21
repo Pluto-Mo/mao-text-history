@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-138.htm",
+  "title": "对辽宁省执行中央反右倾指示报告的批语（一九五九年八月十二日）",
+  "catalogue_entry_ids": [
+    "I-6b1a94ebc81f9dfb"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b28560a8574c64c19b9d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:00.786712+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-138.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"664-57a298d7e5355\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:09 GMT",
+  "raw_sha256": "d068457d1cff92d21f61d0981b040645551dd9eade539aeedf45d08bdbcc5e49",
+  "raw_bytes": 1636,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d068457d1cff92d21f61d0981b040645551dd9eade539aeedf45d08bdbcc5e49.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对辽宁省执行中央反右倾指示报告的批语（一九五九年八月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-138.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-139.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b28560a8574c64c19b9d.txt",
+  "text_sha256": "6c5b5fcb67754fb59f05aa7558ec919a882cd55bff7caeb1089dab5c0f17a82f",
+  "text_chars": 304,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-b28560a8574c64c19b9d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

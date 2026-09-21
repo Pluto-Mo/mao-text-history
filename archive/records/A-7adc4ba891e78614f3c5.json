@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-123.htm",
+  "title": "一九五九年四月二十七日在八届七中全会上的讲话（摘录）——工作方法九条（一九五九年四月）",
+  "catalogue_entry_ids": [
+    "I-54c2bc18e2113a35"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7adc4ba891e78614f3c5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:56.264290+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-123.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e89-57a298c6262b6\"",
+  "last_modified": "Thu, 08 Nov 2018 16:15:51 GMT",
+  "raw_sha256": "ca2643d6d1097ba05548464700edaa9b41b05eefedc7b07491fac7c42b49a06c",
+  "raw_bytes": 3721,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ca2643d6d1097ba05548464700edaa9b41b05eefedc7b07491fac7c42b49a06c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "一九五九年四月二十七日在八届七中全会上的讲话（摘录）——工作方法九条（一九五九年四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-122.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-124.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7adc4ba891e78614f3c5.txt",
+  "text_sha256": "0bbebe0fd9f099a8841ed05323f0801fe6a877b2b28b2c2c873fd5311b4eb0b9",
+  "text_chars": 1310,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-7adc4ba891e78614f3c5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

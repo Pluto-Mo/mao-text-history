@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-171.htm",
+  "title": "在上海会议上对四个文件的批语（一九六○年六月十五日）",
+  "catalogue_entry_ids": [
+    "I-1a268c5d607b77d0"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5b9814624d24f8786294",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:10.835206+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-171.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7ae-57a29905ab297\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:57 GMT",
+  "raw_sha256": "d8edf51eb59715e5742e53da72d5763ebed0d7659a3cdd8c12ba18901451676d",
+  "raw_bytes": 1966,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d8edf51eb59715e5742e53da72d5763ebed0d7659a3cdd8c12ba18901451676d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在上海会议上对四个文件的批语（一九六○年六月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-170.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-172.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5b9814624d24f8786294.txt",
+  "text_sha256": "4b232dd2a7ffd96f7831eaecb739e3231d0c9d04758cea5d14523f44357fe0e3",
+  "text_chars": 483,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-5b9814624d24f8786294.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-144.htm",
+  "title": "附：枚乘《七发》今译",
+  "catalogue_entry_ids": [
+    "I-dcd27d5454732dfa"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-58bdba887983ea5da362",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:02.558861+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-144.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"25d3-57a298dd973d0\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:15 GMT",
+  "raw_sha256": "fa34f0d75f7a19eacabacb6f111fb4b33a9b9b232e687a09a94d46b410472491",
+  "raw_bytes": 9683,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fa34f0d75f7a19eacabacb6f111fb4b33a9b9b232e687a09a94d46b410472491.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "附：枚乘《七发》今译",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-143.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-145.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-58bdba887983ea5da362.txt",
+  "text_sha256": "5a151bda32d9778436f8679ddf33d7781f1c4dd8ef693f3d2580a3c39399f425",
+  "text_chars": 4250,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-58bdba887983ea5da362.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

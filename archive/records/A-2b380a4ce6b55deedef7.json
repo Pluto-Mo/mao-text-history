@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-128.htm",
+  "title": "七月十日讲话纪录",
+  "catalogue_entry_ids": [
+    "I-a87ce13f3a774b5b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2b380a4ce6b55deedef7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:57.756849+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-128.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"815-57a298cd4c46a\"",
+  "last_modified": "Thu, 08 Nov 2018 16:15:58 GMT",
+  "raw_sha256": "f0facad576d079576ebef6621ca5da5281de36f4a636543a670aa96e95ceb711",
+  "raw_bytes": 2069,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f0facad576d079576ebef6621ca5da5281de36f4a636543a670aa96e95ceb711.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "七月十日讲话纪录",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-127.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-129.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2b380a4ce6b55deedef7.txt",
+  "text_sha256": "43d2a315e618db10d343de8e8aae1412e8dcb3abe200f28266261b0e53ac43d7",
+  "text_chars": 508,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-2b380a4ce6b55deedef7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-135.htm",
+  "title": "八月二日对《湖南省平江县谈岭公社稻竹大队几十个食堂散伙又恢复的情况》一文的批语（一九五九年八月五日）",
+  "catalogue_entry_ids": [
+    "I-19f820d65cc14e87"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cbd28fdff39841b199ad",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:59.860022+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-135.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"814-57a298d3f84f5\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:05 GMT",
+  "raw_sha256": "46233c484a3be6bd0c0beac6a34a73f40ca29a0c7f63fca4e8d51922893a898f",
+  "raw_bytes": 2068,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/46233c484a3be6bd0c0beac6a34a73f40ca29a0c7f63fca4e8d51922893a898f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "八月二日对《湖南省平江县谈岭公社稻竹大队几十个食堂散伙又恢复的情况》一文的批语（一九五九年八月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-134.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-136.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cbd28fdff39841b199ad.txt",
+  "text_sha256": "667e757d973f4d69333a014c0516f1e7cb6cbeb14189e361ba108b0be136df56",
+  "text_chars": 504,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-cbd28fdff39841b199ad.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

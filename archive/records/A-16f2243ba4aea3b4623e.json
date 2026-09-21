@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-160.htm",
+  "title": "关于卫生工作的指示（一九六○年三月十八日）",
+  "catalogue_entry_ids": [
+    "I-e326548bb17f34b2"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-16f2243ba4aea3b4623e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:07.362030+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-160.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d04-57a298eefa7a9\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:33 GMT",
+  "raw_sha256": "ed192f1824eb839be6c3c5a005e927c09215b4caa0a0f701245b340b409e503e",
+  "raw_bytes": 3332,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ed192f1824eb839be6c3c5a005e927c09215b4caa0a0f701245b340b409e503e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于卫生工作的指示（一九六○年三月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-159.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-161.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-16f2243ba4aea3b4623e.txt",
+  "text_sha256": "1cd0cf6f254289fe77b99cd991b829018dd177311a560a77463e983b3845f8b3",
+  "text_chars": 1138,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-16f2243ba4aea3b4623e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

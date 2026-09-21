@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-139.htm",
+  "title": "为《经验主义，还是马克思列宁主义》一书写的前言（一九五九年八月十五日）",
+  "catalogue_entry_ids": [
+    "I-b5587ddf1c3ced2f"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dd3049db08836ec186b5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:01.394909+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-139.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7d8-57a298d8b43e2\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:10 GMT",
+  "raw_sha256": "3799b16f9df7d3bf5722404b235dd5e6218fd0dcbd968e1fc5243f37a5df05ad",
+  "raw_bytes": 2008,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3799b16f9df7d3bf5722404b235dd5e6218fd0dcbd968e1fc5243f37a5df05ad.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为《经验主义，还是马克思列宁主义》一书写的前言（一九五九年八月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-139.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-140.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dd3049db08836ec186b5.txt",
+  "text_sha256": "ee67abbec9008565d2eb29bbaf676e25826787a62e98e59b428c10a11f1af0a1",
+  "text_chars": 478,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-dd3049db08836ec186b5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

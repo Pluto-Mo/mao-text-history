@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-154.htm",
+  "title": "对《我们一个社要养猪两万头》一文批语（一九五九年十一月十九日）",
+  "catalogue_entry_ids": [
+    "I-57778f17652810b4"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-916ccbfcfcf29625429c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:05.576873+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-154.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"616-57a298e79fa32\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:26 GMT",
+  "raw_sha256": "53265b73ee4d116af06ade49105ec89a1c058f919d9668b789fc1996c3165d14",
+  "raw_bytes": 1558,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/53265b73ee4d116af06ade49105ec89a1c058f919d9668b789fc1996c3165d14.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《我们一个社要养猪两万头》一文批语（一九五九年十一月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-153.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-155.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-916ccbfcfcf29625429c.txt",
+  "text_sha256": "e4262ba619fbeeeed39a6098169530b4272d6a8e8d234e5e0fecdee87d142b91",
+  "text_chars": 283,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-916ccbfcfcf29625429c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

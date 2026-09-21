@@ -1,0 +1,79 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-119b.htm",
+  "title": "对湖北省委报告麻城经验的批语（一九五九年四月三日）",
+  "catalogue_entry_ids": [
+    "I-10e8e475b9846eb8"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f240f9f7d75c682e8888",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:55.117505+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-119b.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"828-5f71a3ac8c5c0\"",
+  "last_modified": "Fri, 17 Mar 2023 15:28:31 GMT",
+  "raw_sha256": "98799493acb3fc7f8346a677ff7f4817a230245cc5b5f070a49da56bc64c9096",
+  "raw_bytes": 2088,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/98799493acb3fc7f8346a677ff7f4817a230245cc5b5f070a49da56bc64c9096.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对湖北省委报告麻城经验的批语（一九五九年四月三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "对〈陶××同志关于五级干部会议的报告〉的批示（节录）",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-119.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-119.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-120.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f240f9f7d75c682e8888.txt",
+  "text_sha256": "74c02f3397870a90567023d0a2c04f1277fa5c7ea11f0d8adca2945993f8d24b",
+  "text_chars": 519,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-f240f9f7d75c682e8888.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

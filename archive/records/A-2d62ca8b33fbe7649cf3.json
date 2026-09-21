@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-148.htm",
+  "title": "给诗刊的第二封信（一九五九年九月一日）",
+  "catalogue_entry_ids": [
+    "I-06f3c49263eefd4e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2d62ca8b33fbe7649cf3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:03.776409+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-148.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a26-57a298e187110\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:19 GMT",
+  "raw_sha256": "d3253bef623b215ddd5f51c83d5745ae66ffd1feb02d832bb947d85b0100c60f",
+  "raw_bytes": 2598,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d3253bef623b215ddd5f51c83d5745ae66ffd1feb02d832bb947d85b0100c60f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给诗刊的第二封信（一九五九年九月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-147.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-149.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2d62ca8b33fbe7649cf3.txt",
+  "text_sha256": "751618a77c2b718e7363b11d87673b0c5f24013421df4fe9212293e38cd9cba6",
+  "text_chars": 670,
+  "text_lines": 37,
+  "document_path": "archive/documents/A-2d62ca8b33fbe7649cf3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

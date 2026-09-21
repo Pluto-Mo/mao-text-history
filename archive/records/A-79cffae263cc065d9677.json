@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-159.htm",
+  "title": "对广东省委《关于当前人民公社工作中几个问题的指示》的批语（一九六○年三月五日）",
+  "catalogue_entry_ids": [
+    "I-5683f4411fda5d50"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-79cffae263cc065d9677",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:07.062261+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-159.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b30-57a298ede61b7\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:32 GMT",
+  "raw_sha256": "20c2596d248c8211d50d95a4aeb424952a270b825d1786efa81d58bef5c36ba5",
+  "raw_bytes": 2864,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/20c2596d248c8211d50d95a4aeb424952a270b825d1786efa81d58bef5c36ba5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对广东省委《关于当前人民公社工作中几个问题的指示》的批语（一九六○年三月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-158.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-160.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-79cffae263cc065d9677.txt",
+  "text_sha256": "76e21575e40fcd7b292addec743afa15bafa8904626f1c26b6e84c4afccfcb17",
+  "text_chars": 890,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-79cffae263cc065d9677.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

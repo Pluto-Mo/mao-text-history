@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-136.htm",
+  "title": "对《王国藩社的生产情况一直很好》和《目前农村中“闲话”较多的是那些人》二文的批语（一九五九年八月六日）",
+  "catalogue_entry_ids": [
+    "I-d344adfb6cf4fecf"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fed00804128a4ed4e041",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:00.164115+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-136.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"79a-57a298d6358f9\"",
+  "last_modified": "Thu, 08 Nov 2018 16:16:07 GMT",
+  "raw_sha256": "ed9dbb69c473b7971b3131a40075c2196ebfd8a63a85b8c239f07c1635517252",
+  "raw_bytes": 1946,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ed9dbb69c473b7971b3131a40075c2196ebfd8a63a85b8c239f07c1635517252.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《王国藩社的生产情况一直很好》和《目前农村中“闲话”较多的是那些人》二文的批语（一九五九年八月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-135.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-137.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fed00804128a4ed4e041.txt",
+  "text_sha256": "c48559e97625d0783ede89ca779fa3a9c27f8d5e390fe0cf2fe63efcfd053ef5",
+  "text_chars": 454,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-fed00804128a4ed4e041.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
