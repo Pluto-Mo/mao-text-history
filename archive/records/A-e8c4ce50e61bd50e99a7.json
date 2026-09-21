@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-024.htm",
+  "title": "共产章程与实非共产",
+  "catalogue_entry_ids": [
+    "I-d85c4f4b69b9a561"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e8c4ce50e61bd50e99a7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:39.825904+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-024.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"925-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "57e9e4d1d89bcf61441e76f53f7eb18f40ce918c2e5101fbac7009954437032b",
+  "raw_bytes": 2341,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/57e9e4d1d89bcf61441e76f53f7eb18f40ce918c2e5101fbac7009954437032b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "共产章程与实非共产",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-024.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-024.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e8c4ce50e61bd50e99a7.txt",
+  "text_sha256": "eda454884fa13323eebab2e79a07c51d93b1e6900eb985d8a6a66e9cc169d6c8",
+  "text_chars": 677,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-e8c4ce50e61bd50e99a7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

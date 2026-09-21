@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-037.htm",
+  "title": "*湖南省第一次农民代表大会宣言",
+  "catalogue_entry_ids": [
+    "I-a7a18244db9301eb"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7ad7eb0a35b11861c7d1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:45.060975+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-037.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1c7e-529fc1f77de00\"",
+  "last_modified": "Sat, 23 Jan 2016 08:28:40 GMT",
+  "raw_sha256": "bed25fef9ab45347006fde30596ecdc8dddc716f47e3176567546e43a21c5b1a",
+  "raw_bytes": 7294,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bed25fef9ab45347006fde30596ecdc8dddc716f47e3176567546e43a21c5b1a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "*湖南省第一次农民代表大会宣言",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-037.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-037.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7ad7eb0a35b11861c7d1.txt",
+  "text_sha256": "aaddcae1d1f022f989235c57fc9b67cc596aaecc2be1a6652fc9ebd2a96e0af2",
+  "text_chars": 3046,
+  "text_lines": 43,
+  "document_path": "archive/documents/A-7ad7eb0a35b11861c7d1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

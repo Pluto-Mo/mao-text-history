@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-027-1.htm",
+  "title": "赤化原来如此",
+  "catalogue_entry_ids": [
+    "I-9c4013ab4ded295d"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-20a7169d62d87948a106",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:40.977521+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-027-1.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"593-529fc46a0e440\"",
+  "last_modified": "Sat, 23 Jan 2016 08:39:37 GMT",
+  "raw_sha256": "d98fdc6324e67bac80cb2111825f48b35ea501edf4a158921ed3760c72560ea3",
+  "raw_bytes": 1427,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d98fdc6324e67bac80cb2111825f48b35ea501edf4a158921ed3760c72560ea3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "赤化原来如此",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-027-1.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-027-1.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-20a7169d62d87948a106.txt",
+  "text_sha256": "c9744ae93c83f4113e8ee69f52e34d1301c1c26a94b215c588b06ba6b07125bf",
+  "text_chars": 218,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-20a7169d62d87948a106.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

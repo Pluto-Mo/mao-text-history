@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-029.htm",
+  "title": "帝国主义最后的工具",
+  "catalogue_entry_ids": [
+    "I-67af810d5ce4df7e"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b2e84cf705b99c0784a0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:41.882306+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-029.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7f5-529fc23d1c240\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:53 GMT",
+  "raw_sha256": "3fdada21e3f607c39821f7c8972b225fda8c6b43d4c5a7011b8c677f90cf1bc2",
+  "raw_bytes": 2037,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3fdada21e3f607c39821f7c8972b225fda8c6b43d4c5a7011b8c677f90cf1bc2.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "帝国主义最后的工具",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b2e84cf705b99c0784a0.txt",
+  "text_sha256": "e5cafc80e0550fa6f3a3c3356dca4cd2ea8df482339e7f9ae54b3b63b7c13f9b",
+  "text_chars": 629,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-b2e84cf705b99c0784a0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

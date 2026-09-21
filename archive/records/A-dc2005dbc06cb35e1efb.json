@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-028.htm",
+  "title": "北京右派会议与帝国主义",
+  "catalogue_entry_ids": [
+    "I-c8e9f57cf45bca78"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dc2005dbc06cb35e1efb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:41.570206+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-028.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"689-529fc23d1c240\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:53 GMT",
+  "raw_sha256": "a79814db3f7ebdf9bf28bd46ca0cec63bf86120874c2b82c1102a70896cb4e07",
+  "raw_bytes": 1673,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a79814db3f7ebdf9bf28bd46ca0cec63bf86120874c2b82c1102a70896cb4e07.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "北京右派会议与帝国主义",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dc2005dbc06cb35e1efb.txt",
+  "text_sha256": "3ebd3293982359564d8df9d921f97c74ea775462ac9b4ac933dadfdff7b38907",
+  "text_chars": 448,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-dc2005dbc06cb35e1efb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

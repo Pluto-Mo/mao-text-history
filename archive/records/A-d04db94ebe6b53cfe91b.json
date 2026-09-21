@@ -1,0 +1,99 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm",
+  "title": "纪念巴黎公社的重要意义",
+  "catalogue_entry_ids": [
+    "I-d1fdbd7c1d2e74b8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d04db94ebe6b53cfe91b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:46.391588+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"17e6-5a0e78b0501c9\"",
+  "last_modified": "Sun, 15 Mar 2020 16:53:33 GMT",
+  "raw_sha256": "0f978505f4dc1c2c33d40ccd874dffc8952a5b8e2fb8c8d169e42ac46b6cad14",
+  "raw_bytes": 6118,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0f978505f4dc1c2c33d40ccd874dffc8952a5b8e2fb8c8d169e42ac46b6cad14.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "纪念巴黎公社的重要意义（一九二六年三月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-1926-3-18.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d04db94ebe6b53cfe91b.txt",
+  "text_sha256": "3e0d841324271dc5db33f2bcf78090473acb81fa58df83ff08a3851b0939e0b4",
+  "text_chars": 2391,
+  "text_lines": 33,
+  "document_path": "archive/documents/A-d04db94ebe6b53cfe91b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

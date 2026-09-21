@@ -1,0 +1,107 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm",
+  "title": "反对日本进攻的方针、办法和前途",
+  "catalogue_entry_ids": [
+    "I-77279f1a32d14d03"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0bbbbac56c6597556ef3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:52.058183+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2feb-5a0e788c34ee2\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:55 GMT",
+  "raw_sha256": "5d4c983376d64960ad763c12dd52f6b5a439312eb2c5a3563ca32c3a61162203",
+  "raw_bytes": 12267,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5d4c983376d64960ad763c12dd52f6b5a439312eb2c5a3563ca32c3a61162203.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "反对日本进攻的方针、办法和前途（一九三七年七月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftn6"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370723.htm#_ftnref6"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0bbbbac56c6597556ef3.txt",
+  "text_sha256": "41f4d57df7d58937fa584fd80e0901b1a13489966da4b8344c7773efa89f58dd",
+  "text_chars": 5012,
+  "text_lines": 86,
+  "document_path": "archive/documents/A-0bbbbac56c6597556ef3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

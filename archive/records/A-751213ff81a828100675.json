@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm",
+  "title": "陕甘宁边区政府第八路军后方留守处布告",
+  "catalogue_entry_ids": [
+    "I-901c37342ab8ef95"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-751213ff81a828100675",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:54.184009+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"12ad-5a0e7882edecf\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:46 GMT",
+  "raw_sha256": "798c12a00c182eb3cd35dc378533292120d252237d32f533ced8603bf9ee5c72",
+  "raw_bytes": 4781,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/798c12a00c182eb3cd35dc378533292120d252237d32f533ced8603bf9ee5c72.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "陕甘宁边区政府、第八路军后方留守处布告（一九三八年五月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19380515.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-751213ff81a828100675.txt",
+  "text_sha256": "661671c894d54508d5bc329d86c350d589d034941fe36f08d3b5c56aa2232795",
+  "text_chars": 1776,
+  "text_lines": 26,
+  "document_path": "archive/documents/A-751213ff81a828100675.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

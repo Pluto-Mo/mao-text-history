@@ -1,0 +1,107 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm",
+  "title": "统一战线中的独立自主问题",
+  "catalogue_entry_ids": [
+    "I-54e20dc977d54f23"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d04cbcd8fcd2bbe8a5be",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:55.698687+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"19c2-5a0e787f72528\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:42 GMT",
+  "raw_sha256": "19fd8b4fe1d9e26b51bf616ae2a80bcd13417ffd359ae1705e1db946ef9a2c48",
+  "raw_bytes": 6594,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/19fd8b4fe1d9e26b51bf616ae2a80bcd13417ffd359ae1705e1db946ef9a2c48.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "统一战线中的独立自主问题（一九三八年十一月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftn6"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381105.htm#_ftnref6"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d04cbcd8fcd2bbe8a5be.txt",
+  "text_sha256": "3c5930fc2b28daa7632c37d652af4abeb7759691c137bca01423c3e008be801a",
+  "text_chars": 2481,
+  "text_lines": 38,
+  "document_path": "archive/documents/A-d04cbcd8fcd2bbe8a5be.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

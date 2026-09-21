@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503aa.htm",
+  "title": "〔未删节本〕为争取千百万群众进入抗日民族统一战线而斗争",
+  "catalogue_entry_ids": [
+    "I-ca7fe9841dac1846"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2879fb351d69959950a7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:50.878830+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19370503aa.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2b68-5a0e788dd2fe5\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:57 GMT",
+  "raw_sha256": "fe91a890e814b83f17a7c65a1baabac2814c62ec000a2e7cd24d13e0e050d822",
+  "raw_bytes": 11112,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fe91a890e814b83f17a7c65a1baabac2814c62ec000a2e7cd24d13e0e050d822.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为争取千百万群众进入抗日民族统一战线而斗争（一九三七年五月七日在苏区党代表大会上的结论）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2879fb351d69959950a7.txt",
+  "text_sha256": "05ea9a93815d47657ccc85e955c7bb86d01b0891779bdec9d30f5fe1aae4640d",
+  "text_chars": 4845,
+  "text_lines": 43,
+  "document_path": "archive/documents/A-2879fb351d69959950a7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

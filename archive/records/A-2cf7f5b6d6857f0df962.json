@@ -1,0 +1,341 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm",
+  "title": "《毛泽东集》十卷、补卷九卷及著作年表目录",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [],
+  "kind": "source_catalogue",
+  "id": "A-2cf7f5b6d6857f0df962",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:45.498160+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/index.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"ec88-5674df82d13fd\"",
+  "last_modified": "Tue, 13 Mar 2018 16:44:17 GMT",
+  "raw_sha256": "0e043d80c37725789fa48def6982754a66f6b1ba0054b4da4826a94d850f6eb9",
+  "raw_bytes": 60552,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0e043d80c37725789fa48def6982754a66f6b1ba0054b4da4826a94d850f6eb9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《毛泽东集》（共十卷）及《补卷》（共九卷＋著作提表）PDF电子书及目录",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "Ø 第1卷　第2卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#1"
+    },
+    {
+      "title": "Ø 第3卷　第4卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#3"
+    },
+    {
+      "title": "Ø 第5卷　第6卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#5"
+    },
+    {
+      "title": "Ø 第7卷　第8卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#7"
+    },
+    {
+      "title": "Ø 第9卷　第10卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#9"
+    },
+    {
+      "title": "第一卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01.pdf"
+    },
+    {
+      "title": "第二卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/02.pdf"
+    },
+    {
+      "title": "第三卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/03.pdf"
+    },
+    {
+      "title": "第四卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/04.pdf"
+    },
+    {
+      "title": "第五卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/05.pdf"
+    },
+    {
+      "title": "第六卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/06.pdf"
+    },
+    {
+      "title": "第七卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/07.pdf"
+    },
+    {
+      "title": "第八卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/08.pdf"
+    },
+    {
+      "title": "第九卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/09.pdf"
+    },
+    {
+      "title": "第十卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/10.pdf"
+    },
+    {
+      "title": "Ø 第1卷　第2卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#1-1"
+    },
+    {
+      "title": "Ø 第3卷　第4卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#1-3"
+    },
+    {
+      "title": "Ø 第5卷　第6卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#1-5"
+    },
+    {
+      "title": "Ø 第7卷　第8卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#1-7"
+    },
+    {
+      "title": "Ø 第9卷",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm#1-9"
+    },
+    {
+      "title": "第一卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-01.pdf"
+    },
+    {
+      "title": "第二卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-02.pdf"
+    },
+    {
+      "title": "第三卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-03.pdf"
+    },
+    {
+      "title": "第四卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-04.pdf"
+    },
+    {
+      "title": "第五卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-05.pdf"
+    },
+    {
+      "title": "第六卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-06.pdf"
+    },
+    {
+      "title": "第七卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-07.pdf"
+    },
+    {
+      "title": "第八卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-08.pdf"
+    },
+    {
+      "title": "第九卷",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-09.pdf"
+    },
+    {
+      "title": "著作年表",
+      "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-10.pdf"
+    },
+    {
+      "title": "例　言",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-000.htm"
+    },
+    {
+      "title": "给宫崎滔天的信",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-001.htm"
+    },
+    {
+      "title": "体育之研究",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm"
+    },
+    {
+      "title": "工人夜学招学广告",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-003.htm"
+    },
+    {
+      "title": "工人夜学招生广告",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-004.htm"
+    },
+    {
+      "title": "湘江评论创刊宣言",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-005.htm"
+    },
+    {
+      "title": "民众的大联合",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-006.htm"
+    },
+    {
+      "title": "*文化书社组织大纲",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-007.htm"
+    },
+    {
+      "title": "*文化书社启事",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-008.htm"
+    },
+    {
+      "title": "文化书社社务报告（第二期）",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-009.htm"
+    },
+    {
+      "title": "湖南自修大学创立宣言",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-010.htm"
+    },
+    {
+      "title": "新时代发刊词",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-011.htm"
+    },
+    {
+      "title": "北京政变与商人",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-012.htm"
+    },
+    {
+      "title": "「省宪经」与赵恒惕",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-013.htm"
+    },
+    {
+      "title": "英国人与梁如浩",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-014.htm"
+    },
+    {
+      "title": "纸烟税",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-015.htm"
+    },
+    {
+      "title": "中国国民党中央执行委员会严驳北京党员之违法会议",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-016.htm"
+    },
+    {
+      "title": "中国国民党之反奉战争宣传大纲",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-017.htm"
+    },
+    {
+      "title": "政治周报发刊理由",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-018.htm"
+    },
+    {
+      "title": "三三三一制",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-019.htm"
+    },
+    {
+      "title": "杨坤如的布告与刘志陆的电报",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-020.htm"
+    },
+    {
+      "title": "如果讨赤志同仇仇亦吾良友",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-021.htm"
+    },
+    {
+      "title": "颂声来于万国",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-022.htm"
+    },
+    {
+      "title": "「反共产中国国民军大同盟万岁」",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-023.htm"
+    },
+    {
+      "title": "共产章程与实非共产",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-024.htm"
+    },
+    {
+      "title": "邹鲁与革命",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-025.htm"
+    },
+    {
+      "title": "向左还是向右？",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-026.htm"
+    },
+    {
+      "title": "赤化原来如此",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-027-1.htm"
+    },
+    {
+      "title": "杀尽知识阶级的是谁（李春涛）",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-027-2.htm"
+    },
+    {
+      "title": "北京右派会议与帝国主义",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-028.htm"
+    },
+    {
+      "title": "帝国主义最后的工具",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-029.htm"
+    },
+    {
+      "title": "右派的最大本领",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-030.htm"
+    },
+    {
+      "title": "宣传报告",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm"
+    },
+    {
+      "title": "中国农民中各阶级的分析及其对于革命的态度",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-032.htm"
+    },
+    {
+      "title": "中国社会各阶级的分析",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-033.htm"
+    },
+    {
+      "title": "中国社会各阶级的分析（初版）",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-033a.htm"
+    },
+    {
+      "title": "关于《中国社会各阶级的分析》的最初版本（沙鹤闻）",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-033b.htm"
+    },
+    {
+      "title": "国民革命与农民运动",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-034.htm"
+    },
+    {
+      "title": "江浙农民的痛苦及其反抗运动",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-035.htm"
+    },
+    {
+      "title": "*湖南的农民",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-036.htm"
+    },
+    {
+      "title": "*湖南省第一次农民代表大会宣言",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-037.htm"
+    },
+    {
+      "title": "湖南农民运动考察报告",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm"
+    }
+  ],
+  "image_links": [
+    "https://www.marxists.org/chinese/maozedong/collect/book1.jpg"
+  ],
+  "text_path": "archive/text/A-2cf7f5b6d6857f0df962.txt",
+  "text_sha256": "008e5782067715cfb99c3a6d81f0534d4115e893178e634fb43bed60c7f69101",
+  "text_chars": 22063,
+  "text_lines": 2407,
+  "document_path": "archive/documents/A-2cf7f5b6d6857f0df962.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

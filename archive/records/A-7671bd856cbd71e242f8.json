@@ -1,0 +1,4455 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm",
+  "title": "湖南农民运动考察报告",
+  "catalogue_entry_ids": [
+    "I-11d217cbe3fada72"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7671bd856cbd71e242f8",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:45.177785+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"20f28-65ae3db34a380\"",
+  "last_modified": "Mon, 07 Sep 2026 12:35:42 GMT",
+  "raw_sha256": "ebc697281ddf12e528e7f7827f976d5357b1368aa97aa3ee4224e1ed256e459a",
+  "raw_bytes": 134952,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ebc697281ddf12e528e7f7827f976d5357b1368aa97aa3ee4224e1ed256e459a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "湖南农民运动考察报告（一九二七年三月，二十八日发表于《中央副刊》第七号）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn10"
+    },
+    {
+      "title": "[11]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn11"
+    },
+    {
+      "title": "[12]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn12"
+    },
+    {
+      "title": "[13]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn13"
+    },
+    {
+      "title": "[14]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn14"
+    },
+    {
+      "title": "[15]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn15"
+    },
+    {
+      "title": "[16]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn16"
+    },
+    {
+      "title": "[17]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn17"
+    },
+    {
+      "title": "[18]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn18"
+    },
+    {
+      "title": "[19]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn19"
+    },
+    {
+      "title": "[20]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn20"
+    },
+    {
+      "title": "[21]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn21"
+    },
+    {
+      "title": "[22]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn22"
+    },
+    {
+      "title": "[23]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn23"
+    },
+    {
+      "title": "[24]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn24"
+    },
+    {
+      "title": "[25]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn25"
+    },
+    {
+      "title": "[26]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn26"
+    },
+    {
+      "title": "[27]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn27"
+    },
+    {
+      "title": "[28]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn28"
+    },
+    {
+      "title": "[29]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn29"
+    },
+    {
+      "title": "[30]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn30"
+    },
+    {
+      "title": "[31]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn31"
+    },
+    {
+      "title": "[32]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn32"
+    },
+    {
+      "title": "[33]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn33"
+    },
+    {
+      "title": "[34]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn34"
+    },
+    {
+      "title": "[I]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn1"
+    },
+    {
+      "title": "[35]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn35"
+    },
+    {
+      "title": "[36]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn36"
+    },
+    {
+      "title": "[37]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn37"
+    },
+    {
+      "title": "[38]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn38"
+    },
+    {
+      "title": "[39]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn39"
+    },
+    {
+      "title": "[40]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn40"
+    },
+    {
+      "title": "[41]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn41"
+    },
+    {
+      "title": "[42]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn42"
+    },
+    {
+      "title": "[43]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn43"
+    },
+    {
+      "title": "[44]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn44"
+    },
+    {
+      "title": "[45]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn45"
+    },
+    {
+      "title": "[46]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn46"
+    },
+    {
+      "title": "[47]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn47"
+    },
+    {
+      "title": "[48]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn48"
+    },
+    {
+      "title": "[49]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn49"
+    },
+    {
+      "title": "[50]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn50"
+    },
+    {
+      "title": "[51]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn51"
+    },
+    {
+      "title": "[52]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn52"
+    },
+    {
+      "title": "[53]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn53"
+    },
+    {
+      "title": "[54]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn54"
+    },
+    {
+      "title": "[55]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn55"
+    },
+    {
+      "title": "[56]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn56"
+    },
+    {
+      "title": "[57]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn57"
+    },
+    {
+      "title": "[II]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn2"
+    },
+    {
+      "title": "[58]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn58"
+    },
+    {
+      "title": "[59]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn59"
+    },
+    {
+      "title": "[60]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn60"
+    },
+    {
+      "title": "[61]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn61"
+    },
+    {
+      "title": "[62]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn62"
+    },
+    {
+      "title": "[63]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn63"
+    },
+    {
+      "title": "[64]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn64"
+    },
+    {
+      "title": "[65]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn65"
+    },
+    {
+      "title": "[66]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn66"
+    },
+    {
+      "title": "[67]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn67"
+    },
+    {
+      "title": "[III]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn3"
+    },
+    {
+      "title": "[68]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn68"
+    },
+    {
+      "title": "[69]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn69"
+    },
+    {
+      "title": "[70]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn70"
+    },
+    {
+      "title": "[71]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn71"
+    },
+    {
+      "title": "[72]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn72"
+    },
+    {
+      "title": "[73]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn73"
+    },
+    {
+      "title": "[74]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn74"
+    },
+    {
+      "title": "[75]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn75"
+    },
+    {
+      "title": "[76]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn76"
+    },
+    {
+      "title": "[77]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn77"
+    },
+    {
+      "title": "[78]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn78"
+    },
+    {
+      "title": "[79]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn79"
+    },
+    {
+      "title": "[80]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn80"
+    },
+    {
+      "title": "[81]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn81"
+    },
+    {
+      "title": "[82]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn82"
+    },
+    {
+      "title": "[83]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn83"
+    },
+    {
+      "title": "[84]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn84"
+    },
+    {
+      "title": "[85]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn85"
+    },
+    {
+      "title": "[86]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn86"
+    },
+    {
+      "title": "[87]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn87"
+    },
+    {
+      "title": "[88]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn88"
+    },
+    {
+      "title": "[89]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn89"
+    },
+    {
+      "title": "[90]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn90"
+    },
+    {
+      "title": "[91]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn91"
+    },
+    {
+      "title": "[92]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn92"
+    },
+    {
+      "title": "[93]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn93"
+    },
+    {
+      "title": "[94]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn94"
+    },
+    {
+      "title": "[95]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn95"
+    },
+    {
+      "title": "[96]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn96"
+    },
+    {
+      "title": "[97]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn97"
+    },
+    {
+      "title": "[98]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn98"
+    },
+    {
+      "title": "[99]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn99"
+    },
+    {
+      "title": "[100]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn100"
+    },
+    {
+      "title": "[IV]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn4"
+    },
+    {
+      "title": "[101]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn101"
+    },
+    {
+      "title": "[102]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn102"
+    },
+    {
+      "title": "[103]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn103"
+    },
+    {
+      "title": "[104]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn104"
+    },
+    {
+      "title": "[105]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn105"
+    },
+    {
+      "title": "[106]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn106"
+    },
+    {
+      "title": "[107]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn107"
+    },
+    {
+      "title": "[108]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn108"
+    },
+    {
+      "title": "[109]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn109"
+    },
+    {
+      "title": "[110]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn110"
+    },
+    {
+      "title": "[111]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn111"
+    },
+    {
+      "title": "[112]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn112"
+    },
+    {
+      "title": "[113]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn113"
+    },
+    {
+      "title": "[114]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn114"
+    },
+    {
+      "title": "[115]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn115"
+    },
+    {
+      "title": "[116]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn116"
+    },
+    {
+      "title": "[117]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn117"
+    },
+    {
+      "title": "[118]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn118"
+    },
+    {
+      "title": "[119]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn119"
+    },
+    {
+      "title": "[120]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn120"
+    },
+    {
+      "title": "[121]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn121"
+    },
+    {
+      "title": "[122]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn122"
+    },
+    {
+      "title": "[123]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn123"
+    },
+    {
+      "title": "[124]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn124"
+    },
+    {
+      "title": "[125]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn125"
+    },
+    {
+      "title": "[126]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn126"
+    },
+    {
+      "title": "[127]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn127"
+    },
+    {
+      "title": "[128]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn128"
+    },
+    {
+      "title": "[129]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn129"
+    },
+    {
+      "title": "[130]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn130"
+    },
+    {
+      "title": "[131]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn131"
+    },
+    {
+      "title": "[132]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn132"
+    },
+    {
+      "title": "[133]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn133"
+    },
+    {
+      "title": "[134]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn134"
+    },
+    {
+      "title": "[135]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn135"
+    },
+    {
+      "title": "[136]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn136"
+    },
+    {
+      "title": "[137]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn137"
+    },
+    {
+      "title": "[138]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn138"
+    },
+    {
+      "title": "[139]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn139"
+    },
+    {
+      "title": "[140]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn140"
+    },
+    {
+      "title": "[141]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn141"
+    },
+    {
+      "title": "[142]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn142"
+    },
+    {
+      "title": "[143]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn143"
+    },
+    {
+      "title": "[144]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn144"
+    },
+    {
+      "title": "[145]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn145"
+    },
+    {
+      "title": "[146]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn146"
+    },
+    {
+      "title": "[147]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn147"
+    },
+    {
+      "title": "[148]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn148"
+    },
+    {
+      "title": "[149]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn149"
+    },
+    {
+      "title": "[150]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn150"
+    },
+    {
+      "title": "[151]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn151"
+    },
+    {
+      "title": "[152]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn152"
+    },
+    {
+      "title": "[153]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn153"
+    },
+    {
+      "title": "[154]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn154"
+    },
+    {
+      "title": "[155]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn155"
+    },
+    {
+      "title": "[156]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn156"
+    },
+    {
+      "title": "[157]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn157"
+    },
+    {
+      "title": "[158]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn158"
+    },
+    {
+      "title": "[159]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn159"
+    },
+    {
+      "title": "[160]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn160"
+    },
+    {
+      "title": "[161]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn161"
+    },
+    {
+      "title": "[162]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn162"
+    },
+    {
+      "title": "[163]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn163"
+    },
+    {
+      "title": "[164]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn164"
+    },
+    {
+      "title": "[165]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn165"
+    },
+    {
+      "title": "[166]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn166"
+    },
+    {
+      "title": "[167]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn167"
+    },
+    {
+      "title": "[168]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn168"
+    },
+    {
+      "title": "[169]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn169"
+    },
+    {
+      "title": "[V]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn5"
+    },
+    {
+      "title": "[170]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn170"
+    },
+    {
+      "title": "[171]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn171"
+    },
+    {
+      "title": "[172]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn172"
+    },
+    {
+      "title": "[173]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn173"
+    },
+    {
+      "title": "[174]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn174"
+    },
+    {
+      "title": "[175]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn175"
+    },
+    {
+      "title": "[176]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn176"
+    },
+    {
+      "title": "[177]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn177"
+    },
+    {
+      "title": "[178]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn178"
+    },
+    {
+      "title": "[179]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn179"
+    },
+    {
+      "title": "[180]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn180"
+    },
+    {
+      "title": "[181]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn181"
+    },
+    {
+      "title": "[182]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn182"
+    },
+    {
+      "title": "[183]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn183"
+    },
+    {
+      "title": "[184]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn184"
+    },
+    {
+      "title": "[185]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn185"
+    },
+    {
+      "title": "[186]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn186"
+    },
+    {
+      "title": "[187]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn187"
+    },
+    {
+      "title": "[188]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn188"
+    },
+    {
+      "title": "[189]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn189"
+    },
+    {
+      "title": "[190]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn190"
+    },
+    {
+      "title": "[191]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn191"
+    },
+    {
+      "title": "[192]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn192"
+    },
+    {
+      "title": "[193]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn193"
+    },
+    {
+      "title": "[194]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn194"
+    },
+    {
+      "title": "[195]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn195"
+    },
+    {
+      "title": "[196]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn196"
+    },
+    {
+      "title": "[197]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn197"
+    },
+    {
+      "title": "[198]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn198"
+    },
+    {
+      "title": "[199]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn199"
+    },
+    {
+      "title": "[200]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn200"
+    },
+    {
+      "title": "[201]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn201"
+    },
+    {
+      "title": "[202]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn202"
+    },
+    {
+      "title": "[203]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn203"
+    },
+    {
+      "title": "[204]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn204"
+    },
+    {
+      "title": "[205]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn205"
+    },
+    {
+      "title": "[206]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn206"
+    },
+    {
+      "title": "[207]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn207"
+    },
+    {
+      "title": "[208]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn208"
+    },
+    {
+      "title": "[209]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn209"
+    },
+    {
+      "title": "[210]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn210"
+    },
+    {
+      "title": "[211]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn211"
+    },
+    {
+      "title": "[212]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn212"
+    },
+    {
+      "title": "[213]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn213"
+    },
+    {
+      "title": "[214]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn214"
+    },
+    {
+      "title": "[215]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn215"
+    },
+    {
+      "title": "[216]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn216"
+    },
+    {
+      "title": "[217]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn217"
+    },
+    {
+      "title": "[218]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn218"
+    },
+    {
+      "title": "[219]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn219"
+    },
+    {
+      "title": "[220]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn220"
+    },
+    {
+      "title": "[221]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn221"
+    },
+    {
+      "title": "[222]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn222"
+    },
+    {
+      "title": "[223]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn223"
+    },
+    {
+      "title": "[224]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn224"
+    },
+    {
+      "title": "[225]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn225"
+    },
+    {
+      "title": "[226]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn226"
+    },
+    {
+      "title": "[227]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn227"
+    },
+    {
+      "title": "[228]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn228"
+    },
+    {
+      "title": "[229]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn229"
+    },
+    {
+      "title": "[VI]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn6"
+    },
+    {
+      "title": "[230]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn230"
+    },
+    {
+      "title": "[231]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn231"
+    },
+    {
+      "title": "[232]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn232"
+    },
+    {
+      "title": "[233]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn233"
+    },
+    {
+      "title": "[234]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn234"
+    },
+    {
+      "title": "[235]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn235"
+    },
+    {
+      "title": "[236]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn236"
+    },
+    {
+      "title": "[237]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn237"
+    },
+    {
+      "title": "[238]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn238"
+    },
+    {
+      "title": "[239]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn239"
+    },
+    {
+      "title": "[240]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn240"
+    },
+    {
+      "title": "[241]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn241"
+    },
+    {
+      "title": "[242]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn242"
+    },
+    {
+      "title": "[243]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn243"
+    },
+    {
+      "title": "[244]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn244"
+    },
+    {
+      "title": "[245]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn245"
+    },
+    {
+      "title": "[246]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn246"
+    },
+    {
+      "title": "[247]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn247"
+    },
+    {
+      "title": "[248]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn248"
+    },
+    {
+      "title": "[249]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn249"
+    },
+    {
+      "title": "[250]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn250"
+    },
+    {
+      "title": "[251]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn251"
+    },
+    {
+      "title": "[252]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn252"
+    },
+    {
+      "title": "[253]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn253"
+    },
+    {
+      "title": "[254]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn254"
+    },
+    {
+      "title": "[255]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn255"
+    },
+    {
+      "title": "[256]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn256"
+    },
+    {
+      "title": "[257]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn257"
+    },
+    {
+      "title": "[258]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn258"
+    },
+    {
+      "title": "[259]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn259"
+    },
+    {
+      "title": "[260]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn260"
+    },
+    {
+      "title": "[261]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn261"
+    },
+    {
+      "title": "[262]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn262"
+    },
+    {
+      "title": "[263]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn263"
+    },
+    {
+      "title": "[264]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn264"
+    },
+    {
+      "title": "[265]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn265"
+    },
+    {
+      "title": "[266]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn266"
+    },
+    {
+      "title": "[267]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn267"
+    },
+    {
+      "title": "[268]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn268"
+    },
+    {
+      "title": "[VII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn7"
+    },
+    {
+      "title": "[269]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn269"
+    },
+    {
+      "title": "[270]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn270"
+    },
+    {
+      "title": "[271]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn271"
+    },
+    {
+      "title": "[272]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn272"
+    },
+    {
+      "title": "[VIII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn8"
+    },
+    {
+      "title": "[273]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn273"
+    },
+    {
+      "title": "[274]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn274"
+    },
+    {
+      "title": "[275]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn275"
+    },
+    {
+      "title": "[276]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn276"
+    },
+    {
+      "title": "[277]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn277"
+    },
+    {
+      "title": "[278]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn278"
+    },
+    {
+      "title": "[279]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn279"
+    },
+    {
+      "title": "[280]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn280"
+    },
+    {
+      "title": "[281]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn281"
+    },
+    {
+      "title": "[282]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn282"
+    },
+    {
+      "title": "[283]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn283"
+    },
+    {
+      "title": "[284]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn284"
+    },
+    {
+      "title": "[285]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn285"
+    },
+    {
+      "title": "[286]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn286"
+    },
+    {
+      "title": "[287]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn287"
+    },
+    {
+      "title": "[288]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn288"
+    },
+    {
+      "title": "[289]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn289"
+    },
+    {
+      "title": "[290]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn290"
+    },
+    {
+      "title": "[291]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn291"
+    },
+    {
+      "title": "[292]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn292"
+    },
+    {
+      "title": "[293]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn293"
+    },
+    {
+      "title": "[294]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn294"
+    },
+    {
+      "title": "[295]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn295"
+    },
+    {
+      "title": "[296]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn296"
+    },
+    {
+      "title": "[297]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn297"
+    },
+    {
+      "title": "[298]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn298"
+    },
+    {
+      "title": "[299]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn299"
+    },
+    {
+      "title": "[300]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn300"
+    },
+    {
+      "title": "[301]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn301"
+    },
+    {
+      "title": "[302]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn302"
+    },
+    {
+      "title": "[303]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn303"
+    },
+    {
+      "title": "[304]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn304"
+    },
+    {
+      "title": "[305]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn305"
+    },
+    {
+      "title": "[306]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn306"
+    },
+    {
+      "title": "[307]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn307"
+    },
+    {
+      "title": "[308]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn308"
+    },
+    {
+      "title": "[309]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn309"
+    },
+    {
+      "title": "[IX]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn9"
+    },
+    {
+      "title": "[310]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn310"
+    },
+    {
+      "title": "[311]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn311"
+    },
+    {
+      "title": "[312]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn312"
+    },
+    {
+      "title": "[313]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn313"
+    },
+    {
+      "title": "[314]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn314"
+    },
+    {
+      "title": "[315]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn315"
+    },
+    {
+      "title": "[316]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn316"
+    },
+    {
+      "title": "[317]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn317"
+    },
+    {
+      "title": "[318]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn318"
+    },
+    {
+      "title": "[319]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn319"
+    },
+    {
+      "title": "[320]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn320"
+    },
+    {
+      "title": "[321]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn321"
+    },
+    {
+      "title": "[322]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn322"
+    },
+    {
+      "title": "[323]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn323"
+    },
+    {
+      "title": "[324]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn324"
+    },
+    {
+      "title": "[325]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn325"
+    },
+    {
+      "title": "[326]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn326"
+    },
+    {
+      "title": "[327]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn327"
+    },
+    {
+      "title": "[328]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn328"
+    },
+    {
+      "title": "[329]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn329"
+    },
+    {
+      "title": "[330]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn330"
+    },
+    {
+      "title": "[331]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn331"
+    },
+    {
+      "title": "[332]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn332"
+    },
+    {
+      "title": "[333]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn333"
+    },
+    {
+      "title": "[334]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn334"
+    },
+    {
+      "title": "[X]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn10"
+    },
+    {
+      "title": "[335]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn335"
+    },
+    {
+      "title": "[336]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn336"
+    },
+    {
+      "title": "[337]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn337"
+    },
+    {
+      "title": "[338]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn338"
+    },
+    {
+      "title": "[339]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn339"
+    },
+    {
+      "title": "[340]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn340"
+    },
+    {
+      "title": "[341]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn341"
+    },
+    {
+      "title": "[342]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn342"
+    },
+    {
+      "title": "[343]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn343"
+    },
+    {
+      "title": "[344]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn344"
+    },
+    {
+      "title": "[345]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn345"
+    },
+    {
+      "title": "[346]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn346"
+    },
+    {
+      "title": "[347]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn347"
+    },
+    {
+      "title": "[348]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn348"
+    },
+    {
+      "title": "[349]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn349"
+    },
+    {
+      "title": "[350]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn350"
+    },
+    {
+      "title": "[351]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn351"
+    },
+    {
+      "title": "[352]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn352"
+    },
+    {
+      "title": "[353]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn353"
+    },
+    {
+      "title": "[354]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn354"
+    },
+    {
+      "title": "[355]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn355"
+    },
+    {
+      "title": "[356]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn356"
+    },
+    {
+      "title": "[357]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn357"
+    },
+    {
+      "title": "[358]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn358"
+    },
+    {
+      "title": "[359]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn359"
+    },
+    {
+      "title": "[360]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn360"
+    },
+    {
+      "title": "[361]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn361"
+    },
+    {
+      "title": "[362]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn362"
+    },
+    {
+      "title": "[363]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn363"
+    },
+    {
+      "title": "[364]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn364"
+    },
+    {
+      "title": "[365]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn365"
+    },
+    {
+      "title": "[366]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn366"
+    },
+    {
+      "title": "[367]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn367"
+    },
+    {
+      "title": "[368]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn368"
+    },
+    {
+      "title": "[369]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn369"
+    },
+    {
+      "title": "[370]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn370"
+    },
+    {
+      "title": "[371]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn371"
+    },
+    {
+      "title": "[372]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn372"
+    },
+    {
+      "title": "[373]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn373"
+    },
+    {
+      "title": "[374]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn374"
+    },
+    {
+      "title": "[375]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn375"
+    },
+    {
+      "title": "[376]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn376"
+    },
+    {
+      "title": "[377]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn377"
+    },
+    {
+      "title": "[378]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn378"
+    },
+    {
+      "title": "[379]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn379"
+    },
+    {
+      "title": "[380]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn380"
+    },
+    {
+      "title": "[381]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn381"
+    },
+    {
+      "title": "[382]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn382"
+    },
+    {
+      "title": "[383]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn383"
+    },
+    {
+      "title": "[384]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn384"
+    },
+    {
+      "title": "[385]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn385"
+    },
+    {
+      "title": "[386]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn386"
+    },
+    {
+      "title": "[387]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn387"
+    },
+    {
+      "title": "[388]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn388"
+    },
+    {
+      "title": "[389]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn389"
+    },
+    {
+      "title": "[390]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn390"
+    },
+    {
+      "title": "[391]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn391"
+    },
+    {
+      "title": "[392]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn392"
+    },
+    {
+      "title": "[393]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn393"
+    },
+    {
+      "title": "[394]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn394"
+    },
+    {
+      "title": "[395]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn395"
+    },
+    {
+      "title": "[396]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn396"
+    },
+    {
+      "title": "[397]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn397"
+    },
+    {
+      "title": "[398]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn398"
+    },
+    {
+      "title": "[399]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn399"
+    },
+    {
+      "title": "[400]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn400"
+    },
+    {
+      "title": "[401]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn401"
+    },
+    {
+      "title": "[402]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn402"
+    },
+    {
+      "title": "[403]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn403"
+    },
+    {
+      "title": "[404]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn404"
+    },
+    {
+      "title": "[405]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn405"
+    },
+    {
+      "title": "[406]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn406"
+    },
+    {
+      "title": "[407]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn407"
+    },
+    {
+      "title": "[408]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn408"
+    },
+    {
+      "title": "[409]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn409"
+    },
+    {
+      "title": "[410]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn410"
+    },
+    {
+      "title": "[411]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn411"
+    },
+    {
+      "title": "[412]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn412"
+    },
+    {
+      "title": "[413]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn413"
+    },
+    {
+      "title": "[414]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn414"
+    },
+    {
+      "title": "[415]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn415"
+    },
+    {
+      "title": "[416]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn416"
+    },
+    {
+      "title": "[417]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn417"
+    },
+    {
+      "title": "[418]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn418"
+    },
+    {
+      "title": "[419]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn419"
+    },
+    {
+      "title": "[420]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn420"
+    },
+    {
+      "title": "[421]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn421"
+    },
+    {
+      "title": "[422]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn422"
+    },
+    {
+      "title": "[423]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn423"
+    },
+    {
+      "title": "[424]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn424"
+    },
+    {
+      "title": "[425]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn425"
+    },
+    {
+      "title": "[426]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn426"
+    },
+    {
+      "title": "[427]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn427"
+    },
+    {
+      "title": "[428]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn428"
+    },
+    {
+      "title": "[429]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn429"
+    },
+    {
+      "title": "[430]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn430"
+    },
+    {
+      "title": "[431]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn431"
+    },
+    {
+      "title": "[432]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn432"
+    },
+    {
+      "title": "[433]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn433"
+    },
+    {
+      "title": "[434]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn434"
+    },
+    {
+      "title": "[435]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn435"
+    },
+    {
+      "title": "[436]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn436"
+    },
+    {
+      "title": "[437]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn437"
+    },
+    {
+      "title": "[438]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn438"
+    },
+    {
+      "title": "[439]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn439"
+    },
+    {
+      "title": "[440]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn440"
+    },
+    {
+      "title": "[441]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn441"
+    },
+    {
+      "title": "[442]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn442"
+    },
+    {
+      "title": "[443]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn443"
+    },
+    {
+      "title": "[444]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn444"
+    },
+    {
+      "title": "[445]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn445"
+    },
+    {
+      "title": "[446]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn446"
+    },
+    {
+      "title": "[447]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn447"
+    },
+    {
+      "title": "[448]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn448"
+    },
+    {
+      "title": "[449]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn449"
+    },
+    {
+      "title": "[450]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn450"
+    },
+    {
+      "title": "[451]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn451"
+    },
+    {
+      "title": "[452]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn452"
+    },
+    {
+      "title": "[453]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn453"
+    },
+    {
+      "title": "[454]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn454"
+    },
+    {
+      "title": "[455]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn455"
+    },
+    {
+      "title": "[456]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn456"
+    },
+    {
+      "title": "[457]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn457"
+    },
+    {
+      "title": "[458]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn458"
+    },
+    {
+      "title": "[459]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn459"
+    },
+    {
+      "title": "[460]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn460"
+    },
+    {
+      "title": "[461]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn461"
+    },
+    {
+      "title": "[462]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn462"
+    },
+    {
+      "title": "[463]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn463"
+    },
+    {
+      "title": "[XI]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn11"
+    },
+    {
+      "title": "[464]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn464"
+    },
+    {
+      "title": "[465]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn465"
+    },
+    {
+      "title": "[466]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn466"
+    },
+    {
+      "title": "[467]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn467"
+    },
+    {
+      "title": "[468]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn468"
+    },
+    {
+      "title": "[469]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn469"
+    },
+    {
+      "title": "[470]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn470"
+    },
+    {
+      "title": "[471]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn471"
+    },
+    {
+      "title": "[472]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn472"
+    },
+    {
+      "title": "[473]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn473"
+    },
+    {
+      "title": "[474]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn474"
+    },
+    {
+      "title": "[475]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn475"
+    },
+    {
+      "title": "[476]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn476"
+    },
+    {
+      "title": "[477]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn477"
+    },
+    {
+      "title": "[478]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn478"
+    },
+    {
+      "title": "[479]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn479"
+    },
+    {
+      "title": "[480]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn480"
+    },
+    {
+      "title": "[481]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn481"
+    },
+    {
+      "title": "[482]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn482"
+    },
+    {
+      "title": "[483]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn483"
+    },
+    {
+      "title": "[484]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn484"
+    },
+    {
+      "title": "[485]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn485"
+    },
+    {
+      "title": "[486]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn486"
+    },
+    {
+      "title": "[487]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn487"
+    },
+    {
+      "title": "[488]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn488"
+    },
+    {
+      "title": "[489]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn489"
+    },
+    {
+      "title": "[490]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn490"
+    },
+    {
+      "title": "[491]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn491"
+    },
+    {
+      "title": "[492]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn492"
+    },
+    {
+      "title": "[493]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn493"
+    },
+    {
+      "title": "[494]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn494"
+    },
+    {
+      "title": "[495]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn495"
+    },
+    {
+      "title": "[496]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn496"
+    },
+    {
+      "title": "[497]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn497"
+    },
+    {
+      "title": "[498]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn498"
+    },
+    {
+      "title": "[499]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn499"
+    },
+    {
+      "title": "[500]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn500"
+    },
+    {
+      "title": "[501]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn501"
+    },
+    {
+      "title": "[502]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn502"
+    },
+    {
+      "title": "[503]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn503"
+    },
+    {
+      "title": "[504]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn504"
+    },
+    {
+      "title": "[505]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn505"
+    },
+    {
+      "title": "[506]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn506"
+    },
+    {
+      "title": "[507]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn507"
+    },
+    {
+      "title": "[508]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn508"
+    },
+    {
+      "title": "[509]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn509"
+    },
+    {
+      "title": "[510]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn510"
+    },
+    {
+      "title": "[XII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn12"
+    },
+    {
+      "title": "[511]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn511"
+    },
+    {
+      "title": "[512]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn512"
+    },
+    {
+      "title": "[513]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn513"
+    },
+    {
+      "title": "[514]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn514"
+    },
+    {
+      "title": "[XIII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn13"
+    },
+    {
+      "title": "[515]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn515"
+    },
+    {
+      "title": "[516]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn516"
+    },
+    {
+      "title": "[517]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn517"
+    },
+    {
+      "title": "[XIV]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn14"
+    },
+    {
+      "title": "[518]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn518"
+    },
+    {
+      "title": "[519]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn519"
+    },
+    {
+      "title": "[520]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn520"
+    },
+    {
+      "title": "[521]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn521"
+    },
+    {
+      "title": "[522]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn522"
+    },
+    {
+      "title": "[523]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn523"
+    },
+    {
+      "title": "[524]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn524"
+    },
+    {
+      "title": "[525]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn525"
+    },
+    {
+      "title": "[526]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn526"
+    },
+    {
+      "title": "[527]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn527"
+    },
+    {
+      "title": "[528]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn528"
+    },
+    {
+      "title": "[529]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn529"
+    },
+    {
+      "title": "[530]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn530"
+    },
+    {
+      "title": "[531]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn531"
+    },
+    {
+      "title": "[532]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn532"
+    },
+    {
+      "title": "[533]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn533"
+    },
+    {
+      "title": "[534]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftn534"
+    },
+    {
+      "title": "[XV]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_edn15"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref10"
+    },
+    {
+      "title": "[11]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref11"
+    },
+    {
+      "title": "[12]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref12"
+    },
+    {
+      "title": "[13]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref13"
+    },
+    {
+      "title": "[14]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref14"
+    },
+    {
+      "title": "[15]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref15"
+    },
+    {
+      "title": "[16]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref16"
+    },
+    {
+      "title": "[17]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref17"
+    },
+    {
+      "title": "[18]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref18"
+    },
+    {
+      "title": "[19]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref19"
+    },
+    {
+      "title": "[20]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref20"
+    },
+    {
+      "title": "[21]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref21"
+    },
+    {
+      "title": "[22]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref22"
+    },
+    {
+      "title": "[23]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref23"
+    },
+    {
+      "title": "[24]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref24"
+    },
+    {
+      "title": "[25]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref25"
+    },
+    {
+      "title": "[26]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref26"
+    },
+    {
+      "title": "[27]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref27"
+    },
+    {
+      "title": "[28]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref28"
+    },
+    {
+      "title": "[29]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref29"
+    },
+    {
+      "title": "[30]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref30"
+    },
+    {
+      "title": "[31]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref31"
+    },
+    {
+      "title": "[32]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref32"
+    },
+    {
+      "title": "[33]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref33"
+    },
+    {
+      "title": "[34]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref34"
+    },
+    {
+      "title": "[35]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref35"
+    },
+    {
+      "title": "[36]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref36"
+    },
+    {
+      "title": "[37]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref37"
+    },
+    {
+      "title": "[38]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref38"
+    },
+    {
+      "title": "[39]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref39"
+    },
+    {
+      "title": "[40]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref40"
+    },
+    {
+      "title": "[41]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref41"
+    },
+    {
+      "title": "[42]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref42"
+    },
+    {
+      "title": "[43]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref43"
+    },
+    {
+      "title": "[44]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref44"
+    },
+    {
+      "title": "[45]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref45"
+    },
+    {
+      "title": "[46]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref46"
+    },
+    {
+      "title": "[47]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref47"
+    },
+    {
+      "title": "[48]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref48"
+    },
+    {
+      "title": "[49]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref49"
+    },
+    {
+      "title": "[50]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref50"
+    },
+    {
+      "title": "[51]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref51"
+    },
+    {
+      "title": "[52]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref52"
+    },
+    {
+      "title": "[53]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref53"
+    },
+    {
+      "title": "[54]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref54"
+    },
+    {
+      "title": "[55]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref55"
+    },
+    {
+      "title": "[56]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref56"
+    },
+    {
+      "title": "[57]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref57"
+    },
+    {
+      "title": "[58]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref58"
+    },
+    {
+      "title": "[59]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref59"
+    },
+    {
+      "title": "[60]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref60"
+    },
+    {
+      "title": "[61]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref61"
+    },
+    {
+      "title": "[62]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref62"
+    },
+    {
+      "title": "[63]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref63"
+    },
+    {
+      "title": "[64]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref64"
+    },
+    {
+      "title": "[65]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref65"
+    },
+    {
+      "title": "[66]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref66"
+    },
+    {
+      "title": "[67]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref67"
+    },
+    {
+      "title": "[68]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref68"
+    },
+    {
+      "title": "[69]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref69"
+    },
+    {
+      "title": "[70]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref70"
+    },
+    {
+      "title": "[71]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref71"
+    },
+    {
+      "title": "[72]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref72"
+    },
+    {
+      "title": "[73]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref73"
+    },
+    {
+      "title": "[74]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref74"
+    },
+    {
+      "title": "[75]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref75"
+    },
+    {
+      "title": "[76]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref76"
+    },
+    {
+      "title": "[77]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref77"
+    },
+    {
+      "title": "[78]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref78"
+    },
+    {
+      "title": "[79]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref79"
+    },
+    {
+      "title": "[80]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref80"
+    },
+    {
+      "title": "[81]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref81"
+    },
+    {
+      "title": "[82]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref82"
+    },
+    {
+      "title": "[83]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref83"
+    },
+    {
+      "title": "[84]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref84"
+    },
+    {
+      "title": "[85]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref85"
+    },
+    {
+      "title": "[86]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref86"
+    },
+    {
+      "title": "[87]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref87"
+    },
+    {
+      "title": "[88]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref88"
+    },
+    {
+      "title": "[89]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref89"
+    },
+    {
+      "title": "[90]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref90"
+    },
+    {
+      "title": "[91]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref91"
+    },
+    {
+      "title": "[92]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref92"
+    },
+    {
+      "title": "[93]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref93"
+    },
+    {
+      "title": "[94]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref94"
+    },
+    {
+      "title": "[95]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref95"
+    },
+    {
+      "title": "[96]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref96"
+    },
+    {
+      "title": "[97]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref97"
+    },
+    {
+      "title": "[98]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref98"
+    },
+    {
+      "title": "[99]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref99"
+    },
+    {
+      "title": "[100]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref100"
+    },
+    {
+      "title": "[101]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref101"
+    },
+    {
+      "title": "[102]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref102"
+    },
+    {
+      "title": "[103]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref103"
+    },
+    {
+      "title": "[104]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref104"
+    },
+    {
+      "title": "[105]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref105"
+    },
+    {
+      "title": "[106]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref106"
+    },
+    {
+      "title": "[107]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref107"
+    },
+    {
+      "title": "[108]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref108"
+    },
+    {
+      "title": "[109]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref109"
+    },
+    {
+      "title": "[110]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref110"
+    },
+    {
+      "title": "[111]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref111"
+    },
+    {
+      "title": "[112]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref112"
+    },
+    {
+      "title": "[113]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref113"
+    },
+    {
+      "title": "[114]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref114"
+    },
+    {
+      "title": "[115]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref115"
+    },
+    {
+      "title": "[116]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref116"
+    },
+    {
+      "title": "[117]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref117"
+    },
+    {
+      "title": "[118]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref118"
+    },
+    {
+      "title": "[119]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref119"
+    },
+    {
+      "title": "[120]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref120"
+    },
+    {
+      "title": "[121]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref121"
+    },
+    {
+      "title": "[122]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref122"
+    },
+    {
+      "title": "[123]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref123"
+    },
+    {
+      "title": "[124]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref124"
+    },
+    {
+      "title": "[125]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref125"
+    },
+    {
+      "title": "[126]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref126"
+    },
+    {
+      "title": "[127]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref127"
+    },
+    {
+      "title": "[128]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref128"
+    },
+    {
+      "title": "[129]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref129"
+    },
+    {
+      "title": "[130]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref130"
+    },
+    {
+      "title": "[131]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref131"
+    },
+    {
+      "title": "[132]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref132"
+    },
+    {
+      "title": "[133]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref133"
+    },
+    {
+      "title": "[134]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref134"
+    },
+    {
+      "title": "[135]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref135"
+    },
+    {
+      "title": "[136]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref136"
+    },
+    {
+      "title": "[137]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref137"
+    },
+    {
+      "title": "[138]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref138"
+    },
+    {
+      "title": "[139]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref139"
+    },
+    {
+      "title": "[140]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref140"
+    },
+    {
+      "title": "[141]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref141"
+    },
+    {
+      "title": "[142]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref142"
+    },
+    {
+      "title": "[143]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref143"
+    },
+    {
+      "title": "[144]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref144"
+    },
+    {
+      "title": "[145]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref145"
+    },
+    {
+      "title": "[146]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref146"
+    },
+    {
+      "title": "[147]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref147"
+    },
+    {
+      "title": "[148]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref148"
+    },
+    {
+      "title": "[149]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref149"
+    },
+    {
+      "title": "[150]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref150"
+    },
+    {
+      "title": "[151]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref151"
+    },
+    {
+      "title": "[152]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref152"
+    },
+    {
+      "title": "[153]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref153"
+    },
+    {
+      "title": "[154]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref154"
+    },
+    {
+      "title": "[155]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref155"
+    },
+    {
+      "title": "[156]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref156"
+    },
+    {
+      "title": "[157]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref157"
+    },
+    {
+      "title": "[158]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref158"
+    },
+    {
+      "title": "[159]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref159"
+    },
+    {
+      "title": "[160]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref160"
+    },
+    {
+      "title": "[161]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref161"
+    },
+    {
+      "title": "[162]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref162"
+    },
+    {
+      "title": "[163]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref163"
+    },
+    {
+      "title": "[164]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref164"
+    },
+    {
+      "title": "[165]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref165"
+    },
+    {
+      "title": "[166]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref166"
+    },
+    {
+      "title": "[167]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref167"
+    },
+    {
+      "title": "[168]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref168"
+    },
+    {
+      "title": "[169]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref169"
+    },
+    {
+      "title": "[170]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref170"
+    },
+    {
+      "title": "[171]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref171"
+    },
+    {
+      "title": "[172]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref172"
+    },
+    {
+      "title": "[173]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref173"
+    },
+    {
+      "title": "[174]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref174"
+    },
+    {
+      "title": "[175]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref175"
+    },
+    {
+      "title": "[176]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref176"
+    },
+    {
+      "title": "[177]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref177"
+    },
+    {
+      "title": "[178]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref178"
+    },
+    {
+      "title": "[179]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref179"
+    },
+    {
+      "title": "[180]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref180"
+    },
+    {
+      "title": "[181]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref181"
+    },
+    {
+      "title": "[182]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref182"
+    },
+    {
+      "title": "[183]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref183"
+    },
+    {
+      "title": "[184]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref184"
+    },
+    {
+      "title": "[185]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref185"
+    },
+    {
+      "title": "[186]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref186"
+    },
+    {
+      "title": "[187]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref187"
+    },
+    {
+      "title": "[188]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref188"
+    },
+    {
+      "title": "[189]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref189"
+    },
+    {
+      "title": "[190]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref190"
+    },
+    {
+      "title": "[191]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref191"
+    },
+    {
+      "title": "[192]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref192"
+    },
+    {
+      "title": "[193]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref193"
+    },
+    {
+      "title": "[194]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref194"
+    },
+    {
+      "title": "[195]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref195"
+    },
+    {
+      "title": "[196]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref196"
+    },
+    {
+      "title": "[197]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref197"
+    },
+    {
+      "title": "[198]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref198"
+    },
+    {
+      "title": "[199]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref199"
+    },
+    {
+      "title": "[200]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref200"
+    },
+    {
+      "title": "[201]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref201"
+    },
+    {
+      "title": "[202]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref202"
+    },
+    {
+      "title": "[203]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref203"
+    },
+    {
+      "title": "[204]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref204"
+    },
+    {
+      "title": "[205]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref205"
+    },
+    {
+      "title": "[206]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref206"
+    },
+    {
+      "title": "[207]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref207"
+    },
+    {
+      "title": "[208]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref208"
+    },
+    {
+      "title": "[209]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref209"
+    },
+    {
+      "title": "[210]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref210"
+    },
+    {
+      "title": "[211]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref211"
+    },
+    {
+      "title": "[212]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref212"
+    },
+    {
+      "title": "[213]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref213"
+    },
+    {
+      "title": "[214]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref214"
+    },
+    {
+      "title": "[215]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref215"
+    },
+    {
+      "title": "[216]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref216"
+    },
+    {
+      "title": "[217]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref217"
+    },
+    {
+      "title": "[218]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref218"
+    },
+    {
+      "title": "[219]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref219"
+    },
+    {
+      "title": "[220]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref220"
+    },
+    {
+      "title": "[221]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref221"
+    },
+    {
+      "title": "[222]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref222"
+    },
+    {
+      "title": "[223]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref223"
+    },
+    {
+      "title": "[224]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref224"
+    },
+    {
+      "title": "[225]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref225"
+    },
+    {
+      "title": "[226]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref226"
+    },
+    {
+      "title": "[227]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref227"
+    },
+    {
+      "title": "[228]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref228"
+    },
+    {
+      "title": "[229]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref229"
+    },
+    {
+      "title": "[230]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref230"
+    },
+    {
+      "title": "[231]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref231"
+    },
+    {
+      "title": "[232]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref232"
+    },
+    {
+      "title": "[233]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref233"
+    },
+    {
+      "title": "[234]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref234"
+    },
+    {
+      "title": "[235]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref235"
+    },
+    {
+      "title": "[236]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref236"
+    },
+    {
+      "title": "[237]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref237"
+    },
+    {
+      "title": "[238]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref238"
+    },
+    {
+      "title": "[239]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref239"
+    },
+    {
+      "title": "[240]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref240"
+    },
+    {
+      "title": "[241]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref241"
+    },
+    {
+      "title": "[242]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref242"
+    },
+    {
+      "title": "[243]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref243"
+    },
+    {
+      "title": "[244]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref244"
+    },
+    {
+      "title": "[245]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref245"
+    },
+    {
+      "title": "[246]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref246"
+    },
+    {
+      "title": "[247]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref247"
+    },
+    {
+      "title": "[248]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref248"
+    },
+    {
+      "title": "[249]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref249"
+    },
+    {
+      "title": "[250]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref250"
+    },
+    {
+      "title": "[251]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref251"
+    },
+    {
+      "title": "[252]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref252"
+    },
+    {
+      "title": "[253]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref253"
+    },
+    {
+      "title": "[254]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref254"
+    },
+    {
+      "title": "[255]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref255"
+    },
+    {
+      "title": "[256]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref256"
+    },
+    {
+      "title": "[257]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref257"
+    },
+    {
+      "title": "[258]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref258"
+    },
+    {
+      "title": "[259]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref259"
+    },
+    {
+      "title": "[260]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref260"
+    },
+    {
+      "title": "[261]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref261"
+    },
+    {
+      "title": "[262]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref262"
+    },
+    {
+      "title": "[263]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref263"
+    },
+    {
+      "title": "[264]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref264"
+    },
+    {
+      "title": "[265]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref265"
+    },
+    {
+      "title": "[266]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref266"
+    },
+    {
+      "title": "[267]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref267"
+    },
+    {
+      "title": "[268]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref268"
+    },
+    {
+      "title": "[269]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref269"
+    },
+    {
+      "title": "[270]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref270"
+    },
+    {
+      "title": "[271]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref271"
+    },
+    {
+      "title": "[272]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref272"
+    },
+    {
+      "title": "[273]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref273"
+    },
+    {
+      "title": "[274]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref274"
+    },
+    {
+      "title": "[275]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref275"
+    },
+    {
+      "title": "[276]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref276"
+    },
+    {
+      "title": "[277]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref277"
+    },
+    {
+      "title": "[278]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref278"
+    },
+    {
+      "title": "[279]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref279"
+    },
+    {
+      "title": "[280]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref280"
+    },
+    {
+      "title": "[281]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref281"
+    },
+    {
+      "title": "[282]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref282"
+    },
+    {
+      "title": "[283]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref283"
+    },
+    {
+      "title": "[284]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref284"
+    },
+    {
+      "title": "[285]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref285"
+    },
+    {
+      "title": "[286]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref286"
+    },
+    {
+      "title": "[287]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref287"
+    },
+    {
+      "title": "[288]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref288"
+    },
+    {
+      "title": "[289]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref289"
+    },
+    {
+      "title": "[290]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref290"
+    },
+    {
+      "title": "[291]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref291"
+    },
+    {
+      "title": "[292]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref292"
+    },
+    {
+      "title": "[293]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref293"
+    },
+    {
+      "title": "[294]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref294"
+    },
+    {
+      "title": "[295]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref295"
+    },
+    {
+      "title": "[296]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref296"
+    },
+    {
+      "title": "[297]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref297"
+    },
+    {
+      "title": "[298]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref298"
+    },
+    {
+      "title": "[299]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref299"
+    },
+    {
+      "title": "[300]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref300"
+    },
+    {
+      "title": "[301]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref301"
+    },
+    {
+      "title": "[302]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref302"
+    },
+    {
+      "title": "[303]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref303"
+    },
+    {
+      "title": "[304]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref304"
+    },
+    {
+      "title": "[305]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref305"
+    },
+    {
+      "title": "[306]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref306"
+    },
+    {
+      "title": "[307]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref307"
+    },
+    {
+      "title": "[308]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref308"
+    },
+    {
+      "title": "[309]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref309"
+    },
+    {
+      "title": "[310]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref310"
+    },
+    {
+      "title": "[311]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref311"
+    },
+    {
+      "title": "[312]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref312"
+    },
+    {
+      "title": "[313]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref313"
+    },
+    {
+      "title": "[314]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref314"
+    },
+    {
+      "title": "[315]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref315"
+    },
+    {
+      "title": "[316]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref316"
+    },
+    {
+      "title": "[317]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref317"
+    },
+    {
+      "title": "[318]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref318"
+    },
+    {
+      "title": "[319]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref319"
+    },
+    {
+      "title": "[320]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref320"
+    },
+    {
+      "title": "[321]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref321"
+    },
+    {
+      "title": "[322]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref322"
+    },
+    {
+      "title": "[323]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref323"
+    },
+    {
+      "title": "[324]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref324"
+    },
+    {
+      "title": "[325]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref325"
+    },
+    {
+      "title": "[326]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref326"
+    },
+    {
+      "title": "[327]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref327"
+    },
+    {
+      "title": "[328]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref328"
+    },
+    {
+      "title": "[329]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref329"
+    },
+    {
+      "title": "[330]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref330"
+    },
+    {
+      "title": "[331]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref331"
+    },
+    {
+      "title": "[332]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref332"
+    },
+    {
+      "title": "[333]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref333"
+    },
+    {
+      "title": "[334]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref334"
+    },
+    {
+      "title": "[335]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref335"
+    },
+    {
+      "title": "[336]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref336"
+    },
+    {
+      "title": "[337]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref337"
+    },
+    {
+      "title": "[338]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref338"
+    },
+    {
+      "title": "[339]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref339"
+    },
+    {
+      "title": "[340]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref340"
+    },
+    {
+      "title": "[341]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref341"
+    },
+    {
+      "title": "[342]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref342"
+    },
+    {
+      "title": "[343]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref343"
+    },
+    {
+      "title": "[344]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref344"
+    },
+    {
+      "title": "[345]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref345"
+    },
+    {
+      "title": "[346]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref346"
+    },
+    {
+      "title": "[347]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref347"
+    },
+    {
+      "title": "[348]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref348"
+    },
+    {
+      "title": "[349]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref349"
+    },
+    {
+      "title": "[350]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref350"
+    },
+    {
+      "title": "[351]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref351"
+    },
+    {
+      "title": "[352]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref352"
+    },
+    {
+      "title": "[353]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref353"
+    },
+    {
+      "title": "[354]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref354"
+    },
+    {
+      "title": "[355]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref355"
+    },
+    {
+      "title": "[356]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref356"
+    },
+    {
+      "title": "[357]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref357"
+    },
+    {
+      "title": "[358]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref358"
+    },
+    {
+      "title": "[359]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref359"
+    },
+    {
+      "title": "[360]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref360"
+    },
+    {
+      "title": "[361]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref361"
+    },
+    {
+      "title": "[362]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref362"
+    },
+    {
+      "title": "[363]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref363"
+    },
+    {
+      "title": "[364]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref364"
+    },
+    {
+      "title": "[365]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref365"
+    },
+    {
+      "title": "[366]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref366"
+    },
+    {
+      "title": "[367]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref367"
+    },
+    {
+      "title": "[368]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref368"
+    },
+    {
+      "title": "[369]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref369"
+    },
+    {
+      "title": "[370]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref370"
+    },
+    {
+      "title": "[371]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref371"
+    },
+    {
+      "title": "[372]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref372"
+    },
+    {
+      "title": "[373]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref373"
+    },
+    {
+      "title": "[374]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref374"
+    },
+    {
+      "title": "[375]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref375"
+    },
+    {
+      "title": "[376]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref376"
+    },
+    {
+      "title": "[377]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref377"
+    },
+    {
+      "title": "[378]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref378"
+    },
+    {
+      "title": "[379]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref379"
+    },
+    {
+      "title": "[380]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref380"
+    },
+    {
+      "title": "[381]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref381"
+    },
+    {
+      "title": "[382]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref382"
+    },
+    {
+      "title": "[383]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref383"
+    },
+    {
+      "title": "[384]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref384"
+    },
+    {
+      "title": "[385]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref385"
+    },
+    {
+      "title": "[386]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref386"
+    },
+    {
+      "title": "[387]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref387"
+    },
+    {
+      "title": "[388]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref388"
+    },
+    {
+      "title": "[389]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref389"
+    },
+    {
+      "title": "[390]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref390"
+    },
+    {
+      "title": "[391]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref391"
+    },
+    {
+      "title": "[392]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref392"
+    },
+    {
+      "title": "[393]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref393"
+    },
+    {
+      "title": "[394]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref394"
+    },
+    {
+      "title": "[395]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref395"
+    },
+    {
+      "title": "[396]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref396"
+    },
+    {
+      "title": "[397]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref397"
+    },
+    {
+      "title": "[398]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref398"
+    },
+    {
+      "title": "[399]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref399"
+    },
+    {
+      "title": "[400]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref400"
+    },
+    {
+      "title": "[401]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref401"
+    },
+    {
+      "title": "[402]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref402"
+    },
+    {
+      "title": "[403]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref403"
+    },
+    {
+      "title": "[404]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref404"
+    },
+    {
+      "title": "[405]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref405"
+    },
+    {
+      "title": "[406]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref406"
+    },
+    {
+      "title": "[407]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref407"
+    },
+    {
+      "title": "[408]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref408"
+    },
+    {
+      "title": "[409]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref409"
+    },
+    {
+      "title": "[410]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref410"
+    },
+    {
+      "title": "[411]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref411"
+    },
+    {
+      "title": "[412]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref412"
+    },
+    {
+      "title": "[413]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref413"
+    },
+    {
+      "title": "[414]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref414"
+    },
+    {
+      "title": "[415]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref415"
+    },
+    {
+      "title": "[416]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref416"
+    },
+    {
+      "title": "[417]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref417"
+    },
+    {
+      "title": "[418]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref418"
+    },
+    {
+      "title": "[419]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref419"
+    },
+    {
+      "title": "[420]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref420"
+    },
+    {
+      "title": "[421]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref421"
+    },
+    {
+      "title": "[422]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref422"
+    },
+    {
+      "title": "[423]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref423"
+    },
+    {
+      "title": "[424]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref424"
+    },
+    {
+      "title": "[425]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref425"
+    },
+    {
+      "title": "[426]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref426"
+    },
+    {
+      "title": "[427]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref427"
+    },
+    {
+      "title": "[428]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref428"
+    },
+    {
+      "title": "[429]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref429"
+    },
+    {
+      "title": "[430]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref430"
+    },
+    {
+      "title": "[431]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref431"
+    },
+    {
+      "title": "[432]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref432"
+    },
+    {
+      "title": "[433]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref433"
+    },
+    {
+      "title": "[434]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref434"
+    },
+    {
+      "title": "[435]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref435"
+    },
+    {
+      "title": "[436]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref436"
+    },
+    {
+      "title": "[437]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref437"
+    },
+    {
+      "title": "[438]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref438"
+    },
+    {
+      "title": "[439]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref439"
+    },
+    {
+      "title": "[440]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref440"
+    },
+    {
+      "title": "[441]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref441"
+    },
+    {
+      "title": "[442]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref442"
+    },
+    {
+      "title": "[443]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref443"
+    },
+    {
+      "title": "[444]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref444"
+    },
+    {
+      "title": "[445]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref445"
+    },
+    {
+      "title": "[446]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref446"
+    },
+    {
+      "title": "[447]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref447"
+    },
+    {
+      "title": "[448]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref448"
+    },
+    {
+      "title": "[449]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref449"
+    },
+    {
+      "title": "[450]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref450"
+    },
+    {
+      "title": "[451]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref451"
+    },
+    {
+      "title": "[452]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref452"
+    },
+    {
+      "title": "[453]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref453"
+    },
+    {
+      "title": "[454]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref454"
+    },
+    {
+      "title": "[455]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref455"
+    },
+    {
+      "title": "[456]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref456"
+    },
+    {
+      "title": "[457]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref457"
+    },
+    {
+      "title": "[458]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref458"
+    },
+    {
+      "title": "[459]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref459"
+    },
+    {
+      "title": "[460]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref460"
+    },
+    {
+      "title": "[461]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref461"
+    },
+    {
+      "title": "[462]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref462"
+    },
+    {
+      "title": "[463]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref463"
+    },
+    {
+      "title": "[464]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref464"
+    },
+    {
+      "title": "[465]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref465"
+    },
+    {
+      "title": "[466]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref466"
+    },
+    {
+      "title": "[467]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref467"
+    },
+    {
+      "title": "[468]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref468"
+    },
+    {
+      "title": "[469]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref469"
+    },
+    {
+      "title": "[470]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref470"
+    },
+    {
+      "title": "[471]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref471"
+    },
+    {
+      "title": "[472]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref472"
+    },
+    {
+      "title": "[473]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref473"
+    },
+    {
+      "title": "[474]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref474"
+    },
+    {
+      "title": "[475]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref475"
+    },
+    {
+      "title": "[476]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref476"
+    },
+    {
+      "title": "[477]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref477"
+    },
+    {
+      "title": "[478]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref478"
+    },
+    {
+      "title": "[479]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref479"
+    },
+    {
+      "title": "[480]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref480"
+    },
+    {
+      "title": "[481]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref481"
+    },
+    {
+      "title": "[482]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref482"
+    },
+    {
+      "title": "[483]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref483"
+    },
+    {
+      "title": "[484]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref484"
+    },
+    {
+      "title": "[485]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref485"
+    },
+    {
+      "title": "[486]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref486"
+    },
+    {
+      "title": "[487]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref487"
+    },
+    {
+      "title": "[488]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref488"
+    },
+    {
+      "title": "[489]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref489"
+    },
+    {
+      "title": "[490]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref490"
+    },
+    {
+      "title": "[491]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref491"
+    },
+    {
+      "title": "[492]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref492"
+    },
+    {
+      "title": "[493]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref493"
+    },
+    {
+      "title": "[494]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref494"
+    },
+    {
+      "title": "[495]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref495"
+    },
+    {
+      "title": "[496]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref496"
+    },
+    {
+      "title": "[497]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref497"
+    },
+    {
+      "title": "[498]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref498"
+    },
+    {
+      "title": "[499]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref499"
+    },
+    {
+      "title": "[500]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref500"
+    },
+    {
+      "title": "[501]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref501"
+    },
+    {
+      "title": "[502]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref502"
+    },
+    {
+      "title": "[503]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref503"
+    },
+    {
+      "title": "[504]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref504"
+    },
+    {
+      "title": "[505]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref505"
+    },
+    {
+      "title": "[506]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref506"
+    },
+    {
+      "title": "[507]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref507"
+    },
+    {
+      "title": "[508]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref508"
+    },
+    {
+      "title": "[509]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref509"
+    },
+    {
+      "title": "[510]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref510"
+    },
+    {
+      "title": "[511]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref511"
+    },
+    {
+      "title": "[512]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref512"
+    },
+    {
+      "title": "[513]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref513"
+    },
+    {
+      "title": "[514]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref514"
+    },
+    {
+      "title": "[515]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref515"
+    },
+    {
+      "title": "[516]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref516"
+    },
+    {
+      "title": "[517]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref517"
+    },
+    {
+      "title": "[518]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref518"
+    },
+    {
+      "title": "[519]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref519"
+    },
+    {
+      "title": "[520]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref520"
+    },
+    {
+      "title": "[521]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref521"
+    },
+    {
+      "title": "[522]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref522"
+    },
+    {
+      "title": "[523]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref523"
+    },
+    {
+      "title": "[524]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref524"
+    },
+    {
+      "title": "[525]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref525"
+    },
+    {
+      "title": "[526]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref526"
+    },
+    {
+      "title": "[527]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref527"
+    },
+    {
+      "title": "[528]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref528"
+    },
+    {
+      "title": "[529]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref529"
+    },
+    {
+      "title": "[530]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref530"
+    },
+    {
+      "title": "[531]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref531"
+    },
+    {
+      "title": "[532]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref532"
+    },
+    {
+      "title": "[533]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref533"
+    },
+    {
+      "title": "[534]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ftnref534"
+    },
+    {
+      "title": "[I]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref1"
+    },
+    {
+      "title": "[II]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref2"
+    },
+    {
+      "title": "[III]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref3"
+    },
+    {
+      "title": "[IV]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref4"
+    },
+    {
+      "title": "[V]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref5"
+    },
+    {
+      "title": "[VI]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref6"
+    },
+    {
+      "title": "[VII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref7"
+    },
+    {
+      "title": "[VIII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref8"
+    },
+    {
+      "title": "[IX]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref9"
+    },
+    {
+      "title": "[X]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref10"
+    },
+    {
+      "title": "[XI]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref11"
+    },
+    {
+      "title": "[XII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref12"
+    },
+    {
+      "title": "[XIII]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref13"
+    },
+    {
+      "title": "[XIV]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref14"
+    },
+    {
+      "title": "[XV]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-038.htm#_ednref15"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7671bd856cbd71e242f8.txt",
+  "text_sha256": "2918c4f9647f50467698eca5b8115a99f51cfde8dd6f29571cb40a42cdd9af71",
+  "text_chars": 31774,
+  "text_lines": 2846,
+  "document_path": "archive/documents/A-7671bd856cbd71e242f8.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381012aa.htm",
+  "title": "〔未删节本〕抗日民族战争与抗日民族统一战线发展的新阶段（一九三八年十月十二日至十四日在中共扩大的六中全会的报告）",
+  "catalogue_entry_ids": [
+    "I-34fae38a70d527c3"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3fa6182fc7f2f03d6f04",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:54.952921+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381012aa.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1c705-5ff5888ed20c0\"",
+  "last_modified": "Fri, 30 Jun 2023 13:10:03 GMT",
+  "raw_sha256": "67970b058ea3bebf2fe67ba16f38859df802c7d988ff21e767e3cf34fa9c7c15",
+  "raw_bytes": 116485,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/67970b058ea3bebf2fe67ba16f38859df802c7d988ff21e767e3cf34fa9c7c15.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东：抗日民族战争与抗日民族统一战线发展的新阶段——一九三八年十月十二日至十四日在中共扩大的六中全会的报告",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "中国共产党在民族战争中的地位",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19381014.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3fa6182fc7f2f03d6f04.txt",
+  "text_sha256": "25c92c0117ce933eccb9bd0a2ec15bd7ffd1653d1ac53072bc3b39e88be0f990",
+  "text_chars": 55796,
+  "text_lines": 279,
+  "document_path": "archive/documents/A-3fa6182fc7f2f03d6f04.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

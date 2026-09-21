@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-025.htm",
+  "title": "邹鲁与革命",
+  "catalogue_entry_ids": [
+    "I-7b5b588d55e19cfe"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0976bf9f72c46fdb2321",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:40.370323+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-025.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"57b-529fc23d1c240\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:53 GMT",
+  "raw_sha256": "8fbbd389de03327356dd77fc71b0b889e90fdd5d96bc18e6e3cf09d400454b5f",
+  "raw_bytes": 1403,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8fbbd389de03327356dd77fc71b0b889e90fdd5d96bc18e6e3cf09d400454b5f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "邹鲁与革命",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0976bf9f72c46fdb2321.txt",
+  "text_sha256": "23b816e5f3a21b5881ae20b499008d01b3aa6d6679720fda251b244bddd46271",
+  "text_chars": 312,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-0976bf9f72c46fdb2321.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

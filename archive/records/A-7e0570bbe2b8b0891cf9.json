@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-023.htm",
+  "title": "「反共产中国国民军大同盟万岁」",
+  "catalogue_entry_ids": [
+    "I-815dff47c11aaebd"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7e0570bbe2b8b0891cf9",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:39.824920+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-023.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4ad-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "b4acd76d750b40e81fd1d2df8da94146eaa5084cff3b1a952b5f39ca2c3d43b2",
+  "raw_bytes": 1197,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b4acd76d750b40e81fd1d2df8da94146eaa5084cff3b1a952b5f39ca2c3d43b2.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "「反共产中国国民军大同盟万岁」",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7e0570bbe2b8b0891cf9.txt",
+  "text_sha256": "3e0251577cbd905a432828d7d60aefccf6b0ecdcf96f7b30df4090c15d34b1b3",
+  "text_chars": 209,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-7e0570bbe2b8b0891cf9.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

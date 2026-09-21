@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-026.htm",
+  "title": "向左还是向右？",
+  "catalogue_entry_ids": [
+    "I-df5abb41ce1ee880"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bf0033be236f7ca7b9aa",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:40.667673+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-026.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"ef0-529fc55a61b40\"",
+  "last_modified": "Sat, 23 Jan 2016 08:43:49 GMT",
+  "raw_sha256": "94435cdccdbdf4ea7ea24e9db64c491480fea305e683cbc28531224da0042617",
+  "raw_bytes": 3824,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/94435cdccdbdf4ea7ea24e9db64c491480fea305e683cbc28531224da0042617.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "向左还是向右？",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-026.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-026.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bf0033be236f7ca7b9aa.txt",
+  "text_sha256": "2b975e6425f87094df0771935345b33934bc236f2189e34c8584adffaa20b87d",
+  "text_chars": 1406,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-bf0033be236f7ca7b9aa.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

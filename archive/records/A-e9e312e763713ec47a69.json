@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm",
+  "title": "必须注意经济工作",
+  "catalogue_entry_ids": [
+    "I-e8c9052f4120f96a"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e9e312e763713ec47a69",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:48.665875+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2dba-5a0e78a6e1117\"",
+  "last_modified": "Sun, 15 Mar 2020 16:53:23 GMT",
+  "raw_sha256": "6acb7a4ddbeadf5918479652746698b6235114780df0f081f8abf2d323fb8d6d",
+  "raw_bytes": 11706,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6acb7a4ddbeadf5918479652746698b6235114780df0f081f8abf2d323fb8d6d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "必须注意经济工作（一九三三年八月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19330812.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e9e312e763713ec47a69.txt",
+  "text_sha256": "0b80f6685936c6295234308e0d135b15282b77e86aaff83b7e66aa8f1a1078eb",
+  "text_chars": 5173,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-e9e312e763713ec47a69.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

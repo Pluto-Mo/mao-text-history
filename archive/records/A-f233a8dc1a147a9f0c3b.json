@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-032.htm",
+  "title": "中国农民中各阶级的分析及其对于革命的态度",
+  "catalogue_entry_ids": [
+    "I-1223e9bfd7725214"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f233a8dc1a147a9f0c3b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:42.767853+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-032.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"218b-529fc23d1c240\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:53 GMT",
+  "raw_sha256": "a6c51ed63376eb1404b48d7ba41f2f100c7d0ab7db52421dc065736a163206c9",
+  "raw_bytes": 8587,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a6c51ed63376eb1404b48d7ba41f2f100c7d0ab7db52421dc065736a163206c9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国农民中各阶级的分析及其对于革命的态度",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f233a8dc1a147a9f0c3b.txt",
+  "text_sha256": "5e8534a5315b22428649710b1c2fba86d119e249bee9dff93566fa2ead10d2c8",
+  "text_chars": 3833,
+  "text_lines": 28,
+  "document_path": "archive/documents/A-f233a8dc1a147a9f0c3b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

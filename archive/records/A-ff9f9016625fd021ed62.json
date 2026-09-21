@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-021.htm",
+  "title": "如果讨赤志同仇仇亦吾良友",
+  "catalogue_entry_ids": [
+    "I-18d3af58053cd0db"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ff9f9016625fd021ed62",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:39.824287+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-021.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5c3-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "64d7433140249e31b874e85193fba5801e9fb626cda3963f4b056d4b2586555a",
+  "raw_bytes": 1475,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/64d7433140249e31b874e85193fba5801e9fb626cda3963f4b056d4b2586555a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "如果讨赤志同仇仇亦吾良友",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ff9f9016625fd021ed62.txt",
+  "text_sha256": "5ae20e01a6a33bdfd23df5d20256d789ee5e00bba8d6fac0f27a554bdef575b6",
+  "text_chars": 349,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-ff9f9016625fd021ed62.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

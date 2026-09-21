@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-022.htm",
+  "title": "颂声来于万国",
+  "catalogue_entry_ids": [
+    "I-0cecb05ec3730fd5"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0000343844e00bc70b53",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:39.824637+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-022.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5b3-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "cb284a32d7b5e65e250492f711a84747f65feca4135c57d926aa7cf2f82c77cf",
+  "raw_bytes": 1459,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cb284a32d7b5e65e250492f711a84747f65feca4135c57d926aa7cf2f82c77cf.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "颂声来于万国",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0000343844e00bc70b53.txt",
+  "text_sha256": "ed205d1ba57f954fbf99857237f907905904a61c809c608f9a29fa25dd50f3bc",
+  "text_chars": 340,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-0000343844e00bc70b53.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

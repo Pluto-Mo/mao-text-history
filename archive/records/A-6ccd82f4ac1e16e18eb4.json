@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-036.htm",
+  "title": "*湖南的农民",
+  "catalogue_entry_ids": [
+    "I-fd1525f7976eb9a8"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6ccd82f4ac1e16e18eb4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:44.995389+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-036.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"32c4-5359e7975478a\"",
+  "last_modified": "Sun, 19 Jun 2016 09:47:22 GMT",
+  "raw_sha256": "55c5fb46d2dbbdeec2a426fb7051a65cee80f9395aa63df6a74cea00f55e498b",
+  "raw_bytes": 12996,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/55c5fb46d2dbbdeec2a426fb7051a65cee80f9395aa63df6a74cea00f55e498b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "*湖南的农民",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6ccd82f4ac1e16e18eb4.txt",
+  "text_sha256": "10f628aae1c59fb586e6bf073715bc50658cd2f04ae647dd3f82524637003df9",
+  "text_chars": 4671,
+  "text_lines": 308,
+  "document_path": "archive/documents/A-6ccd82f4ac1e16e18eb4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

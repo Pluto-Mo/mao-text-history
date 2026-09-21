@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm",
+  "title": "和英国记者贝特兰的谈话",
+  "catalogue_entry_ids": [
+    "I-df178e3a1d2c9ddc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5bd4786333456e44efe8",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:53.460680+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"468a-5a0e7885ee7b5\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:49 GMT",
+  "raw_sha256": "8c220d731cf14178ed16a2d628055b4a03f7d46a9d58971db0b3c2e5c5866931",
+  "raw_bytes": 18058,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8c220d731cf14178ed16a2d628055b4a03f7d46a9d58971db0b3c2e5c5866931.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "和英国记者贝特兰的谈话（一九三七年十月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19371025.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5bd4786333456e44efe8.txt",
+  "text_sha256": "d92696939416f633ba8d6f03e13660176027a2328afe0676f548235e8ce115db",
+  "text_chars": 7903,
+  "text_lines": 117,
+  "document_path": "archive/documents/A-5bd4786333456e44efe8.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

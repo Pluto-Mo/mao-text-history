@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-033a.htm",
+  "title": "中国社会各阶级的分析（初版）",
+  "catalogue_entry_ids": [
+    "I-5fb86add9d79c7ed"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3b5aca912f7f4cdbbd96",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:43.367431+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-033a.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"39d5-535c3e1752940\"",
+  "last_modified": "Tue, 21 Jun 2016 06:25:01 GMT",
+  "raw_sha256": "9b7d4adffb01aa18376af52884ef093978a6426273dcf93c34662598891159d5",
+  "raw_bytes": 14805,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9b7d4adffb01aa18376af52884ef093978a6426273dcf93c34662598891159d5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国社会各阶级的分析（初版）（一九二五•十二•一）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "中国社会各阶级的分析（毛选版）",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19251201.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3b5aca912f7f4cdbbd96.txt",
+  "text_sha256": "4793b9c5b30413dc7f9f701d5175031b07b84c94c63857fae42491761c6a5a3f",
+  "text_chars": 6306,
+  "text_lines": 103,
+  "document_path": "archive/documents/A-3b5aca912f7f4cdbbd96.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

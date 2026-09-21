@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-033b.htm",
+  "title": "关于《中国社会各阶级的分析》的最初版本（沙鹤闻）",
+  "catalogue_entry_ids": [
+    "I-d9e7ffe3473d54cc"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2d9c4542a00b1e4bb91a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:43.824600+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-033b.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1076-535c492c80f00\"",
+  "last_modified": "Tue, 21 Jun 2016 07:14:36 GMT",
+  "raw_sha256": "76dea0fe40ef5a1d6030cb1f2a9ac8d72532f1246ef15c78abea6db53954d33e",
+  "raw_bytes": 4214,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/76dea0fe40ef5a1d6030cb1f2a9ac8d72532f1246ef15c78abea6db53954d33e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于《中国社会各阶级的分析》的最初版本（沙鹤闻）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2d9c4542a00b1e4bb91a.txt",
+  "text_sha256": "04f67a666af274db7030f04386ab79c44077bdd34732949f9407f907b0c490fb",
+  "text_chars": 1688,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-2d9c4542a00b1e4bb91a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

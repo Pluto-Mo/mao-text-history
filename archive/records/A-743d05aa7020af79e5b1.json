@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-035.htm",
+  "title": "江浙农民的痛苦及其反抗运动",
+  "catalogue_entry_ids": [
+    "I-e1bea9cca936afdc"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-743d05aa7020af79e5b1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:44.283381+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-035.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1c09-529fc23d1c240\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:53 GMT",
+  "raw_sha256": "a8c530963c28b7342739ea005484f7ce55ff079a5891ad34c2a6ba76d11f5f6e",
+  "raw_bytes": 7177,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a8c530963c28b7342739ea005484f7ce55ff079a5891ad34c2a6ba76d11f5f6e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "江浙农民的痛苦及其反抗运动",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-743d05aa7020af79e5b1.txt",
+  "text_sha256": "778c0e073911b5da873dcd01318c6ee2707de1b670092eb32e1ae24a0825399f",
+  "text_chars": 3154,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-743d05aa7020af79e5b1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

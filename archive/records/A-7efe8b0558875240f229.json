@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-027-2.htm",
+  "title": "杀尽知识阶级的是谁（李春涛）",
+  "catalogue_entry_ids": [
+    "I-133c08435da1106e"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7efe8b0558875240f229",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:41.270069+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-027-2.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"99e-529fc495ecbc0\"",
+  "last_modified": "Sat, 23 Jan 2016 08:40:23 GMT",
+  "raw_sha256": "23e573cab003cdb4fd909a9d544cce5597b8a4e64a8e3eb3b05e1f9a3f970df5",
+  "raw_bytes": 2462,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/23e573cab003cdb4fd909a9d544cce5597b8a4e64a8e3eb3b05e1f9a3f970df5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "杀尽知识阶级的是谁〔削除〕*（李春涛，一九二五·一二·一三）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7efe8b0558875240f229.txt",
+  "text_sha256": "db5945ad0759c2a078b2050838c380dee29717fd526d246d4ae17ed7c9d07d88",
+  "text_chars": 833,
+  "text_lines": 11,
+  "document_path": "archive/documents/A-7efe8b0558875240f229.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

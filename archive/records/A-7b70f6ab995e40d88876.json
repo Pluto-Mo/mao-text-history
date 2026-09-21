@@ -1,0 +1,79 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm",
+  "title": "宣传报告",
+  "catalogue_entry_ids": [
+    "I-f8ce8451bc06fd43"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7b70f6ab995e40d88876",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:42.473266+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2904-529fc23d1c240\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:53 GMT",
+  "raw_sha256": "e9832a53454de5f7f028ab3c1df00be1efc67b83800220962caf23b296328d55",
+  "raw_bytes": 10500,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e9832a53454de5f7f028ab3c1df00be1efc67b83800220962caf23b296328d55.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "宣传报告",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-031.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7b70f6ab995e40d88876.txt",
+  "text_sha256": "07dff7ce1f8603cde9cbccbd3d77398b91abd287c5b2ca78589e35c6f4de41f2",
+  "text_chars": 4211,
+  "text_lines": 121,
+  "document_path": "archive/documents/A-7b70f6ab995e40d88876.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

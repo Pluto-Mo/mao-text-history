@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm",
+  "title": "怎样分析农村阶级",
+  "catalogue_entry_ids": [
+    "I-131584bc19b36065"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e524c465b24e422ed595",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:49.133131+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"eb5-5a0e78a597f74\"",
+  "last_modified": "Sun, 15 Mar 2020 16:53:22 GMT",
+  "raw_sha256": "ca0559ca5979ededa3395cd9776d12ef213d94af2380c1292b25b7f64c69ad1f",
+  "raw_bytes": 3765,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ca0559ca5979ededa3395cd9776d12ef213d94af2380c1292b25b7f64c69ad1f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "怎样分析农村阶级（一九三三年十月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193310.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e524c465b24e422ed595.txt",
+  "text_sha256": "57d53f870a83b5c67edc6eba40d8024251b631c996786f5d97ff94209e48b0ea",
+  "text_chars": 1251,
+  "text_lines": 26,
+  "document_path": "archive/documents/A-e524c465b24e422ed595.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
