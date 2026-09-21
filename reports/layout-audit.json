@@ -1,0 +1,437 @@
+[
+  {
+    "source_id": "MIA-1968",
+    "receipt": {
+      "id": "F-22d9034b3e88ccba",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm",
+      "retrieved_at": "2026-09-21T08:24:18.826426+00:00",
+      "raw_retention": "ephemeral_cache_not_in_repository",
+      "published_fulltext": false,
+      "status": "retrieved_html",
+      "final_url": "https://www.marxists.org/chinese/maozedong/1968/index.htm",
+      "content_type": "text/html",
+      "byte_count": 90161,
+      "raw_sha256": "6d1b04c02c7d6a7555fc4787ce42a7bb99ca87b184ab3c959393d61c1ad65b1f",
+      "extracted_text_sha256": "e56ecfe01132ed499744deca97a1083ca12e949aa5bb58d936c93bb34e6e0a0a",
+      "text_char_count": 57311,
+      "encoding": "windows-1252",
+      "html_title": "1968ÄêÎäºº°æ¡¶Ã«Ôó¶«Ë¼ÏëÍòËê¡·"
+    },
+    "tables": [
+      {
+        "index": 1,
+        "parent": "div",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "ÖÐÎÄÂí¿ËË¼Ö÷ÒåÎÄ¿â -> Ã«Ôó¶« -> 1968Äêºº°æ¡¶Ã«Ôó¶«Ë¼ÏëÍòËê¡· 1968ÄêÎäºº°æ¡¶Ã«Ôó¶",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "ÖÐÎÄÂí¿ËË¼Ö÷ÒåÎÄ¿â -> Ã«Ôó¶« -> 1968Äêºº°æ¡¶Ã«Ôó¶«Ë¼ÏëÍòËê¡· 1968ÄêÎäºº°æ¡¶Ã«Ôó¶«Ë¼ÏëÍòËê¡· ËµÃ÷ £ºÎÄ¸ï³õÆÚÎäºº´óÑ§ÕÜÑ§Ï"
+      },
+      {
+        "index": 2,
+        "parent": "div",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "ËµÃ÷ £ºÎÄ¸ï³õÆÚÎäºº´óÑ§ÕÜÑ§Ïµ½ÌÊ¦ÍõêËÐÇÊÕ¼¯£¬¡°¸Ö¶þË¾Îäºº´óÑ§×Ü²¿¡±Ó¡Ë¢ºÍ·¢ÐÐµÄ¡",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "Ò»¾ÅÒ»ÈýÄê¡«Ò»¾Å¶þÎåÄê ¡¡¡¤ ¡¡Ò»¾Å¶þÁùÄê¡«Ò»¾ÅÈýÎåÄê ¡¡¡¤ ¡¡Ò»¾ÅÈýÁùÄê¡«Ò»¾ÅËÄÈý",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "ËµÃ÷ £ºÎÄ¸ï³õÆÚÎäºº´óÑ§ÕÜÑ§Ïµ½ÌÊ¦ÍõêËÐÇÊÕ¼¯£¬¡°¸Ö¶þË¾Îäºº´óÑ§×Ü²¿¡±Ó¡Ë¢ºÍ·¢ÐÐµÄ¡°ÄÚ²¿×ÊÁÏ¡±£¬¹²Îå¾í£¬Ê®Áù¿ª±¾£¬200¶àÍò×Ö"
+      },
+      {
+        "index": 3,
+        "parent": "div",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "Ò»¾ÅÒ»ÈýÄê¡«Ò»¾Å¶þÎåÄê ¡¡¡¤ ¡¡Ò»¾Å¶þÁùÄê¡«Ò»¾ÅÈýÎåÄê ¡¡¡¤ ¡¡Ò»¾ÅÈýÁùÄê¡«Ò»¾ÅËÄÈý",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "Ò»¾ÅÒ»ÈýÄê¡«Ò»¾Å¶þÎåÄê ¡¡¡¤ ¡¡Ò»¾Å¶þÁùÄê¡«Ò»¾ÅÈýÎåÄê ¡¡¡¤ ¡¡Ò»¾ÅÈýÁùÄê¡«Ò»¾ÅËÄÈýÄê Ò»¾ÅËÄÈýÄê¡«Ò»¾ÅËÄ¾ÅÄê ¡¡¡¤ ¡¡²¹ÒÅ Ò»"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "h3",
+        "text": "Ò»¾ÅÒ»ÈýÄê¡«Ò»¾ÅËÄÈýÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÒ»ÈýÄê¡«Ò»¾Å¶þÎåÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾Å¶þÁùÄê¡«Ò»¾ÅÈýÎåÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÈýÁùÄê¡«Ò»¾ÅËÄÈýÄê"
+      },
+      {
+        "tag": "h3",
+        "text": "Ò»¾ÅËÄÈýÄê¡«Ò»¾ÅËÄ¾ÅÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "²¹ÒÅ"
+      },
+      {
+        "tag": "h3",
+        "text": "Ò»¾ÅËÄ¾ÅÄê¡«Ò»¾ÅÎåÆßÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅËÄ¾ÅÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎå¡ðÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎåÒ»Äê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎå¶þÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎåÈýÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎåËÄÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎåÎåÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎåÁùÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎåÆßÄê"
+      },
+      {
+        "tag": "h3",
+        "text": "Ò»¾ÅÎå°Ë¡«Ò»¾ÅÁù¡ðÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎå°ËÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÎå¾ÅÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁù¡ðÄê"
+      },
+      {
+        "tag": "h3",
+        "text": "Ò»¾ÅÁùÒ»¡«Ò»¾ÅÁù°ËÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁùÒ»Äê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁù¶þÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁùÈýÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁùËÄÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁùÎåÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁùÁùÄê"
+      },
+      {
+        "tag": "h4",
+        "text": "Ò»¾ÅÁùÆßÄê"
+      },
+      {
+        "tag": "h3",
+        "text": "Ò»¾ÅÁù°ËÄê 373 ¶Ô¹ã¶«ÎÊÌâµÄÖ¸Ê¾£¨Ò»¾ÅÁù°ËÄê¶þÔÂ£© 374 ¹ØÓÚ¸ïÃüÎ¯Ô±»áµÈµÄÖ¸Ê¾£¨Ò»¾ÅÁù°ËÄê¶þÔÂ£© 375 ÎÞ²ú½×¼¶ÎÄ»¯´ó¸ïÃüÊÇ¹²²úµ³ºÍ¹úÃñµ³³¤ÆÚ¶·ÕùµÄ¼ÌÐø£¨Ò»¾ÅÁù°ËÄêÈ"
+      }
+    ]
+  },
+  {
+    "source_id": "MIA-COLLECT",
+    "receipt": {
+      "id": "F-2cf7f5b6d6857f0d",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm",
+      "retrieved_at": "2026-09-21T08:24:19.778807+00:00",
+      "raw_retention": "ephemeral_cache_not_in_repository",
+      "published_fulltext": false,
+      "status": "retrieved_html",
+      "final_url": "https://www.marxists.org/chinese/maozedong/collect/index.htm",
+      "content_type": "text/html",
+      "byte_count": 60552,
+      "raw_sha256": "0e043d80c37725789fa48def6982754a66f6b1ba0054b4da4826a94d850f6eb9",
+      "extracted_text_sha256": "ac056acccfb754046dfa4047a7e21c694f1934892a1d9fbd932f9c05b6d80a28",
+      "text_char_count": 22068,
+      "encoding": "gb2312",
+      "html_title": "《毛泽东集》（共十卷）及《补卷》（共九卷＋著作提表）PDF电子书及目录"
+    },
+    "tables": [
+      {
+        "index": 1,
+        "parent": "div",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "中文马克思主义文库 -> 毛泽东 -> 《毛泽东集》及补卷 目 录 《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7",
+                "direct_table_count": 1
+              }
+            ]
+          }
+        ],
+        "text_start": "中文马克思主义文库 -> 毛泽东 -> 《毛泽东集》及补卷 目 录 《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷 第10卷 PDF下载 ・ 第一卷 ・ 第二卷 ・ 第三卷"
+      },
+      {
+        "index": 2,
+        "parent": "td",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "中文马克思主义文库 -> 毛泽东 -> 《毛泽东集》及补卷 目 录 《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7",
+                "direct_table_count": 2
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "页 17 19 21 23 49 51 53 61 63 65 67 69 73 75 79 81 87 89 91 93 95 97 99 101 103 1",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "篇 目 致斯大林祝贺苏联红军解放柏林的贺电 给八路军一二��师三五九旅的电报 在中国共产党第七次全国代表大会期间关于选举问题的两次讲话 在中国共产党第七次全国代",
+                "direct_table_count": 0
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": "2",
+                "start": "第九卷 补遗 （共102篇）",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": "2",
+                "start": "",
+                "direct_table_count": 0
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "页 17 19 49 51 53 55 59 67 69 73 77 79 83 85 89 91 93 95 97 101 103 105 107 111 1",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "篇 目 为肖子升的「一切入一」自学笔记所写的序言 「伦理学原理」批语 湘江评论启事 湘江评论申明 *湖南学生联合会呈省长文 关于赵女士自杀事件 学生之工作 *张",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "中文马克思主义文库 -> 毛泽东 -> 《毛泽东集》及补卷 目 录 《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷 第10卷 PDF下载 ・ 第一卷 ・ 第二卷 ・ 第三卷"
+      },
+      {
+        "index": 3,
+        "parent": "td",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "目 录 《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷 第10卷 PDF下载 ・ 第一卷 ・",
+                "direct_table_count": 1
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "目 录 《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷 第10卷 PDF下载 ・ 第一卷 ・ 第二卷 ・ 第三卷 ・ 第四卷 ・ 第五卷 ・ 第六卷 ・ 第七卷 ・ 第八卷"
+      },
+      {
+        "index": 4,
+        "parent": "td",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "《 毛泽东集 》 目录",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷 第10卷",
+                "direct_table_count": 0
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "PDF下载",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "・ 第一卷 ・ 第二卷 ・ 第三卷 ・ 第四卷 ・ 第五卷 ・ 第六卷 ・ 第七卷 ・ 第八卷 ・ 第九卷 ・ 第十卷",
+                "direct_table_count": 0
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "《 毛泽东集补卷 》 目录",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "《 毛泽东集 》 目录 Ø 第1卷 第2卷 Ø 第3卷 第4卷 Ø 第5卷 第6卷 Ø 第7卷 第8卷 Ø 第9卷 第10卷 PDF下载 ・ 第一卷 ・ 第二卷 ・ 第三卷 ・ 第四卷 ・ 第五卷 ・ 第六卷 ・ 第七卷 ・ 第八卷 ・ 第"
+      },
+      {
+        "index": 5,
+        "parent": "td",
+        "rows": [
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": "4",
+                "start": "《毛泽东集》",
+                "direct_table_count": 0
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": "2",
+                "start": "第一卷 初期（1917.3～1927.4） （共38篇）",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": "2",
+                "start": "第二卷 井冈山期（1927.～1931.8） （共22篇）",
+                "direct_table_count": 0
+              }
+            ]
+          },
+          {
+            "cells": [
+              {
+                "tag": "td",
+                "span": null,
+                "start": "页 33 35 49 51 53 57 71 73 75 81 85 87 91 93 97 99 101 109 113 115 117 119 121 12",
+                "direct_table_count": 0
+              },
+              {
+                "tag": "td",
+                "span": null,
+                "start": "篇 目 例 言 给宫崎滔天的信 体育之研究 工人夜学招学广告 工人夜学招生广告 湘江评论创刊宣言 民众的大联合 *文化书社组织大纲 *文化书社启事 文化书社社务",
+                "direct_table_count": 0
+              }
+            ]
+          }
+        ],
+        "text_start": "《毛泽东集》 第一卷 初期（1917.3～1927.4） （共38篇） 第二卷 井冈山期（1927.～1931.8） （共22篇） 页 33 35 49 51 53 57 71 73 75 81 85 87 91 93 97 99 101 "
+      }
+    ],
+    "headings": []
+  }
+]
