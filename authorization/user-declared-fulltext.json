@@ -1,0 +1,10 @@
+{
+  "id": "user-declared-fulltext-2026-09-21",
+  "basis": "repository operator states they hold copyright and explicitly requests completing full-text copying",
+  "scope": "the four named research collections and the source webpages/documents identified for this repository",
+  "permission_used": "retrieve, preserve, extract and publish source text in Pluto-Mo/mao-text-history for the requested research corpus",
+  "authority_status": "user_declaration_not_independent_legal_verification",
+  "does_not_assert": ["public domain status", "a blanket third-party reuse license", "archival authenticity", "rights to unrelated collections"],
+  "access_limits": ["publicly accessible source URLs only", "no credential or paywall bypass", "no execution of source scripts or document attachments"],
+  "preservation": "retain source URLs, fetched bytes or lossless compressed originals, extraction hashes and provenance; keep source editorial notes distinguishable from research conclusions"
+}
