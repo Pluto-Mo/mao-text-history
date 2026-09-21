@@ -1,0 +1,160 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC3%E5%8D%B7%EF%BC%881945.08-1949.09%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第3卷（1945.08-1949.09）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 3,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第3卷（1945.08-1949.09）.pdf",
+  "mirror_git_blob_sha1": "3cef012058526fc4b113ed1f02027cc7912041a8",
+  "mirror_expected_bytes": 44070438,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-ce6e7a65555cd6cd36fd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:20.866400+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC3%E5%8D%B7%EF%BC%881945.08-1949.09%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"3bdeaf8d15712183285aeaa60cc7e920591bd57f4442c41d1a64e2a43872f91f\"",
+  "last_modified": null,
+  "raw_sha256": "f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468",
+  "raw_bytes": 44070438,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0000",
+    "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0000",
+      "sha256": "8140061c42cccc872f3f3684f59ce062ca492564ad46e10627603178231dc386",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0001",
+      "sha256": "0aa5b1b54c648730d51850178cca310af431f83825b38f7273cf6741b7b30e64",
+      "bytes": 2127398
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 588,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110152423+08'00'",
+    "modDate": "D:20240119221013+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1945年（8月-12月）",
+      6
+    ],
+    [
+      1,
+      "1946年",
+      59
+    ],
+    [
+      1,
+      "1947年",
+      163
+    ],
+    [
+      1,
+      "1948年",
+      268
+    ],
+    [
+      1,
+      "1949年（1月-9月）",
+      435
+    ],
+    [
+      1,
+      "封底",
+      588
+    ]
+  ],
+  "pdf_pages_with_text": 586,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-ce6e7a65555cd6cd36fd.jsonl",
+  "text_path": "archive/text/A-ce6e7a65555cd6cd36fd.txt",
+  "text_sha256": "c2f5413a45f2b717d1686a67a1a713d109e161e39f7d353bbd0bdc8f7f3ff25f",
+  "text_chars": 450820,
+  "text_lines": 24393,
+  "document_path": "archive/documents/A-ce6e7a65555cd6cd36fd.md",
+  "cover_path": "archive/covers/A-ce6e7a65555cd6cd36fd.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "3\n翌\n1919 \n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n编\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "共\n主\n先\n党\n史\n旭\n赵\n福\n亭\n文\n献\n、\n吴\n正\n裕\n院\n编\n—_||—||\n分\n三\n卷\n央\n吠\n出\n土\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "加卷\n的：\n陈廉李、二\n炳铲\n李捷\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n年\n年\n麟\n78 \n44 \n99 \n111 \n(8 月\n(1 月\n月）\n••••••••••••••••••••• \n月）\n.. \n. \n••••••••••• \n........ \n•••••••••••••••••••••••• \n•••••••••••••••••••••••• \n....... \n....... \n••••••• \n••••••• \n....... \n....... \n••••••• \n.............. \n••••••• \n...........癖．．．．．．．．．\n、\n丿\n）\n83 \n56 \n(12 \n((( \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": "詹\n"
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n1 9 4 5 年五十二岁\n8 月\n10 日\n晚上，得知日本政府发出乞降照会。\n同日\n为中共中央起草致郑位三、李先念、陈少敏(1) 并告\n华中局电：“苏联参战，日本投降，内战迫近。你们所处地位不\n可能夺取大城市，而应乘机扩大地区，夺取武装，夺取小城市，\n发动群众，准备对付内战。”\n同日\n晚十二时，朱德总司令在延安总部发布命令，要求各\n解放区抗日部队向附近敌伪送出通牒，限其千一定时间内缴出全\n部武装，在缴械后，我军当保护其生命安全，如敌伪拒绝投降，\n予以坚决消灭。\n8 月\n11 日\n为中共中央起草《关于日本投降后中国共产党\n任务的决定》，指出：“苏联参战后，日本已宣布投降。国民党积\n极准备向我解放区收复失地，夺取抗日胜利的果实。这一争夺\n战，将是极猛烈的。”“目前阶段，应集中主要力量迫使敌伪向我\n投降，不投降者，按具体情况发动进攻，逐一消灭之，猛力扩大\n解放区，占领一切可能与必须占领的大小城市与交通要道，夺取\n武器与资源，并放手武装基本群众，不应稍有犹豫。为此目的，\n(1) 郑位三，曾任中共鄂豫边区委员会书记。\n1945 年\n10 月任中共中央中原\n局代理书记、中原军区政治委员。李先念，当时任中共鄂豫皖湘赣区\n委员会书记、新四军第\n5 师师长兼政治委员。\n1945 年\n10 月任中共中央\n中原局常委、＼中原军区司令员。陈少敏，当时任中共鄂豫皖湘赣区委\n员会副书记兼妇女工作委员会书记。\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-ce6e7a65555cd6cd36fd/page-01.png",
+    "archive/edition-checks/A-ce6e7a65555cd6cd36fd/page-02.png",
+    "archive/edition-checks/A-ce6e7a65555cd6cd36fd/page-03.png",
+    "archive/edition-checks/A-ce6e7a65555cd6cd36fd/page-04.png",
+    "archive/edition-checks/A-ce6e7a65555cd6cd36fd/page-05.png",
+    "archive/edition-checks/A-ce6e7a65555cd6cd36fd/page-06.png"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC4%E5%8D%B7%EF%BC%881949.10-1952.12%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第4卷（1949.10-1952.12）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 4,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第4卷（1949.10-1952.12）.pdf",
+  "mirror_git_blob_sha1": "43cc764735dc0f638109266ddf59a2a5b69c13d9",
+  "mirror_expected_bytes": 50130671,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-0a774548ee55c2288a21",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:20.867162+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC4%E5%8D%B7%EF%BC%881949.10-1952.12%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"4b71ca482202963260a8b7853bc8fbd832e3502bd1864d1928fe7358d475b546\"",
+  "last_modified": null,
+  "raw_sha256": "fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113",
+  "raw_bytes": 50130671,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0000",
+    "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0000",
+      "sha256": "db4beae2bd1c9ecc481a187f4b1badd9adff07719ae23f5d0cb9bf6805c04d4d",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0001",
+      "sha256": "697746b7e38c6960716cece04c55e9229ed8522074d9c9a8a84d1650053a1a24",
+      "bytes": 8187631
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 654,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110152900+08'00'",
+    "modDate": "D:20240119214850+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1949年（10月-12月）",
+      6
+    ],
+    [
+      1,
+      "1950年",
+      71
+    ],
+    [
+      1,
+      "1951年",
+      280
+    ],
+    [
+      1,
+      "1952年",
+      463
+    ],
+    [
+      1,
+      "封底",
+      654
+    ]
+  ],
+  "pdf_pages_with_text": 653,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-0a774548ee55c2288a21.jsonl",
+  "text_path": "archive/text/A-0a774548ee55c2288a21.txt",
+  "text_sha256": "2d29271ec66e1ea2a1a7bce83066171274304733a56be94a38c9466ce00268b7",
+  "text_chars": 507179,
+  "text_lines": 27044,
+  "document_path": "archive/documents/A-0a774548ee55c2288a21.md",
+  "cover_path": "archive/covers/A-0a774548ee55c2288a21.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "4\n翌\n1919 \n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n编\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "副\n主\n_ \n_ \n1 \n.. \n共\n中\n编\n冻\n李\n捷\n能\n~\n4\n十\n源\n昊\n正\n浴\n辽\n牛\n知\n厂\n惠\n目\n叱\n一\n系\n牛\n_________ \n仇\n可\n卷\n卜\n飞\n文\n献\n出\n叔\n止\n__ \n”\n;\nt\n~\n;\n“\n5\n_\n得\n黛\n盔\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "参加本卷编写的有：\n吴正裕熊华源黄允升许蕾\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n49 \n(1 \n月\n•••• \n... \n.... \n•••• \n•••• \n.... \n19 \n年．．．．．．．．．．．．．．．．．．．．．．．\n51 \n52 \n.. \n.... \n.. \n.... \n.... \n.... \n．．．．．．．垂．．．．．．．．．．．．．．．．．．．．.............\n•••• \n.... \n... \n... \n.... \n.... \n•••• \n•••• \n.... \n•••• \n.... \n.... \n(1 \n(66) \n275 \n458 \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": ""
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n9 二9\n十六\n10 月\n1 日\n下二二时，中华人民共和国中央人民政府主\n毛东，北中海勤殿持开\n人政委\n会第一饮会议，和副主席朱德、刘少奇、宋庆龄\n李济\n澜、高冈全委贝宣布、职。今议致决议接受《中国\n民冶』会“共纲令为央民、施方；、\n举林伯渠为中央人民政府委员会秘书长，任命周恩来为中央\n民府院理卜部、泽中人政\n人民革命军事委吕会(1) 三席\n儒为中央人民政府最高人民法\n人检察检长；过中\n告\n宙主人民解放军总可了\n沈钧\n长、罗宋桓为中央人民政府最\n民和中央民府I\n同\n下＝日，出＝十军在:1 乐天、1 广隆举\n行庆、华民共国央民政成-典木向世亘\n:“中华人民共和国中央人民政府\n天成立／“接着，按电\n升中4\n民和旗－五红然宣《中人共\n国中央人民政府公告：“本政府为代表中华人民共和国全国\nCI J \n194 9 年\nlG 月、的二人\n中简飞“中\n军委。\n再i\n人命委、\n员会，在本二编者\n文中\n府\n三革二事二\n会，二本书编者尸\n4 年月召的第届全人民、表大不\n1 \n年\n9 月成\\\n11三二国二\n党中:军\n＂三二\n中\n二委。\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-0a774548ee55c2288a21/page-01.png",
+    "archive/edition-checks/A-0a774548ee55c2288a21/page-02.png",
+    "archive/edition-checks/A-0a774548ee55c2288a21/page-03.png",
+    "archive/edition-checks/A-0a774548ee55c2288a21/page-04.png",
+    "archive/edition-checks/A-0a774548ee55c2288a21/page-05.png",
+    "archive/edition-checks/A-0a774548ee55c2288a21/page-06.png"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC2%E5%8D%B7%EF%BC%881937.07-1945.08%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第2卷（1937.07-1945.08）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 2,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第2卷（1937.07-1945.08）.pdf",
+  "mirror_git_blob_sha1": "e54f923f8339cfdd3b6a4087f6a51d79503b87ca",
+  "mirror_expected_bytes": 47690086,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-3aabe7d7d8be471b024f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:20.866908+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC2%E5%8D%B7%EF%BC%881937.07-1945.08%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"0ca7e622bbeee70b76e8cbb8d42190e1915f780f8945ffaf58271c9cc79651e0\"",
+  "last_modified": null,
+  "raw_sha256": "2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed",
+  "raw_bytes": 47690086,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0000",
+    "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0000",
+      "sha256": "8e1909cf8909cc0000aea0c641d773ba33e3ada2376245eebc6753c719a62913",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0001",
+      "sha256": "b76266a8ec1c81ec1fe4dba16b452fe0810f6cfa7d77f3a87f5ddb9ed86d0b1b",
+      "bytes": 5747046
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 626,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110152030+08'00'",
+    "modDate": "D:20240119223238+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1937年（7月-12月）",
+      6
+    ],
+    [
+      1,
+      "1938年",
+      51
+    ],
+    [
+      1,
+      "1939年",
+      109
+    ],
+    [
+      1,
+      "1940年",
+      163
+    ],
+    [
+      1,
+      "1941年",
+      259
+    ],
+    [
+      1,
+      "1942年",
+      360
+    ],
+    [
+      1,
+      "1943年",
+      428
+    ],
+    [
+      1,
+      "1944年",
+      496
+    ],
+    [
+      1,
+      "1945年（1月—8月）",
+      578
+    ],
+    [
+      1,
+      "封底",
+      626
+    ]
+  ],
+  "pdf_pages_with_text": 625,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-3aabe7d7d8be471b024f.jsonl",
+  "text_path": "archive/text/A-3aabe7d7d8be471b024f.txt",
+  "text_sha256": "0165031245eda051ff5bf29ef6d4bb21265d46fe767a56e122d131be33311ddb",
+  "text_chars": 476251,
+  "text_lines": 25399,
+  "document_path": "archive/documents/A-3aabe7d7d8be471b024f.md",
+  "cover_path": "archive/covers/A-3aabe7d7d8be471b024f.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "2\n盖\n1919 \n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n编\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": " \n中\n主\n主\n编\n姚\n央\n史\n和\n文\n[\n逄\n心\n知\n赵究\n吴\n中\n献\n出\n版\n士\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "多，；J立叱组互灼汀．\n尸慰飞卢：飞亡风美习贮\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n1937 年\n(7 月— 12 月）\n1938\n年．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．\n1939 年\n1940 年\n1941 年\n1942 年\n1943 年\n1944 年\n1945 年\n(1 月— 8 月）\n............................................................... \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n......................................... !J..................... \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n................................................................ \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n••••••••••••••••••••••••••••••••••••••••••••• \n(1) \n(46) \n(104) \n(158) \n(254) \n(355) \n(423) \n(491) \n(573) \n••••••••••••••••••••••••••••••••••••••••••••• \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": ""
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n1937 年四十四岁\n7 月7 日\n夜，日本侵略军向卢沟桥一带的中国军队发动进\n攻，并炮轰宛平城。驻守卢沟桥附近的国民党军第二十九军第三\n十七师第一－O旅在旅长何基洋指挥下奋起抵抗。卢沟桥事变爆\n发，全国抗日战争开始。\n7 月8 日\n中共中央向全国发出通电，呼吁全国同胞、政府\n和军队团结起来，筑成民族统一战线的坚固长城，抵抗日本的侵\n略，国共两党合作抵抗日本的新进攻。\n同日\n红军将领毛泽东、朱德、彭德怀等致电蒋介石，要求\n实行全国总动员，保卫平津，保卫华北，收复失地，表示红军将\n士愿为国效命，以达保土卫国之目的。本日，又致电北平宋哲\n元(1J ，天津张自忠(2) ，张家口刘汝明(3) ，保定冯治安[4) ，请\n他们策励全军，为保卫平津、保卫华北而战。\n(1) 宋哲元，当时任国民党军第29 军军长。\n1937 年8 月任国民党军第一战\n区第\n1 集团军总司令兼第59 军军长。\n(2)\n．张自忠，当时任国民党军第29 军第\n38 师师长。\n1937 年10 月任国民党\n军第一战区第\n1 集团军第59 军副军长。\n(3) 刘汝明，当时任国民党军第29 军副军长兼第\n143 师师长。\n1937 年8 月\n任国民党军第一战区第\n1 集团军第68 军军长兼第\n143 师师长。\n(4)\n冯治安，当时任国民党军第\n29 军第\n37 师师长。\n1937 年8 月任国民党\n军第一战区第\n1 集团军第77 军军长兼第37 师师长。\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-3aabe7d7d8be471b024f/page-01.png",
+    "archive/edition-checks/A-3aabe7d7d8be471b024f/page-02.png",
+    "archive/edition-checks/A-3aabe7d7d8be471b024f/page-03.png",
+    "archive/edition-checks/A-3aabe7d7d8be471b024f/page-04.png",
+    "archive/edition-checks/A-3aabe7d7d8be471b024f/page-05.png",
+    "archive/edition-checks/A-3aabe7d7d8be471b024f/page-06.png"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC5%E5%8D%B7%EF%BC%881953.01-1956.09%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第5卷（1953.01-1956.09）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 5,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第5卷（1953.01-1956.09）.pdf",
+  "mirror_git_blob_sha1": "cfa83e286bd3ea1071188963d8a4cad544c4f749",
+  "mirror_expected_bytes": 49672141,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-08e901d73dcd78e98c4b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:22.849535+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC5%E5%8D%B7%EF%BC%881953.01-1956.09%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"a8fcfc07a88026a59f7d65ec48850e359fff284869ed9db22ae819dc003d006e\"",
+  "last_modified": null,
+  "raw_sha256": "ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830",
+  "raw_bytes": 49672141,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0000",
+    "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0000",
+      "sha256": "a0486c207f996fec04ff937778b96cccb6c62b0dbd4c9659f035aa45dcab776e",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0001",
+      "sha256": "24348aa16802386da50d684144712c6298f1184270c9ba10ce213dc8f04d04d7",
+      "bytes": 7729101
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 650,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110153228+08'00'",
+    "modDate": "D:20240119212527+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1953年",
+      6
+    ],
+    [
+      1,
+      "1954年",
+      219
+    ],
+    [
+      1,
+      "1955年",
+      337
+    ],
+    [
+      1,
+      "1956年（1月-9月）",
+      511
+    ],
+    [
+      1,
+      "封底",
+      650
+    ]
+  ],
+  "pdf_pages_with_text": 649,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-08e901d73dcd78e98c4b.jsonl",
+  "text_path": "archive/text/A-08e901d73dcd78e98c4b.txt",
+  "text_sha256": "6eec942ee3ffdf6be613579b1396dfa19c3c7f8081ae917fa2132a16f2d43da5",
+  "text_chars": 506345,
+  "text_lines": 26687,
+  "document_path": "archive/documents/A-08e901d73dcd78e98c4b.md",
+  "cover_path": "archive/covers/A-08e901d73dcd78e98c4b.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "5\n号\n1919 \n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n编\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "副\n主\n编\n陈\n晋\n李\n捷\n熊\n华\n源\n吴\n正\n裕\n张\n素\n华\n主\n编\n逄\n先\n知\n冯\n蕙\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n编\n第\n五\n卷\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "燃\nj\n，\n如\n，\n＇\n．\n参加本春绪写扣有：\n吴元裕熊华沌茨允升刘建平\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n1953 年\n1954 年\n1955 年\n1956 年\n(1 月— 9 月）\n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n............................................................... \n••••••••••••••••••••••••••••••••••••••••••••• \n(1) \n(214) \n(332) \n(506) \n•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": "'. \n... \n"
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n1 9 5 3 年六十岁\n1 月\n1\n日\n为转发萧向荣C 1) 一九五二年十二月三十一日关\n千各军事部门检讨同苏联顾问关系的综合报告，写批语：“这个\n总结很好，发给军事系统一切有顾问的单位。继续团结所有顾\n问，认真地向他们学习，永远不要骄傲自满，一定要将苏联的一\n切先进经验都学到手，改变我军的落后状态，建设我军为世界上\n第二支最优良的现代化的军队，以利千在将来有把握地战胜帝国\n主义军队的侵略。凡未送检讨报告者，应迅速送来。嗣后每年检\n讨二次。一九五三年应于七月间检讨一次。此件并发给政府系统\n各有顾问的单位以为参考。”\n同日\n审阅彭德怀(2J 一九五二年十二月三十日关于康藏公\n路昌都至拉萨段定线问题的报告和西南军区同月二十九日关于康\n(1) 萧向荣，当时任中央军委办公厅主任。\n1954 年\n10 月又任中共中央军委\n副秘书长。\n(2) 彭德怀，当时任中共中央政治局委员、西北局第一书记、西北军政委\n员会\n(1953 年\n1 月\n27 日改为西北行政委员会）主席、中央军委副主\n席、中国人民解放军西北军区司令员、中国人民志愿军司令员兼政治\n委员。\n1954 年9 月任中共中央军委委员并主持军委日常工作，国务院\n副总理兼国防部部长、国防委员会副主席。\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-08e901d73dcd78e98c4b/page-01.png",
+    "archive/edition-checks/A-08e901d73dcd78e98c4b/page-02.png",
+    "archive/edition-checks/A-08e901d73dcd78e98c4b/page-03.png",
+    "archive/edition-checks/A-08e901d73dcd78e98c4b/page-04.png",
+    "archive/edition-checks/A-08e901d73dcd78e98c4b/page-05.png",
+    "archive/edition-checks/A-08e901d73dcd78e98c4b/page-06.png"
+  ]
+}
