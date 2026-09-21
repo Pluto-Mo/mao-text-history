@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-118.htm",
+  "title": "观看革命现代芭蕾舞剧《红色娘子军》后的指示（一九六四年十月八日）",
+  "catalogue_entry_ids": [
+    "I-0b19030b08b2b9d8"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e96396b550ceffcdbccc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:01.550249+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-118.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"51c-57a2923d6ca5b\"",
+  "last_modified": "Thu, 08 Nov 2018 15:46:37 GMT",
+  "raw_sha256": "370f0a2ac487748d6c59a8959d7bee8b5ec7ecda8cc211b9d1c0a06b99dda636",
+  "raw_bytes": 1308,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/370f0a2ac487748d6c59a8959d7bee8b5ec7ecda8cc211b9d1c0a06b99dda636.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "观看革命现代芭蕾舞剧《红色娘子军》后的指示（一九六四年十月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-117.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-119.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e96396b550ceffcdbccc.txt",
+  "text_sha256": "28f264abca9e295f47ee96dd5222864fd04ada9d947ff29ab4493ea53e95677d",
+  "text_chars": 149,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-e96396b550ceffcdbccc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

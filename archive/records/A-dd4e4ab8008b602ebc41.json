@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-155.htm",
+  "title": "关于模特儿问题的批示（一九六五年七月十八日）",
+  "catalogue_entry_ids": [
+    "I-22f05b3b710afbed"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dd4e4ab8008b602ebc41",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:12.487246+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-155.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"612-57a292a78a1ad\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:28 GMT",
+  "raw_sha256": "2579cabb9e6e0a29ff7de9e050bc7003fa67f5a48b1d1fc176d0bac485144e93",
+  "raw_bytes": 1554,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2579cabb9e6e0a29ff7de9e050bc7003fa67f5a48b1d1fc176d0bac485144e93.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于模特儿问题的批示（一九六五年七月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-154.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-156.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dd4e4ab8008b602ebc41.txt",
+  "text_sha256": "63afea9f09fa9e0acaae718a23e8d4d141a7cddd85e3cd71420415fb26ea00c2",
+  "text_chars": 266,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-dd4e4ab8008b602ebc41.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-126.htm",
+  "title": "人民日报现在有看头了（一九六四年十二月二十日）",
+  "catalogue_entry_ids": [
+    "I-e1ee20cd3438c7cc"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-aa17a27b3b1b263eb422",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:03.793378+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-126.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"70e-57a2925045eab\"",
+  "last_modified": "Thu, 08 Nov 2018 15:46:56 GMT",
+  "raw_sha256": "beb3c1f356a1cb83c72a18a10d14ae5b822968ac459b5cb2ce8e0fb93e294dcb",
+  "raw_bytes": 1806,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/beb3c1f356a1cb83c72a18a10d14ae5b822968ac459b5cb2ce8e0fb93e294dcb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "人民日报现在有看头了（一九六四年十二月二十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-125.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-127.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-aa17a27b3b1b263eb422.txt",
+  "text_sha256": "afd0f38c7425b3807e8ee2fc190329ad37933619bc6a55b6a9cc2d8644103da7",
+  "text_chars": 385,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-aa17a27b3b1b263eb422.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

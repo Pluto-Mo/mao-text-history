@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-156.htm",
+  "title": "给章士钊的信（一九六五年七月十八日）",
+  "catalogue_entry_ids": [
+    "I-e50d998b6aec4780"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-21899be6facab9e1eaf7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:12.785917+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-156.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"704-57a292a97552b\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:30 GMT",
+  "raw_sha256": "fad7654aa90d67a029e576670dc47519d6e245186fda1513f99a276ef63ecfbc",
+  "raw_bytes": 1796,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fad7654aa90d67a029e576670dc47519d6e245186fda1513f99a276ef63ecfbc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给章士钊的信（一九六五年七月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-155.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-157.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-21899be6facab9e1eaf7.txt",
+  "text_sha256": "ca7830535e6d25032a8c6493575e247f0938ba75db96f0eb4e090c752ffda178",
+  "text_chars": 353,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-21899be6facab9e1eaf7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-146.htm",
+  "title": "听取谷牧、余秋里汇报计划工作时的指示（一九六五年一月）",
+  "catalogue_entry_ids": [
+    "I-107f8ef12bc4c52a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e8a8aa38fcf0011e447e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:10.205642+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-146.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a7c-57a2929a49797\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:14 GMT",
+  "raw_sha256": "c1024e7e2b21058cd048ec1f52a662ed50ef744672a581e3992e8100d31ed20c",
+  "raw_bytes": 2684,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c1024e7e2b21058cd048ec1f52a662ed50ef744672a581e3992e8100d31ed20c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "听取谷牧、余秋里汇报计划工作时的指示（一九六五年一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-144.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-147.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e8a8aa38fcf0011e447e.txt",
+  "text_sha256": "65551e1f01bbd6af243c49ba7f5edd00e2d388ef0fe37fbbc7d14060f4959517",
+  "text_chars": 770,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-e8a8aa38fcf0011e447e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

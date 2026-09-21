@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-133.htm",
+  "title": "关于划阶级问题的指示（时间不详）",
+  "catalogue_entry_ids": [
+    "I-2f9a4b5dec7297a4"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-06bf4eab8f0fb6dd3ddb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:05.883877+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-133.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b18-57a29266641d1\"",
+  "last_modified": "Thu, 08 Nov 2018 15:47:20 GMT",
+  "raw_sha256": "dc09bc1ea8eba0b6489b302d1bf1bfcd2b51aa9b0b81d28e6dc0c82b2022ca35",
+  "raw_bytes": 2840,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dc09bc1ea8eba0b6489b302d1bf1bfcd2b51aa9b0b81d28e6dc0c82b2022ca35.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于划阶级问题的指示（时间不详）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-132.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-134.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-06bf4eab8f0fb6dd3ddb.txt",
+  "text_sha256": "e6334d416b9675a8844f62648de79ef5a0423a0fe318dd84151db3aa0c4b9448",
+  "text_chars": 903,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-06bf4eab8f0fb6dd3ddb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

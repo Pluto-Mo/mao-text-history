@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-157.htm",
+  "title": "对医务人员的谈话（一九六五年七月十九日）",
+  "catalogue_entry_ids": [
+    "I-bb9fe92a1a6e0798"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-345a8fc5ffd5b56cc865",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:13.087559+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-157.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"afc-57a292c0628de\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:54 GMT",
+  "raw_sha256": "f2b841469ab8e69c1487d1defd8be9ae7c5dee5acda171998576ea75f664cc7f",
+  "raw_bytes": 2812,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f2b841469ab8e69c1487d1defd8be9ae7c5dee5acda171998576ea75f664cc7f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对医务人员的谈话（一九六五年七月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-156.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-158.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-345a8fc5ffd5b56cc865.txt",
+  "text_sha256": "3a8f93ffab51d81563bd93e68903d24e048161f556094405ee8938007ef5b0e5",
+  "text_chars": 813,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-345a8fc5ffd5b56cc865.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

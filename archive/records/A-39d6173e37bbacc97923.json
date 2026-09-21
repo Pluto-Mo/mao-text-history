@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-144.htm",
+  "title": "接见苏班德里约的谈话（一九六五年一月二十七日）",
+  "catalogue_entry_ids": [
+    "I-d5bdad8561c180d6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-39d6173e37bbacc97923",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:09.196848+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-144.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7ec-57a292954c1c6\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:09 GMT",
+  "raw_sha256": "56196fc8a9ff5d05a035b57e2efa115472f85282db7b4af6688191c80b89d5c5",
+  "raw_bytes": 2028,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/56196fc8a9ff5d05a035b57e2efa115472f85282db7b4af6688191c80b89d5c5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见苏班德里约的谈话（一九六五年一月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-143.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-145.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-39d6173e37bbacc97923.txt",
+  "text_sha256": "0994640604dc2531b7e01adc194e815c0822462b5185421d1473c181f8030d80",
+  "text_chars": 465,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-39d6173e37bbacc97923.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

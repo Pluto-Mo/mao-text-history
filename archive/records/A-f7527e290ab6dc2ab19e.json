@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-110.htm",
+  "title": "接见尼泊尔教育代表团时的谈话（一九六四年八月二十九日）",
+  "catalogue_entry_ids": [
+    "I-62136fb86e5ef403"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f7527e290ab6dc2ab19e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:58.983419+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-110.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"32e0-57a2922b192b3\"",
+  "last_modified": "Thu, 08 Nov 2018 15:46:17 GMT",
+  "raw_sha256": "725f59f501224aa0b5600436a3cec0a6382e4404f63c0f0d2ad2d03820d86ef8",
+  "raw_bytes": 13024,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/725f59f501224aa0b5600436a3cec0a6382e4404f63c0f0d2ad2d03820d86ef8.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见尼泊尔教育代表团时的谈话（一九六四年八月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-109.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-111.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f7527e290ab6dc2ab19e.txt",
+  "text_sha256": "97448541a38a463804c669fe16e3232896b595b977b15c963e8bf1a1559057e2",
+  "text_chars": 5528,
+  "text_lines": 83,
+  "document_path": "archive/documents/A-f7527e290ab6dc2ab19e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

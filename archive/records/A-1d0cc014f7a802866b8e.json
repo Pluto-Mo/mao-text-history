@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-129.htm",
+  "title": "同江西省委同志谈话记录（摘录）（一九六四年）",
+  "catalogue_entry_ids": [
+    "I-92fc2329a4c92df5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1d0cc014f7a802866b8e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:04.687724+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-129.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"57d-57a292583050b\"",
+  "last_modified": "Thu, 08 Nov 2018 15:47:05 GMT",
+  "raw_sha256": "f613813290e5ade0540db115c24ce35e3aa8143813d640f13cf4f2600b0c1116",
+  "raw_bytes": 1405,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f613813290e5ade0540db115c24ce35e3aa8143813d640f13cf4f2600b0c1116.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "同江西省委同志谈话记录（摘录）（一九六四年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-128.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-130.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1d0cc014f7a802866b8e.txt",
+  "text_sha256": "985ca40b93740d9cb87d80fb04ed7419b03ff2dd80c07402c6a1357883f5d5dd",
+  "text_chars": 192,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-1d0cc014f7a802866b8e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

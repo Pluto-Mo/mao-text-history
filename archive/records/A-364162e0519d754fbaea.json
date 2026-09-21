@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-136.htm",
+  "title": "蹲点问题（一九六四）",
+  "catalogue_entry_ids": [
+    "I-bc2e5f3800950dad"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-364162e0519d754fbaea",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:06.780249+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-136.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"672-57a2926b0b89c\"",
+  "last_modified": "Thu, 08 Nov 2018 15:47:24 GMT",
+  "raw_sha256": "4aaa036ee0488892280fd36d6737d6d0ddd4a052917d226e6eb0288fbbbd5b56",
+  "raw_bytes": 1650,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4aaa036ee0488892280fd36d6737d6d0ddd4a052917d226e6eb0288fbbbd5b56.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "蹲点问题（一九六四）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-135.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-137.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-364162e0519d754fbaea.txt",
+  "text_sha256": "b07780bcb0d4ece8230070ad8041bb2d962e4ef9642257e5f4a1ad5bf68d0cda",
+  "text_chars": 334,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-364162e0519d754fbaea.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

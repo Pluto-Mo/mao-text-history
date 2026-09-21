@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-127.htm",
+  "title": "在中央工作会议上陈伯达同志发言时的插话（一九六四年十二月二十七日）",
+  "catalogue_entry_ids": [
+    "I-7b41458dcc749d7b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1b95b929c90aad85eadb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:04.087665+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-127.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"aaa-57a29253273ba\"",
+  "last_modified": "Thu, 08 Nov 2018 15:46:59 GMT",
+  "raw_sha256": "80a31e10fbfa1f1eaef8d995539cbb0420efc18ea943462e1c21d4e0cbb1f4e5",
+  "raw_bytes": 2730,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/80a31e10fbfa1f1eaef8d995539cbb0420efc18ea943462e1c21d4e0cbb1f4e5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中央工作会议上陈伯达同志发言时的插话（一九六四年十二月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-126.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-128.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1b95b929c90aad85eadb.txt",
+  "text_sha256": "c090d7c7c9b35648727b89d212a283aec3931bb07181b1ee1fd31c3bc266d9f1",
+  "text_chars": 763,
+  "text_lines": 27,
+  "document_path": "archive/documents/A-1b95b929c90aad85eadb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

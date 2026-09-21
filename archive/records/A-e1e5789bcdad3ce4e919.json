@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-134.htm",
+  "title": "关于依靠贫下中农的问题（时间不详）",
+  "catalogue_entry_ids": [
+    "I-7d9f21f49b8aa4f9"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e1e5789bcdad3ce4e919",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:06.184614+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-134.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"8e8-57a2926757480\"",
+  "last_modified": "Thu, 08 Nov 2018 15:47:21 GMT",
+  "raw_sha256": "c13e67ab332a3bfd478141d810ccd6035293c49926f2eaf71bc99249ab49b7b1",
+  "raw_bytes": 2280,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c13e67ab332a3bfd478141d810ccd6035293c49926f2eaf71bc99249ab49b7b1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于依靠贫下中农的问题（时间不详）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-133.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-135.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e1e5789bcdad3ce4e919.txt",
+  "text_sha256": "1d6cab16be383cb181d392b3d07442a81b1d5e6d45540fff959bd1408781a6a5",
+  "text_chars": 604,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-e1e5789bcdad3ce4e919.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

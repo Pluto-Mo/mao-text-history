@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-147.htm",
+  "title": "听取××汇报工业交通会议情况时的指示（一九六五年二月十一日）",
+  "catalogue_entry_ids": [
+    "I-013d9fd45dffc11c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4ae674814268f2ec4a46",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:10.268381+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-147.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7c4-57a2929b6d789\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:15 GMT",
+  "raw_sha256": "2dac2e95e525cadf49a4971d26ac8b44e49931b6b55f296121d868d6f8092a03",
+  "raw_bytes": 1988,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2dac2e95e525cadf49a4971d26ac8b44e49931b6b55f296121d868d6f8092a03.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "听取××汇报工业交通会议情况时的指示（一九六五年二月十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-146.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-148.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4ae674814268f2ec4a46.txt",
+  "text_sha256": "d5704151ed37be419a53e435f1b7c59da9b84384e1c60d73fa35c4d07b167555",
+  "text_chars": 452,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-4ae674814268f2ec4a46.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
