@@ -1,0 +1,36 @@
+name: Preserve pinned book editions
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [mirror_books.py, .github/workflows/mirror-books.yml]
+permissions:
+  contents: write
+concurrency:
+  group: mirror-book-preservation
+  cancel-in-progress: false
+jobs:
+  books:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Install parsers
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install pymupdf==1.26.4
+      - name: Configure normal checkpoint commits
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Preserve identified 2023 editions and original source Git hashes
+        run: python -u mirror_books.py
+      - name: Commit edition acquisition outcomes
+        run: |
+          git add reports/mirror-book-results.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'audit: report actual pinned book acquisition outcomes and edition checks'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
