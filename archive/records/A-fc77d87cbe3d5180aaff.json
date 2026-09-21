@@ -1,0 +1,216 @@
+{
+  "url": "https://ebook.dswxyjy.org.cn/detail/360",
+  "title": "毛泽东年谱（1949—1976）（第三卷）",
+  "catalogue_entry_ids": [
+    "I-f2982f64a04db643"
+  ],
+  "source_ids": [
+    "OFF-NIAN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-official-catalogue",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "book_landing",
+  "id": "A-fc77d87cbe3d5180aaff",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:48.108778+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://ebook.dswxyjy.org.cn/detail/360",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "utf-8",
+  "etag": null,
+  "last_modified": null,
+  "raw_sha256": "96a1d1ed2ca64fb64d22e0d5dd7f9202d34d50010afe29c42fe6afcd7e8d9557",
+  "raw_bytes": 16348,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/96a1d1ed2ca64fb64d22e0d5dd7f9202d34d50010afe29c42fe6afcd7e8d9557.html.gz"
+  ],
+  "media": "html",
+  "encoding": "utf-8",
+  "html_title": "成果总库",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中共中央党史和文献研究院",
+      "url": "http://www.dswxyjy.org.cn/"
+    },
+    {
+      "title": "年谱·传记·手迹·画册",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/8"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/33"
+    },
+    {
+      "title": "立即阅读",
+      "url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/7959b5b5a449a3046af7bbf4ea4ff53297585/mobile/index.html"
+    },
+    {
+      "title": "经典著作编译",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/1"
+    },
+    {
+      "title": "党和国家领导人著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/2"
+    },
+    {
+      "title": "毛泽东著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/64"
+    },
+    {
+      "title": "周恩来著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/65"
+    },
+    {
+      "title": "刘少奇著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/66"
+    },
+    {
+      "title": "朱德著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/67"
+    },
+    {
+      "title": "任弼时著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/68"
+    },
+    {
+      "title": "邓小平著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/69"
+    },
+    {
+      "title": "陈云著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/70"
+    },
+    {
+      "title": "江泽民著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/71"
+    },
+    {
+      "title": "胡锦涛著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/72"
+    },
+    {
+      "title": "习近平著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/73"
+    },
+    {
+      "title": "合集",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/74"
+    },
+    {
+      "title": "其他领导人著作",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/75"
+    },
+    {
+      "title": "党史研究重大成果",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/3"
+    },
+    {
+      "title": "党和国家重要文献",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/6"
+    },
+    {
+      "title": "建党以来重要文献",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/4"
+    },
+    {
+      "title": "建国以来重要文献",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/5"
+    },
+    {
+      "title": "十一届三中全会以来重要文献",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/81"
+    },
+    {
+      "title": "专题文献",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/82"
+    },
+    {
+      "title": "年谱·传记·手迹·画册",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/8"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/33"
+    },
+    {
+      "title": "周恩来",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/83"
+    },
+    {
+      "title": "刘少奇",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/84"
+    },
+    {
+      "title": "朱德",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/85"
+    },
+    {
+      "title": "任弼时",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/86"
+    },
+    {
+      "title": "邓小平",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/87"
+    },
+    {
+      "title": "陈云",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/88"
+    },
+    {
+      "title": "江泽民",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/89"
+    },
+    {
+      "title": "其他领导人",
+      "url": "https://ebook.dswxyjy.org.cn/ebooks/list/90"
+    },
+    {
+      "title": "网站介绍",
+      "url": "http://www.dswxyjy.org.cn/n1/2019/0707/c428475-31218223.html"
+    },
+    {
+      "title": "网站声明",
+      "url": "https://ebook.dswxyjy.org.cn/detail/360"
+    },
+    {
+      "title": "版权信息",
+      "url": "https://ebook.dswxyjy.org.cn/detail/360"
+    }
+  ],
+  "image_links": [
+    "https://ebook.dswxyjy.org.cn/images/qrcode/weibo.png",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/wb.jpg",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/weixin.png",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/wx.jpg",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/wx2.png",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/wx3.png",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/logo_title.png",
+    "https://ebook.dswxyjy.org.cn/images/font.png",
+    "https://ebook.dswxyjy.org.cn/images/shelf.png",
+    "https://ebook.dswxyjy.org.cn/dswxbooks/storage/images/carousels/20190819/2Rc2ojCJS19ZLn49dQRzxvPBJIpqlmHs5rh6EnCg.png",
+    "https://ebook.dswxyjy.org.cn/dswxbooks/storage/images/carousels/20190819/7XBARvz9MK6iu70hBNB7TtAqFjnjM3EmQFgk0ZZD.png",
+    "https://ebook.dswxyjy.org.cn/dswxbooks/storage/images/carousels/20190819/yNyCCiedtx0CPdkWlBjlR6FwgQhyAZN2yX7xWyD6.png",
+    "https://ebook.dswxyjy.org.cn/dswxbooks/storage/images/carousels/20190819/xO1pqP7RNFiu5EHXBVs7TsYKY8mSPotEDPcwuVOo.png",
+    "https://ebook.dswxyjy.org.cn/dswxbooks/storage/images/carousels/20190819/xzvq69DoN5DiEVDAvzDb1wBfrzBfhlI41sF2WQO7.png",
+    "https://ebook.dswxyjy.org.cn/dswxbooks/storage/images/advertisements/20220616/OgjYnecLRJtAvp7KVyATNPpLNrqTuhCaP9cBtuDQ.jpeg",
+    "https://ebook.dswxyjy.org.cn/images/qrcode/footer.png"
+  ],
+  "text_path": "archive/text/A-fc77d87cbe3d5180aaff.txt",
+  "text_sha256": "9541e14750e3b352e627cbdc8c4fce85b3e4326e716e1b4d3aa81473ba411f7d",
+  "text_chars": 492,
+  "text_lines": 61,
+  "document_path": "archive/documents/A-fc77d87cbe3d5180aaff.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

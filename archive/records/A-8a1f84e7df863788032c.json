@@ -1,0 +1,211 @@
+{
+  "url": "https://www.theorychina.org.cn/c/2024-01-08/1491168.shtml",
+  "title": "《建国以来毛泽东文稿》修订、增补工作纪实",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "WENGAO-EDIT"
+  ],
+  "edition_refs": [],
+  "kind": "source_page",
+  "id": "A-8a1f84e7df863788032c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:51.866228+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.theorychina.org.cn/c/2024-01-08/1491168.shtml",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "utf-8",
+  "etag": null,
+  "last_modified": null,
+  "raw_sha256": "734aac4c8ba8782e2e8c84bc0ba392f092035333ca177598a0937ad2515fb888",
+  "raw_bytes": 52576,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/734aac4c8ba8782e2e8c84bc0ba392f092035333ca177598a0937ad2515fb888.html.gz"
+  ],
+  "media": "html",
+  "encoding": "utf-8",
+  "html_title": "《建国以来毛泽东文稿》修订、增补工作纪实",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文",
+      "url": "https://www.theorychina.org.cn"
+    },
+    {
+      "title": "中共中央党史和文献研究院",
+      "url": "http://www.dswxyjy.org.cn/"
+    },
+    {
+      "title": "领导人著作",
+      "url": "https://www.theorychina.org.cn/llzgxs/lxzz_894/"
+    },
+    {
+      "title": "党的文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/ddwx/zggcddescqgdbdh/"
+    },
+    {
+      "title": "人大文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/rdwx/dssjqgrmdbdh_444/"
+    },
+    {
+      "title": "政府文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/zfwx/2026n_704/"
+    },
+    {
+      "title": "政协文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/zxwx/qgzxdssjqgwyhhy_787/"
+    },
+    {
+      "title": "研究成果",
+      "url": "https://www.theorychina.org.cn/yjcg/"
+    },
+    {
+      "title": "首页",
+      "url": "https://www.theorychina.org.cn/"
+    },
+    {
+      "title": "理论动态",
+      "url": "https://www.theorychina.org.cn/llzgxs/lldt_235/"
+    },
+    {
+      "title": "理论前沿",
+      "url": "https://www.theorychina.org.cn/llzgxs/llqy_79/"
+    },
+    {
+      "title": "今日中国",
+      "url": "https://www.theorychina.org.cn/llzgxs/jrzg_923/"
+    },
+    {
+      "title": "国际交流",
+      "url": "https://www.theorychina.org.cn/gjjl/"
+    },
+    {
+      "title": "新书推荐",
+      "url": "https://www.theorychina.org.cn/llzgxs/xsjs_576/"
+    },
+    {
+      "title": "期刊要览",
+      "url": "https://www.theorychina.org.cn/llzg-xs/qkyl_28/"
+    },
+    {
+      "title": "专题集锦",
+      "url": "https://www.theorychina.org.cn/ztjj/"
+    },
+    {
+      "title": "影像资料",
+      "url": "https://www.theorychina.org.cn/yxzl/"
+    },
+    {
+      "title": "关于我们",
+      "url": "https://www.theorychina.org.cn/c/2012-12-05/1269233.shtml"
+    },
+    {
+      "title": "",
+      "url": "http://www.dswxyjy.org.cn/GB/427277/422505/index.html"
+    },
+    {
+      "title": "首页",
+      "url": "https://www.theorychina.org.cn/"
+    },
+    {
+      "title": "专题集锦",
+      "url": "https://www.theorychina.org.cn/ztjj/"
+    },
+    {
+      "title": "纪念毛泽东同志诞辰130周年",
+      "url": "https://www.theorychina.org.cn/ztjj/jnmzdtzdc130zn/"
+    },
+    {
+      "title": "研究文章",
+      "url": "https://www.theorychina.org.cn/ztjj/jnmzdtzdc130zn/yjwz/"
+    },
+    {
+      "title": "刘一丁：毛泽东与理论联系实际",
+      "url": "https://www.theorychina.org.cn/c/2024-01-15/1491518.shtml"
+    },
+    {
+      "title": "陈刚：北京大学新闻学研究会对毛泽东的影响",
+      "url": "https://www.theorychina.org.cn/c/2024-01-08/1491164.shtml"
+    },
+    {
+      "title": "为了共同繁荣的梦想——习近平主席引领全球发...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-21/1552892.shtml"
+    },
+    {
+      "title": "五年笃行，中国坚定做全球发展合作的行动...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-21/1552889.shtml"
+    },
+    {
+      "title": "寰宇平：汇聚共同发展力量 照亮人类美好...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-21/1552886.shtml"
+    },
+    {
+      "title": "树立和践行正确政绩观学习教育中央指导组...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-17/1552779.shtml"
+    },
+    {
+      "title": "任 平：以正确政绩观推动高质量发展行稳...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-16/1552704.shtml"
+    },
+    {
+      "title": "习近平主席赴印度新德里出席金砖国家领导...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-15/1552692.shtml"
+    },
+    {
+      "title": "以习近平同志为核心的党中央坚强领导科学...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-15/1552695.shtml"
+    },
+    {
+      "title": "金砖国家领导人第十八次会晤新德里宣言（...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-13/1552514.shtml"
+    },
+    {
+      "title": "习近平主席推动金砖合作金句",
+      "url": "https://www.theorychina.org.cn/c/2026-09-12/1552494.shtml"
+    },
+    {
+      "title": "时代·人民·文明  ——中国元首外交的思想...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-07/1552271.shtml"
+    },
+    {
+      "title": "初心不改 虽远不怠  ——习近平主席出席...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-05/1552182.shtml"
+    },
+    {
+      "title": "上海合作组织二十五周年比什凯克宣言",
+      "url": "https://www.theorychina.org.cn/c/2026-09-02/1552072.shtml"
+    },
+    {
+      "title": "《习近平文化文选》第一卷、第二卷出版发...",
+      "url": "https://www.theorychina.org.cn/c/2026-08-27/1551752.shtml"
+    },
+    {
+      "title": "创造经得起实践、人民、历史检验的实绩  ...",
+      "url": "https://www.theorychina.org.cn/c/2026-08-25/1551643.shtml"
+    },
+    {
+      "title": "中华人民共和国国史网",
+      "url": "http://hprc.cssn.cn/"
+    }
+  ],
+  "image_links": [
+    "https://www.theorychina.org.cn/template/images/big_logo.png",
+    "https://www.theorychina.org.cn/template/images/qr_code.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2021/06/23/1919472_1207x120c.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2024/01/08/1948040_700x700.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2024/01/08/1948041_700x700.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2024/01/08/1948042_700x700.png",
+    "https://www.theorychina.org.cn/template/images/qr_code.png"
+  ],
+  "text_path": "archive/text/A-8a1f84e7df863788032c.txt",
+  "text_sha256": "3e0b3584d9d12375580d3a56ff0b5543e83771be7c7ffdcd1a937797688685ba",
+  "text_chars": 11426,
+  "text_lines": 162,
+  "document_path": "archive/documents/A-8a1f84e7df863788032c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

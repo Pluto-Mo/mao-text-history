@@ -1,0 +1,227 @@
+{
+  "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm",
+  "title": "2023年两套修订本出版公告",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "PUB-2023"
+  ],
+  "edition_refs": [],
+  "kind": "source_page",
+  "id": "A-5e3a3b20227d3bf6dba6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:50.536835+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": null,
+  "last_modified": null,
+  "raw_sha256": "054f267c10563e9e3f1ff7d9c5e7e1062cb240991f3fcb375d08c3bea5581b30",
+  "raw_bytes": 32976,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/054f267c10563e9e3f1ff7d9c5e7e1062cb240991f3fcb375d08c3bea5581b30.html.gz"
+  ],
+  "media": "html",
+  "encoding": "utf-8",
+  "html_title": "《建国以来毛泽东文稿》（1—20册）、《毛泽东年谱》（1—9卷）出版发行",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "人民日报",
+      "url": "http://paper.people.com.cn/rmrb/paperindex.htm"
+    },
+    {
+      "title": "人民日报海外版",
+      "url": "http://paper.people.com.cn/rmrbhwb/paperindex.htm"
+    },
+    {
+      "title": "国际金融报",
+      "url": "http://paper.people.com.cn/gjjrb/paperindex.htm"
+    },
+    {
+      "title": "中国能源报",
+      "url": "http://paper.people.com.cn/zgnyb/paperindex.htm"
+    },
+    {
+      "title": "健康时报",
+      "url": "http://paper.people.com.cn/jksb/paperindex.htm"
+    },
+    {
+      "title": "讽刺与幽默",
+      "url": "http://paper.people.com.cn/fcyym/paperindex.htm"
+    },
+    {
+      "title": "中国城市报",
+      "url": "http://paper.people.com.cn/zgcsb/paperindex.htm"
+    },
+    {
+      "title": "新闻战线",
+      "url": "http://paper.people.com.cn/xwzx/paperindex.htm"
+    },
+    {
+      "title": "人民论坛",
+      "url": "http://paper.people.com.cn/rmlt/paperindex.htm"
+    },
+    {
+      "title": "人民周刊",
+      "url": "http://paper.people.com.cn/rmzk/paperindex.htm"
+    },
+    {
+      "title": "中国经济周刊",
+      "url": "http://paper.people.com.cn/zgjjzk/paperindex.htm"
+    },
+    {
+      "title": "民生周刊",
+      "url": "http://paper.people.com.cn/mszk/paperindex.htm"
+    },
+    {
+      "title": "中国报业",
+      "url": "http://paper.people.com.cn/zgby/paperindex.htm"
+    },
+    {
+      "title": "中共中央举行纪念毛泽东同志诞辰130周年座谈会",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_1-01.htm"
+    },
+    {
+      "title": "《建国以来毛泽东文稿》（1—20册）、《毛泽东年谱》（1—9卷）出版发行",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm"
+    },
+    {
+      "title": "《深入学习贯彻习近平总书记在文化传承发展座谈会上的重要讲话精神》出版",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_10-01.htm"
+    },
+    {
+      "title": "关闭",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm"
+    },
+    {
+      "title": "01版：要闻",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_01.htm"
+    },
+    {
+      "title": "02版：要闻",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_02.htm"
+    },
+    {
+      "title": "03版：要闻",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_03.htm"
+    },
+    {
+      "title": "04版：要闻",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_04.htm"
+    },
+    {
+      "title": "05版：评论",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_05.htm"
+    },
+    {
+      "title": "06版：要闻",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_06.htm"
+    },
+    {
+      "title": "07版：要闻",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_07.htm"
+    },
+    {
+      "title": "08版：广告",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_08.htm"
+    },
+    {
+      "title": "09版：理论",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_09.htm"
+    },
+    {
+      "title": "10版：经济",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_10.htm"
+    },
+    {
+      "title": "11版：政治",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_11.htm"
+    },
+    {
+      "title": "12版：广告",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_12.htm"
+    },
+    {
+      "title": "13版：生态",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_13.htm"
+    },
+    {
+      "title": "14版：社会",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_14.htm"
+    },
+    {
+      "title": "15版：广告",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_15.htm"
+    },
+    {
+      "title": "16版：国际",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_16.htm"
+    },
+    {
+      "title": "17版：财经",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_17.htm"
+    },
+    {
+      "title": "18版：产经",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_18.htm"
+    },
+    {
+      "title": "19版：广告",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_19.htm"
+    },
+    {
+      "title": "20版：消费",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_20.htm"
+    },
+    {
+      "title": "返回目录",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nbs.D110000renmrb_01.htm"
+    },
+    {
+      "title": "放大",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm"
+    },
+    {
+      "title": "缩小",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm"
+    },
+    {
+      "title": "全文复制",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_2-01.htm"
+    },
+    {
+      "title": "上一篇",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_1-01.htm"
+    },
+    {
+      "title": "下一篇",
+      "url": "https://paper.people.com.cn/rmrb/html/2023-12/27/nw.D110000renmrb_20231227_10-01.htm"
+    }
+  ],
+  "image_links": [
+    "https://paper.people.com.cn/rmrb/tplimg/logo.png",
+    "https://paper.people.com.cn/rmrb/images/2023-12/27/01/rmrb2023122701_b.jpg",
+    "https://paper.people.com.cn/rmrb/tplimg/down.png",
+    "https://paper.people.com.cn/tiaoshidomain/applications/mp/file_upload/enp/1/12http:/paper.paper.com.cn/rmrb/tplimg/d1.gif",
+    "https://paper.people.com.cn/tiaoshidomain/applications/mp/file_upload/enp/1/12http:/paper.paper.com.cn/rmrb/tplimg/d.gif",
+    "https://paper.people.com.cn/tiaoshidomain/applications/mp/file_upload/enp/1/12http:/paper.paper.com.cn/rmrb/tplimg/d1.gif",
+    "https://paper.people.com.cn/tiaoshidomain/applications/mp/file_upload/enp/1/12http:/paper.paper.com.cn/rmrb/tplimg/d.gif",
+    "https://paper.people.com.cn/rmrb/tplimg/ios.png",
+    "https://paper.people.com.cn/rmrb/tplimg/android.png",
+    "https://paper.people.com.cn/rmrb/tplimg/mini.png",
+    "https://paper.people.com.cn/rmrb/tplimg/go_top.png"
+  ],
+  "text_path": "archive/text/A-5e3a3b20227d3bf6dba6.txt",
+  "text_sha256": "e210663ae9bd6cb837e14e6e78ee343a9ae42a0a678639db7eb99611e96f18d6",
+  "text_chars": 2161,
+  "text_lines": 94,
+  "document_path": "archive/documents/A-5e3a3b20227d3bf6dba6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

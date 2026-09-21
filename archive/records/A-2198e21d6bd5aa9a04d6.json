@@ -1,0 +1,198 @@
+{
+  "url": "https://www.theorychina.org.cn/c/2023-12-22/1490256.shtml",
+  "title": "《毛泽东年谱》（1—9卷）书目及卷次时间范围",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "NIAN-2023"
+  ],
+  "edition_refs": [],
+  "kind": "source_page",
+  "id": "A-2198e21d6bd5aa9a04d6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:50.897783+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.theorychina.org.cn/c/2023-12-22/1490256.shtml",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "utf-8",
+  "etag": null,
+  "last_modified": null,
+  "raw_sha256": "713bcb5109b5c76a082dd0fe177664f6d3b6bbba535eac44cf95c7810e8752f1",
+  "raw_bytes": 15638,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/713bcb5109b5c76a082dd0fe177664f6d3b6bbba535eac44cf95c7810e8752f1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "utf-8",
+  "html_title": "《毛泽东年谱》（1-9卷）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文",
+      "url": "https://www.theorychina.org.cn"
+    },
+    {
+      "title": "中共中央党史和文献研究院",
+      "url": "http://www.dswxyjy.org.cn/"
+    },
+    {
+      "title": "领导人著作",
+      "url": "https://www.theorychina.org.cn/llzgxs/lxzz_894/"
+    },
+    {
+      "title": "党的文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/ddwx/zggcddescqgdbdh/"
+    },
+    {
+      "title": "人大文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/rdwx/dssjqgrmdbdh_444/"
+    },
+    {
+      "title": "政府文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/zfwx/2026n_704/"
+    },
+    {
+      "title": "政协文献",
+      "url": "https://www.theorychina.org.cn/llzgxs/zxwx/qgzxdssjqgwyhhy_787/"
+    },
+    {
+      "title": "研究成果",
+      "url": "https://www.theorychina.org.cn/yjcg/"
+    },
+    {
+      "title": "首页",
+      "url": "https://www.theorychina.org.cn/"
+    },
+    {
+      "title": "理论动态",
+      "url": "https://www.theorychina.org.cn/llzgxs/lldt_235/"
+    },
+    {
+      "title": "理论前沿",
+      "url": "https://www.theorychina.org.cn/llzgxs/llqy_79/"
+    },
+    {
+      "title": "今日中国",
+      "url": "https://www.theorychina.org.cn/llzgxs/jrzg_923/"
+    },
+    {
+      "title": "国际交流",
+      "url": "https://www.theorychina.org.cn/gjjl/"
+    },
+    {
+      "title": "新书推荐",
+      "url": "https://www.theorychina.org.cn/llzgxs/xsjs_576/"
+    },
+    {
+      "title": "期刊要览",
+      "url": "https://www.theorychina.org.cn/llzg-xs/qkyl_28/"
+    },
+    {
+      "title": "专题集锦",
+      "url": "https://www.theorychina.org.cn/ztjj/"
+    },
+    {
+      "title": "影像资料",
+      "url": "https://www.theorychina.org.cn/yxzl/"
+    },
+    {
+      "title": "关于我们",
+      "url": "https://www.theorychina.org.cn/c/2012-12-05/1269233.shtml"
+    },
+    {
+      "title": "",
+      "url": "http://www.dswxyjy.org.cn/GB/427277/422505/index.html"
+    },
+    {
+      "title": "首页",
+      "url": "https://www.theorychina.org.cn/"
+    },
+    {
+      "title": "新书推荐",
+      "url": "https://www.theorychina.org.cn/llzgxs/xsjs_576/"
+    },
+    {
+      "title": "",
+      "url": "https://www.theorychina.org.cn/upload/resources/image/2023/12/28/1947732.jpg"
+    },
+    {
+      "title": "为了共同繁荣的梦想——习近平主席引领全球发...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-21/1552892.shtml"
+    },
+    {
+      "title": "五年笃行，中国坚定做全球发展合作的行动...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-21/1552889.shtml"
+    },
+    {
+      "title": "寰宇平：汇聚共同发展力量 照亮人类美好...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-21/1552886.shtml"
+    },
+    {
+      "title": "树立和践行正确政绩观学习教育中央指导组...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-17/1552779.shtml"
+    },
+    {
+      "title": "任 平：以正确政绩观推动高质量发展行稳...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-16/1552704.shtml"
+    },
+    {
+      "title": "习近平主席赴印度新德里出席金砖国家领导...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-15/1552692.shtml"
+    },
+    {
+      "title": "以习近平同志为核心的党中央坚强领导科学...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-15/1552695.shtml"
+    },
+    {
+      "title": "金砖国家领导人第十八次会晤新德里宣言（...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-13/1552514.shtml"
+    },
+    {
+      "title": "习近平主席推动金砖合作金句",
+      "url": "https://www.theorychina.org.cn/c/2026-09-12/1552494.shtml"
+    },
+    {
+      "title": "时代·人民·文明  ——中国元首外交的思想...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-07/1552271.shtml"
+    },
+    {
+      "title": "初心不改 虽远不怠  ——习近平主席出席...",
+      "url": "https://www.theorychina.org.cn/c/2026-09-05/1552182.shtml"
+    },
+    {
+      "title": "上海合作组织二十五周年比什凯克宣言",
+      "url": "https://www.theorychina.org.cn/c/2026-09-02/1552072.shtml"
+    },
+    {
+      "title": "《习近平文化文选》第一卷、第二卷出版发...",
+      "url": "https://www.theorychina.org.cn/c/2026-08-27/1551752.shtml"
+    },
+    {
+      "title": "创造经得起实践、人民、历史检验的实绩  ...",
+      "url": "https://www.theorychina.org.cn/c/2026-08-25/1551643.shtml"
+    },
+    {
+      "title": "中华人民共和国国史网",
+      "url": "http://hprc.cssn.cn/"
+    }
+  ],
+  "image_links": [
+    "https://www.theorychina.org.cn/template/images/big_logo.png",
+    "https://www.theorychina.org.cn/template/images/qr_code.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2021/06/23/1919472_1207x120c.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2023/12/28/1947731_145x190c.png",
+    "https://www.theorychina.org.cn/upload/resources/image/2023/12/28/1947732_500x500.jpg?r=1703735787076",
+    "https://www.theorychina.org.cn/template/images/qr_code.png"
+  ],
+  "text_path": "archive/text/A-2198e21d6bd5aa9a04d6.txt",
+  "text_sha256": "4b6520bd7913089151a47db909c89da8ca9ce431567a449b3a6b5981853ecacf",
+  "text_chars": 1361,
+  "text_lines": 84,
+  "document_path": "archive/documents/A-2198e21d6bd5aa9a04d6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

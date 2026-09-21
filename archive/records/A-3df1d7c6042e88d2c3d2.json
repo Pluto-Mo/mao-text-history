@@ -1,0 +1,85 @@
+{
+  "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml",
+  "title": "《毛泽东文集》第七卷所载《正处》及题注网页",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "ZHENGCHU-WENJI"
+  ],
+  "edition_refs": [],
+  "kind": "source_page",
+  "id": "A-3df1d7c6042e88d2c3d2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:49.437820+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": null,
+  "last_modified": null,
+  "raw_sha256": "c41cd324100e1fb91ead16140af43503ff76924bbc19a1c1a2fdae7d82802d53",
+  "raw_bytes": 184966,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c41cd324100e1fb91ead16140af43503ff76924bbc19a1c1a2fdae7d82802d53.html.gz"
+  ],
+  "media": "html",
+  "encoding": "utf-8",
+  "html_title": "关于正确处理人民内部矛盾的问题_共产党员网",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "注册",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "忘记密码",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "党务知识",
+      "url": "https://fuwu.12371.cn/dwwd/"
+    },
+    {
+      "title": "分享",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "请先登录",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "分享",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    },
+    {
+      "title": "",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+    }
+  ],
+  "image_links": [
+    "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml"
+  ],
+  "text_path": "archive/text/A-3df1d7c6042e88d2c3d2.txt",
+  "text_sha256": "b602870c287ae39f53330a5ada7e9ae390cd3c95b1b45c615850e280d944bcba",
+  "text_chars": 25544,
+  "text_lines": 183,
+  "document_path": "archive/documents/A-3df1d7c6042e88d2c3d2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

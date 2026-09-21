@@ -1,0 +1,17 @@
+{
+  "url": "https://hprc.cssn.cn/gsyj/zzs/mzdsxyj/202405/t20240515_5751256.html",
+  "title": "张琳、孙宇：《正处》的文本修改与版本考异",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "ZHENGCHU-STUDY"
+  ],
+  "edition_refs": [],
+  "kind": "source_page",
+  "id": "A-5fafe21451239548e96a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:50.276803+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "status": "failed",
+  "error": "URLError: <urlopen error timed out>"
+}
