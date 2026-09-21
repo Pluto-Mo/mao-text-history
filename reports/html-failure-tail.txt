@@ -1,0 +1,20 @@
+6280: 2026-09-21T14:15:11.7132784Z Rebasing (1/1)
+6281: 2026-09-21T14:15:11.7133241Z Successfully rebased and updated refs/heads/main.
+6282: 2026-09-21T14:15:12.3113474Z To https://github.com/Pluto-Mo/mao-text-history
+6283: 2026-09-21T14:15:12.3114063Z  ! [rejected]        HEAD -> main (fetch first)
+6284: 2026-09-21T14:15:12.3114747Z error: failed to push some refs to 'https://github.com/Pluto-Mo/mao-text-history'
+6285: 2026-09-21T14:15:12.3126530Z hint: Updates were rejected because the remote contains work that you do not
+6286: 2026-09-21T14:15:12.3127101Z hint: have locally. This is usually caused by another repository pushing to
+6287: 2026-09-21T14:15:12.3127601Z hint: the same ref. If you want to integrate the remote changes, use
+6288: 2026-09-21T14:15:12.3127992Z hint: 'git pull' before pushing again.
+6289: 2026-09-21T14:15:12.3128375Z hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+6290: 2026-09-21T14:15:12.3151038Z ##[error]Process completed with exit code 1.
+6291: 2026-09-21T14:15:12.3272941Z Post job cleanup.
+6292: 2026-09-21T14:15:12.4132641Z [command]/usr/bin/git version
+6293: 2026-09-21T14:15:12.4173129Z git version 2.55.0
+6294: 2026-09-21T14:15:12.4223968Z Temporarily overriding HOME='/home/runner/work/_temp/1e142b43-103e-4aaa-819a-b9bd0a65d756' before making global git config changes
+6295: 2026-09-21T14:15:12.4225266Z Adding repository directory to the temporary git global config as a safe directory
+6296: 2026-09-21T14:15:12.4227522Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/mao-text-history/mao-text-history
+6297: 2026-09-21T14:15:12.4266772Z Removing SSH command configuration
+6298: 2026-09-21T14:15:12.4275148Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+6299: 2026-09-21T14:15:12.4318088Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"

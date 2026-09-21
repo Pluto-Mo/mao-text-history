@@ -1,0 +1,47 @@
+420: 2026-09-21T14:01:35.5725160Z 毛泽东年谱（1949—1976）（第一卷） 300 655
+421: 2026-09-21T14:02:14.8016714Z 毛泽东年谱（1949—1976）（第一卷） 400 655
+422: 2026-09-21T14:02:54.0009827Z 毛泽东年谱（1949—1976）（第一卷） 500 655
+423: 2026-09-21T14:03:52.4745742Z 毛泽东年谱（1949—1976）（第一卷） 600 655
+424: 2026-09-21T14:04:15.8374645Z Saved pages 毛泽东年谱（1949—1976）（第一卷） 655
+425: 2026-09-21T14:04:54.3939812Z 毛泽东年谱（1949—1976）（第二卷） 100 648
+426: 2026-09-21T14:05:49.4388515Z 毛泽东年谱（1949—1976）（第二卷） 200 648
+427: 2026-09-21T14:06:34.9259668Z 毛泽东年谱（1949—1976）（第二卷） 300 648
+428: 2026-09-21T14:07:20.0925565Z 毛泽东年谱（1949—1976）（第二卷） 400 648
+429: 2026-09-21T14:08:03.1286133Z 毛泽东年谱（1949—1976）（第二卷） 500 648
+430: 2026-09-21T14:08:43.5634092Z 毛泽东年谱（1949—1976）（第二卷） 600 648
+431: 2026-09-21T14:09:11.8513012Z Saved pages 毛泽东年谱（1949—1976）（第二卷） 648
+432: 2026-09-21T14:10:01.6116689Z [main 01acc8f] data: preserve official yearbook source pages, volumes 1 2
+433: 2026-09-21T14:10:01.6117791Z  1328 files changed, 9457 insertions(+)
+434: 2026-09-21T14:10:01.6119538Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0000
+435: 2026-09-21T14:10:01.6121564Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0001
+436: 2026-09-21T14:10:01.6123867Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0002
+437: 2026-09-21T14:10:01.6125891Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0003
+438: 2026-09-21T14:10:01.6127543Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0004
+439: 2026-09-21T14:10:01.6128972Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0005
+440: 2026-09-21T14:10:01.6129960Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0006
+441: 2026-09-21T14:10:01.6130900Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0007
+442: 2026-09-21T14:10:01.6131823Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0008
+443: 2026-09-21T14:10:01.6132743Z  create mode 100644 archive/objects/4036da753bce07e58a1c545df4b1cedf2b19ea3df943963d8616c41256aa546b.pdf.part0009
+444: 2026-09-21T14:10:01.6133843Z  create mode 100644 archive/objects/8ec4a215998784cbfa1b56b189e73d9a2999e68122e3d66d4b389bdfae5c7bc4.pdf.part0000
+445: 2026-09-21T14:10:01.6135716Z  create mode 100644 archive/objects/8ec4a215998784cbfa1b56b189e73d9a2999e68122e3d66d4b389bdfae5c7bc4.pdf.part0001
+446: 2026-09-21T14:10:01.6137062Z  create mode 100644 archive/objects/8ec4a215998784cbfa1b56b189e73d9a2999e68122e3d66d4b389bdfae5c7bc4.pdf.part0002
+1765: 2026-09-21T14:10:23.6716438Z Rebasing (1/1)
+1766: 2026-09-21T14:10:23.6716778Z Successfully rebased and updated refs/heads/main.
+1767: 2026-09-21T14:13:35.9222759Z To https://github.com/Pluto-Mo/mao-text-history
+1768: 2026-09-21T14:13:35.9234924Z  ! [remote rejected] HEAD -> main (cannot lock ref 'refs/heads/main': is at 5f0a227cd7eb0408f402d1aee084c403d58e2a30 but expected 89fb7e121fd4d5444fcc3cb5585fdf24039d2aed)
+1769: 2026-09-21T14:13:35.9235903Z error: failed to push some refs to 'https://github.com/Pluto-Mo/mao-text-history'
+1770: 2026-09-21T14:13:35.9255004Z ##[error]Process completed with exit code 1.
+1771: 2026-09-21T14:13:35.9383479Z Post job cleanup.
+1772: 2026-09-21T14:13:36.0287004Z [command]/usr/bin/git version
+1773: 2026-09-21T14:13:36.0335678Z git version 2.55.0
+1774: 2026-09-21T14:13:36.0388127Z Temporarily overriding HOME='/home/runner/work/_temp/b4f2f73a-593d-4fa7-8810-99d2eb39da49' before making global git config changes
+1775: 2026-09-21T14:13:36.0390101Z Adding repository directory to the temporary git global config as a safe directory
+1776: 2026-09-21T14:13:36.0395069Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/mao-text-history/mao-text-history
+1777: 2026-09-21T14:13:36.0430539Z Removing SSH command configuration
+1778: 2026-09-21T14:13:36.0437858Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+1779: 2026-09-21T14:13:36.0478067Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+1780: 2026-09-21T14:13:36.0732925Z Removing HTTP extra header
+1781: 2026-09-21T14:13:36.0738461Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+1782: 2026-09-21T14:13:36.0778852Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+1783: 2026-09-21T14:13:36.1029031Z Removing includeIf entries pointing to credentials config files
+1784: 2026-09-21T14:13:36.1035562Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
