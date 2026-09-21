@@ -1,5 +1,5 @@
 {
-  "stored_web_bodies": 7,
-  "failed_targets": 1,
+  "stored_web_bodies": 8,
+  "failed_targets": 0,
   "note": "Job success means stored records validate; it does not mean all targets or four books are complete."
 }

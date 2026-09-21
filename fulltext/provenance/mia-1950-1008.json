@@ -46,7 +46,7 @@
   "spelling_corrected": false,
   "traditional_simplified_conversion": false,
   "locator_note": "Indices address parser text, NOT raw HTML bytes or printed book pages.",
-  "retrieved_at": "2026-09-21T09:35:52.340855+00:00",
+  "retrieved_at": "2026-09-21T09:38:02.830354+00:00",
   "body_path": "fulltext/snapshots/mia-1950-1008/99cddef5294c6119867652e2ae5c8f4d4d762049a0cc37f2f358a5955eb9f3f7.txt",
   "body_sha256": "99cddef5294c6119867652e2ae5c8f4d4d762049a0cc37f2f358a5955eb9f3f7",
   "body_byte_count": 1145,
