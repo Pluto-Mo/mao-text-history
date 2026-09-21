@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "default": "do_not_republish_unreviewed_fulltexts",
+  "scope": "逐份审阅的国家机关公告、命令正文；不是整套毛泽东著作、书籍、论文或网站的转载许可。",
+  "terms_reference": "https://www.marxists.org/admin/legal/terms-of-use.htm",
+  "statute_reference": "https://www.wipo.int/wipolex/en/legislation/details/21065",
+  "review_note": "收录具备官方行政文书属性的正文，不复制现代编辑说明。逐项保存来源与判断依据；不是对所有管辖区的法律保证。",
+  "pending_collections": [
+    {"title":"毛泽东选集及其现代编辑题注","status":"whole_collection_not_licensed_or_acquired"},
+    {"title":"建国以来毛泽东文稿（旧13册、修订20册）","status":"whole_collection_not_licensed_or_acquired"},
+    {"title":"毛泽东年谱（旧版、2023修订9卷）","status":"whole_collection_not_licensed_or_acquired"},
+    {"title":"MIA毛泽东全库、1968武汉版和毛泽东集等整套汇编","status":"site_access_does_not_grant_all_underlying_rights"}
+  ],
+  "documents": [
+    {
+      "id":"mia-1949-1001", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"中华人民共和国中央人民政府公告", "historical_date":"1949-10-01", "agency":"中华人民共和国中央人民政府",
+      "url":"https://www.marxists.org/chinese/maozedong/1968/3-001.htm",
+      "start":"自蒋介石国民党反动政府背叛祖国", "end":"一九四九年十日一日",
+      "work_id":"prc-announcement-1949-1001", "source_label":"MIA / 1968年武汉版",
+      "edition_note":"站方1968年武汉版《毛泽东思想万岁》第三卷，第001项；网页转录，未核扫描原书。",
+      "limitations":"末尾日期在该网页转录为“十日一日”，保留原样；正文中的人名等疑似错字不静默修正。历史日期依据该页标题。页面后出的抄录说明不并入公文正文。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["上一页","下一页","版权所有","抄自《新华日报》","Public domain"],
+      "rights_basis":"国家机关具有行政性质的公告正文；不是对所有政治人物著作或公务演讲的统一判定。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://zh.wikisource.org/wiki/中華人民共和國中央人民政府公告?oldid=2573561","https://www.marxists.org/admin/legal/terms-of-use.htm"]
+    },
+    {
+      "id":"mia-1950-1008", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"给中国人民志愿军的命令〔来源节录〕", "historical_date":"1950-10-08", "agency":"中国人民革命军事委员会",
+      "url":"https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm",
+      "start":"中国人民志愿军各级领导同志们:", "end":"一九五○年十月八日于北京",
+      "work_id":"cpv-order-1950-1008", "source_label":"MIA / 《毛选》第五卷",
+      "edition_note":"网页自报《毛泽东选集》第五卷，人民出版社1977年4月第1版，第32页；尚未核原书书页。",
+      "limitations":"原网页题注明确说明这是命令的节录。本库完整复制的是可见命令节录，不是原命令全文；现代题注本身不复制进正文。",
+      "completeness":"source_explicit_excerpt", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["上一页","下一页","版权所有","这是毛泽东同志给中国人民志愿军的命令的节录","Public domain"],
+      "rights_basis":"中国人民革命军事委员会发布的正式命令之正文；不包括后出编者题注。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://www.marxists.org/admin/legal/terms-of-use.htm"]
+    },
+    {
+      "id":"mia-1958-1006", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"国防部长告台湾同胞书", "historical_date":"1958-10-06", "agency":"中华人民共和国国防部",
+      "url":"https://www.marxists.org/chinese/maozedong/1968/4-066.htm",
+      "start":"台湾、澎湖、金门、马祖军民同胞们：", "end":"何去何从，请你们酌定。",
+      "work_id":"mod-announcement-1958-1006", "source_label":"MIA / 1968年武汉版",
+      "edition_note":"站方1968年武汉版《毛泽东思想万岁》第四卷，第066项；网页转录，未核原书。",
+      "limitations":"该网页的正文没有平行见证本中的落款和时间。只保存该网页所载，不从另一本补字；不能据此认证原件完整。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["上一页","下一页","版权所有","Public domain"],
+      "rights_basis":"国防部行政公告正文；不包括后出编者题注。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://zh.wikisource.org/wiki/中华人民共和国国防部告台湾同胞书?oldid=2666982","https://www.marxists.org/admin/legal/terms-of-use.htm"]
+    },
+    {
+      "id":"mia-1958-1013", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"国防部长命令福建前线我军对金门炮击再停两星期", "historical_date":"1958-10-13", "agency":"中华人民共和国国防部",
+      "url":"https://www.marxists.org/chinese/maozedong/1968/4-068.htm",
+      "start":"福建前线人民解放军同志们：", "end":"如果护航，立即开炮。切切令。",
+      "work_id":"mod-order-1958-1013", "source_label":"MIA / 1968年武汉版",
+      "edition_note":"站方1968年武汉版《毛泽东思想万岁》第四卷，第068项；网页转录，未核原书。",
+      "limitations":"本网页保留若干疑似转录异文，未改为现代校正版；此命令与10月6日、25日文告是不同文件，不是同一文章的三个稿本。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["上一页","下一页","版权所有","Public domain"],
+      "rights_basis":"国防部长向福建前线发布的正式命令正文；不是个人一般文章。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://www.marxists.org/admin/legal/terms-of-use.htm"]
+    },
+    {
+      "id":"mia-1958-1025", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"中华人民共和国国防部长再告台湾同胞书", "historical_date":"1958-10-25", "agency":"中华人民共和国国防部",
+      "url":"https://www.marxists.org/chinese/maozedong/1968/4-069.htm",
+      "start":"台湾、澎湖、金门、马祖军民同胞们：", "end":"我们这些话是好心，非恶意，将来你们会慢慢理解的。",
+      "work_id":"mod-announcement-1958-1025", "source_label":"MIA / 1968年武汉版",
+      "edition_note":"站方1968年武汉版《毛泽东思想万岁》第四卷，第069项；网页转录，未核原书。",
+      "limitations":"只保存该网页可见正文；未把其他底本中的落款等补入，不将其认证为原件。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["上一页","下一页","版权所有","Public domain"],
+      "rights_basis":"国防部行政公告正文；不包括后出编者题注。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://zh.wikisource.org/wiki/中华人民共和国国防部部長彭德怀再告台灣同胞書?oldid=2666983","https://www.marxists.org/admin/legal/terms-of-use.htm"]
+    },
+    {
+      "id":"ws-1949-1001", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"中華人民共和國中央人民政府公告〔维基文库见证本〕", "historical_date":"1949-10-01", "agency":"中华人民共和国中央人民政府",
+      "url":"https://zh.wikisource.org/wiki/中華人民共和國中央人民政府公告?oldid=2573561",
+      "start":"自蔣介石國民黨反動派政府背叛祖國", "end":"中華人民共和國中央人民政府主席毛澤東",
+      "work_id":"prc-announcement-1949-1001", "source_label":"维基文库 / 固定页面修订",
+      "edition_note":"固定网页修订oldid=2573561；站方标注收入《中央人民政府法令汇编（一九四九——一九五〇）》。未核纸本页码。",
+      "limitations":"保留页面原有简繁字及换行；页面模板、导言、现代说明不属复制范围。站方公有领域模板是收录判断的辅助资料，不是中央档案馆认证。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["版权所有","Public domain"],
+      "rights_basis":"国家机关行政公告正文；该具体页面明确标注PD-PRC-exempt。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://zh.wikisource.org/wiki/中華人民共和國中央人民政府公告?oldid=2573561"]
+    },
+    {
+      "id":"ws-1958-1006", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"中华人民共和国国防部告台湾同胞书〔维基文库见证本〕", "historical_date":"1958-10-06", "agency":"中华人民共和国国防部",
+      "url":"https://zh.wikisource.org/wiki/中华人民共和国国防部告台湾同胞书?oldid=2666982",
+      "start":"台湾、澎湖、金门、马祖军民同胞们：", "end":"一九五八年十月六日上午一时",
+      "work_id":"mod-announcement-1958-1006", "source_label":"维基文库 / 固定页面修订",
+      "edition_note":"固定网页修订oldid=2666982；站方标注发布机关为国防部部长彭德怀。",
+      "limitations":"文档主体含署名及时间；保留原字，不用本网页覆盖MIA版本。网页题注与现代解释不并入正文。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["版权所有","Public domain"],
+      "rights_basis":"国防部行政公告正文；该具体页面明确标注PD-PRC-exempt。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://zh.wikisource.org/wiki/中华人民共和国国防部告台湾同胞书?oldid=2666982"]
+    },
+    {
+      "id":"ws-1958-1025", "approval":"reviewed_official_document_body", "reviewed_at":"2026-09-21",
+      "title":"国防部部長彭德怀再告台灣同胞書〔维基文库见证本〕", "historical_date":"1958-10-25", "agency":"中华人民共和国国防部",
+      "url":"https://zh.wikisource.org/wiki/中华人民共和国国防部部長彭德怀再告台灣同胞書?oldid=2666983",
+      "start":"台灣、澎湖、金門、馬祖軍民同胞們：", "end":"1958年10月25日",
+      "work_id":"mod-announcement-1958-1025", "source_label":"维基文库 / 固定页面修订",
+      "edition_note":"固定网页修订oldid=2666983；站方给出国务院公报1958年第32号查阅线索，未在本轮核公报扫描件。",
+      "limitations":"保留该页面混用简繁字的写法、署名和日期；不自动转换为现代简体，更不把字形差异解释成作者修改。",
+      "completeness":"available_web_body", "min_chars":100, "max_chars":20000,
+      "excluded_markers":["版权所有","Public domain"],
+      "rights_basis":"国防部行政公告正文；该具体页面明确标注PD-PRC-exempt。",
+      "rights_references":["https://www.wipo.int/wipolex/en/legislation/details/21065","https://zh.wikisource.org/wiki/中华人民共和国国防部部長彭德怀再告台灣同胞書?oldid=2666983"]
+    }
+  ]
+}
