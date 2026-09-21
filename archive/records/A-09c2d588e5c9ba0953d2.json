@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-026.htm",
+  "title": "毛主席席抵渝发表谈话（一九四五年八月三十日）",
+  "catalogue_entry_ids": [
+    "I-ea1946263769d96b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-09c2d588e5c9ba0953d2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:45.081702+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-026.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6b4-57a3a25203da7\"",
+  "last_modified": "Fri, 09 Nov 2018 12:03:53 GMT",
+  "raw_sha256": "624f0362d3e95258c66d90df24a6ad106ed1b3325b61cd87f5d1598030c31d0c",
+  "raw_bytes": 1716,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/624f0362d3e95258c66d90df24a6ad106ed1b3325b61cd87f5d1598030c31d0c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛主席席抵渝发表谈话（一九四五年八月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-025.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-027.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-09c2d588e5c9ba0953d2.txt",
+  "text_sha256": "cd7d64b9047ea2857e003430437a029e3fb9d4bc61a45335868e6c514b1e52be",
+  "text_chars": 332,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-09c2d588e5c9ba0953d2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

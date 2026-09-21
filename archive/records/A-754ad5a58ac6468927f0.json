@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-126.htm",
+  "title": "强调团结与进步（一九四○年二月七日）",
+  "catalogue_entry_ids": [
+    "I-3a70a33da721e47b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-754ad5a58ac6468927f0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:29.792196+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-126.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b34-57a294025ca0d\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:32 GMT",
+  "raw_sha256": "4bcaafa57c9cc817c2a5387ad4fc16c178fb9130cf243a85d4790fa0ffedc22c",
+  "raw_bytes": 2868,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4bcaafa57c9cc817c2a5387ad4fc16c178fb9130cf243a85d4790fa0ffedc22c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "强调团结与进步（一九四○年二月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-125.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-127.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-754ad5a58ac6468927f0.txt",
+  "text_sha256": "4e2df0dda37f3f594b27e9187083ad8c7f66d315dbddad34e09a664f0d3c80ea",
+  "text_chars": 905,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-754ad5a58ac6468927f0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

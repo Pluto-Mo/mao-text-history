@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-008.htm",
+  "title": "在延安大学开学典礼上的讲话（报导）（一九四四年五月二十四日）",
+  "catalogue_entry_ids": [
+    "I-df810cf70f0c7f3e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-92093d6e9675c91e4f33",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:39.695613+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-008.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"921-57a3a24675ccf\"",
+  "last_modified": "Fri, 09 Nov 2018 12:03:40 GMT",
+  "raw_sha256": "818f2fd965a457d5e8b23d40ce275eba46c7486910dabb3f9c4685b2ca8ba101",
+  "raw_bytes": 2337,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/818f2fd965a457d5e8b23d40ce275eba46c7486910dabb3f9c4685b2ca8ba101.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在延安大学开学典礼上的讲话（报导）（一九四四年五月二十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-007.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-009.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-92093d6e9675c91e4f33.txt",
+  "text_sha256": "d77c1d53409b1050958288d114589d9e57b0e88353defc94e45e1f61ea3bf605",
+  "text_chars": 635,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-92093d6e9675c91e4f33.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

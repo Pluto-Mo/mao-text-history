@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-132.htm",
+  "title": "谣言与烟幕（社论）（一九四一年五月二十八日）",
+  "catalogue_entry_ids": [
+    "I-6969e54b971f0e4c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4a088939f1c03dede073",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:31.579035+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-132.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"163d-57a2940a6e170\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:40 GMT",
+  "raw_sha256": "6ddbe642c701d357055f9f74e27d9271b80bf4604345cfb1a318672b8b705f23",
+  "raw_bytes": 5693,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6ddbe642c701d357055f9f74e27d9271b80bf4604345cfb1a318672b8b705f23.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "谣言与烟幕（社论）（一九四一年五月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-131.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-133.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4a088939f1c03dede073.txt",
+  "text_sha256": "98c5bbffc5162f0ee95d2beb2cd9d4a9606171b82f8d8e18cce1c79f5b9a4604",
+  "text_chars": 2265,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-4a088939f1c03dede073.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

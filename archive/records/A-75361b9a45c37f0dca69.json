@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-134.htm",
+  "title": "关于增强党性的决定（一九四一年七月一日）",
+  "catalogue_entry_ids": [
+    "I-238fba423cf944c2"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-75361b9a45c37f0dca69",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:32.174357+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-134.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1302-57a2940d79661\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:43 GMT",
+  "raw_sha256": "26dc184a979f35ec11dae315da3d8bcd6970adfe88d40d362cb4d6d0fb44d986",
+  "raw_bytes": 4866,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/26dc184a979f35ec11dae315da3d8bcd6970adfe88d40d362cb4d6d0fb44d986.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于增强党性的决定（一九四一年七月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-133.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-135.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-75361b9a45c37f0dca69.txt",
+  "text_sha256": "2cd9239d7a10c25ef0a090b7c0595693e45a3d3c9db27a11f04607bcaf52880d",
+  "text_chars": 1849,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-75361b9a45c37f0dca69.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-151.htm",
+  "title": "关于批评彭德怀一九四三年四月“关于民主教育谈话”的一封信（一九四三年六月六日）",
+  "catalogue_entry_ids": [
+    "I-c9b560dc9f8f2043"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3a8b95b9a9865e60d921",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:37.278089+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-151.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a54-57a2943c02ab0\"",
+  "last_modified": "Thu, 08 Nov 2018 15:55:32 GMT",
+  "raw_sha256": "032ff9a692011ca736b5bd6e20dc0a22cbf97dde4582ae4b8503db8718f1c93f",
+  "raw_bytes": 2644,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/032ff9a692011ca736b5bd6e20dc0a22cbf97dde4582ae4b8503db8718f1c93f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于批评彭德怀一九四三年四月“关于民主教育谈话”的一封信（一九四三年六月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-150.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3a8b95b9a9865e60d921.txt",
+  "text_sha256": "8151a41d337f81d8ca251b54da82a422a9aeff93af305be3f9773129196b5a9c",
+  "text_chars": 832,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-3a8b95b9a9865e60d921.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

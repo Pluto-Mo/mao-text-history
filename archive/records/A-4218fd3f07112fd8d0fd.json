@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-144.htm",
+  "title": "给在华日本共产主义同盟的一封信",
+  "catalogue_entry_ids": [
+    "I-c6fd281442a6ba2a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4218fd3f07112fd8d0fd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:35.177932+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-144.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"698-57a2942fbff2a\"",
+  "last_modified": "Thu, 08 Nov 2018 15:55:19 GMT",
+  "raw_sha256": "b339c5f0151723cab750bee6e9e913f0778eaec19c8537889c991bc91f390e52",
+  "raw_bytes": 1688,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b339c5f0151723cab750bee6e9e913f0778eaec19c8537889c991bc91f390e52.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给在华日本共产主义同盟的一封信",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-143.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-145.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4218fd3f07112fd8d0fd.txt",
+  "text_sha256": "11a2517371304e2c114299c123c6b7d36ca4880b24d23c7a4d8f2ba3c19cedef",
+  "text_chars": 335,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-4218fd3f07112fd8d0fd.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

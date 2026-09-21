@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-027.htm",
+  "title": "答路透社记者――中国需要和平建国（一九四五年九月十二日）",
+  "catalogue_entry_ids": [
+    "I-0b0724bdb63ed313"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b0d7367e388ae33deb18",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:45.563282+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-027.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"133c-57a3a25fdfc24\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:07 GMT",
+  "raw_sha256": "84b9b359b96a7e7807ec5f6fc4ab161aee5a5d9b63dc39ce2799b389dc249f7a",
+  "raw_bytes": 4924,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/84b9b359b96a7e7807ec5f6fc4ab161aee5a5d9b63dc39ce2799b389dc249f7a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "答路透社记者――中国需要和平建国（一九四五年九月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-026.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-028.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b0d7367e388ae33deb18.txt",
+  "text_sha256": "842663deb9bab1d4251505d3bae3dbdeaf99d2b22075042358b6bb194069187f",
+  "text_chars": 1743,
+  "text_lines": 50,
+  "document_path": "archive/documents/A-b0d7367e388ae33deb18.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

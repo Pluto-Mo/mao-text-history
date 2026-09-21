@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-137.htm",
+  "title": "“文化课本”序（一九四一年）",
+  "catalogue_entry_ids": [
+    "I-7022dd8ac6e4e8ac"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5c526e882acd9d62d9ea",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:33.081306+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-137.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5e8-57a2940f8e9c3\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:45 GMT",
+  "raw_sha256": "81fd4ce1bdac08c5faafc175025808bd119e43acfe35ece5ae8731328aeabd3f",
+  "raw_bytes": 1512,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/81fd4ce1bdac08c5faafc175025808bd119e43acfe35ece5ae8731328aeabd3f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "“文化课本”序（一九四一年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-136.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-138.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5c526e882acd9d62d9ea.txt",
+  "text_sha256": "030b487cfc31c71767363e1c9c1e9c4eaaf7dc482c29f874c91285ad08757e6c",
+  "text_chars": 245,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-5c526e882acd9d62d9ea.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-124.htm",
+  "title": "在中共中央举行的庆祝吴玉章同志六十寿辰大会上的祝词（一九四○年一月十五日）",
+  "catalogue_entry_ids": [
+    "I-91e11532d5663442"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e780a5f318ee8bbfaff4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:28.942573+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-124.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b2c-57a293ff96a81\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:29 GMT",
+  "raw_sha256": "c556fd5f50821a556a732b4a10cd968ab99b2142569c0622dcd2f2f4d2a78086",
+  "raw_bytes": 2860,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c556fd5f50821a556a732b4a10cd968ab99b2142569c0622dcd2f2f4d2a78086.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中共中央举行的庆祝吴玉章同志六十寿辰大会上的祝词（一九四○年一月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-123.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-125.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e780a5f318ee8bbfaff4.txt",
+  "text_sha256": "2a436d5d9889dc88893e18e50ba0737895ea2e2e7850810a3a9f3414a3423d69",
+  "text_chars": 894,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-e780a5f318ee8bbfaff4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-121.htm",
+  "title": "研究沦陷区（一九三九年十月一日）",
+  "catalogue_entry_ids": [
+    "I-a9451bb6fa2423ae"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9b8d294f59559dc4a1c1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:28.933629+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-121.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"dc7-57a293fd4003b\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:26 GMT",
+  "raw_sha256": "8a6f8b958f520ba309f7248f170e8692c53d738faad735865a6b5f84e8086f15",
+  "raw_bytes": 3527,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8a6f8b958f520ba309f7248f170e8692c53d738faad735865a6b5f84e8086f15.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "研究沦陷区（一九三九年十月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-120.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-122.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9b8d294f59559dc4a1c1.txt",
+  "text_sha256": "e3006a72e738e53c4b5e7ef06cad8e514c68e5f2d47ba7b15a4493aab8c6f7fb",
+  "text_chars": 1191,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-9b8d294f59559dc4a1c1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

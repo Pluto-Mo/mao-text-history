@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-009.htm",
+  "title": "对随军南下干部的讲话（摘录）（一九四四年春天）",
+  "catalogue_entry_ids": [
+    "I-d990c1da2209361e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e798048e5fe42b198e8d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:39.988619+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-009.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5d9-57a3a2479cba1\"",
+  "last_modified": "Fri, 09 Nov 2018 12:03:42 GMT",
+  "raw_sha256": "c3805b4d9079a76a9b837b72507de5ba80eba05b35bbfe18894dcacfedf4f46a",
+  "raw_bytes": 1497,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c3805b4d9079a76a9b837b72507de5ba80eba05b35bbfe18894dcacfedf4f46a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对随军南下干部的讲话（摘录）（一九四四年春天）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-008.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-010.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e798048e5fe42b198e8d.txt",
+  "text_sha256": "2924f6cf2f59e2a8391fc4b0476577d4a7e5d3e4f424a8118c8f94d0d5451910",
+  "text_chars": 238,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-e798048e5fe42b198e8d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

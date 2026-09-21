@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-149.htm",
+  "title": "毛泽东关于共产国际解散问题（一九四三年五月二十六日）",
+  "catalogue_entry_ids": [
+    "I-f4e3839cb7f2840a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6deb4e90278f42562592",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:36.690047+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-149.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1aef-57a2943716e21\"",
+  "last_modified": "Thu, 08 Nov 2018 15:55:27 GMT",
+  "raw_sha256": "2425f343b6f873d9d6eb3160e1694188ac458d056fcd01c5449c92ef3fc6386b",
+  "raw_bytes": 6895,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2425f343b6f873d9d6eb3160e1694188ac458d056fcd01c5449c92ef3fc6386b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东关于共产国际解散问题（一九四三年五月二十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-148.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-150.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6deb4e90278f42562592.txt",
+  "text_sha256": "5b0755231f6307154ccb277169414c26ff2ae3fc909020c540d831daff460a8c",
+  "text_chars": 2863,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-6deb4e90278f42562592.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

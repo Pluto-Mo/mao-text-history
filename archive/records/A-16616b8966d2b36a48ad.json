@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-133.htm",
+  "title": "在陕甘宁边区第三届参议会上的讲话（摘录）（一九四一年七月一日）",
+  "catalogue_entry_ids": [
+    "I-95d7a5fdf131e97d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-16616b8966d2b36a48ad",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:31.876697+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-133.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5f5-57a2940b78b21\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:41 GMT",
+  "raw_sha256": "05d544f3f8a0139d7cbc89499e472cd80f438c38ee2478719ea9f90e246b6388",
+  "raw_bytes": 1525,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/05d544f3f8a0139d7cbc89499e472cd80f438c38ee2478719ea9f90e246b6388.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在陕甘宁边区第三届参议会上的讲话（摘录）（一九四一年七月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-132.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-134.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-16616b8966d2b36a48ad.txt",
+  "text_sha256": "70d753f2aeebad818c4e578ad229ab275451e738a8a2105e1b14ae23a3aca074",
+  "text_chars": 260,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-16616b8966d2b36a48ad.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

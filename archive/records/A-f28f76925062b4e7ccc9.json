@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-148.htm",
+  "title": "电贺苏联红军第二十五周年（一九四三年二月二十二日）",
+  "catalogue_entry_ids": [
+    "I-015fddb44aaab743"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f28f76925062b4e7ccc9",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:36.394178+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-148.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a58-57a2943521e61\"",
+  "last_modified": "Thu, 08 Nov 2018 15:55:25 GMT",
+  "raw_sha256": "363016e548457aba423481f108e387f9262537db2f6518288725ce9e6b2d00e6",
+  "raw_bytes": 2648,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/363016e548457aba423481f108e387f9262537db2f6518288725ce9e6b2d00e6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "电贺苏联红军第二十五周年（一九四三年二月二十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-147.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-149.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f28f76925062b4e7ccc9.txt",
+  "text_sha256": "55fc396d6d44f92a86c47db1943ade4adce6ea82dd3b9eefae4ef5f957f8c744",
+  "text_chars": 767,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-f28f76925062b4e7ccc9.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

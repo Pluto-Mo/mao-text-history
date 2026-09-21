@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-017.htm",
+  "title": "在干部新年晚会上的讲话（摘录）（一九四五年一月一日）",
+  "catalogue_entry_ids": [
+    "I-374b67d349ce1418"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d5fbc1e7ade4c9b4d47f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:42.385414+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-017.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"589-57a3a25010d28\"",
+  "last_modified": "Fri, 09 Nov 2018 12:03:51 GMT",
+  "raw_sha256": "6e59f693f772567dbdef79897d7fe67a34a7089a4ba3d8855d8f707067470f30",
+  "raw_bytes": 1417,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6e59f693f772567dbdef79897d7fe67a34a7089a4ba3d8855d8f707067470f30.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在干部新年晚会上的讲话（摘录）（一九四五年一月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-016.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-018.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d5fbc1e7ade4c9b4d47f.txt",
+  "text_sha256": "a407156c9225e6fc98ad8dd82aa9f65508966a27fb027f644f2d591b08ca7ccd",
+  "text_chars": 207,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-d5fbc1e7ade4c9b4d47f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
