@@ -1,0 +1,75 @@
+name: Integrate and verify retained full texts
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [Preserve authorized full corpus, Preserve pinned book editions, Preserve official book readers]
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: fulltext-integration
+  cancel-in-progress: false
+jobs:
+  integrate:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Install pinned parsers
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install pymupdf==1.26.4
+      - name: Require full HTML acquisition rather than catalogue-only success
+        id: ready
+        run: |
+          python - <<'PY'
+          import json,os
+          from pathlib import Path
+          p=Path('reports/archive-coverage.json')
+          report=json.loads(p.read_text()) if p.exists() else {}
+          ready=report.get('preserved_by_media',{}).get('html',0)>=1300 and Path('reports/mirror-book-results.json').exists()
+          with open(os.environ['GITHUB_OUTPUT'],'a') as f: f.write('ready='+str(ready).lower()+'\n')
+          print('Actual source files ready for integration:',ready)
+          PY
+      - name: Test actual code and data contracts
+        if: steps.ready.outputs.ready == 'true'
+        run: |
+          python - <<'PY'
+          import unittest,json
+          from pathlib import Path
+          suite=unittest.defaultTestLoader.discover('tests')
+          result=unittest.TextTestRunner(verbosity=2).run(suite)
+          Path('reports/fulltext-test-results.json').write_text(json.dumps({'tests_run':result.testsRun,'failures':len(result.failures),'errors':len(result.errors),'passed':result.wasSuccessful()},indent=2))
+          if not result.wasSuccessful(): raise SystemExit(1)
+          PY
+      - name: Preserve source-page illustrations and image-backed text
+        if: steps.ready.outputs.ready == 'true'
+        run: python -u archive_assets.py
+      - name: Integrate full books, page locators, internal catalogues and evidence routes
+        if: steps.ready.outputs.ready == 'true'
+        run: python -u integrate_archive.py
+      - name: Exercise Agent search on actual retained book pages
+        if: steps.ready.outputs.ready == 'true'
+        run: |
+          python research.py search 关于正确处理人民内部矛盾的问题 --edition wengao-old-13 --limit 6 > reports/zhengchu-search-old-wengao.jsonl
+          python research.py search 关于正确处理人民内部矛盾的问题 --edition wengao-2023-20 --limit 6 > reports/zhengchu-search-new-wengao.jsonl
+          python research.py search 关于正确处理人民内部矛盾的问题 --edition nianpu-2023-9 --limit 6 > reports/zhengchu-search-new-nianpu.jsonl
+          python - <<'PY'
+          from pathlib import Path
+          for name in ['old-wengao','new-wengao','new-nianpu']:
+              p=Path('reports/zhengchu-search-'+name+'.jsonl')
+              if not p.read_text().strip(): raise RuntimeError('Expected real full-text search produced no hits: '+name)
+          PY
+      - name: Commit verified source maps and latest completion report
+        if: steps.ready.outputs.ready == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add archive reports exports README.md AGENTS.md docs/missing-materials.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: integrate retained full texts, per-page provenance and edition coverage'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
