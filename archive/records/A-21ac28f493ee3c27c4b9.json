@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-050.htm",
+  "title": "宪法草案公布时的话讲（记录稿）（一九五四年六月）",
+  "catalogue_entry_ids": [
+    "I-31c22e65a362ad0b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-21ac28f493ee3c27c4b9",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:44.200580+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-050.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"88c-57a3a3951efa6\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:31 GMT",
+  "raw_sha256": "b7341a9d5f3822c4f5e7d02f8325ab9e54fdd9840e7f022067420c981f5c3b92",
+  "raw_bytes": 2188,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b7341a9d5f3822c4f5e7d02f8325ab9e54fdd9840e7f022067420c981f5c3b92.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "宪法草案公布时的话讲（记录稿）（一九五四年六月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-049.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-051.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-21ac28f493ee3c27c4b9.txt",
+  "text_sha256": "ff709355da897b5f90dc333e309f62d32c1bebf67dcebbdbde8c30e89208e5f0",
+  "text_chars": 569,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-21ac28f493ee3c27c4b9.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

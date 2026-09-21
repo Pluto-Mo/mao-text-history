@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-060.htm",
+  "title": "中国共产党全国代表会议闭幕词（摘录）（一九五五年三月）",
+  "catalogue_entry_ids": [
+    "I-d011cff3e3dd8bf6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7ff1a0a1402a3986b11e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:47.194039+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-060.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a00-57a3a3b0b2a7d\"",
+  "last_modified": "Fri, 09 Nov 2018 12:10:00 GMT",
+  "raw_sha256": "f13293ca40161f041bbb474ea757e9912aa40eb8edbadc4a163e2d1f82aaada0",
+  "raw_bytes": 2560,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f13293ca40161f041bbb474ea757e9912aa40eb8edbadc4a163e2d1f82aaada0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国共产党全国代表会议闭幕词（摘录）（一九五五年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-059.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-061.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7ff1a0a1402a3986b11e.txt",
+  "text_sha256": "4a2074a6ce8973ccfbb0d96b718c1ce1356e0ac967e8bdaae198438b64f32acc",
+  "text_chars": 734,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-7ff1a0a1402a3986b11e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

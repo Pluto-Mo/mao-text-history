@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-034.htm",
+  "title": "最伟大的友谊（一九五三年三月九日）",
+  "catalogue_entry_ids": [
+    "I-ce65a92e69df4ea5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a927bf3cfc7a12414355",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:39.390617+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-034.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"16d0-57a3a308bbf48\"",
+  "last_modified": "Fri, 09 Nov 2018 12:07:04 GMT",
+  "raw_sha256": "95aca5e04b0505da9ea2dacf91787c669c76e7194ed24ca39398b409d7a3b8ce",
+  "raw_bytes": 5840,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/95aca5e04b0505da9ea2dacf91787c669c76e7194ed24ca39398b409d7a3b8ce.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "最伟大的友谊（一九五三年三月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-033.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-035.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a927bf3cfc7a12414355.txt",
+  "text_sha256": "9243047197e1e4cc79736d6f562496322313d7de449e1a3f76f8fb08398ee163",
+  "text_chars": 2290,
+  "text_lines": 28,
+  "document_path": "archive/documents/A-a927bf3cfc7a12414355.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

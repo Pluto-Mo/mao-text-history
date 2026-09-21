@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-017.htm",
+  "title": "关于镇反工作和肃反工作的批语（一九四三年十月九日）",
+  "catalogue_entry_ids": [
+    "I-e3fb4008657ce6c3"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cca6b3456108fe3ab3a6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:34.304485+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-017.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"130c-57a3a365565ec\"",
+  "last_modified": "Fri, 09 Nov 2018 12:08:41 GMT",
+  "raw_sha256": "8f87d2c75c90c0276229471b94bdc0f7092d8b91baef0fb7309a7c5eef6b0ba1",
+  "raw_bytes": 4876,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8f87d2c75c90c0276229471b94bdc0f7092d8b91baef0fb7309a7c5eef6b0ba1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于镇反工作和肃反工作的批语（一九四三年十月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-016.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-018.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cca6b3456108fe3ab3a6.txt",
+  "text_sha256": "da361407825d67456fc78c175178d8604ceace8a9ed244eafacb6a1209feb8a2",
+  "text_chars": 1556,
+  "text_lines": 46,
+  "document_path": "archive/documents/A-cca6b3456108fe3ab3a6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

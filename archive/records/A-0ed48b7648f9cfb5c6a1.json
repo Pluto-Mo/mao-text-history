@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-030.htm",
+  "title": "对民建方针指示的精神（一九五二年）",
+  "catalogue_entry_ids": [
+    "I-c4d5b59c09a7e677"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0ed48b7648f9cfb5c6a1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:38.201886+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-030.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"58a-57a3a372ccb62\"",
+  "last_modified": "Fri, 09 Nov 2018 12:08:55 GMT",
+  "raw_sha256": "11ca7b22e8c5522a413bc09ed02cb3a99c2076c5b4e8a7cf37fb1e69413e5bfd",
+  "raw_bytes": 1418,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/11ca7b22e8c5522a413bc09ed02cb3a99c2076c5b4e8a7cf37fb1e69413e5bfd.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对民建方针指示的精神（一九五二年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-029.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-031.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0ed48b7648f9cfb5c6a1.txt",
+  "text_sha256": "4a83559d487ab485aaa59cc64c3a3cbbe229b79cde28c4f7f48771593cc962d3",
+  "text_chars": 185,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-0ed48b7648f9cfb5c6a1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

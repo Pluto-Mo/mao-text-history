@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-012.htm",
+  "title": "给徐悲鸿的一封信（一九五一年一月十四日）",
+  "catalogue_entry_ids": [
+    "I-75c2ee74befb1042"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fd52c233b4db6206f015",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:32.794726+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-012.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5f7-57a3a2ff59932\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:54 GMT",
+  "raw_sha256": "dd716f602555ee14b2166fde36091a95a45ec555f1c99df9448d9fa0c293264c",
+  "raw_bytes": 1527,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dd716f602555ee14b2166fde36091a95a45ec555f1c99df9448d9fa0c293264c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给徐悲鸿的一封信（一九五一年一月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-011.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-013.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fd52c233b4db6206f015.txt",
+  "text_sha256": "827e5d500cf0d27bbf89def3411f7ca70f941caad4b050e15558a3e928d6522e",
+  "text_chars": 210,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-fd52c233b4db6206f015.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

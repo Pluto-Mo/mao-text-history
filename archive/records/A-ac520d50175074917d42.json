@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-057.htm",
+  "title": "为中国人民政治协商会议规定的五项任务（一九五四年十二月）",
+  "catalogue_entry_ids": [
+    "I-8738557b144c45fe"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ac520d50175074917d42",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:46.295175+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-057.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"69d-57a3a37ce2c83\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:06 GMT",
+  "raw_sha256": "1e96c62bef46b5f43c88bb0573c0c502962f0d7cc1ab8507a19ee98e74b5ef94",
+  "raw_bytes": 1693,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1e96c62bef46b5f43c88bb0573c0c502962f0d7cc1ab8507a19ee98e74b5ef94.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为中国人民政治协商会议规定的五项任务（一九五四年十二月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-056.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-058.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ac520d50175074917d42.txt",
+  "text_sha256": "f549035a37b2fbbe585176446802b7b15341d55940fb9a49facfa560c38c5bbd",
+  "text_chars": 321,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-ac520d50175074917d42.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

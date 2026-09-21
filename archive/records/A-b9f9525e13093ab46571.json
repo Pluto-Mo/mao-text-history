@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-037.htm",
+  "title": "对白××同志关于军委卫生部情况报告的批示（一九五三年四月三日）",
+  "catalogue_entry_ids": [
+    "I-7a41947935f38c34"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b9f9525e13093ab46571",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:40.306667+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-037.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"8ea-57a3a3790a646\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:02 GMT",
+  "raw_sha256": "5e3236b0152a6fdad81aa3ac9eec114d095f1d86cc8d01e1a3fcc68b99878f13",
+  "raw_bytes": 2282,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5e3236b0152a6fdad81aa3ac9eec114d095f1d86cc8d01e1a3fcc68b99878f13.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对白××同志关于军委卫生部情况报告的批示（一九五三年四月三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-036.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-038.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b9f9525e13093ab46571.txt",
+  "text_sha256": "0a0325574826bf00abc68a3e68a670af4757bcd1b9cc9312f4fe737cfe9cdb81",
+  "text_chars": 630,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-b9f9525e13093ab46571.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

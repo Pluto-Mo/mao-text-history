@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-027.htm",
+  "title": "我们也应当会办经济（一九五二年七月）",
+  "catalogue_entry_ids": [
+    "I-1e7dc046e13a9125"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-328154e2b2fcca25a74b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:37.295398+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-027.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"743-57a3a376ddbe3\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:00 GMT",
+  "raw_sha256": "7b95723139311c5218e15069abdace3655c2e1d67d95ada61d4d5ee2554de6eb",
+  "raw_bytes": 1859,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7b95723139311c5218e15069abdace3655c2e1d67d95ada61d4d5ee2554de6eb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "我们也应当会办经济（一九五二年七月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-026.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-028.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-328154e2b2fcca25a74b.txt",
+  "text_sha256": "73580f197d03144a8eae10be05ef048f3c5a7c853990a5922f1aa91734a44a72",
+  "text_chars": 395,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-328154e2b2fcca25a74b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

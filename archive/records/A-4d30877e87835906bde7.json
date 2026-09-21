@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-029.htm",
+  "title": "视察黄河时的谈话（一九五二年十月二十九日）",
+  "catalogue_entry_ids": [
+    "I-65196869b940225a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4d30877e87835906bde7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:37.902770+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-029.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5aa-57a3a37492d1f\"",
+  "last_modified": "Fri, 09 Nov 2018 12:08:57 GMT",
+  "raw_sha256": "849212337781054980b93a05793f4d7d1c25dfd143615d5fc2e6279387792004",
+  "raw_bytes": 1450,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/849212337781054980b93a05793f4d7d1c25dfd143615d5fc2e6279387792004.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "视察黄河时的谈话（一九五二年十月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-028.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-030.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4d30877e87835906bde7.txt",
+  "text_sha256": "1dbc16efeeebc018c7ceca5f58f7c1c200f7a048976970a6ad7890db7546b9eb",
+  "text_chars": 215,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-4d30877e87835906bde7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

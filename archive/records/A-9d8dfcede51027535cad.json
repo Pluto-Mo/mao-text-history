@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-014.htm",
+  "title": "关于培养干部问题的指示（一九五一年三月）",
+  "catalogue_entry_ids": [
+    "I-fd9322dea286ed97"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9d8dfcede51027535cad",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:33.392782+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-014.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"70a-57a3a30236fc0\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:57 GMT",
+  "raw_sha256": "a159703dc134134454b2df8c502aa447f0946840987770f846730be10d19724c",
+  "raw_bytes": 1802,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a159703dc134134454b2df8c502aa447f0946840987770f846730be10d19724c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于培养干部问题的指示（一九五一年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-013.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-015.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9d8dfcede51027535cad.txt",
+  "text_sha256": "7c5bcaa54a7473e82af6fdbca3a090cf88e5a7a02cdfed28e0ac82ff4b3b0da7",
+  "text_chars": 341,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-9d8dfcede51027535cad.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
