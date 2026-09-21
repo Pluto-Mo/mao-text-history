@@ -1,0 +1,107 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm",
+  "title": "一九四六年解放区工作的方针",
+  "catalogue_entry_ids": [
+    "I-e22406249c68a285"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b4d900573c2b3b73a84f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:23.451117+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1c40-5a0e78273a4b9\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:10 GMT",
+  "raw_sha256": "f61558c5d34446ee4315d2c3c29764fb75759a5c2cf58c6c3ea11cdfc75a7566",
+  "raw_bytes": 7232,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f61558c5d34446ee4315d2c3c29764fb75759a5c2cf58c6c3ea11cdfc75a7566.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "一九四六年解放区工作的方针（一九四五年十二月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftn6"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451215.htm#_ftnref6"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b4d900573c2b3b73a84f.txt",
+  "text_sha256": "e212cafa38b760a4b690f98d58fa94ecabae6743f3454b447913ee4abd3c078c",
+  "text_chars": 2841,
+  "text_lines": 44,
+  "document_path": "archive/documents/A-b4d900573c2b3b73a84f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

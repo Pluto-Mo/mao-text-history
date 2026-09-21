@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm",
+  "title": "中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明",
+  "catalogue_entry_ids": [
+    "I-50f496d98623bd0b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-91331131ac89d5389ad3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:36.818534+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"17c7-5a0e77f8b323d\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:21 GMT",
+  "raw_sha256": "67f84f679bfbfaf7e83f2172faa9bfca15aa4828d1ccfa19d60a340c0c47e76f",
+  "raw_bytes": 6087,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/67f84f679bfbfaf7e83f2172faa9bfca15aa4828d1ccfa19d60a340c0c47e76f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中共发言人关于和平条件必须包括惩办日本战犯和国民党战犯的声明（一九四九年二月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490205.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-91331131ac89d5389ad3.txt",
+  "text_sha256": "d83dff7fedca5c3fa89314eb92014e28a40214989b04ea8ef74b45807193454b",
+  "text_chars": 2534,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-91331131ac89d5389ad3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

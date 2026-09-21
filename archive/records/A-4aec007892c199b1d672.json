@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm",
+  "title": "再克洛阳后给洛阳前线指挥部的电报",
+  "catalogue_entry_ids": [
+    "I-df54c336420d4389"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4aec007892c199b1d672",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:31.834666+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d61-5a0e7808b3d3d\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:38 GMT",
+  "raw_sha256": "1377f29dd4e1f04359c42e5f49e053fed0294f45cbd6db7c0d506fd2cbfd9378",
+  "raw_bytes": 3425,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1377f29dd4e1f04359c42e5f49e053fed0294f45cbd6db7c0d506fd2cbfd9378.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "再克洛阳后给洛阳前线指挥部的电报（一九四八年四月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480408.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4aec007892c199b1d672.txt",
+  "text_sha256": "772d63ecd72c93b8ae78e1ed4748e2b02f601d63c81b8471be3319f482cdb34d",
+  "text_chars": 1187,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-4aec007892c199b1d672.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

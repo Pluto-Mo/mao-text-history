@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm",
+  "title": "减租和生产是保卫解放区的两件大事",
+  "catalogue_entry_ids": [
+    "I-3238c12ec75e7c59"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-33747e6bb98033acd828",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:23.150530+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451107.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c08-5a0e7828027db\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:10 GMT",
+  "raw_sha256": "612ec787fa330d9d7a02da41876646a60b3ba4e2f8ba022e7daaeff9b4a24c21",
+  "raw_bytes": 3080,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/612ec787fa330d9d7a02da41876646a60b3ba4e2f8ba022e7daaeff9b4a24c21.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "减租和生产是保卫解放区的两件大事（一九四五年十一月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-33747e6bb98033acd828.txt",
+  "text_sha256": "d20cfc1a2a4793d1e927d670df006a66da9b6aaf92d1467c636b23d0cb0444df",
+  "text_chars": 1158,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-33747e6bb98033acd828.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm",
+  "title": "中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件",
+  "catalogue_entry_ids": [
+    "I-4ace3915ac52efa5"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4e66a13cd5f86cf6cf39",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:25.835586+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1553-5a0e781f2fb29\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:01 GMT",
+  "raw_sha256": "4cbbee404eb5e0449139e45d57c17c29a22804655ef0bdca83a3ddecd81bb65f",
+  "raw_bytes": 5459,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4cbbee404eb5e0449139e45d57c17c29a22804655ef0bdca83a3ddecd81bb65f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件（一九四六年十一月、一九四七年四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194611and194704.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4e66a13cd5f86cf6cf39.txt",
+  "text_sha256": "3ecb499ffaf385978f107ba54215aea4d9c76d80f9f26fbd58b7d84816443c78",
+  "text_chars": 2014,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-4e66a13cd5f86cf6cf39.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

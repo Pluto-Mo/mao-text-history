@@ -1,0 +1,163 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm",
+  "title": "目前形势和我们的任务",
+  "catalogue_entry_ids": [
+    "I-9a74314257addeb2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-42ad54ae0954e337d327",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:27.945262+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"73f5-5a0e78189c19c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:54 GMT",
+  "raw_sha256": "f11505a7ffad9b3142319e950b949180e55ec2bc4fd1418e63ef23f42555f604",
+  "raw_bytes": 29685,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f11505a7ffad9b3142319e950b949180e55ec2bc4fd1418e63ef23f42555f604.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "目前形势和我们的任务（一九四七年十二月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn10"
+    },
+    {
+      "title": "[11]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn11"
+    },
+    {
+      "title": "[12]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn12"
+    },
+    {
+      "title": "[13]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftn13"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref10"
+    },
+    {
+      "title": "[11]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref11"
+    },
+    {
+      "title": "[12]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref12"
+    },
+    {
+      "title": "[13]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471225.htm#_ftnref13"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-42ad54ae0954e337d327.txt",
+  "text_sha256": "408424684ce23767c789cb2339773871162b2ccb00d2c6bda6c1f8a26c14200a",
+  "text_chars": 13529,
+  "text_lines": 76,
+  "document_path": "archive/documents/A-42ad54ae0954e337d327.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm",
+  "title": "纠正土地改革宣传中的“左”倾错误",
+  "catalogue_entry_ids": [
+    "I-ffa3e055ed200ca5"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d220ff8b7fc125b970e8",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:29.632851+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480211.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c18-5a0e781126ead\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:46 GMT",
+  "raw_sha256": "6265ee7bfa0a860d1bb238ae0eff201537e07204afde9f3bab7e7b792e46c22f",
+  "raw_bytes": 3096,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6265ee7bfa0a860d1bb238ae0eff201537e07204afde9f3bab7e7b792e46c22f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "纠正土地改革宣传中的“左”倾错误（一九四八年二月十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d220ff8b7fc125b970e8.txt",
+  "text_sha256": "4689539faee9848b1b72e2eb1f56bdbc8b1edbef624acd1781fea09983b5cf5a",
+  "text_chars": 1168,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-d220ff8b7fc125b970e8.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

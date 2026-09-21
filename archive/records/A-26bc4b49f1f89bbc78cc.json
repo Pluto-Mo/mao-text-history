@@ -1,0 +1,99 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm",
+  "title": "评国民党对战争责任问题的几种答案",
+  "catalogue_entry_ids": [
+    "I-a5786af1ba018e0e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-26bc4b49f1f89bbc78cc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:37.860052+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2952-5a0e77f3e7993\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:16 GMT",
+  "raw_sha256": "ccaf1319a2ba7f99b7f3363bd9a6f46c4687da8202e91599ae1c95a0d8581717",
+  "raw_bytes": 10578,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ccaf1319a2ba7f99b7f3363bd9a6f46c4687da8202e91599ae1c95a0d8581717.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "评国民党对战争责任问题的几种答案（一九四九年二月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490218.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-26bc4b49f1f89bbc78cc.txt",
+  "text_sha256": "7c17afb0f697e3b80edd0d73ff1fbb972c81add0657f1ccd6f206b4c76c2754a",
+  "text_chars": 4621,
+  "text_lines": 42,
+  "document_path": "archive/documents/A-26bc4b49f1f89bbc78cc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm",
+  "title": "军队内部的民主运动",
+  "catalogue_entry_ids": [
+    "I-919a67e60b4123bd"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-563d08fa5da13defedf9",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:28.843183+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b6b-5a0e7812bf1f1\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:48 GMT",
+  "raw_sha256": "bb4f6e391d060a257e379e44b172b5116a625775b8c913fdf68371f79e25108d",
+  "raw_bytes": 2923,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bb4f6e391d060a257e379e44b172b5116a625775b8c913fdf68371f79e25108d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "军队内部的民主运动（一九四八年一月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480130.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-563d08fa5da13defedf9.txt",
+  "text_sha256": "247e2c348283bbab1e39cf26dea4504048f583df006776bd1c229d2df0997dc0",
+  "text_chars": 880,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-563d08fa5da13defedf9.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm",
+  "title": "新解放区土地改革要点",
+  "catalogue_entry_ids": [
+    "I-57d6f88ad05a6e07"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9174055031984a308cf4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:29.756797+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b4f-5a0e781056e8c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:46 GMT",
+  "raw_sha256": "0e5e911cb6b2955f0323a1a0a4a3cd2950b0a4d3f8449a54bd09a78f223d4d57",
+  "raw_bytes": 2895,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0e5e911cb6b2955f0323a1a0a4a3cd2950b0a4d3f8449a54bd09a78f223d4d57.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "新解放区土地改革要点（一九四八年二月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480215.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9174055031984a308cf4.txt",
+  "text_sha256": "31d03694c77043691d6cc1415072f566b881991e14eb1c64cfad479fcf1d9048",
+  "text_chars": 948,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-9174055031984a308cf4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

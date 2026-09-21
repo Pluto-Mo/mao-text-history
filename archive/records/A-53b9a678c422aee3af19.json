@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm",
+  "title": "和美国记者安娜·刘易斯·斯特朗的谈话",
+  "catalogue_entry_ids": [
+    "I-2d8bdfc600e29fc4"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-53b9a678c422aee3af19",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:24.639549+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"23f2-5a0e7823cc5d2\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:06 GMT",
+  "raw_sha256": "dd6dd88d144c52dcc43d2de9f5a2576b4c5ee38b7ddee048f73e72043bdf542c",
+  "raw_bytes": 9202,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dd6dd88d144c52dcc43d2de9f5a2576b4c5ee38b7ddee048f73e72043bdf542c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "和美国记者安娜·刘易斯·斯特朗的谈话（一九四六年八月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19460806.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-53b9a678c422aee3af19.txt",
+  "text_sha256": "890269d2696b92b08507a3f82461b1128cada193681128daf4431586506a8469",
+  "text_chars": 3880,
+  "text_lines": 54,
+  "document_path": "archive/documents/A-53b9a678c422aee3af19.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

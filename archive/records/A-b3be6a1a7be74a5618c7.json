@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm",
+  "title": "中国军事形势的重大变化",
+  "catalogue_entry_ids": [
+    "I-ff43337de6ed365d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b3be6a1a7be74a5618c7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:34.235729+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"104f-5a0e7800311cc\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:29 GMT",
+  "raw_sha256": "e330a1920e5ecc2a8d49a4d0f411015ce6bb8f71136ec2197d35298bb2b8b058",
+  "raw_bytes": 4175,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e330a1920e5ecc2a8d49a4d0f411015ce6bb8f71136ec2197d35298bb2b8b058.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国军事形势的重大变化（一九四八年十一月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19481114.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b3be6a1a7be74a5618c7.txt",
+  "text_sha256": "a11212b934dd3e4a26a984f33f0fcc56e967e8e3495cf34f2ab06bf37776e7ea",
+  "text_chars": 1482,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-b3be6a1a7be74a5618c7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

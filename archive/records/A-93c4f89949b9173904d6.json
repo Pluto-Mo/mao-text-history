@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450809.htm",
+  "title": "对日寇的最后一战",
+  "catalogue_entry_ids": [
+    "I-5e1078cbabd0c387"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-93c4f89949b9173904d6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:21.991433+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450809.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"764-5a0e7832783af\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:21 GMT",
+  "raw_sha256": "b7c3abb4f7e0ffa9072d6e81f00345646071c6dda2459f882fcdb62215f5b225",
+  "raw_bytes": 1892,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b7c3abb4f7e0ffa9072d6e81f00345646071c6dda2459f882fcdb62215f5b225.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对日寇的最后一战（一九四五年八月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-93c4f89949b9173904d6.txt",
+  "text_sha256": "c40719b7e786e5bd36c5bc58bacef1689ff649755db526e4e52ef259ddbc7f60",
+  "text_chars": 586,
+  "text_lines": 8,
+  "document_path": "archive/documents/A-93c4f89949b9173904d6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

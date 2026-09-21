@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm",
+  "title": "在不同地区实施土地法的不同策略",
+  "catalogue_entry_ids": [
+    "I-19da652f8d5252d1"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1abe7841acaca597715f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:29.152557+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e8c-5a0e7811f016f\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:47 GMT",
+  "raw_sha256": "7b6d320a5acbdf4746282203d7357f4df0dbe8cd77ba6b21a45b7923e00e9a02",
+  "raw_bytes": 3724,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7b6d320a5acbdf4746282203d7357f4df0dbe8cd77ba6b21a45b7923e00e9a02.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在不同地区实施土地法的不同策略（一九四八年二月三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19480203.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1abe7841acaca597715f.txt",
+  "text_sha256": "47948b1f20a130f7fc6518889cbdce18ce4e789d296c7d8e6ef2ec1e474afbbe",
+  "text_chars": 1225,
+  "text_lines": 28,
+  "document_path": "archive/documents/A-1abe7841acaca597715f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

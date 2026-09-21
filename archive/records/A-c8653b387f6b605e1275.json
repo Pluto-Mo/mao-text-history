@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm",
+  "title": "建立巩固的东北根据地",
+  "catalogue_entry_ids": [
+    "I-b13d66dd93788ee8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c8653b387f6b605e1275",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:23.743741+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1b93-5a0e78262acf7\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:08 GMT",
+  "raw_sha256": "07242aabc846683a929a05751005634bc4c7287f708c967391609b7316453565",
+  "raw_bytes": 7059,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/07242aabc846683a929a05751005634bc4c7287f708c967391609b7316453565.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "建立巩固的东北根据地（一九四五年十二月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19451228.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c8653b387f6b605e1275.txt",
+  "text_sha256": "5e3e0cdad8d38ab3518f3d5a74edc590f90678488ae3ce91debf03214498defa",
+  "text_chars": 2911,
+  "text_lines": 27,
+  "document_path": "archive/documents/A-c8653b387f6b605e1275.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

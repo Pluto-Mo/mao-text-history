@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm",
+  "title": "把军队变为工作队",
+  "catalogue_entry_ids": [
+    "I-0a39102fba719dfb"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3f1ea910f99b927c5e16",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:36.946629+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1179-5a0e77f7df39b\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:20 GMT",
+  "raw_sha256": "c1e46991e2238ebf92199581a94eba73b427876df08c4b61130d556ad2882cae",
+  "raw_bytes": 4473,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c1e46991e2238ebf92199581a94eba73b427876df08c4b61130d556ad2882cae.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "把军队变为工作队（一九四九年二月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490208a.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3f1ea910f99b927c5e16.txt",
+  "text_sha256": "b2813cea2b02b85049c1cd104f5ba3cd54dae818a8ba09a90953bdff9bb3caf6",
+  "text_chars": 1703,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-3f1ea910f99b927c5e16.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

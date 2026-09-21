@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490121.htm",
+  "title": "中共发言人评南京行政院的决议",
+  "catalogue_entry_ids": [
+    "I-c0b2b784621c71b7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e302750efc23a31d68bb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:36.052776+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490121.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c06-5a0e77fb04e41\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:23 GMT",
+  "raw_sha256": "9329306cb695e1c61b55ab492ac66e067618bb8c4b9495802d6e1a1c1f24ca03",
+  "raw_bytes": 3078,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9329306cb695e1c61b55ab492ac66e067618bb8c4b9495802d6e1a1c1f24ca03.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中共发言人评南京行政院的决议（一九四九年一月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e302750efc23a31d68bb.txt",
+  "text_sha256": "ef4a0d3d19b2ced3671976e19986be424150629091c212a94f0ea8f40b1cca62",
+  "text_chars": 1189,
+  "text_lines": 7,
+  "document_path": "archive/documents/A-e302750efc23a31d68bb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

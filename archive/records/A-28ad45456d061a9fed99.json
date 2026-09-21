@@ -1,0 +1,107 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm",
+  "title": "蒋介石政府已处在全民的包围中",
+  "catalogue_entry_ids": [
+    "I-6546fb90cdbe40fb"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-28ad45456d061a9fed99",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:26.754738+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1db9-5a0e781cc77c4\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:59 GMT",
+  "raw_sha256": "3d9e1f56fdd2a913034a8d58a3063b90a8da7720b085ada988a04a333e3dcc03",
+  "raw_bytes": 7609,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3d9e1f56fdd2a913034a8d58a3063b90a8da7720b085ada988a04a333e3dcc03.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "蒋介石政府已处在全民的包围中（一九四七年五月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftn6"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19470530.htm#_ftnref6"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-28ad45456d061a9fed99.txt",
+  "text_sha256": "f86ca4f629b761c738f4df8551a47b8bd564cef239dba3d17ccfe0e2b638d546",
+  "text_chars": 3018,
+  "text_lines": 42,
+  "document_path": "archive/documents/A-28ad45456d061a9fed99.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

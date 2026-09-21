@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm",
+  "title": "评战犯求和",
+  "catalogue_entry_ids": [
+    "I-b462f816067a246d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1409ec085e66523e9c2e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:35.437548+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1aed-5a0e77fd16306\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:25 GMT",
+  "raw_sha256": "833d3ab0080dc2cfaa290b0728a1fc8b1d9a8e3a03fa8d468bdfd7e48342a434",
+  "raw_bytes": 6893,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/833d3ab0080dc2cfaa290b0728a1fc8b1d9a8e3a03fa8d468bdfd7e48342a434.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "评战犯求和（一九四九年一月四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490104.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1409ec085e66523e9c2e.txt",
+  "text_sha256": "c1e253c9ee5dbac4caa47d7fae7854411b8aeb9b55f16616a72fee7c3c1d2050",
+  "text_chars": 2764,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-1409ec085e66523e9c2e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

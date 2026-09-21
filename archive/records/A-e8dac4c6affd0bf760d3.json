@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm",
+  "title": "中国人民解放军总部关于重行颁布三大纪律八项注意的训令",
+  "catalogue_entry_ids": [
+    "I-ff71f9adf15dd9fb"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e8dac4c6affd0bf760d3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:27.809775+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9b5-5a0e78196a27e\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:55 GMT",
+  "raw_sha256": "3f0be57dc1343250c45b1d91a4dcf888aeb00c530e1c5e530efdce8130127f3e",
+  "raw_bytes": 2485,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3f0be57dc1343250c45b1d91a4dcf888aeb00c530e1c5e530efdce8130127f3e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国人民解放军总部关于重行颁布三大纪律八项注意的训令（一九四七年十月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19471010a.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e8dac4c6affd0bf760d3.txt",
+  "text_sha256": "cc6e50c1fb670c94d83dd3a230f88361037af650359451d2d4443e804f69228e",
+  "text_chars": 768,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-e8dac4c6affd0bf760d3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
