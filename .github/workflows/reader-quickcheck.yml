@@ -1,0 +1,61 @@
+name: Inspect official reader configuration
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/reader-quickcheck.yml]
+permissions:
+  contents: write
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Inspect one known public reader with short timeouts
+        run: |
+          python - <<'PY'
+          from urllib.request import urlopen,Request
+          from urllib.parse import urljoin,urlsplit
+          from html.parser import HTMLParser
+          from pathlib import Path
+          import json,hashlib,re
+          url='https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/7959b5b5a449a3046af7bbf4ea4ff53297585/mobile/index.html'
+          out={'reader_url':url,'resources':[]}
+          class Parser(HTMLParser):
+              def handle_starttag(self,tag,attrs):
+                  attrs=dict(attrs)
+                  if tag=='script' and 'src' in attrs: links.append(urljoin(url,attrs['src']))
+          def get(u):
+              req=Request(u,headers={'User-Agent':'MaoTextHistoryArchive/2.0'})
+              with urlopen(req,timeout=10) as f: return f.read(5000000).decode('utf-8',errors='replace')
+          Path('archive/quick-reader').mkdir(parents=True,exist_ok=True)
+          try:
+              text=get(url)
+              Path('archive/quick-reader/reader.html').write_text(text)
+              links=[]; Parser().feed(text)
+              out['scripts']=links
+              out['html']=text
+              for u in links:
+                  if urlsplit(u).hostname!='ebook.dswxyjy.org.cn': continue
+                  if not any(s in u.lower() for s in ['config','book','search','text','main']): continue
+                  try:
+                      content=get(u)
+                      fn='archive/quick-reader/'+hashlib.sha256(u.encode()).hexdigest()[:16]+'.js.txt'
+                      Path(fn).write_text(content)
+                      out['resources'].append({'url':u,'path':fn,'content_start':content[:20000]})
+                  except Exception as exc: out['resources'].append({'url':u,'error':str(exc)})
+          except Exception as exc: out['error']=str(exc)
+          Path('reports/reader-quickcheck.json').write_text(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit actual reader inspection
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add archive/quick-reader reports/reader-quickcheck.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: inspect exact public reader script and resource references'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
