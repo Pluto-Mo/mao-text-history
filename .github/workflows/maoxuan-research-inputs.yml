@@ -1,0 +1,51 @@
+name: Prepare whole Maoxuan research inputs
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/maoxuan-research-inputs.yml
+permissions:
+  contents: read
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            archive/records
+            archive/text
+            archive/pages
+            archive/editions
+            archive/index
+            catalog
+            config
+            data
+            cases
+            docs
+            reports
+          filter: blob:none
+      - name: Package retained text and provenance without copying large original PDFs
+        run: |
+          python - <<'PY'
+          import tarfile, pathlib, subprocess, json
+          root=pathlib.Path('.')
+          paths=['archive/records','archive/text','archive/pages','archive/editions','archive/index','catalog','config','data','cases','docs','reports']
+          files=[p for folder in paths for p in (root/folder).rglob('*') if p.is_file()]
+          files+=list(root.glob('*.py'))+[root/'AGENTS.md',root/'README.md',root/'requirements.txt']
+          manifest={'source_commit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),'files':len(files),'bytes':sum(p.stat().st_size for p in files),'purpose':'offline exhaustive article-level evidence research; existing retained files only'}
+          pathlib.Path('/tmp/research-inputs.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
+          with tarfile.open('/tmp/maoxuan-research-inputs.tar.gz','w:gz',compresslevel=3) as tf:
+              for p in sorted(set(files)): tf.add(p,arcname=str(p))
+              tf.add('/tmp/research-inputs.json',arcname='research-inputs.json')
+          print(json.dumps(manifest,ensure_ascii=False,indent=2))
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: maoxuan-research-inputs
+          path: /tmp/maoxuan-research-inputs.tar.gz
+          compression-level: 0
+          retention-days: 7
+          if-no-files-found: error
