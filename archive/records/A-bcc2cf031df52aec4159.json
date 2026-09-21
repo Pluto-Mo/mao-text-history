@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-026.htm",
+  "title": "视察抚顺煤矿时的指示（一九五八年四月二十九日）",
+  "catalogue_entry_ids": [
+    "I-f5f5416c59827aec"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bcc2cf031df52aec4159",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:20.360843+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-026.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"500-57a3a619a3a06\"",
+  "last_modified": "Fri, 09 Nov 2018 12:20:47 GMT",
+  "raw_sha256": "a55bf6725b7f646c347e6017f2a399ba9a85cdd54e56364376fe1a18ab96f153",
+  "raw_bytes": 1280,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a55bf6725b7f646c347e6017f2a399ba9a85cdd54e56364376fe1a18ab96f153.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "视察抚顺煤矿时的指示（一九五八年四月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-025.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-027.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bcc2cf031df52aec4159.txt",
+  "text_sha256": "7d111500ffa308949d005953d8a4f91f1cdfd21d8be9ef3bcc77d5f44ee68941",
+  "text_chars": 135,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-bcc2cf031df52aec4159.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-056.htm",
+  "title": "接见巴西记者穆里罗．马罗金．苏乌萨得杜特夫人的谈话（一九五八年九月二日）",
+  "catalogue_entry_ids": [
+    "I-74e91a2fa577817d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cd9ad3c5e3ff7b04c34c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:29.347162+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-056.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"68e-57a3a636f49f9\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:18 GMT",
+  "raw_sha256": "05aae59ced1039b5ab02241ac64441884ca1e4b0280cab420e44bb0b53f71c70",
+  "raw_bytes": 1678,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/05aae59ced1039b5ab02241ac64441884ca1e4b0280cab420e44bb0b53f71c70.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见巴西记者穆里罗．马罗金．苏乌萨得杜特夫人的谈话（一九五八年九月二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-055.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-057.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cd9ad3c5e3ff7b04c34c.txt",
+  "text_sha256": "fdba1532fb13fbe8a60bef6083327c008600356840a481e5e0ff5058fdf7e8af",
+  "text_chars": 319,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-cd9ad3c5e3ff7b04c34c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

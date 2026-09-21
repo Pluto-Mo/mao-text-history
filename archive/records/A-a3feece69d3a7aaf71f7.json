@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-126.htm",
+  "title": "关于主要矛盾问题（一九五七年）",
+  "catalogue_entry_ids": [
+    "I-deb94df833030fd8"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a3feece69d3a7aaf71f7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:12.597642+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-126.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"160a-57a3a586a819f\"",
+  "last_modified": "Fri, 09 Nov 2018 12:18:13 GMT",
+  "raw_sha256": "dd64f1af8edad87f21960ecda3811398b72d2274855060048f01ee4e1b4bd703",
+  "raw_bytes": 5642,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dd64f1af8edad87f21960ecda3811398b72d2274855060048f01ee4e1b4bd703.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于主要矛盾问题（一九五七年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-125.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a3feece69d3a7aaf71f7.txt",
+  "text_sha256": "61bea8fff42989a85a0c4270e9e20a5480f5993044ba3773a822504f2ca3d92c",
+  "text_chars": 2351,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-a3feece69d3a7aaf71f7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

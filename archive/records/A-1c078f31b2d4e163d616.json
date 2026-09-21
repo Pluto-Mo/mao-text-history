@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-054.htm",
+  "title": "关于主要矛盾问题的讲话（一九五八年八月）",
+  "catalogue_entry_ids": [
+    "I-830af64566bb8e4b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1c078f31b2d4e163d616",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:28.742614+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-054.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"16ce-57a3a6322fe6d\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:13 GMT",
+  "raw_sha256": "7f9dfda86cea734fde6a42cba96a7daf9accbe45e7193bbb9de0153989910e87",
+  "raw_bytes": 5838,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7f9dfda86cea734fde6a42cba96a7daf9accbe45e7193bbb9de0153989910e87.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于主要矛盾问题的讲话（一九五八年八月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-053.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-055.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1c078f31b2d4e163d616.txt",
+  "text_sha256": "a6c0b414a6566622249eb86d210c9e70247246165bea7037123cd267c7e54f54",
+  "text_chars": 2350,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-1c078f31b2d4e163d616.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

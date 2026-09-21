@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-125.htm",
+  "title": "事情正在起变化（一九五七年五月）",
+  "catalogue_entry_ids": [
+    "I-b8f2a1550f887f61"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-daf42ff63dc47131c9b6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:12.597364+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-125.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2224-57a3a585ca6b1\"",
+  "last_modified": "Fri, 09 Nov 2018 12:18:12 GMT",
+  "raw_sha256": "cd4b78e8e6c59076e088556a53dfe8ef8eba3317d8477e77426a9ae905baf8f5",
+  "raw_bytes": 8740,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cd4b78e8e6c59076e088556a53dfe8ef8eba3317d8477e77426a9ae905baf8f5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "事情正在起变化（一九五七年五月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-124.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-126.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-daf42ff63dc47131c9b6.txt",
+  "text_sha256": "504966e319fe56b3c4413abf691ba2a86050f6de9ac1adc6411ee9a65b77867e",
+  "text_chars": 3776,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-daf42ff63dc47131c9b6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

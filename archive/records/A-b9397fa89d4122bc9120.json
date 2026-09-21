@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-014.htm",
+  "title": "在成都会议上的讲话（三）（一九五八年三月二十日）",
+  "catalogue_entry_ids": [
+    "I-7e8a873a6db50e7a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b9397fa89d4122bc9120",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:16.753835+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-014.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2968-57a3a592882fc\"",
+  "last_modified": "Fri, 09 Nov 2018 12:18:26 GMT",
+  "raw_sha256": "66b2f26e908db1be3736df1bcf5e0d21e3d26c747c5e7f1ab1e2ed3cbaf0f122",
+  "raw_bytes": 10600,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/66b2f26e908db1be3736df1bcf5e0d21e3d26c747c5e7f1ab1e2ed3cbaf0f122.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在成都会议上的讲话（三）（一九五八年三月二十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-013.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-015.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b9397fa89d4122bc9120.txt",
+  "text_sha256": "97e90be272d7428a5b9464089b6821d2cb1ee46d832fd43ce3cf8e544907dc2e",
+  "text_chars": 4642,
+  "text_lines": 35,
+  "document_path": "archive/documents/A-b9397fa89d4122bc9120.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

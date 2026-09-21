@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-040.htm",
+  "title": "在军委扩大会议小组长座谈会上的讲话（一九五八年六月二十八日）",
+  "catalogue_entry_ids": [
+    "I-2a2ab352368f0065"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-85a498c93f9204150c52",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:24.546001+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-040.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1e18-57a3a5acda920\"",
+  "last_modified": "Fri, 09 Nov 2018 12:18:53 GMT",
+  "raw_sha256": "b59ec2e67a5b707598cb22e8963ac87184e2badc6303535508764913423b4115",
+  "raw_bytes": 7704,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b59ec2e67a5b707598cb22e8963ac87184e2badc6303535508764913423b4115.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在军委扩大会议小组长座谈会上的讲话（一九五八年六月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-039.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-041.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-85a498c93f9204150c52.txt",
+  "text_sha256": "e642e0080804d464ca4d85dcb2f2d8d10012516a2a8ed28d4ee33647b53436d2",
+  "text_chars": 3258,
+  "text_lines": 26,
+  "document_path": "archive/documents/A-85a498c93f9204150c52.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

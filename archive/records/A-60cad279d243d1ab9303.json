@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-035.htm",
+  "title": "接见阿联军事代表团时的谈话（摘录）（一九五八年五月）",
+  "catalogue_entry_ids": [
+    "I-c90fbadf5b965624"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-60cad279d243d1ab9303",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:23.219772+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-035.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"55c-57a3a6044da11\"",
+  "last_modified": "Fri, 09 Nov 2018 12:20:25 GMT",
+  "raw_sha256": "afccff7901d3d840b595a49a48a888ca7f78a7685efa5e65b466b72c5ccd8c64",
+  "raw_bytes": 1372,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/afccff7901d3d840b595a49a48a888ca7f78a7685efa5e65b466b72c5ccd8c64.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见阿联军事代表团时的谈话（摘录）（一九五八年五月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-034.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-036.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-60cad279d243d1ab9303.txt",
+  "text_sha256": "f3051bee0a3ee4a3630be1b1764783b1ef0b1eaa3d084273e69b21d2fe7d8139",
+  "text_chars": 187,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-60cad279d243d1ab9303.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-047.htm",
+  "title": "接见西哈努克时的讲话（摘录）（一九五八年八月十五日）",
+  "catalogue_entry_ids": [
+    "I-f6bd69038cb3cd4a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-21c2f06be01bc896bc67",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:26.653994+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-047.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"574-57a3a644db456\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:33 GMT",
+  "raw_sha256": "40797f8ac3d3dd244a69e1911510e37dc7566fbbf650413d12a96a35daad3a5f",
+  "raw_bytes": 1396,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/40797f8ac3d3dd244a69e1911510e37dc7566fbbf650413d12a96a35daad3a5f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见西哈努克时的讲话（摘录）（一九五八年八月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-046.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-048.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-21c2f06be01bc896bc67.txt",
+  "text_sha256": "6ba421e9c9fcef61ee1505eddbc7a6062300289c0b20fa1b18cf6dd91b7909c1",
+  "text_chars": 175,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-21c2f06be01bc896bc67.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

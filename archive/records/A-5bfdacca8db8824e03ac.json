@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-055.htm",
+  "title": "给××，陈×，富春等同志的一封信（一九五八年九月二日）",
+  "catalogue_entry_ids": [
+    "I-5cea968f4e61f4e1"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5bfdacca8db8824e03ac",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:29.046472+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-055.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"bfe-57a3a634f1f79\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:16 GMT",
+  "raw_sha256": "03318f0a5592c198cbad7e20891ccf8abe07349423ff49008280316f46118293",
+  "raw_bytes": 3070,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/03318f0a5592c198cbad7e20891ccf8abe07349423ff49008280316f46118293.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给××，陈×，富春等同志的一封信（一九五八年九月二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-054.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-056.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5bfdacca8db8824e03ac.txt",
+  "text_sha256": "d9b7c66de81fa0f32f819e8ead05d17aa2c6a5fe1d704041be6741357183f2a3",
+  "text_chars": 1013,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-5bfdacca8db8824e03ac.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-036.htm",
+  "title": "关于原子弹、氢弹的指示（一九五八年六月）",
+  "catalogue_entry_ids": [
+    "I-a977dfec23dc5fe4"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-25cd3dbd0d0ec7687732",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:23.512682+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-036.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"614-57a3a61b255fe\"",
+  "last_modified": "Fri, 09 Nov 2018 12:20:49 GMT",
+  "raw_sha256": "481834cf13a263e07d7b49c8af008612ecc574fe72f44d02a92dbe6b887c3533",
+  "raw_bytes": 1556,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/481834cf13a263e07d7b49c8af008612ecc574fe72f44d02a92dbe6b887c3533.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于原子弹、氢弹的指示（一九五八年六月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-035.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-037.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-25cd3dbd0d0ec7687732.txt",
+  "text_sha256": "164c0606fd3ef514b874f3ad7ae85d9b99c597be742b586281d9f3498a20cbbb",
+  "text_chars": 264,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-25cd3dbd0d0ec7687732.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

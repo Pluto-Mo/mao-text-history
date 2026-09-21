@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-019.htm",
+  "title": "对《中国农村社会主义高潮》一书《按语》的批示（一九五八年三月十九日）",
+  "catalogue_entry_ids": [
+    "I-110f587b42135d8f"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bf2a4ffa6b4b93dc39d2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:18.248261+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-019.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7fc-57a3a593da151\"",
+  "last_modified": "Fri, 09 Nov 2018 12:18:27 GMT",
+  "raw_sha256": "9ded692ec837e26e260a5385d6bfad68f32257c500c5180f1695b0003d369499",
+  "raw_bytes": 2044,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9ded692ec837e26e260a5385d6bfad68f32257c500c5180f1695b0003d369499.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《中国农村社会主义高潮》一书《按语》的批示（一九五八年三月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-018.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-020.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bf2a4ffa6b4b93dc39d2.txt",
+  "text_sha256": "49267bd1c6bb83bfca4a81a22f001b8175c5e6458ab64df679818ca2ac0665ef",
+  "text_chars": 508,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-bf2a4ffa6b4b93dc39d2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
