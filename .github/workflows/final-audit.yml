@@ -1,0 +1,106 @@
+name: Final catalogue integrity audit
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/final-audit.yml']
+permissions:
+  contents: write
+concurrency:
+  group: catalogue-reconciliation
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: main
+      - run: python -m pip install -r requirements.txt
+      - name: Correct volume headings containing period subtitles
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('catalogue_v2.py')
+          text=p.read_text(encoding='utf-8')
+          old="match=re.fullmatch(r'第([一二三四五六七八九十]+)卷',title)"
+          new="match=re.match(r'^第([一二三四五六七八九十]+)卷(?:\\s|$)',title)"
+          if old not in text and new not in text:
+              raise RuntimeError('Unexpected parser version; stop instead of blind patching')
+          text=text.replace(old,new)
+          text=text.replace("elif title=='其它':", "elif re.match(r'^其它(?:\\s|$)',title):")
+          p.write_text(text,encoding='utf-8')
+          t=Path('tests/test_catalogue_v2.py')
+          tests=t.read_text(encoding='utf-8')
+          marker='    def test_volume_heading_with_period_subtitle(self):'
+          if marker not in tests:
+              method='''    def test_volume_heading_with_period_subtitle(self):
+                  soup=BeautifulSoup('<h4>第二卷<br>抗日战争时期（上）</h4><a href="a.htm">论持久战</a><h4>第五卷<br>社会主义革命和社会主义建设时期（一）</h4><a href="b.htm">关于正确处理人民内部矛盾的问题</a>', 'html5lib')
+                  source={'id':'MIA-MAIN','url':'https://www.marxists.org/chinese/maozedong/index.htm','kind':'mia_main','edition_id':'maoxuan-mia-catalogue'}
+                  self.assertEqual([r['volume'] for r in v.catalogue(soup,source,{})],[2,5])
+          '''
+              import textwrap
+              method=textwrap.indent(textwrap.dedent(method),'    ')
+              tests=tests.replace("\nif __name__=='__main__': unittest.main()", '\n'+method+"\nif __name__=='__main__': unittest.main()")
+              t.write_text(tests,encoding='utf-8')
+          PY
+      - name: Test parser regression
+        run: python -m unittest discover -s tests -v
+      - name: Reconcile catalogues with corrected headings
+        run: python catalogue_v2.py
+      - name: Check real records and write human-readable coverage
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from collections import Counter
+          import json
+          import corpus as c
+          entries=c.rows('catalog/entries.jsonl')
+          def exact(title,source):
+              return [r for r in entries if r['title']==title and r['source_id']==source]
+          for title,volume in [('中国社会各阶级的分析',1),('论持久战',2),('为人民服务',3),('论人民民主专政',4),('关于正确处理人民内部矛盾的问题',5)]:
+              matches=exact(title,'MIA-MAIN')
+              if len(matches)!=1 or matches[0]['volume']!=volume:
+                  raise AssertionError((title,matches))
+          assert exact('给宫崎滔天的信','MIA-COLLECT')[0]['volume']==1
+          assert exact('井冈山前委对中央的报告','MIA-COLLECT')[0]['volume']==2
+          report=c.load('reports/coverage.json')
+          receipts=c.rows('catalog/fetches.jsonl')
+          failures=[{k:r.get(k) for k in ('source_id','url','status','error')} for r in receipts if r['status']!='retrieved_html']
+          report['acceptance']={'real_volume_examples_checked':7,'title_decode_replacements':report['titles_with_decoding_replacements'],'confirmed_full_sets':0,'confirmed_revision_edges':0}
+          report['failed_sources']=failures
+          c.save('reports/coverage.json',report)
+          lines=['# 实际收集与验收报告','',f"生成时间（UTC）：{report['generated_at']}",'',
+                 '**远程仓库和索引已落地；四套原书全文尚未收齐。**','',
+                 '| 项目 | 实际数量 |','|---|---:|',
+                 f"| 目录记录（不是去重后的作品数） | {len(entries)} |",
+                 f"| 成功取得HTML的网络观察 | {report['fetch_statuses'].get('retrieved_html',0)} |",
+                 f"| 跨来源同题候选组 | {report['same_title_candidate_groups']} |",
+                 '| 已确认的历史改稿关系 | 0 |','| 长期保存的完整原书卷册 | 0 |','| 已收齐的四套全文 | 0 |','',
+                 '## 按来源统计','', '| 来源 | 目录条目 |','|---|---:|']
+          names={'MIA-MAIN':'MIA毛泽东主目录','MIA-1968':'1968年武汉版目录','MIA-COLLECT':'《毛泽东集》与补卷、年表目录','OFF-MAO':'官方《毛选》书目入口','OFF-NIAN':'官方《年谱》书目入口'}
+          for k,n in report['entries_by_source'].items(): lines.append(f'| {names.get(k,k)} | {n} |')
+          lines+=['','## 尚未完成的部分','',
+                  '《文稿》旧13册／2023新版20册，以及《年谱》旧版／2023新版9卷，目前登记的是书系、卷册和查阅入口，不是这些原书的全文。MIA逐篇HTML已做访问检查，但公共仓库没有复制这些正文或PDF原书。','',
+                  f"{report['legacy_text_extractions_not_revalidated']}份首轮HTML文字提取未逐篇使用新编码器重验；其原始字节哈希只是采集观察，不是认证过的正文。当前目录的中文题名已重新解析，实际7个卷次样例已自动核对。",'',
+                  '跨来源同题关联仅为候选，不证明同一篇的相邻稿本。要讨论具体增删，仍应取得可核版次的前后文本，并逐段校对。','',
+                  '## 访问失败或受限的来源','']
+          for f in failures: lines.append(f"- {f.get('source_id') or '正文URL'}：{f['url']}；{f['error']}")
+          lines+=['','## Agent入口','',
+                  '先读 `AGENTS.md`、`exports/zhengchu-1957.md`，再查询 `catalog/entries.jsonl`、`catalog/relations.jsonl` 和 `data/evidence.json`。引用时应给出来源、版次、定位及不确定性。','']
+          Path('reports/coverage.md').write_text('\n'.join(lines),encoding='utf-8')
+          PY
+      - name: Validate final catalogue and tests
+        run: |
+          python corpus.py validate
+          python -m unittest discover -s tests -v
+      - name: Commit verified parser and catalogue
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add catalogue_v2.py tests/test_catalogue_v2.py catalog reports
+          git diff --cached --quiet && exit 0
+          git commit -m 'fix: verify seven real volume anchors and publish final acquisition audit'
+          git pull --rebase origin main
+          git push origin HEAD:main
