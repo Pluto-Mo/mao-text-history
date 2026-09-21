@@ -1,0 +1,46 @@
+name: Source catalogue layout audit
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/layout-audit.yml']
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: main
+      - run: python -m pip install -r requirements.txt
+      - name: Inspect only catalogue layout metadata
+        run: |
+          python - <<'PY'
+          import corpus
+          import re
+          f = corpus.Fetcher()
+          sources = [s for s in corpus.load('config/sources.json') if s['id'] in {'MIA-COLLECT','MIA-1968'}]
+          f.prepare([s['url'] for s in sources])
+          result = []
+          for s in sources:
+              receipt, soup = f.get(s['url'])
+              item = {'source_id':s['id'],'receipt':receipt,'tables':[],'headings':[]}
+              if soup:
+                  for i,t in enumerate(soup.find_all('table'),1):
+                      item['tables'].append({'index':i,'parent':t.parent.name,'rows':[{'cells':[{'tag':c.name,'span':c.get('colspan'),'start':corpus.clean(c.get_text(' ',strip=True))[:80],'direct_table_count':len(c.find_all('table',recursive=False))} for c in tr.find_all(['td','th'],recursive=False)]} for tr in t.find_all('tr',recursive=False)[:3]],'text_start':corpus.clean(t.get_text(' ',strip=True))[:120]})
+                  for h in soup.find_all(re.compile('^h[1-6]$')):
+                      item['headings'].append({'tag':h.name,'text':corpus.clean(h.get_text())[:160]})
+              result.append(item)
+          corpus.save('reports/layout-audit.json',result)
+          PY
+      - name: Commit catalogue structure audit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/layout-audit.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'audit: retain catalogue layout metadata for column-aware parsing'
+          git pull --rebase origin main
+          git push origin HEAD:main
