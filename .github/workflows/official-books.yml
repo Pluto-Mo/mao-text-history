@@ -1,0 +1,47 @@
+name: Preserve official book readers
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [official_books.py, .github/workflows/official-books.yml]
+permissions:
+  contents: write
+concurrency:
+  group: official-book-preservation
+  cancel-in-progress: false
+jobs:
+  official:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Install existing parsers
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install pymupdf==1.26.4
+      - name: Git checkpoint identity
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Preserve full official source text arrays
+        run: python -u official_books.py
+      - name: Commit actual official full texts
+        run: |
+          git add archive reports/official-page-texts.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: preserve official book page texts with reader-page alignment'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Preserve complete official yearbook page sequences in bounded batches
+        run: |
+          for volumes in '1 2' '3 4' '5 6'; do
+            python -u official_books.py images $volumes
+            git add archive reports/official-image-batch-*.json
+            if ! git diff --cached --quiet; then
+              git commit -m "data: preserve official yearbook source pages, volumes $volumes"
+              git pull --rebase origin main
+              git push origin HEAD:main
+            fi
+          done
