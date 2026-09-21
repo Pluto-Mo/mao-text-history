@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-005.htm",
+  "title": "在广州会议上的讲话（节录）（一九六一年三月）",
+  "catalogue_entry_ids": [
+    "I-d1205355ce4fdca6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a60487179795d14627b3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:22.417500+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-005.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"993-57a2992f47ab6\"",
+  "last_modified": "Thu, 08 Nov 2018 16:17:41 GMT",
+  "raw_sha256": "d90791e432b32fa942fde69a3679453ad2c897a56b3e0e0dde3d4d0d1ec55130",
+  "raw_bytes": 2451,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d90791e432b32fa942fde69a3679453ad2c897a56b3e0e0dde3d4d0d1ec55130.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在广州会议上的讲话（节录）（一九六一年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-004.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-006.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a60487179795d14627b3.txt",
+  "text_sha256": "497379b449aad2555eca6b3111e0dd3b471522b2009fb4326143c840083473c4",
+  "text_chars": 648,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-a60487179795d14627b3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

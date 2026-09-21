@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-194.htm",
+  "title": "在第二届全国人民代表大会常务委员会第九次会议上提出的中国共产党中央委员会的建议（一九五九年九月十四日）",
+  "catalogue_entry_ids": [
+    "I-637a6e160fc3488c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dc69ccfe72c7bd43cd2f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:20.321492+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-194.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9ab-57a2992817cc2\"",
+  "last_modified": "Thu, 08 Nov 2018 16:17:33 GMT",
+  "raw_sha256": "6e3d41ba2ae9c53e718c435ac057066f8e4dfe972d818abf9b1fd8379975e42e",
+  "raw_bytes": 2475,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6e3d41ba2ae9c53e718c435ac057066f8e4dfe972d818abf9b1fd8379975e42e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在第二届全国人民代表大会常务委员会第九次会议上提出的中国共产党中央委员会的建议（一九五九年九月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-193.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-195.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dc69ccfe72c7bd43cd2f.txt",
+  "text_sha256": "1f8ac29592fccea82fb3b9dae6cf2ac8024c239552069d43ef4f6e137fd730d3",
+  "text_chars": 687,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-dc69ccfe72c7bd43cd2f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

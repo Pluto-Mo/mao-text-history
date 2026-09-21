@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-027.htm",
+  "title": "接见阿尔巴尼亚劳动青年联盟代表团、新闻工作者代表团、工会代表团和档案工作者代表团的谈话（一九六三年五月四日）",
+  "catalogue_entry_ids": [
+    "I-043edd92f7e2e85d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ab4c7f44ff368f3afc73",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:29.025498+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-027.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1a60-57a2994d20697\"",
+  "last_modified": "Thu, 08 Nov 2018 16:18:12 GMT",
+  "raw_sha256": "42b7ff1a441b666f0490726007ec6b41d33d0e8cde101fdf4c14d1ad2f4b2943",
+  "raw_bytes": 6752,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/42b7ff1a441b666f0490726007ec6b41d33d0e8cde101fdf4c14d1ad2f4b2943.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见阿尔巴尼亚劳动青年联盟代表团、新闻工作者代表团、工会代表团和档案工作者代表团的谈话（一九六三年五月四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-026.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-028.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ab4c7f44ff368f3afc73.txt",
+  "text_sha256": "5b413ad8bd7da8cc1694f9f25e46b61962cd882feda316d70045357e99040a89",
+  "text_chars": 2591,
+  "text_lines": 54,
+  "document_path": "archive/documents/A-ab4c7f44ff368f3afc73.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

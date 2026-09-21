@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-011.htm",
+  "title": "对《各地贯彻执行六十条的情况和问题》的批语（一九六一年九月六日）",
+  "catalogue_entry_ids": [
+    "I-1f8979ac8d29a333"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-28843c416aacb87ef56a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:24.221343+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-011.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"64a-57a2993598e1c\"",
+  "last_modified": "Thu, 08 Nov 2018 16:17:47 GMT",
+  "raw_sha256": "bc65b945eef41a4d3eb160b77b66d0f372ae016f47cb968131a66df9d263bac0",
+  "raw_bytes": 1610,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bc65b945eef41a4d3eb160b77b66d0f372ae016f47cb968131a66df9d263bac0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《各地贯彻执行六十条的情况和问题》的批语（一九六一年九月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-010.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-012.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-28843c416aacb87ef56a.txt",
+  "text_sha256": "424deb5b7776b142f1945d448eb96ed368829c5d19e4a6c77eec67623f72a014",
+  "text_chars": 300,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-28843c416aacb87ef56a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

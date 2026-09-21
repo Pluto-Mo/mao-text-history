@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-025.htm",
+  "title": "听取中印边境自卫反击战汇报时的指示（一九六三年二月）",
+  "catalogue_entry_ids": [
+    "I-5f830cdb5d4f307b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-098d6d93aad57873c7d0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:28.434992+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-025.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"51e-57a2994b4ba7a\"",
+  "last_modified": "Thu, 08 Nov 2018 16:18:10 GMT",
+  "raw_sha256": "d47ec6619e44b1565d0ce947ac7694d00544d5088df4e634df92b9524d2f0bd0",
+  "raw_bytes": 1310,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d47ec6619e44b1565d0ce947ac7694d00544d5088df4e634df92b9524d2f0bd0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "听取中印边境自卫反击战汇报时的指示（一九六三年二月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-024.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-026.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-098d6d93aad57873c7d0.txt",
+  "text_sha256": "acbab467da50110244b6c5569f514612e757c016b747771df4139f28d415b5f4",
+  "text_chars": 150,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-098d6d93aad57873c7d0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

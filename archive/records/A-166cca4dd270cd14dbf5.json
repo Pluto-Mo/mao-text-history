@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-010.htm",
+  "title": "给江西共产主义劳动大学的一封信（一九六一年七月三十日）",
+  "catalogue_entry_ids": [
+    "I-ec9ae05848af5254"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-166cca4dd270cd14dbf5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:23.931876+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-010.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9e9-57a29934d0aef\"",
+  "last_modified": "Thu, 08 Nov 2018 16:17:47 GMT",
+  "raw_sha256": "28c5a0a497d9ca2241e7bfb8a2dbcc0a326dc25c7919c0af817396474a1848ae",
+  "raw_bytes": 2537,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/28c5a0a497d9ca2241e7bfb8a2dbcc0a326dc25c7919c0af817396474a1848ae.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给江西共产主义劳动大学的一封信（一九六一年七月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-009.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-011.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-166cca4dd270cd14dbf5.txt",
+  "text_sha256": "51bb5cd948b031c2b657a4ffb5611dc571680c122b80d9649267af11749bb7be",
+  "text_chars": 725,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-166cca4dd270cd14dbf5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

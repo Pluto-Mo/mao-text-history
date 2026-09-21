@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-196.htm",
+  "title": "关于官僚主义严重存在的问题（对一个文件的批语）（一九六○年春）",
+  "catalogue_entry_ids": [
+    "I-646a823ef954cc89"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-178921061e3f40c5fc8c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:20.926408+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-196.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"8ad-57a29929b4e3c\"",
+  "last_modified": "Thu, 08 Nov 2018 16:17:35 GMT",
+  "raw_sha256": "2467cdccd43b6bdb76be7dfe654437fc71957206eac7d888d32a77744428da35",
+  "raw_bytes": 2221,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2467cdccd43b6bdb76be7dfe654437fc71957206eac7d888d32a77744428da35.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于官僚主义严重存在的问题（对一个文件的批语）（一九六○年春）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-195.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-178921061e3f40c5fc8c.txt",
+  "text_sha256": "0df6b71ffbebb582d57965b74d8529dd3b92115736b6049bd44471ef3a76b1ee",
+  "text_chars": 631,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-178921061e3f40c5fc8c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

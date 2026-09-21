@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-033.htm",
+  "title": "关于农村社会主义教育等问题的指示（一九六三年五月）",
+  "catalogue_entry_ids": [
+    "I-9127cf94cc3fbd6e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d915d956ab38349d5d97",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:30.823608+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-033.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"38c4-57a29955540db\"",
+  "last_modified": "Thu, 08 Nov 2018 16:18:21 GMT",
+  "raw_sha256": "962507615d841c47145819ab9a933d8ceba25c2c497629a0bb3f8c20cd488e70",
+  "raw_bytes": 14532,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/962507615d841c47145819ab9a933d8ceba25c2c497629a0bb3f8c20cd488e70.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于农村社会主义教育等问题的指示（一九六三年五月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-032.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-034.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d915d956ab38349d5d97.txt",
+  "text_sha256": "47bdc5d52cb7e7613215a12da2682b61052e749ec7eebf1a49eac5753ca0d216",
+  "text_chars": 6481,
+  "text_lines": 55,
+  "document_path": "archive/documents/A-d915d956ab38349d5d97.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

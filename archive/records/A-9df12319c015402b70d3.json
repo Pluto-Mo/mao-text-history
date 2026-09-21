@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-186.htm",
+  "title": "批评《人民日报》不应“反冒进”（传达纪要）（一九五八年一月）",
+  "catalogue_entry_ids": [
+    "I-da9e26fd6700be35"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9df12319c015402b70d3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:17.934323+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-186.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e5e-57a2991f16191\"",
+  "last_modified": "Thu, 08 Nov 2018 16:17:24 GMT",
+  "raw_sha256": "4ca42f354451e24d61399385429dcb4bcfc5bd43ce336259dee8b1d6fdeda796",
+  "raw_bytes": 3678,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4ca42f354451e24d61399385429dcb4bcfc5bd43ce336259dee8b1d6fdeda796.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "批评《人民日报》不应“反冒进”（传达纪要）（一九五八年一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-185.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-187.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9df12319c015402b70d3.txt",
+  "text_sha256": "0905dd1e089bb4f400e0e3dbea37b3549971e3b5462ed7275ae07762f502a0f8",
+  "text_chars": 1172,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-9df12319c015402b70d3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
