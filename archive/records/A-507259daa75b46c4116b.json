@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-001.htm",
+  "title": "中华人民共和国中央人民政府公告（一九四九年十月一日）",
+  "catalogue_entry_ids": [
+    "I-a0bdd4c3e67f818f"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-507259daa75b46c4116b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:27.059160+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-001.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"be4-57a3c48b902a2\"",
+  "last_modified": "Fri, 09 Nov 2018 14:37:00 GMT",
+  "raw_sha256": "790b9ee6e08c88ad23a26891d4fb2eafb46da07932c1b6d695ff8a03d6b63c3b",
+  "raw_bytes": 3044,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/790b9ee6e08c88ad23a26891d4fb2eafb46da07932c1b6d695ff8a03d6b63c3b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中华人民共和国中央人民政府公告（一九四九年十月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-002.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-507259daa75b46c4116b.txt",
+  "text_sha256": "14937da97f313ecb0bd936b5ab4b7d77f0064bde35f0e393d5da8bb02d90f619",
+  "text_chars": 1039,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-507259daa75b46c4116b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

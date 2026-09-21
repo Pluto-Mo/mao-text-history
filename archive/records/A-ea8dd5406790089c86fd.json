@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-130.htm",
+  "title": "给安吴青训班二周年纪念的题词（一九三九年十月）",
+  "catalogue_entry_ids": [
+    "I-c7a0821c4ba166d9"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ea8dd5406790089c86fd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:21.652720+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-130.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"646-57a3a2d383b97\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:08 GMT",
+  "raw_sha256": "2668b4f1ff71ea828eedd4d25339d5f13c51f0b6db7a511db5e4426bf62bdfb5",
+  "raw_bytes": 1606,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2668b4f1ff71ea828eedd4d25339d5f13c51f0b6db7a511db5e4426bf62bdfb5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给安吴青训班二周年纪念的题词（一九三九年十月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-129.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-131.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ea8dd5406790089c86fd.txt",
+  "text_sha256": "5fdf69be47343ac70daa9ac382d4b9339c1c9deef2b7292c3cac2a182d828b54",
+  "text_chars": 280,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-ea8dd5406790089c86fd.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

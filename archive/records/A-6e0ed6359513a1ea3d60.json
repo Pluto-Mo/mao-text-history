@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-089.htm",
+  "title": "为反对国民党出卖平津华北中华苏维埃共和国中央政府宣言（一九三三年六月一日）",
+  "catalogue_entry_ids": [
+    "I-55ef994259223e3d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6e0ed6359513a1ea3d60",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:10.307930+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-089.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"12a7-57a3a28e8b34c\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:56 GMT",
+  "raw_sha256": "0fa385d25a76b784626b23a85136969c107378031e47b1fce555dbe30394acdf",
+  "raw_bytes": 4775,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0fa385d25a76b784626b23a85136969c107378031e47b1fce555dbe30394acdf.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为反对国民党出卖平津华北中华苏维埃共和国中央政府宣言（一九三三年六月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-088.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-090.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6e0ed6359513a1ea3d60.txt",
+  "text_sha256": "3980d70a9a6838361240a0010655b2402cd928c5b9f020571d39d70bc8404307",
+  "text_chars": 1800,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-6e0ed6359513a1ea3d60.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

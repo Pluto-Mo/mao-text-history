@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-125.htm",
+  "title": "《抗日模范根据地晋察翼边区》序（一九三九年三月二日）",
+  "catalogue_entry_ids": [
+    "I-7c3f2144fb218ebc"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9f92995415c64d2e9009",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:20.468980+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-125.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a62-57a3a2e738b92\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:29 GMT",
+  "raw_sha256": "a06b5dc361d8ac2c4240d127d1432c0e4028ad45798e0b9797870d7834b05caa",
+  "raw_bytes": 2658,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a06b5dc361d8ac2c4240d127d1432c0e4028ad45798e0b9797870d7834b05caa.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《抗日模范根据地晋察翼边区》序（一九三九年三月二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-124.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-126.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9f92995415c64d2e9009.txt",
+  "text_sha256": "17875ea727db1ceb7a9d311b852a1ea87369413d7126ce06a900a0188bc39e0c",
+  "text_chars": 796,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-9f92995415c64d2e9009.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

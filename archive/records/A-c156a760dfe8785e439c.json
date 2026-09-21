@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-097.htm",
+  "title": "为瑞金红军烈士纪念碑写的碑文（一九三四年一月十五日）",
+  "catalogue_entry_ids": [
+    "I-96fa1f43fd505ff6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c156a760dfe8785e439c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:11.768863+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-097.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"614-57a3a29a1b364\"",
+  "last_modified": "Fri, 09 Nov 2018 12:05:08 GMT",
+  "raw_sha256": "b3b75602667d508f0cc274cc42e1d73f354fda0710833825b58c8d4e3040fdc0",
+  "raw_bytes": 1556,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b3b75602667d508f0cc274cc42e1d73f354fda0710833825b58c8d4e3040fdc0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为瑞金红军烈士纪念碑写的碑文（一九三四年一月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-096.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-098.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c156a760dfe8785e439c.txt",
+  "text_sha256": "402297364f72c221f9d938a6ea2e112f356fc14e0534c359482647856675ef85",
+  "text_chars": 246,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-c156a760dfe8785e439c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

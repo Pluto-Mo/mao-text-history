@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-116.htm",
+  "title": "致章、陶、邹、沈四先生的信（一九三八年八月十日）",
+  "catalogue_entry_ids": [
+    "I-da0c3e7d80f28f32"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-958d873010676d7c5dbf",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:17.468151+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-116.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c0e-57a3a2b28e18a\"",
+  "last_modified": "Fri, 09 Nov 2018 12:05:34 GMT",
+  "raw_sha256": "081b2ee1eeceba36d1c07fe960c2e0ee6909f5b230b0381575d9c427975fcbdf",
+  "raw_bytes": 3086,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/081b2ee1eeceba36d1c07fe960c2e0ee6909f5b230b0381575d9c427975fcbdf.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致章、陶、邹、沈四先生的信（一九三八年八月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-115.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-117.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-958d873010676d7c5dbf.txt",
+  "text_sha256": "ed341bea5e9b1a826e8cabd042e53a270a67d98aebf7daa885766bc033739be2",
+  "text_chars": 990,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-958d873010676d7c5dbf.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

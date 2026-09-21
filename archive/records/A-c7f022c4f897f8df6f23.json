@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-106.htm",
+  "title": "我们要文武双全（一九三六年十一月）",
+  "catalogue_entry_ids": [
+    "I-efb999c3a63e97cc"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c7f022c4f897f8df6f23",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:14.467811+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-106.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"58c-57a3a2a950d37\"",
+  "last_modified": "Fri, 09 Nov 2018 12:05:24 GMT",
+  "raw_sha256": "c4db005df9192b0708b45f74c318f23d1a7891a82ca30952dc3b557ea8d76717",
+  "raw_bytes": 1420,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c4db005df9192b0708b45f74c318f23d1a7891a82ca30952dc3b557ea8d76717.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "我们要文武双全（一九三六年十一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-105.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-107.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c7f022c4f897f8df6f23.txt",
+  "text_sha256": "aab11d0e16d8fd30cf0589bd4ef3ed7457533a97fb54ba8dab4fd7f4c8480cce",
+  "text_chars": 195,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-c7f022c4f897f8df6f23.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

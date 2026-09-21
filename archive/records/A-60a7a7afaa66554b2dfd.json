@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-114.htm",
+  "title": "为陕北公学成立与开学纪念题词（一九三七年十月二十三日）",
+  "catalogue_entry_ids": [
+    "I-946da18eba8f2b23"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-60a7a7afaa66554b2dfd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:16.851156+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-114.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"674-57a3a2d65e345\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:11 GMT",
+  "raw_sha256": "cdefbbd164d990c7ad0f44c75ac2434872473e9558867507e15448988a606e92",
+  "raw_bytes": 1652,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cdefbbd164d990c7ad0f44c75ac2434872473e9558867507e15448988a606e92.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为陕北公学成立与开学纪念题词（一九三七年十月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-113.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-115.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-60a7a7afaa66554b2dfd.txt",
+  "text_sha256": "dfd3c2e0513f0bac67fc495278134aaef7f06a4f359798b657247a540c8aab1f",
+  "text_chars": 303,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-60a7a7afaa66554b2dfd.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

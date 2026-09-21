@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-115.htm",
+  "title": "对《大公报》记者谈抗战形势（一九三七年十一月五日）",
+  "catalogue_entry_ids": [
+    "I-094a92a4504e6ba5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7310bb820c0cdc1153c2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:17.165163+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-115.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"db6-57a3a2e66f8c5\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:28 GMT",
+  "raw_sha256": "ab30a82356bd09d25c45bf2d8ff9455bb576c77e2eb1ca70bc9489bed3fa0068",
+  "raw_bytes": 3510,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ab30a82356bd09d25c45bf2d8ff9455bb576c77e2eb1ca70bc9489bed3fa0068.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《大公报》记者谈抗战形势（一九三七年十一月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-114.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-116.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7310bb820c0cdc1153c2.txt",
+  "text_sha256": "cd19f14deb98f313df974341cc5f15e30eac4e11db9dc9e743fc12d137ec204c",
+  "text_chars": 1157,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-7310bb820c0cdc1153c2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

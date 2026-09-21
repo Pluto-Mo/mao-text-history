@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-128.htm",
+  "title": "在延安高干会议上的报告提纲（摘录）（一九三九年六月十日）",
+  "catalogue_entry_ids": [
+    "I-5eadbecdcf4b7329"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0425cbe4d1ed9f1398f4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:21.066579+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-128.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"655-57a3a2d0e3d6e\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:06 GMT",
+  "raw_sha256": "1b8bc3836713efd5dde700f5d54978201e254f2c1c822e63da62cf2914b77e3a",
+  "raw_bytes": 1621,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1b8bc3836713efd5dde700f5d54978201e254f2c1c822e63da62cf2914b77e3a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在延安高干会议上的报告提纲（摘录）（一九三九年六月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-127.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-129.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0425cbe4d1ed9f1398f4.txt",
+  "text_sha256": "b4aec687ec7cebba86f6651ccda219fa9c6f1c03b76b334deed904c89ce4b452",
+  "text_chars": 325,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-0425cbe4d1ed9f1398f4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-142.htm",
+  "title": "党的布尔什维克化（十二条）——毛主席在西北高干会议上的报告（一九四二年十一月二十一日）",
+  "catalogue_entry_ids": [
+    "I-83f6f05222d02358"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-54a34c39b7a3ebac2e37",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:25.272558+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-142.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"19075-57a364c54c5c0\"",
+  "last_modified": "Fri, 09 Nov 2018 07:28:31 GMT",
+  "raw_sha256": "a286898f0153bf34c69f3d435aa20771e6c83a63aedc1d01f30423c173f53426",
+  "raw_bytes": 102517,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a286898f0153bf34c69f3d435aa20771e6c83a63aedc1d01f30423c173f53426.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "党的布尔什维克化（十二条）——毛主席在西北高干会议上的报告（一九四二年十一月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-141.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-143.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-54a34c39b7a3ebac2e37.txt",
+  "text_sha256": "90672f08a548b862e218a0dcccff4a3f2f6593ba1d0a5064a03ee39002e4bdf9",
+  "text_chars": 50100,
+  "text_lines": 106,
+  "document_path": "archive/documents/A-54a34c39b7a3ebac2e37.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

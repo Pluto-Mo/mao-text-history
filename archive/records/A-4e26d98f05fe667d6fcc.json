@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-134.htm",
+  "title": "《中国革命战争的战略问题》出版按语（一九四一年二月二十三日）",
+  "catalogue_entry_ids": [
+    "I-47d102e20d6e6c32"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4e26d98f05fe667d6fcc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:22.868799+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-134.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"66c-57a3a2db03acf\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:16 GMT",
+  "raw_sha256": "cc970d6e4a1bcef438a44e81a7d1f8966e484ebbaa0b9f91f8af4cb1c2c64882",
+  "raw_bytes": 1644,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cc970d6e4a1bcef438a44e81a7d1f8966e484ebbaa0b9f91f8af4cb1c2c64882.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《中国革命战争的战略问题》出版按语（一九四一年二月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-133.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-135.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4e26d98f05fe667d6fcc.txt",
+  "text_sha256": "023bc2d3ecf8ef2f67c1b3f7e3b687cb5c3466a3cca52bcabeb7e50260b78d3c",
+  "text_chars": 308,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-4e26d98f05fe667d6fcc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

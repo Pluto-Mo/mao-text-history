@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-092.htm",
+  "title": "贫农团组织与工作大纲（一九三三年七月十五日）",
+  "catalogue_entry_ids": [
+    "I-0f64cfe11042b94f"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-78c7ddf123abfecb150c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:10.309178+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-092.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"259a-57a3a291ff023\"",
+  "last_modified": "Fri, 09 Nov 2018 12:05:00 GMT",
+  "raw_sha256": "1c9243db576d621f389fea29ab0ac0bfac85d958fa763712e5675f518e08dcd6",
+  "raw_bytes": 9626,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1c9243db576d621f389fea29ab0ac0bfac85d958fa763712e5675f518e08dcd6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "贫农团组织与工作大纲（一九三三年七月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-091.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-093.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-78c7ddf123abfecb150c.txt",
+  "text_sha256": "3ef5a22fc4d6437b0063b1fc36f623a841b1b1e10cc891efacba32da8f2512fa",
+  "text_chars": 4087,
+  "text_lines": 37,
+  "document_path": "archive/documents/A-78c7ddf123abfecb150c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

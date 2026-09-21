@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-103.htm",
+  "title": "在抗大第一期开学典礼上演讲（一九三六年六月一日）",
+  "catalogue_entry_ids": [
+    "I-833b5e8aaa75f4be"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-73f951f5ea004e4db628",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:13.947863+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-103.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5ab-57a3a2c87a7c8\"",
+  "last_modified": "Fri, 09 Nov 2018 12:05:57 GMT",
+  "raw_sha256": "1ce06467e033a35424863422faf0189e526a16ee0e220573ed54f39b05c7bd81",
+  "raw_bytes": 1451,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1ce06467e033a35424863422faf0189e526a16ee0e220573ed54f39b05c7bd81.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在抗大第一期开学典礼上演讲（一九三六年六月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-102.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-104.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-73f951f5ea004e4db628.txt",
+  "text_sha256": "168e22fce35edeb4f550ed00863276d362cb51fd3f3164d9c11903c34a695524",
+  "text_chars": 223,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-73f951f5ea004e4db628.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

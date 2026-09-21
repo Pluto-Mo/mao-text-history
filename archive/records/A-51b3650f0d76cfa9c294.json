@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-093.htm",
+  "title": "粉碎敌人五次“围剿”与苏维埃经济建设任务的报告（一九三三年八月二十日）",
+  "catalogue_entry_ids": [
+    "I-b0844dc653fb1066"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-51b3650f0d76cfa9c294",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:10.310014+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-093.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1986-57a3a292cb1d0\"",
+  "last_modified": "Fri, 09 Nov 2018 12:05:01 GMT",
+  "raw_sha256": "c5d8b1a772c89c2ac75605ef0720fadfb559c14e733a24b0611732cf9ed8bdd2",
+  "raw_bytes": 6534,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c5d8b1a772c89c2ac75605ef0720fadfb559c14e733a24b0611732cf9ed8bdd2.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "粉碎敌人五次“围剿”与苏维埃经济建设任务的报告（一九三三年八月二十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-092.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-094.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-51b3650f0d76cfa9c294.txt",
+  "text_sha256": "aeab7989b6cf1af731c3660ef86c187ad8c7fee298b22cc7f159eb34685a7c25",
+  "text_chars": 2583,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-51b3650f0d76cfa9c294.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

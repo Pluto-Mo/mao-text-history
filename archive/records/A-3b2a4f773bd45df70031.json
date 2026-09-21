@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-129.htm",
+  "title": "谈爬山",
+  "catalogue_entry_ids": [
+    "I-e6f63e99a84d7ad7"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3b2a4f773bd45df70031",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:21.378344+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-129.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4f3-57a3a2d291888\"",
+  "last_modified": "Fri, 09 Nov 2018 12:06:07 GMT",
+  "raw_sha256": "4945e9b31304c0e5fa1e126cf1537c4083da5a24575b424dbfc75365885f83b7",
+  "raw_bytes": 1267,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4945e9b31304c0e5fa1e126cf1537c4083da5a24575b424dbfc75365885f83b7.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "谈爬山",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-128.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-130.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3b2a4f773bd45df70031.txt",
+  "text_sha256": "e20326c4c0699e952654c73fb5ec23694efb9bf04113ce6532ee79446a43d9b7",
+  "text_chars": 138,
+  "text_lines": 12,
+  "document_path": "archive/documents/A-3b2a4f773bd45df70031.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
