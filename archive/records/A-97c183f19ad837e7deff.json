@@ -1,0 +1,150 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC7%E5%8D%B7%EF%BC%881959.04-1961.06%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第7卷（1959.04-1961.06）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 7,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第7卷（1959.04-1961.06）.pdf",
+  "mirror_git_blob_sha1": "3ce0e5f7958ba2148968d85717bf574ed304bc52",
+  "mirror_expected_bytes": 48153177,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-97c183f19ad837e7deff",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:50.665856+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC7%E5%8D%B7%EF%BC%881959.04-1961.06%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"646ca0f8c5ec87c9e81da6a152f43035047d8869c35bb94f205fb24a614fe12a\"",
+  "last_modified": null,
+  "raw_sha256": "493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3",
+  "raw_bytes": 48153177,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0000",
+    "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0000",
+      "sha256": "256a2fe4f1465ae418b95b1bf346d2fd5f3bf6e39a36ce968f48f8578a30bcc9",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0001",
+      "sha256": "75ce2ca55b950c479630b00a4b0035e0a97e60a8e877d08d47d5d7a07242f6ef",
+      "bytes": 6210137
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 616,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110153830+08'00'",
+    "modDate": "D:20240119203906+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1959年（4月-12月）",
+      6
+    ],
+    [
+      1,
+      "1960年",
+      303
+    ],
+    [
+      1,
+      "1961年（1月-6月）",
+      520
+    ],
+    [
+      1,
+      "封底",
+      616
+    ]
+  ],
+  "pdf_pages_with_text": 614,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-97c183f19ad837e7deff.jsonl",
+  "text_path": "archive/text/A-97c183f19ad837e7deff.txt",
+  "text_sha256": "ae66ca6074a141c7db3a9ce8eaf15aab8334182e4f6535f9fcb79f285b2d7826",
+  "text_chars": 482637,
+  "text_lines": 23571,
+  "document_path": "archive/documents/A-97c183f19ad837e7deff.md",
+  "cover_path": "archive/covers/A-97c183f19ad837e7deff.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "7\n声\n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n绾\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "中\n、央\n主编逄\n副编陈\n冯\n文\nI \n献\n研\nI \n乙目J匕\nI \n曰\nJ 、、、\n4 十\n阮\n: \nI \n编\nI \n正\n弟\nI \n『上\n张\n巷\n、\n十\n七\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "克尸1 大苍诸写尔］有：\n笃噫张素华赤？忙栨\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n959 年（\n960 年\n月— 12\n) \n••••••••••••••••••••••••••••••••••••••••••••• \n............................................................... \n(1) \n(298) \n1 \n(1 \n月）\n. \n....... \n••••••• \n•••••• \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": ""
+    },
+    {
+      "pdf_page": 6,
+      "text": "l \n1959 年六十六岁\n4 月\n1\n日\n下午，同邓小平、彭真(1) 谈话。晚上，同朱\n德(2)谈话，后同陈伯达、陈正人(3)谈话。\n4 月2 日—5 日\n在上海主持召开中共八届七中全会。全会\n讨论和通过一九五九年国民经济计划草案，检查农村人民公社的\n整顿工作，讨论和决定国家机构领导人员候选人的提名。毛泽东\n在会上作关千工作方法问题的讲话。出席这次全体会议的有中央\n委员八十一人，候补中央委员八十人。不是中央委员和候补中央\n委员的中央各部门负责人和省、市、自治区党委第一书记列席了\n会议。\n4 月2 日\n上午，中共八届七中全会在上海锦江饭店礼堂举\n(1)\n邓小平，当时任中共中央总书记、国务院副总理、国防委员会副主席。\n彭真，当时任中共中央政治局委员、中央书记处书记、北京市委第一书\n记、全国人大常委会副委员长兼秘书长、全国政协副主席、北京市市长。\n(2) 朱德，当时任中共中央副主席、中华人民共和国副主席、国防委员会\n副主席（后两职分别任至\n1959 年4 月\n27\n日、\n28\n日）。\n1959 年\n4 月\n27\n日又任全国人大常委会委员长。\n(3) 陈伯达，当时任中共中央政治局候补委员、中央宣传部副部长、中央\n政治研究室主任、《红旗》杂志总编辑、中国科学院副院长、中国科学\n院哲学社会科学部委员、毛泽东的秘书。陈正人，当时任中共中央农\n村工作部副部长兼秘书长、国务院第七办公室\n(1959 年\n6 月撤销）副\n主任。\n1959 年6 月、\n8 月又先后任国务院农林办公室副主任、农业机械\n部部长。\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-97c183f19ad837e7deff/page-01.png",
+    "archive/edition-checks/A-97c183f19ad837e7deff/page-02.png",
+    "archive/edition-checks/A-97c183f19ad837e7deff/page-03.png",
+    "archive/edition-checks/A-97c183f19ad837e7deff/page-04.png",
+    "archive/edition-checks/A-97c183f19ad837e7deff/page-05.png",
+    "archive/edition-checks/A-97c183f19ad837e7deff/page-06.png"
+  ]
+}

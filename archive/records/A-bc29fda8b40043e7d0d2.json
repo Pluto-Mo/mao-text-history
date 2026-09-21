@@ -1,0 +1,210 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第9卷（1966.10-1976.09）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 9,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第9卷（1966.10-1976.09）.pdf",
+  "mirror_git_blob_sha1": "52ad589b4c1740fd2f48ee1425ab9d249a3e638d",
+  "mirror_expected_bytes": 51284745,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-bc29fda8b40043e7d0d2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:52.646695+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"a9c565b9401a64842548e170242c661a71cdbae82c151cd53aae0bc8c66e7f22\"",
+  "last_modified": null,
+  "raw_sha256": "19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d",
+  "raw_bytes": 51284745,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0000",
+    "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0000",
+      "sha256": "5893a6bb5591d1d7457ed39d5264d88718cc238ea9d405e0c49257dfbb27993c",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0001",
+      "sha256": "981f62d03607d0f28fa07262009d55642bfd32f0553e313e8c05d921b65b5925",
+      "bytes": 9341705
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 668,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110154510+08'00'",
+    "modDate": "D:20240119195510+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1966年（10月-12月）",
+      6
+    ],
+    [
+      1,
+      "1967年",
+      33
+    ],
+    [
+      1,
+      "1968年",
+      154
+    ],
+    [
+      1,
+      "1969年",
+      230
+    ],
+    [
+      1,
+      "1970年",
+      283
+    ],
+    [
+      1,
+      "1971年",
+      370
+    ],
+    [
+      1,
+      "1972年",
+      428
+    ],
+    [
+      1,
+      "1973年",
+      469
+    ],
+    [
+      1,
+      "1974年",
+      523
+    ],
+    [
+      1,
+      "1975年",
+      571
+    ],
+    [
+      1,
+      "1976年（1月-9月）",
+      640
+    ],
+    [
+      1,
+      "《毛泽东年谱（1893-1949）》后记",
+      661
+    ],
+    [
+      1,
+      "《毛泽东年谱（1949-1976）》后记",
+      663
+    ],
+    [
+      1,
+      "《毛泽东年谱》后记",
+      666
+    ],
+    [
+      1,
+      "版权页",
+      667
+    ],
+    [
+      1,
+      "封底",
+      668
+    ]
+  ],
+  "pdf_pages_with_text": 667,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-bc29fda8b40043e7d0d2.jsonl",
+  "text_path": "archive/text/A-bc29fda8b40043e7d0d2.txt",
+  "text_sha256": "9977d826166cbdd85221692004cbee512bf1b40875efb614c7c66dbba5dff02d",
+  "text_chars": 521443,
+  "text_lines": 26742,
+  "document_path": "archive/documents/A-bc29fda8b40043e7d0d2.md",
+  "cover_path": "archive/covers/A-bc29fda8b40043e7d0d2.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "9\n砉\n19619 \n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n编\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "中\nl\n主\n编\n主\n、\n逄\n李\n知\n乃\n蕙\n、\n中\n央\n史\n和\n文\n．\n、\n、\n台\n月\n究\n吴\n编\n第\n上\n长\n素\n华\n中\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "参加本卷编写的有：\n陈晋唐洲雁沈雁盺许蕾\n王香平\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n1966 年\n(10 月— 12 月）\n1967\n年．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．\n1968 年\n1969 年\n1970 年\n1971 年\n1972\n年................................................................\n1973 年\n1974 年\n1975 年\n1976 年\n(1 月— 9 月）\n............................................................... \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n............................................. \n(1) \n(28) \n(149) \n(225) \n(278) \n(365) \n(423) \n(464) \n(518) \n(566) \n(635) \n••••••••••••••••••••••••••••••••••••••••••••• \n后记.................................................................. (656) \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": ""
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n一，一-\n-\n— ---，一一-\n-\n-国l眉-\n-\n-,，一-\n-,，川-．川l．.\n-.,，一-\n一叩-\n• \n966 \n七＇，三\n10 月\n1\n日\n上千上时，出席在大安门举了的中华人民共\n立七庆大接北/来全地红、和\n革命师生。参加庆祝活动的有一百五十多万人\n三千多名工农\n｛、数代和乒表，批上门楼，之加\n、大。\n十一时，\n泽接\n庆、田一一一钻\n的\n伤员代表\n大会结束时，毛泽东走下二安门城楼，穿过金水口，\n群队，大贺庆。个:持六小\n时\n这是毛泽东第四次接见北亨和来自二国各地的红卫只和革\n师生\n同\n, \n天\n1 广，\n地而，\n群众起欢，\n随后登上天安l勹城楼，观看焰火\n在城楼上同澳大利亚共产\n马\n主希炎话说．你＼到学\n看大里有\n派，右、有间、\n0\n、一\n很多旧社会的知识\n众，不工农身人。\n, \n浪、\n派\n是少\n，最多的是中司\n们包一来\n。他们看不起二农群\n们导用们不用们我ff\n就出不了，广播也播不出一。\n界、艺术界，也是他们的\n人多。全口改变用1 长的间。毛泽、指在广上\n了的子\n生i\n帝主义修主义上、是这些皿生我仆\n些部也\n,m 他们。你不要以为我们的环境那么好。我们有些干部不想革命\n了，央员也，冶局员有，委己、委已、\n、记都有\n他们就是怕，他们要调动军队来对付这些学生。解\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-bc29fda8b40043e7d0d2/page-01.png",
+    "archive/edition-checks/A-bc29fda8b40043e7d0d2/page-02.png",
+    "archive/edition-checks/A-bc29fda8b40043e7d0d2/page-03.png",
+    "archive/edition-checks/A-bc29fda8b40043e7d0d2/page-04.png",
+    "archive/edition-checks/A-bc29fda8b40043e7d0d2/page-05.png",
+    "archive/edition-checks/A-bc29fda8b40043e7d0d2/page-06.png"
+  ]
+}

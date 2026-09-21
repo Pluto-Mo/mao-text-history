@@ -1,0 +1,155 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 6,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第6卷（1956.10-1959.03）.pdf",
+  "mirror_git_blob_sha1": "0c71d10d5d07437ed16f1e338303fee7b7784d6b",
+  "mirror_expected_bytes": 52299209,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-264a603d150bc5388914",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:50.666333+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"782cd17288bec309da63ceafa72bec08c0ebf7468758a23a004883084c0c7857\"",
+  "last_modified": null,
+  "raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+  "raw_bytes": 52299209,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0000",
+    "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0000",
+      "sha256": "0b50cda5031558004bc269bbf8938a32462b64abebf7ccf3687fc9141d897326",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0001",
+      "sha256": "91d56b7eab251181346667db7fcf2b9321ad3b17f9b6e3d330b95830f1786459",
+      "bytes": 10356169
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 666,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110153536+08'00'",
+    "modDate": "D:20240119210235+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "目录",
+      4
+    ],
+    [
+      1,
+      "1956年（10月-12月）",
+      6
+    ],
+    [
+      1,
+      "1957年",
+      64
+    ],
+    [
+      1,
+      "1958年",
+      277
+    ],
+    [
+      1,
+      "1959年（1月-3月）",
+      577
+    ],
+    [
+      1,
+      "封底",
+      666
+    ]
+  ],
+  "pdf_pages_with_text": 664,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-264a603d150bc5388914.jsonl",
+  "text_path": "archive/text/A-264a603d150bc5388914.txt",
+  "text_sha256": "bf368aa900b9ebfd0b95c5eb796b71badd35680388f8f86fb8d0d94720dbf0ca",
+  "text_chars": 527000,
+  "text_lines": 25826,
+  "document_path": "archive/documents/A-264a603d150bc5388914.md",
+  "cover_path": "archive/covers/A-264a603d150bc5388914.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "6\n号\n1919 \n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n绽\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "副\n编\n陈\n主\n编\n逄\n中\n中\n央\n和\n文\n献\n拖\n华\n源\n院\n编\n||||_ \n正\n裕\n张\n枭\n、\n丁\n卷\n_ \n中\n央\n献\n出\n版\n士\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "参加本卷编写的有：\n李捷冯蕙黄允升郝首栋\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "1 \n日\n录\n1956 年\n(10 月— 12 月）\n1957\n年．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．\n1958 年\n1959 年\n(1 月— 3 月）\n••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• \n............................................. \n(1) \n(59) \n(272) \n(572) \n............................................. \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": "便\n"
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n1 9 5 6 年六十三岁\n10 月\n1\n日\n上午十时，和刘少奇、周恩来、朱德、陈云、\n邓小平、宋庆龄C 1) 等党和国家领导人出席在天安门举行的中华\n人民共和国成立七周年庆祝大会，检阅中国人民解放军部队和群\n众游行队伍。苏加诺、阿查里雅(2) 出席庆祝大会。晚八时，陪\n同苏加诺、阿查里雅在天安门城楼观看焰火和广场的群众联欢。\n同日\n晚十一时，在中南海颐年堂会见参加中共八大的法国\n共产党代表团杜克洛(3) 等，邓小平、王稼祥(4) 在座。毛泽东\n说：中国是未被开垦的处女地。中国前途是好的，但有艰苦的任\n务。在落后的经济基础上建设工业化国家并不容易。他问杜克\nC 1 J\n刘少奇，当时任中共中央副主席、全国人大常委会委员长。周恩来，\n当时任中共中央副主席、国务院总理兼外交部部长、全国政协主席。\n朱德，当时任中共中央副主席、中华人民共和国副主席、国防委员会\n副主席。陈云，当时任中共中央副主席、国务院副总理。\n1956 年11 月\n又任商业部部长。\n1958 年6 月、\n10 月又先后任中共中央财经小组组长、\n国家基本建设委员会主任。邓小平，当时任中共中央总书记、国务院\n副总理、国防委员会副主席。宋庆龄，当时任全国人大常委会副委员\n长、全国政协副主席、中华全国民主妇女联合会名誉主席。\n(2J 苏加诺，当时任印度尼西亚总统。阿查里雅，当时任尼泊尔王国首相。\n[3J\n杜克洛，当时任法国共产党中央书记处书记、法国国民议会共产党议\n会党团主席。\n[4J 王稼祥，当时任中共中央书记处书记、中央对外联络部部长、中央国\n际活动指导委员会主任委员、外交部副部长。\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-264a603d150bc5388914/page-01.png",
+    "archive/edition-checks/A-264a603d150bc5388914/page-02.png",
+    "archive/edition-checks/A-264a603d150bc5388914/page-03.png",
+    "archive/edition-checks/A-264a603d150bc5388914/page-04.png",
+    "archive/edition-checks/A-264a603d150bc5388914/page-05.png",
+    "archive/edition-checks/A-264a603d150bc5388914/page-06.png"
+  ]
+}
