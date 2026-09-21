@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-235.htm",
+  "title": "给周总理的亲笔信（一九六六年十二月二十七日）",
+  "catalogue_entry_ids": [
+    "I-3abced818fccf8ec"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-45aa36cd6866713259e1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:41.448137+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-235.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7ad-57a2932a475ec\"",
+  "last_modified": "Thu, 08 Nov 2018 15:50:45 GMT",
+  "raw_sha256": "73b4826501bfed48f4ed63ee0bd59739b120c0a92ed704225b1c9c210e44d2af",
+  "raw_bytes": 1965,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/73b4826501bfed48f4ed63ee0bd59739b120c0a92ed704225b1c9c210e44d2af.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给周总理的亲笔信（一九六六年十二月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-234.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-236.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-45aa36cd6866713259e1.txt",
+  "text_sha256": "60d08d1666d37935d30a5fc94c7b409e6b7c90e275b63409738307d9c0423fe9",
+  "text_chars": 429,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-45aa36cd6866713259e1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

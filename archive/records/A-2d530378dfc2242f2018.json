@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-244.htm",
+  "title": "关于军队支持左派的指示（一九六七年一月二十一日）",
+  "catalogue_entry_ids": [
+    "I-498c7a912e8e16ea"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2d530378dfc2242f2018",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:44.145571+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-244.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5d7-57a2933886e32\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:00 GMT",
+  "raw_sha256": "b9d3804c2fe0643f95695aee5bb81074670fabd7c2f3add9d5524f9fa4877ed5",
+  "raw_bytes": 1495,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b9d3804c2fe0643f95695aee5bb81074670fabd7c2f3add9d5524f9fa4877ed5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于军队支持左派的指示（一九六七年一月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-243.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-245.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2d530378dfc2242f2018.txt",
+  "text_sha256": "ca61cfe7faab2d84ab9392cffe64e119ee56e38e7e6b56c027c2b18bda4cbf43",
+  "text_chars": 210,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-2d530378dfc2242f2018.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

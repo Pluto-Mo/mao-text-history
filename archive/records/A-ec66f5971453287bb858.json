@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-261.htm",
+  "title": "关于夺权的提法的指示（一九六七年二月二十七日）",
+  "catalogue_entry_ids": [
+    "I-d09248164709a396"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ec66f5971453287bb858",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:49.250500+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-261.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"751-57a2934b9ac06\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:20 GMT",
+  "raw_sha256": "939f4244c36d490c32e87065449fcc6adb89a6939d2508578adc7d2491d10ca9",
+  "raw_bytes": 1873,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/939f4244c36d490c32e87065449fcc6adb89a6939d2508578adc7d2491d10ca9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于夺权的提法的指示（一九六七年二月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-260.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-262.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ec66f5971453287bb858.txt",
+  "text_sha256": "b73e37c262419af7c8212c86a90c73d2a605fda1aedf6b1a304b33850244173c",
+  "text_chars": 371,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-ec66f5971453287bb858.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-230.htm",
+  "title": "关于复员转业军人参加文化大革命问题的指示（一九六六年十二月）",
+  "catalogue_entry_ids": [
+    "I-16ee637cb87e3c5c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-496b7c5316a602a2075f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:39.948192+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-230.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5d4-57a2932030529\"",
+  "last_modified": "Thu, 08 Nov 2018 15:50:34 GMT",
+  "raw_sha256": "45d61fceafc2c353270cdcb0ff053a06c7c19cedeb2f3ba50d583fd9c7529f34",
+  "raw_bytes": 1492,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/45d61fceafc2c353270cdcb0ff053a06c7c19cedeb2f3ba50d583fd9c7529f34.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于复员转业军人参加文化大革命问题的指示（一九六六年十二月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-229.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-231.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-496b7c5316a602a2075f.txt",
+  "text_sha256": "cab8de031584ce2fd3b04a0761d17000934f1bff6a0c74cc5d3bc27f92147ccf",
+  "text_chars": 244,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-496b7c5316a602a2075f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

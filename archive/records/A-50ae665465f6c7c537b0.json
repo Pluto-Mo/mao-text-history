@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-253.htm",
+  "title": "和卡博/巴庐库同志的谈话（一九六七年二月三日）",
+  "catalogue_entry_ids": [
+    "I-d4355c04bde3a386"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-50ae665465f6c7c537b0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:46.841785+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-253.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"18be-57a29342a5bf5\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:10 GMT",
+  "raw_sha256": "d74100c339294e6d3940c361a569d2406e047049c3d5320033c1273677c8041b",
+  "raw_bytes": 6334,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d74100c339294e6d3940c361a569d2406e047049c3d5320033c1273677c8041b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "和卡博/巴庐库同志的谈话（一九六七年二月三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-252.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-254.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-50ae665465f6c7c537b0.txt",
+  "text_sha256": "dc71bb3a586dde81bfcda33b6c43da75b77de1ddbef3defd620259138b005b39",
+  "text_chars": 2592,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-50ae665465f6c7c537b0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

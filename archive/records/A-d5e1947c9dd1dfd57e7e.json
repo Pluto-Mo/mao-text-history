@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-255.htm",
+  "title": "接见张春桥姚文元同志对上海文化大革命的指示（一九六七年二月十二日——十八日）",
+  "catalogue_entry_ids": [
+    "I-7ecb5016ab5ff21e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d5e1947c9dd1dfd57e7e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:47.440979+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-255.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1d26-57a29345a93e6\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:14 GMT",
+  "raw_sha256": "9c58748e839c2c01bd67b439d3b0653248af859f682666a097e87c3c4cb8d249",
+  "raw_bytes": 7462,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9c58748e839c2c01bd67b439d3b0653248af859f682666a097e87c3c4cb8d249.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见张春桥姚文元同志对上海文化大革命的指示（一九六七年二月十二日——十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-254.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-256.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d5e1947c9dd1dfd57e7e.txt",
+  "text_sha256": "bd11ae6d0cb3a4aa83aa0862d67f3521b86db819a32a221d36f9f7bc58e47e5e",
+  "text_chars": 3071,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-d5e1947c9dd1dfd57e7e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

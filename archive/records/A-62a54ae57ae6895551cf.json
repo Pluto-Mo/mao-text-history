@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-278.htm",
+  "title": "关于部队支左的指示（一九六七年四月）",
+  "catalogue_entry_ids": [
+    "I-4ddbc6cef3c94fc2"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-62a54ae57ae6895551cf",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:54.333313+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-278.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"71d-57a29361e4e4e\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:43 GMT",
+  "raw_sha256": "afd8e5f7e21379580e99028fad997488a1ccaf17cd04409f98f221b6c78f75fb",
+  "raw_bytes": 1821,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/afd8e5f7e21379580e99028fad997488a1ccaf17cd04409f98f221b6c78f75fb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于部队支左的指示（一九六七年四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-277.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-279.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-62a54ae57ae6895551cf.txt",
+  "text_sha256": "7f32eeee113cd53dac44e99a51ad7af522161cd0651f11f51ded71615aa0b1cc",
+  "text_chars": 353,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-62a54ae57ae6895551cf.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

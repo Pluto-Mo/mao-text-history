@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-234.htm",
+  "title": "赞扬参加接待红卫兵和革命师生的解放军指战员的工作（一九六六年十二月）",
+  "catalogue_entry_ids": [
+    "I-4428eb52504906ed"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-df95963777b1ec304e9c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:41.133662+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-234.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"55b-57a29327ae522\"",
+  "last_modified": "Thu, 08 Nov 2018 15:50:42 GMT",
+  "raw_sha256": "b7ab4f079b6269f963ccf6c38687760d1f3e22d256aa2fcb1a82bcc4b921b1c7",
+  "raw_bytes": 1371,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b7ab4f079b6269f963ccf6c38687760d1f3e22d256aa2fcb1a82bcc4b921b1c7.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "赞扬参加接待红卫兵和革命师生的解放军指战员的工作（一九六六年十二月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-233.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-235.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-df95963777b1ec304e9c.txt",
+  "text_sha256": "afd9c514edc36bba422f0456457234da8a2c1261313341ee26275af2545e4efb",
+  "text_chars": 169,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-df95963777b1ec304e9c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

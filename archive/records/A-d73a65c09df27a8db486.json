@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-223.htm",
+  "title": "致阿尔巴尼亚劳动党第五次代表大会的贺电（一九六六年十月二十五日）",
+  "catalogue_entry_ids": [
+    "I-09d580e6e81b7045"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d73a65c09df27a8db486",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:37.890773+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-223.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e1f-57a29319b1360\"",
+  "last_modified": "Thu, 08 Nov 2018 15:50:28 GMT",
+  "raw_sha256": "bf124922f0a8e35875488e3105d2ad90764bdd5cd621085727618f70def0c1cc",
+  "raw_bytes": 3615,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bf124922f0a8e35875488e3105d2ad90764bdd5cd621085727618f70def0c1cc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致阿尔巴尼亚劳动党第五次代表大会的贺电（一九六六年十月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-222.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-224.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d73a65c09df27a8db486.txt",
+  "text_sha256": "ea41a48c6d3962431359f98e11bcc841d5917efa4f4d7cb3ffcd5d0a0b815451",
+  "text_chars": 1206,
+  "text_lines": 26,
+  "document_path": "archive/documents/A-d73a65c09df27a8db486.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

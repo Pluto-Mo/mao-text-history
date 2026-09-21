@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-277.htm",
+  "title": "对《爱国主义还是卖国主义?》一文所加的一段话（一九六七年四月）",
+  "catalogue_entry_ids": [
+    "I-2a90809176457884"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8d6ef63b582c92854aec",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:54.031249+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-277.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5bc-57a2936118ca1\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:42 GMT",
+  "raw_sha256": "719f871f35f011f1a4f2f8cdd85ffb39c022c087fd50f191125c57706711bdf6",
+  "raw_bytes": 1468,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/719f871f35f011f1a4f2f8cdd85ffb39c022c087fd50f191125c57706711bdf6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《爱国主义还是卖国主义?》一文所加的一段话（一九六七年四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-276.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-278.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8d6ef63b582c92854aec.txt",
+  "text_sha256": "4bed76cc051870cef818afc0091dd0f58411dbdf24a50998bf563d8e433df337",
+  "text_chars": 238,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-8d6ef63b582c92854aec.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
