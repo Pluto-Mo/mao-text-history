@@ -1,0 +1,62 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210809.pdf",
+  "title": "无产阶级文化大革命大字报选 (第一集)",
+  "catalogue_entry_ids": [
+    "I-37e7fcf22784c005"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-cf3c5c96be8e5bd71168",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:51:30.145056+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210809.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"7578f-43cdae3f71300\"",
+  "last_modified": "Fri, 19 Oct 2007 16:18:52 GMT",
+  "raw_sha256": "ad8653a6294fe356c6bc4a68625ea0cf08ea4ad00b2331e3e45063f62486f3ba",
+  "raw_bytes": 481167,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/ad8653a6294fe356c6bc4a68625ea0cf08ea4ad00b2331e3e45063f62486f3ba.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 30,
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "SSReader Print.",
+    "author": "Trybird",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 8.1.0 (Windows)",
+    "creationDate": "D:20071019121850+08'00'",
+    "modDate": "D:20071019121850+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 0,
+  "text_layer_status": "image_only_no_text_layer",
+  "page_map_path": "archive/pages/A-cf3c5c96be8e5bd71168.jsonl",
+  "text_path": "archive/text/A-cf3c5c96be8e5bd71168.txt",
+  "text_sha256": "83ac8863b68364b4f81c1f8ca4c173e514ee9749fee16b0f3c5ce00d72e2d907",
+  "text_chars": 651,
+  "text_lines": 90,
+  "document_path": "archive/documents/A-cf3c5c96be8e5bd71168.md",
+  "cover_path": "archive/covers/A-cf3c5c96be8e5bd71168.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

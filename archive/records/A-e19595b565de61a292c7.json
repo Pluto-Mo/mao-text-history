@@ -1,0 +1,62 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c07.pdf",
+  "title": "建国以来毛泽东文稿(7)",
+  "catalogue_entry_ids": [
+    "I-3660c5b8b9b08ee2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "wengao-old-13",
+      "volume": 7,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-e19595b565de61a292c7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:50:52.578391+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c07.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"c1c740-3f79dfac0d6c0\"",
+  "last_modified": "Sat, 21 May 2005 13:40:19 GMT",
+  "raw_sha256": "229026f9b6d8f3bc4e5492130b3eef593c427c40106a984d53de23a62e65dcec",
+  "raw_bytes": 12699456,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/229026f9b6d8f3bc4e5492130b3eef593c427c40106a984d53de23a62e65dcec.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 702,
+  "pdf_metadata": {
+    "format": "PDF 1.2",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "ÎÄÏ×£ŁÃ«Ôó¶«ÎÄ¸å",
+    "creator": "±±´ó·½ÕýV6.0",
+    "producer": "S22PDF V1.0 ¹ùÁ¦(C)",
+    "creationDate": "D:19970823144358-08'00'",
+    "modDate": "D:20050521214017+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 702,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-e19595b565de61a292c7.jsonl",
+  "text_path": "archive/text/A-e19595b565de61a292c7.txt",
+  "text_sha256": "169891eacaa38f8ccf0b955159556534ffdc6933cfef263bfbb1848baae9a09f",
+  "text_chars": 665299,
+  "text_lines": 193636,
+  "document_path": "archive/documents/A-e19595b565de61a292c7.md",
+  "cover_path": "archive/covers/A-e19595b565de61a292c7.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

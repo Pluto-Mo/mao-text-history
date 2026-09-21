@@ -1,0 +1,62 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c03.pdf",
+  "title": "建国以来毛泽东文稿(3)",
+  "catalogue_entry_ids": [
+    "I-56750ab3ef7fa02e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "wengao-old-13",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-e5c3f7365430d751e53a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:50:41.483698+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c03.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"d149fa-3f79e0c2867c0\"",
+  "last_modified": "Sat, 21 May 2005 13:45:11 GMT",
+  "raw_sha256": "f63d2a5240812a453d6d2b41326e64a2b884f9d6a793f7e1bef22f186dfcce47",
+  "raw_bytes": 13715962,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/f63d2a5240812a453d6d2b41326e64a2b884f9d6a793f7e1bef22f186dfcce47.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 734,
+  "pdf_metadata": {
+    "format": "PDF 1.2",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "",
+    "producer": "",
+    "creationDate": "D:20050521210831+08'00'",
+    "modDate": "D:20050521214509+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 734,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-e5c3f7365430d751e53a.jsonl",
+  "text_path": "archive/text/A-e5c3f7365430d751e53a.txt",
+  "text_sha256": "f3eee1ddf665951c33dee76de0460d85a4f7117fc4f23022cba48d9bf08b0f66",
+  "text_chars": 615371,
+  "text_lines": 180519,
+  "document_path": "archive/documents/A-e5c3f7365430d751e53a.md",
+  "cover_path": "archive/covers/A-e5c3f7365430d751e53a.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

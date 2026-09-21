@@ -1,0 +1,62 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/06.pdf",
+  "title": "第六卷",
+  "catalogue_entry_ids": [
+    "I-5fe3c8d5c9654e10"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 6,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-cb5acd934e37bc99dfd5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:52:02.777724+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/06.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"66f47b-4ebc67acab6c0\"",
+  "last_modified": "Fri, 22 Nov 2013 16:26:43 GMT",
+  "raw_sha256": "c9be02a495fa8347c93f1e1dc16dbf4c89b3d45cdc61bf538f04261ac260940d",
+  "raw_bytes": 6747259,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/c9be02a495fa8347c93f1e1dc16dbf4c89b3d45cdc61bf538f04261ac260940d.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 362,
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat 11.0.3",
+    "producer": "ABBYY FineReader 11",
+    "creationDate": "D:16010101000000Z",
+    "modDate": "D:16010101000000Z",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 348,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-cb5acd934e37bc99dfd5.jsonl",
+  "text_path": "archive/text/A-cb5acd934e37bc99dfd5.txt",
+  "text_sha256": "fa49937096a500c19f5b348df9988e163967a5ae877ac64c71343f5c965f80a6",
+  "text_chars": 437299,
+  "text_lines": 212547,
+  "document_path": "archive/documents/A-cb5acd934e37bc99dfd5.md",
+  "cover_path": "archive/covers/A-cb5acd934e37bc99dfd5.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

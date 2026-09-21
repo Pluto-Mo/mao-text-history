@@ -1,0 +1,313 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01.pdf",
+  "title": "第一卷",
+  "catalogue_entry_ids": [
+    "I-b313e86d5cade8bb"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-12fbcc5eb211681c08d0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:51:31.226016+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"22444e-5359c49dddb80\"",
+  "last_modified": "Sun, 19 Jun 2016 07:10:54 GMT",
+  "raw_sha256": "238b4233969ced05e8cf96506d6c8a3b390a7dfbcb377cb1673f6e68ad3b5d8e",
+  "raw_bytes": 2245710,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/238b4233969ced05e8cf96506d6c8a3b390a7dfbcb377cb1673f6e68ad3b5d8e.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 170,
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "PScript5.dll Version 5.2.2",
+    "producer": "Acrobat Distiller 11.0 (Windows)",
+    "creationDate": "D:20160619144148+08'00'",
+    "modDate": "D:20160619151054+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "毛泽东集 第2版 第1卷",
+      1
+    ],
+    [
+      2,
+      "版权页",
+      6
+    ],
+    [
+      2,
+      "作者像",
+      7
+    ],
+    [
+      2,
+      "整理说明",
+      9
+    ],
+    [
+      2,
+      "例言",
+      10
+    ],
+    [
+      2,
+      "目次",
+      13
+    ],
+    [
+      2,
+      "正文",
+      15
+    ],
+    [
+      3,
+      "给宫崎滔天的信",
+      17
+    ],
+    [
+      3,
+      "体育之研究",
+      18
+    ],
+    [
+      3,
+      "工人夜学招学广告",
+      26
+    ],
+    [
+      3,
+      "工人夜学招生广告",
+      27
+    ],
+    [
+      3,
+      "湘江评论创刊宣言",
+      28
+    ],
+    [
+      3,
+      "民众的大联合",
+      30
+    ],
+    [
+      3,
+      "*文化书社组织大纲",
+      38
+    ],
+    [
+      3,
+      "*文化书社启事",
+      40
+    ],
+    [
+      3,
+      "文化书社社务报告（第二期）",
+      41
+    ],
+    [
+      3,
+      "湖南自修大学创立宣言",
+      56
+    ],
+    [
+      3,
+      "新时代发刊词",
+      59
+    ],
+    [
+      3,
+      "北京政变与商人",
+      60
+    ],
+    [
+      3,
+      "“省宪经”与赵恒惕",
+      62
+    ],
+    [
+      3,
+      "英国人与梁如浩",
+      64
+    ],
+    [
+      3,
+      "纸烟税",
+      66
+    ],
+    [
+      3,
+      "中国国民党中央执行委员会严驳北京党员之违法会议",
+      67
+    ],
+    [
+      3,
+      "中国国民党之反奉战争宣传大纲",
+      68
+    ],
+    [
+      3,
+      "政治周报发刊理由",
+      72
+    ],
+    [
+      3,
+      "三三三一制",
+      74
+    ],
+    [
+      3,
+      "杨坤如的布告与刘志路的电报",
+      75
+    ],
+    [
+      3,
+      "如果讨赤志同仇仇亦吾良友",
+      76
+    ],
+    [
+      3,
+      "颂声来于万国",
+      77
+    ],
+    [
+      3,
+      "“反共产中国国民军大同盟万岁”",
+      78
+    ],
+    [
+      3,
+      "共产章程与实非共产",
+      79
+    ],
+    [
+      3,
+      "邹鲁与革命",
+      80
+    ],
+    [
+      3,
+      "向左还是向右？",
+      81
+    ],
+    [
+      3,
+      "赤化原来如此",
+      83
+    ],
+    [
+      3,
+      "杀尽知识阶级的是谁[削除]",
+      84
+    ],
+    [
+      3,
+      "北京右派会议与帝国主义",
+      85
+    ],
+    [
+      3,
+      "帝国主义最后的工具",
+      86
+    ],
+    [
+      3,
+      "右派的最大本领",
+      87
+    ],
+    [
+      3,
+      "宣传报告",
+      88
+    ],
+    [
+      3,
+      "中国农民中各阶级的分析及其对于革命的态度",
+      94
+    ],
+    [
+      3,
+      "中国社会各阶级的分析",
+      98
+    ],
+    [
+      3,
+      "国民革命与农民运动",
+      109
+    ],
+    [
+      3,
+      "江浙农民的痛苦及其反抗运动",
+      112
+    ],
+    [
+      3,
+      "*湖南的农民",
+      115
+    ],
+    [
+      3,
+      "*湖南省第一次农民代表大会宣言",
+      123
+    ],
+    [
+      3,
+      "湖南农民运动考察报告",
+      127
+    ],
+    [
+      2,
+      "附录",
+      159
+    ],
+    [
+      3,
+      "中国社会各阶级的分析（初版）",
+      159
+    ],
+    [
+      3,
+      "关于《中国社会各阶级的分析的最初版本》",
+      166
+    ],
+    [
+      2,
+      "封底",
+      170
+    ]
+  ],
+  "pdf_pages_with_text": 167,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-12fbcc5eb211681c08d0.jsonl",
+  "text_path": "archive/text/A-12fbcc5eb211681c08d0.txt",
+  "text_sha256": "76f664171577cabe4f50d52f7f54cdff95e5b4e9f56221881d900368afeb8bca",
+  "text_chars": 146344,
+  "text_lines": 7421,
+  "document_path": "archive/documents/A-12fbcc5eb211681c08d0.md",
+  "cover_path": "archive/covers/A-12fbcc5eb211681c08d0.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

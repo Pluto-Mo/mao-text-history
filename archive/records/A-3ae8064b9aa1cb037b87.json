@@ -1,0 +1,62 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/10.pdf",
+  "title": "第十卷",
+  "catalogue_entry_ids": [
+    "I-c98083ae994a57d2"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 10,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-3ae8064b9aa1cb037b87",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:52:17.648895+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/10.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"5799f5-4ebce86129e00\"",
+  "last_modified": "Sat, 23 Nov 2013 02:02:32 GMT",
+  "raw_sha256": "6de60e351c9597e21d8ccea11e6011ed0a7a0911a980057a73f12e011df78f3f",
+  "raw_bytes": 5741045,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/6de60e351c9597e21d8ccea11e6011ed0a7a0911a980057a73f12e011df78f3f.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 366,
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat 11.0.3",
+    "producer": "ABBYY FineReader 11",
+    "creationDate": "D:16010101000000Z",
+    "modDate": "D:16010101000000Z",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 331,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-3ae8064b9aa1cb037b87.jsonl",
+  "text_path": "archive/text/A-3ae8064b9aa1cb037b87.txt",
+  "text_sha256": "2a7feec9b59a47b658997bea5d629d9591b98f158ebdd7ee2577146d98dd27be",
+  "text_chars": 367731,
+  "text_lines": 179290,
+  "document_path": "archive/documents/A-3ae8064b9aa1cb037b87.md",
+  "cover_path": "archive/covers/A-3ae8064b9aa1cb037b87.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

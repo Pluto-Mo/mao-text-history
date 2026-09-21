@@ -1,0 +1,93 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c13.pdf",
+  "title": "建国以来毛泽东文稿(13)",
+  "catalogue_entry_ids": [
+    "I-563e9e591ddee256"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "wengao-old-13",
+      "volume": 13,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-3ff7a99562eb05091c0c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:51:02.901075+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c13.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"8757ff-4abf8e9682bc0\"",
+  "last_modified": "Fri, 02 Sep 2011 17:44:23 GMT",
+  "raw_sha256": "889a238d48c666fd4a3bda8e506af6b1779474be13b0661f3c03f826027438ff",
+  "raw_bytes": 8869887,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/889a238d48c666fd4a3bda8e506af6b1779474be13b0661f3c03f826027438ff.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 569,
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "pdfFactory Pro www.fineprint.com.cn",
+    "producer": "pdfFactory Pro 2.30 (Windows XP Professional Chinese)",
+    "creationDate": "D:20060913092739+08'00'",
+    "modDate": "D:20070507005909+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "扉页",
+      2
+    ],
+    [
+      1,
+      "版权页",
+      3
+    ],
+    [
+      1,
+      "出版说明",
+      4
+    ],
+    [
+      1,
+      "目录",
+      6
+    ],
+    [
+      1,
+      "正文",
+      27
+    ]
+  ],
+  "pdf_pages_with_text": 0,
+  "text_layer_status": "image_only_no_text_layer",
+  "page_map_path": "archive/pages/A-3ff7a99562eb05091c0c.jsonl",
+  "text_path": "archive/text/A-3ff7a99562eb05091c0c.txt",
+  "text_sha256": "5e886a6258699fa454e99fe330b92fa3d3189bebb3dc5b9b8602bed76374f2c9",
+  "text_chars": 12979,
+  "text_lines": 1707,
+  "document_path": "archive/documents/A-3ff7a99562eb05091c0c.md",
+  "cover_path": "archive/covers/A-3ff7a99562eb05091c0c.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-09-21T13:52:27.950211+00:00",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "target_urls": 1434,
+  "records": 41,
+  "preserved": 41,
+  "failed": 0,
+  "preserved_by_media": {
+    "pdf": 41
+  },
+  "preserved_raw_bytes": 413212843,
+  "extracted_characters": 14757820,
+  "pdf_pages": 19689,
+  "pdf_pages_with_text": 16138,
+  "mapped_catalogue_entries": 41,
+  "parallel_groups_with_multiple_preserved_witnesses": 0,
+  "all_four_collections_complete": false,
+  "notes": [
+    "Digital file preservation is not authentication of an original manuscript.",
+    "New editions must not be substituted with old editions.",
+    "PDF pages lacking text remain preserved images; no mass OCR has been performed."
+  ]
+}

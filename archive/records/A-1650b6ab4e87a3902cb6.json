@@ -1,0 +1,93 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c12.pdf",
+  "title": "建国以来毛泽东文稿(12)",
+  "catalogue_entry_ids": [
+    "I-4287b99dcd0b9d43"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "wengao-old-13",
+      "volume": 12,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-1650b6ab4e87a3902cb6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:51:01.283695+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c12.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"982a03-583cdc004f0c5\"",
+  "last_modified": "Mon, 11 Mar 2019 08:56:36 GMT",
+  "raw_sha256": "e240b91ae43f94c62098ea37afac2e62a8c7059c568d2c4ea15d29caaa6394f0",
+  "raw_bytes": 9972227,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/e240b91ae43f94c62098ea37afac2e62a8c7059c568d2c4ea15d29caaa6394f0.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 650,
+  "pdf_metadata": {
+    "format": "PDF 1.4",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "pdfFactory Pro www.fineprint.com.cn",
+    "producer": "pdfFactory Pro 2.30 (Windows XP Professional Chinese)",
+    "creationDate": "D:20060913091703+08'00'",
+    "modDate": "D:20070507005412+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "扉页",
+      2
+    ],
+    [
+      1,
+      "版权页",
+      3
+    ],
+    [
+      1,
+      "出版说明",
+      4
+    ],
+    [
+      1,
+      "目录",
+      6
+    ],
+    [
+      1,
+      "正文",
+      31
+    ]
+  ],
+  "pdf_pages_with_text": 0,
+  "text_layer_status": "image_only_no_text_layer",
+  "page_map_path": "archive/pages/A-1650b6ab4e87a3902cb6.jsonl",
+  "text_path": "archive/text/A-1650b6ab4e87a3902cb6.txt",
+  "text_sha256": "39050873e2a3adf4a31ab774f8a4929d6ef905e7806143fc108b1fb0cc04b608",
+  "text_chars": 14842,
+  "text_lines": 1950,
+  "document_path": "archive/documents/A-1650b6ab4e87a3902cb6.md",
+  "cover_path": "archive/covers/A-1650b6ab4e87a3902cb6.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-01.pdf",
+  "title": "第一卷",
+  "catalogue_entry_ids": [
+    "I-cd673212d813558f"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-bujuan-9",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "pdf_link",
+  "id": "A-c0966a995bb82067c6e1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:52:19.693164+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-01.pdf",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "charset": "",
+  "etag": "\"35b77f-4ebced1883e80\"",
+  "last_modified": "Sat, 23 Nov 2013 02:23:38 GMT",
+  "raw_sha256": "7db0eec5b88cfce1aa460bc3eadb94b6f984f2e477536f1c7ca3709f641b9e60",
+  "raw_bytes": 3520383,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/7db0eec5b88cfce1aa460bc3eadb94b6f984f2e477536f1c7ca3709f641b9e60.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 322,
+  "pdf_metadata": {
+    "format": "PDF 1.5",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat 11.0.3",
+    "producer": "ABBYY FineReader 11",
+    "creationDate": "D:16010101000000Z",
+    "modDate": "D:16010101000000Z",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 256,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-c0966a995bb82067c6e1.jsonl",
+  "text_path": "archive/text/A-c0966a995bb82067c6e1.txt",
+  "text_sha256": "5da646c7a6c4c2e861c8a1481bff837c8c72d4e96fdeca8c8e79fd9cc342b0b5",
+  "text_chars": 207181,
+  "text_lines": 100175,
+  "document_path": "archive/documents/A-c0966a995bb82067c6e1.md",
+  "cover_path": "archive/covers/A-c0966a995bb82067c6e1.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
