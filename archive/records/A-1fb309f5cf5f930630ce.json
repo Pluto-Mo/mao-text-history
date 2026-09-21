@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-321.htm",
+  "title": "看到西安师院造反派两张大字报和给中央文革的信后的批示（一九六七年六月）",
+  "catalogue_entry_ids": [
+    "I-3ac975747dcddee7"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1fb309f5cf5f930630ce",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:09.972962+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-321.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"562-57a29394f3686\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:37 GMT",
+  "raw_sha256": "210efa1b41900d4b52485460fc735c8f0662184d3224d95261ace946d654601d",
+  "raw_bytes": 1378,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/210efa1b41900d4b52485460fc735c8f0662184d3224d95261ace946d654601d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "看到西安师院造反派两张大字报和给中央文革的信后的批示（一九六七年六月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-320.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-322.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1fb309f5cf5f930630ce.txt",
+  "text_sha256": "2bcf001b31e17923e4acec0e7acdef74bc4b5a2776f6dd82008ec09b822e3c39",
+  "text_chars": 190,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-1fb309f5cf5f930630ce.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

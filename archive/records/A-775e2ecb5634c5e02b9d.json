@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-306.htm",
+  "title": "在《伟大的历史文件》一文中所写的一段话（一九六七年五月十八日）",
+  "catalogue_entry_ids": [
+    "I-da13ae23223472ff"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-775e2ecb5634c5e02b9d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:05.477707+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-306.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5d4-57a29383f0d94\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:19 GMT",
+  "raw_sha256": "c6c1c0d0279cf18f0fedd12b2956f96619f254d5efc31ee630fd5bdfef62b04a",
+  "raw_bytes": 1492,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c6c1c0d0279cf18f0fedd12b2956f96619f254d5efc31ee630fd5bdfef62b04a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在《伟大的历史文件》一文中所写的一段话（一九六七年五月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-305.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-307.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-775e2ecb5634c5e02b9d.txt",
+  "text_sha256": "ff17d3ea6f53f3c78ece43b0fc618a2ce179e266273df7605c4e39c968eec0f3",
+  "text_chars": 242,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-775e2ecb5634c5e02b9d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

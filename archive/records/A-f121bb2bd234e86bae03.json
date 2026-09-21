@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-337.htm",
+  "title": "对《红旗》杂志一九六七年第十二期社论的批语（一九六七年八月）",
+  "catalogue_entry_ids": [
+    "I-c7d695a12f1b1675"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f121bb2bd234e86bae03",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:14.774739+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-337.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"59a-57a293a84f89f\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:57 GMT",
+  "raw_sha256": "7c25c5382dca9b117941aa28090fbd4fd0726e0df01f742ef9f1203d5258db73",
+  "raw_bytes": 1434,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7c25c5382dca9b117941aa28090fbd4fd0726e0df01f742ef9f1203d5258db73.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《红旗》杂志一九六七年第十二期社论的批语（一九六七年八月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-336.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-338.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f121bb2bd234e86bae03.txt",
+  "text_sha256": "da3e54761328d7dc3a74be19189e5f424bc090c20d6c3545b0fbaa93110fb73c",
+  "text_chars": 211,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-f121bb2bd234e86bae03.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

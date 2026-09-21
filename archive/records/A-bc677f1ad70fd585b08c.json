@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-290.htm",
+  "title": "在中央常委、中央文革小组和政治局会议上的讲话（摘录） （一九六七年四、五月）",
+  "catalogue_entry_ids": [
+    "I-6215030ddc8f8e27"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bc677f1ad70fd585b08c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:00.672258+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-290.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"ae3-57a2936ea97fc\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:57 GMT",
+  "raw_sha256": "b73cdc42a56b783926332c1d8177d2c50ea7d23089243e39948c0b510e0af66b",
+  "raw_bytes": 2787,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b73cdc42a56b783926332c1d8177d2c50ea7d23089243e39948c0b510e0af66b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中央常委、中央文革小组和政治局会议上的讲话（摘录） （一九六七年四、五月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-289.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-291.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bc677f1ad70fd585b08c.txt",
+  "text_sha256": "135b39e2b81abaad992b4466cfa2e6fa7db43214915fc4eee6adf39d5252f2bb",
+  "text_chars": 838,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-bc677f1ad70fd585b08c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

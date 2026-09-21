@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-323.htm",
+  "title": "关于建造主席塑像问题的指示（一九六七年七月五日）",
+  "catalogue_entry_ids": [
+    "I-3f796f661631ad45"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9293e19ca87788733e89",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:10.578197+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-323.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"575-57a29396c6364\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:39 GMT",
+  "raw_sha256": "8d2b1269814da4aa554f9c42bb2081cdc9683b8dc486cacaf15beb975ef55e5b",
+  "raw_bytes": 1397,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8d2b1269814da4aa554f9c42bb2081cdc9683b8dc486cacaf15beb975ef55e5b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于建造主席塑像问题的指示（一九六七年七月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-322.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-324.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9293e19ca87788733e89.txt",
+  "text_sha256": "abc413c73752b5edfef31c685139a588db695e842e600b5a0f4d511ae87348ec",
+  "text_chars": 177,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-9293e19ca87788733e89.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

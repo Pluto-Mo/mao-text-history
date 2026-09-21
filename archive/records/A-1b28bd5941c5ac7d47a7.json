@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-327.htm",
+  "title": "关于不要“开快车”的指示（一九六七年七月十三曰）",
+  "catalogue_entry_ids": [
+    "I-c53a3a350667ab51"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1b28bd5941c5ac7d47a7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:11.775672+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-327.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"57e-57a2939a00658\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:42 GMT",
+  "raw_sha256": "afd8dffdfad63ada6144a1b3243f4733848323da950f9985ba0d602ddd544d03",
+  "raw_bytes": 1406,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/afd8dffdfad63ada6144a1b3243f4733848323da950f9985ba0d602ddd544d03.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于不要“开快车”的指示（一九六七年七月十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-326.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-328.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1b28bd5941c5ac7d47a7.txt",
+  "text_sha256": "c39a9f6505f27ca02fa3334e48492e37efa03394aa8ead82e5211ce662e56e43",
+  "text_chars": 200,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-1b28bd5941c5ac7d47a7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

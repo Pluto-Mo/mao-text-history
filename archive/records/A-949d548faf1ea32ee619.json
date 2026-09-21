@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-331.htm",
+  "title": "《中央对武汉军区公告的复电》（一九六七年七月二十五日）",
+  "catalogue_entry_ids": [
+    "I-88756dcdbbe39c90"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-949d548faf1ea32ee619",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:13.004230+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-331.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6cb-57a2939ed3c46\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:47 GMT",
+  "raw_sha256": "71edb3a5ed604b1575e25a5bb68cb94a7088519186193133a9ed6ed6556ca955",
+  "raw_bytes": 1739,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/71edb3a5ed604b1575e25a5bb68cb94a7088519186193133a9ed6ed6556ca955.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《中央对武汉军区公告的复电》（一九六七年七月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-330.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-332.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-949d548faf1ea32ee619.txt",
+  "text_sha256": "0eb85cfa325daf2c0023d9e4fe7f957925b1d70a259675883e07fd3c4834fc48",
+  "text_chars": 318,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-949d548faf1ea32ee619.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

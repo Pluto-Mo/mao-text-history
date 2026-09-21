@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-304.htm",
+  "title": "关于国际形势的指示（一九六七年五月）",
+  "catalogue_entry_ids": [
+    "I-c0c8926e20c75806"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-09f2a6508a11adaecc45",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:04.874822+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-304.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"51e-57a29381c23f0\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:17 GMT",
+  "raw_sha256": "e6e22aa9b4a1122fd1b984323c9d82a9bd2d361c8b92827dac1d89fe22d8c2f9",
+  "raw_bytes": 1310,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e6e22aa9b4a1122fd1b984323c9d82a9bd2d361c8b92827dac1d89fe22d8c2f9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于国际形势的指示（一九六七年五月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-303.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-305.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-09f2a6508a11adaecc45.txt",
+  "text_sha256": "3a9fbe8ddda98cf37799c552a90fd8f9da7af98764ce63f9f40e6dc03c551e9b",
+  "text_chars": 154,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-09f2a6508a11adaecc45.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

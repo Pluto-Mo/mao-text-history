@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-322.htm",
+  "title": "关于缅甸问题的指示（一九六七年七月一日）",
+  "catalogue_entry_ids": [
+    "I-919ed5473a059f0a"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0d1e262c898578ee1c4d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:10.295019+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-322.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4fe-57a29395e78d6\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:38 GMT",
+  "raw_sha256": "7f7cef493fd2d179d3a9fbcc630ff509bba82a2e1f7e78694832a5f711d4e0c9",
+  "raw_bytes": 1278,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7f7cef493fd2d179d3a9fbcc630ff509bba82a2e1f7e78694832a5f711d4e0c9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于缅甸问题的指示（一九六七年七月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-321.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-323.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0d1e262c898578ee1c4d.txt",
+  "text_sha256": "b5e54bc9dfe49751617992834b19521bbbafcd33c460d7b9131c102f163a463e",
+  "text_chars": 136,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-0d1e262c898578ee1c4d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

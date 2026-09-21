@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-287.htm",
+  "title": "无政府主义是对机会主义的惩罚（一九六七年四月）",
+  "catalogue_entry_ids": [
+    "I-62f7a5d7b80a005e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c08ca039ce893d4bb313",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:59.776240+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-287.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"588-57a2936a783d8\"",
+  "last_modified": "Thu, 08 Nov 2018 15:51:52 GMT",
+  "raw_sha256": "5e95aabf64326f4ab75e7e00faf765580c56f86471ebfbc806a7252591a4d897",
+  "raw_bytes": 1416,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5e95aabf64326f4ab75e7e00faf765580c56f86471ebfbc806a7252591a4d897.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "无政府主义是对机会主义的惩罚（一九六七年四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-286.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-288.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c08ca039ce893d4bb313.txt",
+  "text_sha256": "c96a582bf0aa5aeea864a2af010edef00c448cd349c6fcbf8830002b5049d550",
+  "text_chars": 183,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-c08ca039ce893d4bb313.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

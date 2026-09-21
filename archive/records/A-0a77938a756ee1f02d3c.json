@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-293.htm",
+  "title": "“五一”节和张×的谈话（一九六七年五月一日）",
+  "catalogue_entry_ids": [
+    "I-d4d73652c0444995"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0a77938a756ee1f02d3c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:01.572971+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-293.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7ab-57a2937517084\"",
+  "last_modified": "Thu, 08 Nov 2018 15:52:03 GMT",
+  "raw_sha256": "635e01208834c33755e6f4ec93c69781cb129abd6daaa2ebbd65bab60b784c85",
+  "raw_bytes": 1963,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/635e01208834c33755e6f4ec93c69781cb129abd6daaa2ebbd65bab60b784c85.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "“五一”节和张×的谈话（一九六七年五月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-292.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-294.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0a77938a756ee1f02d3c.txt",
+  "text_sha256": "dbce099feb6b2235d5c8db2533f5f7d11fbe9bd7ffd8b400730b5842fde3b415",
+  "text_chars": 420,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-0a77938a756ee1f02d3c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
