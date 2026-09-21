@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-094.htm",
+  "title": "在鲁迅逝世周年纪念大会上的演说（一九三七年十月十九日）",
+  "catalogue_entry_ids": [
+    "I-90e83c623876c926"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cb640eb806b3290a08b0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:16.216037+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-094.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"11ca-57a295c3ef438\"",
+  "last_modified": "Thu, 08 Nov 2018 16:02:23 GMT",
+  "raw_sha256": "5b56a6485995ea0511d25024285e1c2b32113f282f37693ef427b3db7ef9e3c4",
+  "raw_bytes": 4554,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5b56a6485995ea0511d25024285e1c2b32113f282f37693ef427b3db7ef9e3c4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在鲁迅逝世周年纪念大会上的演说（一九三七年十月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-093.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-095.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cb640eb806b3290a08b0.txt",
+  "text_sha256": "0b9c15cb1490b41500818e3bbe7a591bf13e9fab6c2d7d246c87199a061cbfbd",
+  "text_chars": 1732,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-cb640eb806b3290a08b0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

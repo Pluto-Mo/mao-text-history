@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-081.htm",
+  "title": "致蔡元培信（一九三六年九月二十六日）",
+  "catalogue_entry_ids": [
+    "I-8c16c29ada269b7e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-75b1738a73153b844a77",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:12.320663+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-081.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d00-57a2958d39307\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:26 GMT",
+  "raw_sha256": "2670126477d73b49cb1ac6960d3449ea3ce82df0265befe9086e20fd1bf53fe7",
+  "raw_bytes": 3328,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2670126477d73b49cb1ac6960d3449ea3ce82df0265befe9086e20fd1bf53fe7.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致蔡元培信（一九三六年九月二十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-080.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-082.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-75b1738a73153b844a77.txt",
+  "text_sha256": "541bd4b2ab348a9ce98092919d1206678bbbf1a30664721744dda489a9b20887",
+  "text_chars": 1109,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-75b1738a73153b844a77.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

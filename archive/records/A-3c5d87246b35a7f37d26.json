@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-119.htm",
+  "title": "在陕甘宁边区学联第一次代表大会上的讲话（一九三九年八月十三日）",
+  "catalogue_entry_ids": [
+    "I-a8c96d55eb51f9c6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3c5d87246b35a7f37d26",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:24.993058+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-119.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7be-57a293f96f6fd\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:22 GMT",
+  "raw_sha256": "72b87a59e615a1f0d56b22dd98fde9f932c3cbdb483ba3258dd930b37b151313",
+  "raw_bytes": 1982,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/72b87a59e615a1f0d56b22dd98fde9f932c3cbdb483ba3258dd930b37b151313.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在陕甘宁边区学联第一次代表大会上的讲话（一九三九年八月十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-118.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-120.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3c5d87246b35a7f37d26.txt",
+  "text_sha256": "4546388915438c1542a430ba9aad3c786712349437af97fcff8202e39f225ab2",
+  "text_chars": 460,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-3c5d87246b35a7f37d26.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

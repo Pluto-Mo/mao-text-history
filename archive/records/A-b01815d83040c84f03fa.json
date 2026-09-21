@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-076.htm",
+  "title": "关于日本声明书谈话（一九三四年下半年）",
+  "catalogue_entry_ids": [
+    "I-2ebf49c52b3ca862"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b01815d83040c84f03fa",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:10.813653+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-076.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"dfc-57a29581b5e0d\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:13 GMT",
+  "raw_sha256": "663b538b71caaabc0f7f602536937bd4b12a71ddca3590acbe733e3d8bc523af",
+  "raw_bytes": 3580,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/663b538b71caaabc0f7f602536937bd4b12a71ddca3590acbe733e3d8bc523af.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于日本声明书谈话（一九三四年下半年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-075.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-077.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b01815d83040c84f03fa.txt",
+  "text_sha256": "d46976a41427ca58171aae79b4348d257b9dbf66e4922c1f1505f5cea911aa0b",
+  "text_chars": 1259,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-b01815d83040c84f03fa.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

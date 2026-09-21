@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-100.htm",
+  "title": "与延安新中华报记者谈话（一九三八年二日）",
+  "catalogue_entry_ids": [
+    "I-054eebf633e7ee70"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4ad24adc791fd27cb452",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:18.313961+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-100.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"56a9-57a295d5b2356\"",
+  "last_modified": "Thu, 08 Nov 2018 16:02:42 GMT",
+  "raw_sha256": "7d4ff9b6c7f4b4e69c7171c255a6e3a9acc4260546d6edc2990b116759a88f8a",
+  "raw_bytes": 22185,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7d4ff9b6c7f4b4e69c7171c255a6e3a9acc4260546d6edc2990b116759a88f8a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "与延安新中华报记者谈话（一九三八年二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-099.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-101.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4ad24adc791fd27cb452.txt",
+  "text_sha256": "3ceb3d0c83e0d80e243ceace58b9650e25addbc7bc6a897139e8b4f59433a08c",
+  "text_chars": 10389,
+  "text_lines": 45,
+  "document_path": "archive/documents/A-4ad24adc791fd27cb452.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

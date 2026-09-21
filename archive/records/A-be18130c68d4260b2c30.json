@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-078.htm",
+  "title": "中华苏维埃共和国中央执行委员会命令",
+  "catalogue_entry_ids": [
+    "I-4a896879b7162687"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-be18130c68d4260b2c30",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:11.579369+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-078.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a28-57a29586f3b22\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:19 GMT",
+  "raw_sha256": "044852941e1367473e9e7d0d1763ab46de8f619398eae9605376a0b3710212c5",
+  "raw_bytes": 2600,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/044852941e1367473e9e7d0d1763ab46de8f619398eae9605376a0b3710212c5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中华苏维埃共和国中央执行委员会命令中华苏维埃共和国中央执行委员会命令",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-077.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-079.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-be18130c68d4260b2c30.txt",
+  "text_sha256": "d43ca4e11eee66fb2f8579a55a4f21b698fccd78f2dde5e4ba65bc9672188611",
+  "text_chars": 689,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-be18130c68d4260b2c30.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

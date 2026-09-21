@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-075.htm",
+  "title": "中国工农红军北上抗日宣言（一九三四年）",
+  "catalogue_entry_ids": [
+    "I-cacceab144d7f339"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5be8d9fcc927c8821550",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:10.514247+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-075.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"17be-57a2957e63478\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:10 GMT",
+  "raw_sha256": "be9d10996bac0c4b2d0149e2b3559b659e6732738a4efaea894f5f92850897a1",
+  "raw_bytes": 6078,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/be9d10996bac0c4b2d0149e2b3559b659e6732738a4efaea894f5f92850897a1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国工农红军北上抗日宣言（一九三四年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-074.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-076.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5be8d9fcc927c8821550.txt",
+  "text_sha256": "17064328e1040b9b340d8e6acbbe1abcaeb6a837cd1b74d9c09dd685f4eee364",
+  "text_chars": 2454,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-5be8d9fcc927c8821550.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-110.htm",
+  "title": "在延安庆祝“五一”国际劳动节的讲话（一九三九年五月一日）",
+  "catalogue_entry_ids": [
+    "I-c451477c975110a7"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-50fccc9222467da9d7e2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:21.018773+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-110.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"21af-57a293e7038b4\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:03 GMT",
+  "raw_sha256": "d5894461f33208b11728bb4272df070a4e2dadb4414cf349bbf35d8dcaafbe8e",
+  "raw_bytes": 8623,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d5894461f33208b11728bb4272df070a4e2dadb4414cf349bbf35d8dcaafbe8e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在延安庆祝“五一”国际劳动节的讲话（一九三九年五月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-109.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-111.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-50fccc9222467da9d7e2.txt",
+  "text_sha256": "8365b4f5896d687a1ad769b386a9d82312980712fdd55cad0b2b9be3d78b42ce",
+  "text_chars": 3733,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-50fccc9222467da9d7e2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

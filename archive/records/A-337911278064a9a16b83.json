@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-074.htm",
+  "title": "中华苏维埃共和国中央执行委员会与人民委员会对第二次全国苏维埃代表大会的报告（一九三四年一月二十三日）",
+  "catalogue_entry_ids": [
+    "I-77b6a8feaa9b087b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-337911278064a9a16b83",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:10.218517+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-074.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2279-57a2957b35ca5\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:07 GMT",
+  "raw_sha256": "2c3e4996921506fc9b95f6e53cf178f3e34de43051986cc349ce346cb328f271",
+  "raw_bytes": 8825,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2c3e4996921506fc9b95f6e53cf178f3e34de43051986cc349ce346cb328f271.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中华苏维埃共和国中央执行委员会与人民委员会对第二次全国苏维埃代表大会的报告（一九三四年一月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-073.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-075.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-337911278064a9a16b83.txt",
+  "text_sha256": "25c4411f211fe200533366782504453574e63bb6821ffd4c089349c55869ecac",
+  "text_chars": 3750,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-337911278064a9a16b83.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

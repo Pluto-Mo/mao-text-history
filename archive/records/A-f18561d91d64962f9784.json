@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-096.htm",
+  "title": "在抗大校舍落成大会上的训词（一九三七年十月二十四日）",
+  "catalogue_entry_ids": [
+    "I-8ab3d9afcb3b72a7"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f18561d91d64962f9784",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:16.878119+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-096.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"779-57a295c9aa154\"",
+  "last_modified": "Thu, 08 Nov 2018 16:02:29 GMT",
+  "raw_sha256": "788f9336e78287b86a5d471702a16c96a32cd12bd0b77d00aedc4f1db7ca275c",
+  "raw_bytes": 1913,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/788f9336e78287b86a5d471702a16c96a32cd12bd0b77d00aedc4f1db7ca275c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在抗大校舍落成大会上的训词（一九三七年十月二十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-095.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-097.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f18561d91d64962f9784.txt",
+  "text_sha256": "e358ee35d42e5c6e33296b1366066930e46fac6e2b1e3488459a565d05f1a8e9",
+  "text_chars": 416,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-f18561d91d64962f9784.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

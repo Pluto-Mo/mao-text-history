@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-106.htm",
+  "title": "论新阶段（节选）（一九三八年十一月）",
+  "catalogue_entry_ids": [
+    "I-3dd5878b6558450d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ae4343bbfc96623e3969",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:19.821644+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-106.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"819-57a293de1a424\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:53 GMT",
+  "raw_sha256": "88677eb5be4f5a38c7be800fff382516d031dc479f8f26cd1adfad9b1b41de50",
+  "raw_bytes": 2073,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/88677eb5be4f5a38c7be800fff382516d031dc479f8f26cd1adfad9b1b41de50.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "论新阶段（节选）（一九三八年十一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-105.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-107.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ae4343bbfc96623e3969.txt",
+  "text_sha256": "8fa6aec3d5b23ca2ac563c28f2fc3993c4f71393b42e63d4a15baead309c87a4",
+  "text_chars": 533,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-ae4343bbfc96623e3969.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

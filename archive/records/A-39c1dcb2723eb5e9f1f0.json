@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-098.htm",
+  "title": "给抗大九队同志的信",
+  "catalogue_entry_ids": [
+    "I-062e24b9cd517b1b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-39c1dcb2723eb5e9f1f0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:17.419233+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-098.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5b3-57a295cd24b8d\"",
+  "last_modified": "Thu, 08 Nov 2018 16:02:33 GMT",
+  "raw_sha256": "7f7cbb808338e3567c537a96c8d9b010fafdb6168aca43f4b92d964e3d2cc2dc",
+  "raw_bytes": 1459,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7f7cbb808338e3567c537a96c8d9b010fafdb6168aca43f4b92d964e3d2cc2dc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给抗大九队同志的信给抗大九队同志的信",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-097.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-099.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-39c1dcb2723eb5e9f1f0.txt",
+  "text_sha256": "6a09875273b34b3982e6d8c9dc97afd9e2a45dda4a14019d553f82fa659dbe75",
+  "text_chars": 193,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-39c1dcb2723eb5e9f1f0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

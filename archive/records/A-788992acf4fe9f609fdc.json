@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-093.htm",
+  "title": "《农村调查》序言（一）（一九三七年十月六日）",
+  "catalogue_entry_ids": [
+    "I-4e622bb3448a4a62"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-788992acf4fe9f609fdc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:15.924770+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-093.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"78b-57a295c2ac044\"",
+  "last_modified": "Thu, 08 Nov 2018 16:02:22 GMT",
+  "raw_sha256": "fb82fa0d8f595fd2597e62d1aec80214578a7bf78730f3c0ee9b9de297412d8a",
+  "raw_bytes": 1931,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fb82fa0d8f595fd2597e62d1aec80214578a7bf78730f3c0ee9b9de297412d8a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《农村调查》序言（一）（一九三七年十月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-092.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-094.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-788992acf4fe9f609fdc.txt",
+  "text_sha256": "90d3be65ef7ed825c945d990a0420eace66960ba67cce257d3aebd6573441fbb",
+  "text_chars": 456,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-788992acf4fe9f609fdc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

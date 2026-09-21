@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-085.htm",
+  "title": "致蒋介石书（一九三六年十二月一日）",
+  "catalogue_entry_ids": [
+    "I-7020221cac342e3c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bd6d1469c0a9d5757c25",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:13.529963+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-085.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d34-57a2959408614\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:33 GMT",
+  "raw_sha256": "286f46b199196de096c2c369953d66bb064c534915ebc94c8cfc86f25b25fa6a",
+  "raw_bytes": 3380,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/286f46b199196de096c2c369953d66bb064c534915ebc94c8cfc86f25b25fa6a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致蒋介石书（一九三六年十二月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-084.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-086.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bd6d1469c0a9d5757c25.txt",
+  "text_sha256": "0e73e7d2177d9814d1db2be09f13107a1ae45064b6ef19ce4fbcd68e2505a340",
+  "text_chars": 1125,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-bd6d1469c0a9d5757c25.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

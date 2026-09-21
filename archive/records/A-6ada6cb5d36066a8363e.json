@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-077.htm",
+  "title": "中央关于反对敌人五次“围剿”的总结决议（一九三五年一月八日）",
+  "catalogue_entry_ids": [
+    "I-d5108fa072e734b6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6ada6cb5d36066a8363e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:11.294756+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-077.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2a54-57a295859de4c\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:18 GMT",
+  "raw_sha256": "78c205512cbe251c93bc3092eada473bdd11b31cad0f78567fc05827b7c3c2e1",
+  "raw_bytes": 10836,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/78c205512cbe251c93bc3092eada473bdd11b31cad0f78567fc05827b7c3c2e1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中央关于反对敌人五次“围剿”的总结决议——遵义会议、一九三五年一月八日政治会议通告",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-076.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-078.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6ada6cb5d36066a8363e.txt",
+  "text_sha256": "5ae228900cc10198cb4296d39dcac29ca6c9dcf0f3e98cb078f9ac27b903b2c4",
+  "text_chars": 4800,
+  "text_lines": 30,
+  "document_path": "archive/documents/A-6ada6cb5d36066a8363e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

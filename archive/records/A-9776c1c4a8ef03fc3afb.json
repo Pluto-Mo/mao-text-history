@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-118.htm",
+  "title": "中央军委关于整理抗大问题的指示（节选）（一九三九年七月二十五日）",
+  "catalogue_entry_ids": [
+    "I-2e3a18cfa30feb95"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9776c1c4a8ef03fc3afb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:24.389360+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-118.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"847-57a293f888f6f\"",
+  "last_modified": "Thu, 08 Nov 2018 15:54:21 GMT",
+  "raw_sha256": "60e24089fdb5062e48da2f7000dcd9f29211e1737c7e753efa2f0cf49ccc5bec",
+  "raw_bytes": 2119,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/60e24089fdb5062e48da2f7000dcd9f29211e1737c7e753efa2f0cf49ccc5bec.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中央军委关于整理抗大问题的指示（节选）（一九三九年七月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-117.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-119.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9776c1c4a8ef03fc3afb.txt",
+  "text_sha256": "c513d3c330a06b0217792dfc11911b45e1942d4f2fa55b9e2f0493e25333bec8",
+  "text_chars": 506,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-9776c1c4a8ef03fc3afb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-087.htm",
+  "title": "与北方青年的谈话（一九三七年春）",
+  "catalogue_entry_ids": [
+    "I-6844b71f61e30e1b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8e8fa1196f82cddd5dd1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:14.125197+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-087.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6c5-57a2959edbe83\"",
+  "last_modified": "Thu, 08 Nov 2018 16:01:44 GMT",
+  "raw_sha256": "d04427990199eda45b500ea01f14b76ec35ff4ca0b2c8f351584fb7573148e88",
+  "raw_bytes": 1733,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d04427990199eda45b500ea01f14b76ec35ff4ca0b2c8f351584fb7573148e88.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "与北方青年的谈话（一九三七年春）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-086.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-088.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8e8fa1196f82cddd5dd1.txt",
+  "text_sha256": "08170f74ab47e278a5e3b847cff13b641234e84e27dbb82fb2711139d051b2a1",
+  "text_chars": 365,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-8e8fa1196f82cddd5dd1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
