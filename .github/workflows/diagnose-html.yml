@@ -1,0 +1,43 @@
+name: Diagnose HTML commit failure
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/diagnose-html.yml]
+permissions:
+  contents: write
+  actions: read
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Extract actual failure lines from completed job log
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Pluto-Mo/mao-text-history/actions/jobs/106359076484/logs > /tmp/primary-job.log
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          rows=Path('/tmp/primary-job.log').read_text(encoding='utf-8-sig',errors='replace').splitlines()
+          wanted=set()
+          for i,line in enumerate(rows):
+              if re.search(r'CONFLICT|fatal:|error:|remote:|exceeds|No space|Error: Process|failed to push|cannot rebase|could not apply',line,re.I):
+                  wanted.update(range(max(0,i-5),min(len(rows),i+12)))
+          text='\n'.join(f'{i+1}: {rows[i]}' for i in sorted(wanted))
+          Path('reports/html-failure-tail.txt').write_text(text[-22000:]+'\n',encoding='utf-8')
+          print(text[-12000:])
+          PY
+      - name: Commit diagnostic evidence
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/html-failure-tail.txt
+          if ! git diff --cached --quiet; then
+            git commit -q -m 'audit: preserve precise HTML publishing failure evidence'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
