@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-030.htm",
+  "title": "为东渡黄河给杨立三同志的指示信（一九四六年二月二十一日）",
+  "catalogue_entry_ids": [
+    "I-5534a90cdea7f8e7"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cba09e6e80b116d7e8d4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:49.576166+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-030.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"923-57a3a25c0e347\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:03 GMT",
+  "raw_sha256": "6df2a865a4baf273f032fa638eeaf36eab4216888bcaa591f847bffa4defc009",
+  "raw_bytes": 2339,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6df2a865a4baf273f032fa638eeaf36eab4216888bcaa591f847bffa4defc009.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为东渡黄河给杨立三同志的指示信（一九四六年二月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-029.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-031.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cba09e6e80b116d7e8d4.txt",
+  "text_sha256": "26d6f5dce0a17dbba24635dbdfe387ed62801c5292db48d8a9f13a9136406ee8",
+  "text_chars": 601,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-cba09e6e80b116d7e8d4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

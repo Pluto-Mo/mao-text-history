@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-068.htm",
+  "title": "我三十万大军渡过长江（一九四九年四月二十二日）",
+  "catalogue_entry_ids": [
+    "I-4185b0f34e1a6ca7"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f2bdbd87955bef7d1754",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:00.329984+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-068.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"68d-57a3a27346a19\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:27 GMT",
+  "raw_sha256": "768175d09c833d2543c209bd7c666b9b80ed0d771dfe2b4dc259fe35e44e30f0",
+  "raw_bytes": 1677,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/768175d09c833d2543c209bd7c666b9b80ed0d771dfe2b4dc259fe35e44e30f0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "我三十万大军渡过长江（一九四九年四月二十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-067.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-069.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f2bdbd87955bef7d1754.txt",
+  "text_sha256": "5a652e1e782c34bbab834284d1011cce0c1992e3e4591952e04d857f463d8f79",
+  "text_chars": 327,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-f2bdbd87955bef7d1754.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

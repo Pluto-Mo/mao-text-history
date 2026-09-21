@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-042.htm",
+  "title": "接见边区部队一部分负责同志的讲话（一九四七年三月十六日）",
+  "catalogue_entry_ids": [
+    "I-9e6abc1f96c96279"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5823f2bc28eb1bf2397d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:52.518922+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-042.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9d7-57a3a21bbe166\"",
+  "last_modified": "Fri, 09 Nov 2018 12:02:56 GMT",
+  "raw_sha256": "14b98c092c20c0c7e05ef712b7bf79a6d527935fc7af75e5621d865e2bfe3379",
+  "raw_bytes": 2519,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/14b98c092c20c0c7e05ef712b7bf79a6d527935fc7af75e5621d865e2bfe3379.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见边区部队一部分负责同志的讲话（一九四七年三月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-041.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-043.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5823f2bc28eb1bf2397d.txt",
+  "text_sha256": "3252a0f30656c215c8dd5aec4b3b3c5e8b9df0d2a3e101b3934b6852f58c9041",
+  "text_chars": 712,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-5823f2bc28eb1bf2397d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

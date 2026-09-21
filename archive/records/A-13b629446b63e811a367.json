@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-075.htm",
+  "title": "怎样看待别人",
+  "catalogue_entry_ids": [
+    "I-d7e3891fac8f6d75"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-13b629446b63e811a367",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:02.438519+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-075.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"635-57a3a2777301c\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:32 GMT",
+  "raw_sha256": "8b94fb5bf0e726531c6d7278401339c2d08ef457e42df8fd071e3a70dd7953b6",
+  "raw_bytes": 1589,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8b94fb5bf0e726531c6d7278401339c2d08ef457e42df8fd071e3a70dd7953b6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "怎样看待别人",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-074.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-076.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-13b629446b63e811a367.txt",
+  "text_sha256": "ea293ae625934922e94d53e8dfd9b79bcadb298839bc288024692cfb25d9d6f3",
+  "text_chars": 288,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-13b629446b63e811a367.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

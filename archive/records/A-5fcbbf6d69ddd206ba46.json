@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-059.htm",
+  "title": "豫西我军解放南阳（一九四八年十一月七日）",
+  "catalogue_entry_ids": [
+    "I-7c9d57fe37a746eb"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5fcbbf6d69ddd206ba46",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:57.625614+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-059.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"dcd-57a3a280e5fd3\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:42 GMT",
+  "raw_sha256": "127b013745932924fc0ced62baa689a5f6d1b07702d780653039eeba8720324b",
+  "raw_bytes": 3533,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/127b013745932924fc0ced62baa689a5f6d1b07702d780653039eeba8720324b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "豫西我军解放南阳（一九四八年十一月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-058.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-060.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5fcbbf6d69ddd206ba46.txt",
+  "text_sha256": "ef879784c18f94351178b7f568f9f57aa6f501a5ca5649a56b94adf6680679aa",
+  "text_chars": 1259,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-5fcbbf6d69ddd206ba46.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

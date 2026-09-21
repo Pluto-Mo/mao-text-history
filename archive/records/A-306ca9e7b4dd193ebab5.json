@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-039.htm",
+  "title": "答复时局问题——答纽约先驱论坛报驻华记者斯蒂尔先生问（一九四六年九月二十九日）",
+  "catalogue_entry_ids": [
+    "I-f9663d22217cd7b3"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-306ca9e7b4dd193ebab5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:51.625422+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-039.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a40-57a3a26e37b09\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:22 GMT",
+  "raw_sha256": "ae277d2a3354ba3dc263b4775f443981ed618cdfa0df1804c2fa7f734564d09d",
+  "raw_bytes": 2624,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ae277d2a3354ba3dc263b4775f443981ed618cdfa0df1804c2fa7f734564d09d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "答复时局问题——答纽约先驱论坛报驻华记者斯蒂尔先生问（一九四六年九月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-038.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-040.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-306ca9e7b4dd193ebab5.txt",
+  "text_sha256": "2eb71bc2d28bbeddc537ad66147683f7fa0bed47d93b4c90f964cfe1ce5dcc1d",
+  "text_chars": 748,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-306ca9e7b4dd193ebab5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

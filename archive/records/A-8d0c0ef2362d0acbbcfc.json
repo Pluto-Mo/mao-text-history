@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-076.htm",
+  "title": "中央农民运动讲习所规约（一九二六年十月）",
+  "catalogue_entry_ids": [
+    "I-5096c07e5d58b622"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8d0c0ef2362d0acbbcfc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:02.730256+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-076.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1212-57a3a27901735\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:33 GMT",
+  "raw_sha256": "76aca5dd0b80456ce7b2c41d2f66708fe60d55280b69d1133e9fa381e2057213",
+  "raw_bytes": 4626,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/76aca5dd0b80456ce7b2c41d2f66708fe60d55280b69d1133e9fa381e2057213.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中央农民运动讲习所规约（一九二六年十月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-075.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-077.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8d0c0ef2362d0acbbcfc.txt",
+  "text_sha256": "d2505654a6d9ad0cd3812367c8e0af13d0b470444e77881fbbbc89ef5d78bf78",
+  "text_chars": 1769,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-8d0c0ef2362d0acbbcfc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-057.htm",
+  "title": "电复海外侨团答复对中共五一时局主张的响应（一九四八年十月一日）",
+  "catalogue_entry_ids": [
+    "I-3cb22fd60ced6503"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fb89b894c7f2ef8825f6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:57.053417+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-057.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"674-57a3a2641eb08\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:12 GMT",
+  "raw_sha256": "5dda970ed5111be55dd15f2c4b94000f3ee9eb0c73a3e75f5269c4d6b876da21",
+  "raw_bytes": 1652,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5dda970ed5111be55dd15f2c4b94000f3ee9eb0c73a3e75f5269c4d6b876da21.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "电复海外侨团答复对中共五一时局主张的响应（一九四八年十月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-056.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-058.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fb89b894c7f2ef8825f6.txt",
+  "text_sha256": "8c3a7a46b8048c8700055b569645fc023683dd70835bf55675c07862f6a8aa13",
+  "text_chars": 291,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-fb89b894c7f2ef8825f6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

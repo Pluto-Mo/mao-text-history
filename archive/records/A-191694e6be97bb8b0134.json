@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-038.htm",
+  "title": "给十二军军委的信（一九四六年六月二十八日）",
+  "catalogue_entry_ids": [
+    "I-e4b1929550fec3d2"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-191694e6be97bb8b0134",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:51.329417+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-038.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"db8-57a3a26c4c78a\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:20 GMT",
+  "raw_sha256": "aba888e58dee504a86b958b35efcaf0270e4ae1214d2916fc2886b7f65adf95f",
+  "raw_bytes": 3512,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/aba888e58dee504a86b958b35efcaf0270e4ae1214d2916fc2886b7f65adf95f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给十二军军委的信（一九四六年六月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-037.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-039.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-191694e6be97bb8b0134.txt",
+  "text_sha256": "be6007fec43cedd37f7c14491ec34ae6cd759ce200812228a539e6d1f03cf646",
+  "text_chars": 1181,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-191694e6be97bb8b0134.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

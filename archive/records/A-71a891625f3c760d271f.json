@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-084.htm",
+  "title": "关于春耕问题的训令（节录）（一九三二年二月八日）",
+  "catalogue_entry_ids": [
+    "I-4df478776d1003ee"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-71a891625f3c760d271f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:05.145394+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-084.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"99d-57a3a28600a64\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:47 GMT",
+  "raw_sha256": "3de8a6147ff58a2395414ac50a5a06d8a53bb2c8012ded4e98e3db90896218e3",
+  "raw_bytes": 2461,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3de8a6147ff58a2395414ac50a5a06d8a53bb2c8012ded4e98e3db90896218e3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于春耕问题的训令（节录）（一九三二年二月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-083.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-085.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-71a891625f3c760d271f.txt",
+  "text_sha256": "7ed168fc9d9c6cb6e428c95f30f2707611d97db5ffa7130cff97b4a24d077e61",
+  "text_chars": 703,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-71a891625f3c760d271f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

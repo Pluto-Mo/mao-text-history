@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-062.htm",
+  "title": "国民党死硬派完全孤立，人民的中国就要出现了（一九四九年二月十六日）",
+  "catalogue_entry_ids": [
+    "I-d9abc46a0c49baea"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f76b520f7986d4377c24",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:58.525275+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-062.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1166-57a3a266b0e71\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:14 GMT",
+  "raw_sha256": "84e7e289e428fe3f45455ad562fed7024158ec7dea95fb78f91b86616fd620ba",
+  "raw_bytes": 4454,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/84e7e289e428fe3f45455ad562fed7024158ec7dea95fb78f91b86616fd620ba.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "国民党死硬派完全孤立，人民的中国就要出现了（一九四九年二月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-061.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-063.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f76b520f7986d4377c24.txt",
+  "text_sha256": "83b70257ff79668c7b7976b38cfa3f986ec2f3e5b39a3a29e34ade2e75580d8d",
+  "text_chars": 1717,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-f76b520f7986d4377c24.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

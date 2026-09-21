@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-052.htm",
+  "title": "“山西崞县是怎样进行土地改革的”一文的按语（一九四八年三月十二日）",
+  "catalogue_entry_ids": [
+    "I-2d49215d74d8a977"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3817184d0e073ca064d5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:55.535797+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-052.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a9c-57a3a25640d4b\"",
+  "last_modified": "Fri, 09 Nov 2018 12:03:57 GMT",
+  "raw_sha256": "6312d2a56bc9e0887da6bc1a718e2ad5ef74cbc1844257fc6753d68bce2a50e5",
+  "raw_bytes": 2716,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6312d2a56bc9e0887da6bc1a718e2ad5ef74cbc1844257fc6753d68bce2a50e5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "“山西崞县是怎样进行土地改革的”一文的按语（一九四八年三月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-051.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-053.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3817184d0e073ca064d5.txt",
+  "text_sha256": "fb02de0912df6335f9337804292808a7c9223d3cc8899d87baabba1411b07608",
+  "text_chars": 849,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-3817184d0e073ca064d5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

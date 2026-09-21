@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-031.htm",
+  "title": "关于土地政策的发言要点（一九四六年五月八日）",
+  "catalogue_entry_ids": [
+    "I-225b43d8674b089d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-362a78008bfab4713a1e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:49.576518+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-031.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"acd-57a3a2016f9c3\"",
+  "last_modified": "Fri, 09 Nov 2018 12:02:28 GMT",
+  "raw_sha256": "0718b459090b7554f291640903fec90cc21f9ab26b4b891bf6c1ab67501a5daa",
+  "raw_bytes": 2765,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0718b459090b7554f291640903fec90cc21f9ab26b4b891bf6c1ab67501a5daa.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于土地政策的发言要点（一九四六年五月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-030.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-032.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-362a78008bfab4713a1e.txt",
+  "text_sha256": "3cbee72750254b4934b65bd378c680fbf9810c6be29a8c7d669d8ef450546cbb",
+  "text_chars": 829,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-362a78008bfab4713a1e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

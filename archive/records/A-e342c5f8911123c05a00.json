@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-050.htm",
+  "title": "在中央对老区、半老区土地政策的指示（注）上的批语（一九四八年二月二十二日）",
+  "catalogue_entry_ids": [
+    "I-7c79531329ed593b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e342c5f8911123c05a00",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:54.920865+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-050.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6e0-57a3a2801adc6\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:41 GMT",
+  "raw_sha256": "995511bb01e823a4b04aecac2abcadb318729d4857806332bdc9e0fd25ed9fb4",
+  "raw_bytes": 1760,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/995511bb01e823a4b04aecac2abcadb318729d4857806332bdc9e0fd25ed9fb4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中央对老区、半老区土地政策的指示（注）上的批语（一九四八年二月二十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-049.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-051.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e342c5f8911123c05a00.txt",
+  "text_sha256": "3b6205847b4cba46fddf4babae5618d3db0a423b1d351035a6681236a3bcb80a",
+  "text_chars": 370,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-e342c5f8911123c05a00.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

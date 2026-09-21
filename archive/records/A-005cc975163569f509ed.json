@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-088.htm",
+  "title": "再一次号召全国民众武装起来反对帝国主义（一九三三年三月四日）",
+  "catalogue_entry_ids": [
+    "I-6483f1a8debb05a2"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-005cc975163569f509ed",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:06.346153+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-088.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"f1e-57a3a28930177\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:50 GMT",
+  "raw_sha256": "4333ec7538445e4b18e8e98d937228ee6f4606353bd493e3c457d5a2a35bfcb8",
+  "raw_bytes": 3870,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4333ec7538445e4b18e8e98d937228ee6f4606353bd493e3c457d5a2a35bfcb8.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "再一次号召全国民众武装起来反对帝国主义（一九三三年三月四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-087.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-089.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-005cc975163569f509ed.txt",
+  "text_sha256": "9e256a825e77d612d3599ac682e9b59eb48ba10cea030f41bcc6200f53341c4b",
+  "text_chars": 1353,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-005cc975163569f509ed.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

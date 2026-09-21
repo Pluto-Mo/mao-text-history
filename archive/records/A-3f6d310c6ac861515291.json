@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-040.htm",
+  "title": "复中国民主同盟马来亚霹雳分部盟员大会主席的电报（一九四六年十月八日）",
+  "catalogue_entry_ids": [
+    "I-f13c56acf0010f16"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3f6d310c6ac861515291",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:51.916494+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-040.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6ee-57a3a26f136b6\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:23 GMT",
+  "raw_sha256": "981f56e3e8075dbf041c5fe78a5d29ce5d464590340b3aaf5efebaff8e643d98",
+  "raw_bytes": 1774,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/981f56e3e8075dbf041c5fe78a5d29ce5d464590340b3aaf5efebaff8e643d98.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "复中国民主同盟马来亚霹雳分部盟员大会主席的电报（一九四六年十月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-039.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-041.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3f6d310c6ac861515291.txt",
+  "text_sha256": "ac8ebbba79c07a8de92c04c4ce9268b28a3c7715cd912413e94f309d8874523d",
+  "text_chars": 350,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-3f6d310c6ac861515291.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

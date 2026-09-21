@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/2-067.htm",
+  "title": "关于具体实现八项原则电复李宗仁（一九四九年四月八日）",
+  "catalogue_entry_ids": [
+    "I-3bf1a5a919d22c19"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b93993bb08c9b6103d3a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:00.039699+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/2-067.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"752-57a3a26b2d5b8\"",
+  "last_modified": "Fri, 09 Nov 2018 12:04:19 GMT",
+  "raw_sha256": "980a377cf80cf82c6886d166f4feca5f09e7f56ed1762ab6730a0328c30098a7",
+  "raw_bytes": 1874,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/980a377cf80cf82c6886d166f4feca5f09e7f56ed1762ab6730a0328c30098a7.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于具体实现八项原则电复李宗仁（一九四九年四月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-066.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/2-068.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b93993bb08c9b6103d3a.txt",
+  "text_sha256": "f33111adc6b2965076e1595f840d7e17e6df6b03f0d911c37d1553769b65c815",
+  "text_chars": 411,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-b93993bb08c9b6103d3a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
