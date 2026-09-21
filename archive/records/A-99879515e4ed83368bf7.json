@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118.htm",
+  "title": "党内团结的辩证方法",
+  "catalogue_entry_ids": [
+    "I-0ee5d43a24cf360f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-99879515e4ed83368bf7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:08.350045+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1195-5a0e77b992f3f\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:15 GMT",
+  "raw_sha256": "b2c76c044223c9e0a95d20f8f4d1c50873044338530e3e3b18ae8537ab5b7b64",
+  "raw_bytes": 4501,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b2c76c044223c9e0a95d20f8f4d1c50873044338530e3e3b18ae8537ab5b7b64.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "党内团结的辩证方法（一九五七年十一月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-99879515e4ed83368bf7.txt",
+  "text_sha256": "700ac492e10aea5d319b5380ab60db8ffcb637208fb9269c2e3f5bfbcc6df85b",
+  "text_chars": 1869,
+  "text_lines": 12,
+  "document_path": "archive/documents/A-99879515e4ed83368bf7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

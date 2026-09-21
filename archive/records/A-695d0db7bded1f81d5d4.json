@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19670109.htm",
+  "title": "对中央文革小组讲话",
+  "catalogue_entry_ids": [
+    "I-1b0c1f06f403afaf"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-695d0db7bded1f81d5d4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:08.956572+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19670109.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"971-5a0e77b7cae5c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:13 GMT",
+  "raw_sha256": "7d67b433cf5b4fcea411ac3dfc44569a97c820336b80353e39b55d18cfc2993c",
+  "raw_bytes": 2417,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7d67b433cf5b4fcea411ac3dfc44569a97c820336b80353e39b55d18cfc2993c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对中央文革小组讲话（一九六七年一月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-695d0db7bded1f81d5d4.txt",
+  "text_sha256": "edd8ceefa7e8a97c35bc3c467fa2359c83b1063dc61c66b9489df32bf566906d",
+  "text_chars": 810,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-695d0db7bded1f81d5d4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

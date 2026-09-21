@@ -1,0 +1,86 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm",
+  "title": "致野坂参三",
+  "catalogue_entry_ids": [
+    "I-2fe45b73d3d8eb58"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5831ecbb44bc9e326ad1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:12.090079+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"bb0-5a0e77b375853\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:08 GMT",
+  "raw_sha256": "59b4e33a4092c7d963bde5d007ebefd7a2f7f5efcea6ddfecc7c8f5351b305ee",
+  "raw_bytes": 2992,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/59b4e33a4092c7d963bde5d007ebefd7a2f7f5efcea6ddfecc7c8f5351b305ee.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致野坂参三（一九四五年五月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19450528.htm#_ftnref3"
+    }
+  ],
+  "image_links": [
+    "https://www.marxists.org/chinese/maozedong/19450528-1.jpg",
+    "https://www.marxists.org/chinese/maozedong/19450528-2.jpg"
+  ],
+  "text_path": "archive/text/A-5831ecbb44bc9e326ad1.txt",
+  "text_sha256": "bcf3b6656f293d4b7fbaf9a636547e239a261aee531f0d7c37f6f0d7eaa17545",
+  "text_chars": 829,
+  "text_lines": 30,
+  "document_path": "archive/documents/A-5831ecbb44bc9e326ad1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

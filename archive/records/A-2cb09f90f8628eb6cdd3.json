@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570525.htm",
+  "title": "中国共产党是全中国人民的领导核心",
+  "catalogue_entry_ids": [
+    "I-7d61f771f9eb301b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2cb09f90f8628eb6cdd3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:06.426327+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570525.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"572-5f28b9e7c7e4a\"",
+  "last_modified": "Wed, 18 Jan 2023 15:39:16 GMT",
+  "raw_sha256": "c36dd448826ffa2c7008923f6e20dd52dfe7c6302a67ad842e5bb9888eddde97",
+  "raw_bytes": 1394,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c36dd448826ffa2c7008923f6e20dd52dfe7c6302a67ad842e5bb9888eddde97.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国共产党是全中国人民的领导核心（一九五七年五月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2cb09f90f8628eb6cdd3.txt",
+  "text_sha256": "a3136df42ba2dd3dbc21155c0058746ffe435d0d1d221c94b78ca016a35a50c3",
+  "text_chars": 313,
+  "text_lines": 12,
+  "document_path": "archive/documents/A-2cb09f90f8628eb6cdd3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

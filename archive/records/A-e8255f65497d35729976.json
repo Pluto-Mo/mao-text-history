@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm",
+  "title": "做革命的促进派",
+  "catalogue_entry_ids": [
+    "I-a710f3000112dfbd"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e8255f65497d35729976",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:07.584357+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4920-5f28b9e70c650\"",
+  "last_modified": "Wed, 18 Jan 2023 15:39:16 GMT",
+  "raw_sha256": "317743504a01153d3d3185ab47a381746b3518366565c3ac31080122b020368b",
+  "raw_bytes": 18720,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/317743504a01153d3d3185ab47a381746b3518366565c3ac31080122b020368b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "做革命的促进派（一九五七年十月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571009.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e8255f65497d35729976.txt",
+  "text_sha256": "5a786983e68c3939aadd2333c4f3e5d256f427470f5ce898e9bac457915d2d8a",
+  "text_chars": 8686,
+  "text_lines": 54,
+  "document_path": "archive/documents/A-e8255f65497d35729976.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

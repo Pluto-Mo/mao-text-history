@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm",
+  "title": "关于正确处理人民内部矛盾的问题",
+  "catalogue_entry_ids": [
+    "I-aa7c003511bbbea0"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d5c116872a1a98cb93ae",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:04.588499+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c6cf-5f28b8cf4eb11\"",
+  "last_modified": "Wed, 18 Jan 2023 15:34:22 GMT",
+  "raw_sha256": "3623abc1cbbd0df75c4bd359d9cf4fb1448caeeffa88b782f53b7fc760b3e624",
+  "raw_bytes": 50895,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3623abc1cbbd0df75c4bd359d9cf4fb1448caeeffa88b782f53b7fc760b3e624.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于正确处理人民内部矛盾的问题（一九五七年二月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d5c116872a1a98cb93ae.txt",
+  "text_sha256": "8062b5c26c0337af9bf65d4b7c647c722a70087bfe4897bec50aaac0a03f467c",
+  "text_chars": 24345,
+  "text_lines": 104,
+  "document_path": "archive/documents/A-d5c116872a1a98cb93ae.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

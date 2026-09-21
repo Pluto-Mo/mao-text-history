@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm",
+  "title": "打退资产阶级右派的进攻",
+  "catalogue_entry_ids": [
+    "I-6a854b8c2f8464bb"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-761e14a60787efcc5395",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:07.282913+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"535e-5a0e77bc28165\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:17 GMT",
+  "raw_sha256": "546870725b903c2bf04be9e265afe26c7ed248a0a709fef0842007ee65514900",
+  "raw_bytes": 21342,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/546870725b903c2bf04be9e265afe26c7ed248a0a709fef0842007ee65514900.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "打退资产阶级右派的进攻（一九五七年七月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570709.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-761e14a60787efcc5395.txt",
+  "text_sha256": "727552bca1b0e46ea5ccd61bb12889acf093f98b336ebf0bfe1874302fadd35f",
+  "text_chars": 10063,
+  "text_lines": 44,
+  "document_path": "archive/documents/A-761e14a60787efcc5395.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

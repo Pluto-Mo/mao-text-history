@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19391221.htm",
+  "title": "〔未删节本〕学习白求恩（1939年12月21日）",
+  "catalogue_entry_ids": [
+    "I-a3d81d00f399c3ca"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-55434b29999697d77995",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:11.393279+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19391221.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"cd3-5f1359772d800\"",
+  "last_modified": "Sun, 01 Jan 2023 15:36:00 GMT",
+  "raw_sha256": "53cb39e7d64b6cc599828af34e68b2bbca118d8dbda057b80a7139c1626c5b55",
+  "raw_bytes": 3283,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/53cb39e7d64b6cc599828af34e68b2bbca118d8dbda057b80a7139c1626c5b55.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "学习白求恩（毛泽东，1939年12月21日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔《毛选》删节本〕纪念白求恩",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-55434b29999697d77995.txt",
+  "text_sha256": "ebb7ea72b7b150487313d3023f0a1eedb5edc3002830ef4afcb6ff5ac6b7e181",
+  "text_chars": 1195,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-55434b29999697d77995.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390630.htm",
+  "title": "〔未删节本〕当前时局的最大危机（1939年6月30日）",
+  "catalogue_entry_ids": [
+    "I-535835c3445db442"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6cdbb687c27efbffad1d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:10.581316+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390630.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1899-5f13566b12780\"",
+  "last_modified": "Sun, 01 Jan 2023 15:22:22 GMT",
+  "raw_sha256": "dfe5fda7b0a621c9036765f9e36ecd363a4c0bd655adb6ce396f8c51871dad4a",
+  "raw_bytes": 6297,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dfe5fda7b0a621c9036765f9e36ecd363a4c0bd655adb6ce396f8c51871dad4a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "当前时局的最大危机（毛泽东，1939年6月30日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔《毛选》删节本〕反对投降活动",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390630.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6cdbb687c27efbffad1d.txt",
+  "text_sha256": "9dd315dcef357d6754c5b4f9c5991a310406fdcfe25388618eaa0110d8022e1d",
+  "text_chars": 2650,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-6cdbb687c27efbffad1d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19661221.htm",
+  "title": "毛泽东主席接见波共杨力谈话记录（1966年12月21日）",
+  "catalogue_entry_ids": [
+    "I-0694c68e79610066"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-25112ebb4feb18d0893f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:17.707494+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19661221.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"169e-5c64d481a0700\"",
+  "last_modified": "Sun, 04 Jul 2021 14:48:28 GMT",
+  "raw_sha256": "9bd4adb3caf56e5a56b6331de3b516b9ea2ba0fe7c3be83e045ab70334de1b3f",
+  "raw_bytes": 5790,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9bd4adb3caf56e5a56b6331de3b516b9ea2ba0fe7c3be83e045ab70334de1b3f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见波共杨力谈话记录（1966年12月21日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-25112ebb4feb18d0893f.txt",
+  "text_sha256": "495f3c72811aeeabb08a932a60bf68473dd4b3c599fc4a8b76447f42b9a76ecd",
+  "text_chars": 2255,
+  "text_lines": 90,
+  "document_path": "archive/documents/A-25112ebb4feb18d0893f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

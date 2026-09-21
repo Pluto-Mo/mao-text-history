@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm",
+  "title": "纪念孙中山先生",
+  "catalogue_entry_ids": [
+    "I-9662f5dfe19042bf"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e64821c29b3f676604ac",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:03.441973+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19561112.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"99d-5a0e7784d3057\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:19 GMT",
+  "raw_sha256": "8ba52afbbc21055a6652caefca63fd5480a87f6e1a946373e5c374ce588e50bb",
+  "raw_bytes": 2461,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8ba52afbbc21055a6652caefca63fd5480a87f6e1a946373e5c374ce588e50bb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "纪念孙中山先生（一九五六年十一月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e64821c29b3f676604ac.txt",
+  "text_sha256": "8002edb6d9456161c241324532da6c6e8da81557bb4c74a47ef1ece1f213665d",
+  "text_chars": 817,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-e64821c29b3f676604ac.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

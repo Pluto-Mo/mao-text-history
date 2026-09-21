@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm",
+  "title": "一九五七年夏季的形势",
+  "catalogue_entry_ids": [
+    "I-1796c2ad4479eb5b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ca1c1e36884cac7b56c2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:06.738571+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"326e-5a0e77be5b909\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:20 GMT",
+  "raw_sha256": "f98b1bb83c702a7048236e0b9155bcb8678df2da6352486a71b6bc65b7cb8add",
+  "raw_bytes": 12910,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f98b1bb83c702a7048236e0b9155bcb8678df2da6352486a71b6bc65b7cb8add.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "一九五七年夏季的形势（一九五七年七月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195707.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ca1c1e36884cac7b56c2.txt",
+  "text_sha256": "6174350afec054dc10f221109336e85155c1d6f69c0a253233373744755bfdce",
+  "text_chars": 5882,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-ca1c1e36884cac7b56c2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

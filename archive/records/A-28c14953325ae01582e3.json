@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm",
+  "title": "加快手工业的社会主义改造",
+  "catalogue_entry_ids": [
+    "I-ad1abcbfedd565f8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-28c14953325ae01582e3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:03.439666+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"101f-5f28b2d33ae21\"",
+  "last_modified": "Wed, 18 Jan 2023 15:07:36 GMT",
+  "raw_sha256": "28fb22e2b3220434c356819d0e6fab9b5458ca710734bb85707e60380ebd71da",
+  "raw_bytes": 4127,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/28fb22e2b3220434c356819d0e6fab9b5458ca710734bb85707e60380ebd71da.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "加快手工业的社会主义改造（一九五六年三月四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560304.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-28c14953325ae01582e3.txt",
+  "text_sha256": "ec10cf731a32bc6d43af582bd3a8d6b9e259678549705c4968e8849833491a64",
+  "text_chars": 1560,
+  "text_lines": 26,
+  "document_path": "archive/documents/A-28c14953325ae01582e3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

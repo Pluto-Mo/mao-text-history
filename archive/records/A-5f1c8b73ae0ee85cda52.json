@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19370624.htm",
+  "title": "致美国共产党总书记厄尔·白劳德的信（1937年6月24日之前）",
+  "catalogue_entry_ids": [
+    "I-16f0c876feaae2fa"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5f1c8b73ae0ee85cda52",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:09.986652+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19370624.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"716-5adda052f1240\"",
+  "last_modified": "Thu, 27 Aug 2020 11:13:05 GMT",
+  "raw_sha256": "cf8b675eb8c289bf68d1b9bfe56ea24d77c362e15ce6c050b9bff2418483bc64",
+  "raw_bytes": 1814,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cf8b675eb8c289bf68d1b9bfe56ea24d77c362e15ce6c050b9bff2418483bc64.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致美国共产党总书记厄尔·白劳德的信（毛泽东，1937年6月24日之前）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5f1c8b73ae0ee85cda52.txt",
+  "text_sha256": "4fce92ad35df58f81c6706d2ab2befb587a643ab45834507062c1d3c7ad75f17",
+  "text_chars": 472,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-5f1c8b73ae0ee85cda52.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

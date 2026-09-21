@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19300105.htm",
+  "title": "时局估量和红军行动问题（1930年1月5日）",
+  "catalogue_entry_ids": [
+    "I-06e3be8c72aa5a67"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ce6da74b6fe8c0f579b6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:09.572231+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19300105.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3f6e-651ece3c8bcca\"",
+  "last_modified": "Sat, 16 May 2026 10:35:35 GMT",
+  "raw_sha256": "a51894d86103fd11d6ef14f360d687d18e49673c02e468199294594ef08f31cc",
+  "raw_bytes": 16238,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a51894d86103fd11d6ef14f360d687d18e49673c02e468199294594ef08f31cc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "时局估量和红军行动问题（毛泽东，1930年1月5日）（《星星之火，可以燎原》之未删减版）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《星星之火，可以燎原》",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19300105.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ce6da74b6fe8c0f579b6.txt",
+  "text_sha256": "3ebd288e71b0a23ce8d0cbc94358b254219f2f401441bea1c42e2e974f89f634",
+  "text_chars": 7471,
+  "text_lines": 37,
+  "document_path": "archive/documents/A-ce6da74b6fe8c0f579b6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

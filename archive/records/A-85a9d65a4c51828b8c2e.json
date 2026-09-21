@@ -1,0 +1,61 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19540410.htm",
+  "title": "致达赖喇嘛",
+  "catalogue_entry_ids": [
+    "I-2ea5c40318d8e44e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-85a9d65a4c51828b8c2e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:12.393425+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19540410.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6f2-5a0e77b2297d1\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:07 GMT",
+  "raw_sha256": "aa867b3ca38c53963c6d432334460324d48e99e1e7b9105a84933ca0e856c8b4",
+  "raw_bytes": 1778,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/aa867b3ca38c53963c6d432334460324d48e99e1e7b9105a84933ca0e856c8b4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "致达赖喇嘛（一九五四年四月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [
+    "https://www.marxists.org/chinese/maozedong/19540410.jpg"
+  ],
+  "text_path": "archive/text/A-85a9d65a4c51828b8c2e.txt",
+  "text_sha256": "5e6d746c06af07e84176ddf2ec24a71b77cd333760449351cc9c63cd6439e9ca",
+  "text_chars": 422,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-85a9d65a4c51828b8c2e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

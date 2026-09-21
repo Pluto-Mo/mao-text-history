@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm",
+  "title": "在中国共产党全国宣传工作会议上的讲话",
+  "catalogue_entry_ids": [
+    "I-050b420bad33809b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3b257c1818ffc45647bc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:05.661533+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"53a2-5a0e778193f70\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:16 GMT",
+  "raw_sha256": "a775c956dc9b3f3479553d89fcae706235758c9a9c2bc9531aa4135b0b3559fc",
+  "raw_bytes": 21410,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a775c956dc9b3f3479553d89fcae706235758c9a9c2bc9531aa4135b0b3559fc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中国共产党全国宣传工作会议上的讲话（一九五七年三月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570312.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3b257c1818ffc45647bc.txt",
+  "text_sha256": "f6cb69a7ced5bbdc02ccb597ce645b4588b0d5f764d4aa0f6d86fe2d9ecb369c",
+  "text_chars": 10167,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-3b257c1818ffc45647bc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19660610.htm",
+  "title": "毛泽东主席同胡志明主席谈话记录（1966年6月10日）",
+  "catalogue_entry_ids": [
+    "I-770069c1ccd0cbec"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2ca4ef9207409fb784b8",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:17.496514+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19660610.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"733e-5c64d69e5c2c0\"",
+  "last_modified": "Sun, 04 Jul 2021 14:57:55 GMT",
+  "raw_sha256": "03e0d98d1b1bde384e7e550972d4445045946f6d5bf89b8cef92e79cc028605c",
+  "raw_bytes": 29502,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/03e0d98d1b1bde384e7e550972d4445045946f6d5bf89b8cef92e79cc028605c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席同胡志明主席谈话记录（1966年6月10日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2ca4ef9207409fb784b8.txt",
+  "text_sha256": "0b5b2c023b9a9d229bec387e4ed0e13c51eefa8e179938ee4322eb22ee519d5b",
+  "text_chars": 13304,
+  "text_lines": 386,
+  "document_path": "archive/documents/A-2ca4ef9207409fb784b8.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

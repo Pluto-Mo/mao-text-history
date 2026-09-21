@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19551208.htm",
+  "title": "毛泽东主席会见印度驻华大使尼赫鲁谈话记录（1955年12月8日）",
+  "catalogue_entry_ids": [
+    "I-5f8d46442707f517"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2fc2e4c3530787b9b311",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:12.685290+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19551208.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1d3f-5c64d31edc200\"",
+  "last_modified": "Sun, 04 Jul 2021 14:42:16 GMT",
+  "raw_sha256": "72d3fe1d8e6be69e4d00a265be62aedc31fe37ce2795b6c7e79023384d77f38b",
+  "raw_bytes": 7487,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/72d3fe1d8e6be69e4d00a265be62aedc31fe37ce2795b6c7e79023384d77f38b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见印度驻华大使尼赫鲁谈话记录（1955年12月8日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2fc2e4c3530787b9b311.txt",
+  "text_sha256": "283991fdc6c1a2437649bea4467689cea3079e1444b814f2969808681d437287",
+  "text_chars": 2981,
+  "text_lines": 133,
+  "document_path": "archive/documents/A-2fc2e4c3530787b9b311.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

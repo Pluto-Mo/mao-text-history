@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19560314.htm",
+  "title": "毛泽东主席同长征、艾地在宴会上谈话纪要（1956年3月14日）",
+  "catalogue_entry_ids": [
+    "I-477217a87f049582"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0966c5949ffdf94c77b2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:13.176397+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19560314.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"18a6-5c64d70b14340\"",
+  "last_modified": "Sun, 04 Jul 2021 14:59:49 GMT",
+  "raw_sha256": "583e252434db7afff661f98d7c72e3c5eaef3d86d92504d5911a99b6378d54fe",
+  "raw_bytes": 6310,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/583e252434db7afff661f98d7c72e3c5eaef3d86d92504d5911a99b6378d54fe.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席同长征、艾地在宴会上谈话纪要（1956年3月14日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0966c5949ffdf94c77b2.txt",
+  "text_sha256": "d933018db38a798827b3d59dbe11b0effc6546b4a8c5496f324b964aab2b7112",
+  "text_chars": 2710,
+  "text_lines": 40,
+  "document_path": "archive/documents/A-0966c5949ffdf94c77b2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671117.htm",
+  "title": "毛泽东在《关于同印共左派米斯拉联系问题的请示》上的批示（1967年11月17日）",
+  "catalogue_entry_ids": [
+    "I-6d5536c6f87db1ee"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3ad628bfb38b5bd80778",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:19.701430+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671117.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6ae-5c64cd58aa280\"",
+  "last_modified": "Sun, 04 Jul 2021 14:16:26 GMT",
+  "raw_sha256": "ecdfd26291a448cd38c7b4ebfc050151ea93f1df3bc8fd46baad3d1bf22e36ae",
+  "raw_bytes": 1710,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ecdfd26291a448cd38c7b4ebfc050151ea93f1df3bc8fd46baad3d1bf22e36ae.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东在《关于同印共左派米斯拉联系问题的请示》上的批示（1967年11月17日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3ad628bfb38b5bd80778.txt",
+  "text_sha256": "7dc6e98d778b4f75f817db3fadfa773dab90aaef66c4de3865493d248af2a6c0",
+  "text_chars": 458,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-3ad628bfb38b5bd80778.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570515.htm",
+  "title": "事情正在起变化",
+  "catalogue_entry_ids": [
+    "I-9cb45a04d7901f8a"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1358b45aab7bd294bcc5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:06.128343+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570515.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"223c-5f28b9e944bfe\"",
+  "last_modified": "Wed, 18 Jan 2023 15:39:18 GMT",
+  "raw_sha256": "2b490c986bf81e095f2e671a41204d375e56a7c1c2b2db256da7f14b87251728",
+  "raw_bytes": 8764,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2b490c986bf81e095f2e671a41204d375e56a7c1c2b2db256da7f14b87251728.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "事情正在起变化（一九五七年五月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1358b45aab7bd294bcc5.txt",
+  "text_sha256": "03667a273c9d97b2a5759d18e662864b5764cbad3e59ddc4b061aeab25d2f9a5",
+  "text_chars": 3949,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-1358b45aab7bd294bcc5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

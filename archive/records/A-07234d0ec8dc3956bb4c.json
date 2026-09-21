@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19641007.htm",
+  "title": "毛泽东主席会见朝鲜党政代表团谈话记录（1964年10月7日）",
+  "catalogue_entry_ids": [
+    "I-3c9bac9ffc19dfa1"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-07234d0ec8dc3956bb4c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:14.503214+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19641007.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2ee6-5c64d2714a880\"",
+  "last_modified": "Sun, 04 Jul 2021 14:39:14 GMT",
+  "raw_sha256": "573808d92babb44d5ee4ab48ba70e4d6f90a6e0c34b67284e4b0dcf3fe07c6e5",
+  "raw_bytes": 12006,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/573808d92babb44d5ee4ab48ba70e4d6f90a6e0c34b67284e4b0dcf3fe07c6e5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见朝鲜党政代表团谈话记录（1964年10月7日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-07234d0ec8dc3956bb4c.txt",
+  "text_sha256": "4e9c81bc080943f7613e268638447d7e8818f3d97e904e716bc5ae00f16c8aaf",
+  "text_chars": 5111,
+  "text_lines": 170,
+  "document_path": "archive/documents/A-07234d0ec8dc3956bb4c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

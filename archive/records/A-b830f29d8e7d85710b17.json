@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650212.htm",
+  "title": "毛泽东主席、刘少奇主席等同过境我国的苏联总理柯西金谈话记录（1965年2月12日）",
+  "catalogue_entry_ids": [
+    "I-c194605023da14e2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b830f29d8e7d85710b17",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:14.797504+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650212.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c76b-5c64d1c87da40\"",
+  "last_modified": "Sun, 04 Jul 2021 14:36:17 GMT",
+  "raw_sha256": "921968eb94ac4cabf253122eec2b3d8693cc27ebe465cf3a52e38b2f7ac5b2f5",
+  "raw_bytes": 51051,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/921968eb94ac4cabf253122eec2b3d8693cc27ebe465cf3a52e38b2f7ac5b2f5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席、刘少奇主席等同过境我国的苏联总理柯西金谈话记录（1965年2月12日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b830f29d8e7d85710b17.txt",
+  "text_sha256": "410558d8fa752404f711a8ca763c4be2e65403895d84e92d878bdc59ac13d650",
+  "text_chars": 21930,
+  "text_lines": 989,
+  "document_path": "archive/documents/A-b830f29d8e7d85710b17.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

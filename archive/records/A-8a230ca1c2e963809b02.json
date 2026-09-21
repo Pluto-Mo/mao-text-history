@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19670117.htm",
+  "title": "毛泽东主席接见马共总书记陈平等谈话记录（1967年1月17日）",
+  "catalogue_entry_ids": [
+    "I-8b209792bdf2af60"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8a230ca1c2e963809b02",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:17.914367+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19670117.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"516b-5c64d534eae00\"",
+  "last_modified": "Sun, 04 Jul 2021 14:51:36 GMT",
+  "raw_sha256": "3e1ec41cea891e36f1c97f61f6d8f4de578a3ed76387ea9dca71801a4fddbdce",
+  "raw_bytes": 20843,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3e1ec41cea891e36f1c97f61f6d8f4de578a3ed76387ea9dca71801a4fddbdce.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见马共总书记陈平等谈话记录（1967年1月17日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8a230ca1c2e963809b02.txt",
+  "text_sha256": "d3af901b781350eb9ed3202ce484901ea11a8895374230f64c42b465495cd086",
+  "text_chars": 9091,
+  "text_lines": 321,
+  "document_path": "archive/documents/A-8a230ca1c2e963809b02.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

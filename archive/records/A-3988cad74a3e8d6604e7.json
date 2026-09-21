@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570608.htm",
+  "title": "组织力量反击右派分子的猖狂进攻",
+  "catalogue_entry_ids": [
+    "I-74dcd27106025f45"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3988cad74a3e8d6604e7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:06.696336+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570608.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"daf-5f28ba5af0222\"",
+  "last_modified": "Wed, 18 Jan 2023 15:41:17 GMT",
+  "raw_sha256": "a60b95c32a42554e8ce0d7be35a015007bbfc43c382d5109b8df850ce40dadbb",
+  "raw_bytes": 3503,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a60b95c32a42554e8ce0d7be35a015007bbfc43c382d5109b8df850ce40dadbb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "组织力量反击右派分子的猖狂进攻（一九五七年六月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3988cad74a3e8d6604e7.txt",
+  "text_sha256": "45b1760dc636cba6b082df3c9b21c864d992d02f68b25104980f35f1eb47a42f",
+  "text_chars": 1368,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-3988cad74a3e8d6604e7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390501.htm",
+  "title": "〔未删节本〕五四运动（1939年5月1日）",
+  "catalogue_entry_ids": [
+    "I-971937216cac9aa8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6fdaa3c3b19d53015508",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:10.284589+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390501.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"fb6-5f13574e0bf00\"",
+  "last_modified": "Sun, 01 Jan 2023 15:26:20 GMT",
+  "raw_sha256": "5d2c0f81292fbe3d79e3a29d6f1fb798a8297cf462128a066f0a4b0b361f11a3",
+  "raw_bytes": 4022,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5d2c0f81292fbe3d79e3a29d6f1fb798a8297cf462128a066f0a4b0b361f11a3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "五四运动（毛泽东，1939年5月1日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔《毛选》删节本〕五四运动",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390501.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6fdaa3c3b19d53015508.txt",
+  "text_sha256": "39d1c4370d2abc5cb69ccf895aa8d7bc3b07cc3bd09155791b1233d7b5a4fc40",
+  "text_chars": 1568,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-6fdaa3c3b19d53015508.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

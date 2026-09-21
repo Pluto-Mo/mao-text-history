@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm",
+  "title": "论十大关系",
+  "catalogue_entry_ids": [
+    "I-8fcf94f0b5ed3b58"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6cd8474b6791567374ef",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:03.440374+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6cf5-5e205d59cc442\"",
+  "last_modified": "Wed, 22 Jun 2022 09:19:30 GMT",
+  "raw_sha256": "6f6d3b8f61230852605efdf37d6c58194538ef9babac91d20be93b3ddd54882e",
+  "raw_bytes": 27893,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6f6d3b8f61230852605efdf37d6c58194538ef9babac91d20be93b3ddd54882e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "论十大关系（一九五六年四月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560425.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6cd8474b6791567374ef.txt",
+  "text_sha256": "c2605325e699848a38d2b1e8e8cc13249aed338d16a8a8e156997c15f42f646c",
+  "text_chars": 12912,
+  "text_lines": 106,
+  "document_path": "archive/documents/A-6cd8474b6791567374ef.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

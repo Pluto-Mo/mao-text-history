@@ -1,0 +1,99 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm",
+  "title": "在省市自治区党委书记会议上的讲话",
+  "catalogue_entry_ids": [
+    "I-e3c0fc88bab138b0"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b7abad7a47b3b33ad8d2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:04.465198+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a7f3-5f28b8542e6d9\"",
+  "last_modified": "Wed, 18 Jan 2023 15:32:13 GMT",
+  "raw_sha256": "f38859fb435f6fe58a4ebbdee51fe63947415c664d36af85dbd74634254de404",
+  "raw_bytes": 42995,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f38859fb435f6fe58a4ebbdee51fe63947415c664d36af85dbd74634254de404.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在省市自治区党委书记会议上的讲话（一九五七年一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195701.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b7abad7a47b3b33ad8d2.txt",
+  "text_sha256": "99859d8cc5f5028843aca0dde1a8538f19cc2578a18660892f30036d3d999a48",
+  "text_chars": 20452,
+  "text_lines": 128,
+  "document_path": "archive/documents/A-b7abad7a47b3b33ad8d2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

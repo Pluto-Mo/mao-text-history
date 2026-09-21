@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19571115.htm",
+  "title": "毛泽东主席同哥穆尔卡的谈话记录（1957年11月15日）",
+  "catalogue_entry_ids": [
+    "I-2b561de5a6b6f6bc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bdf053768e107366887a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:13.599616+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19571115.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1e49-5c64d645ab180\"",
+  "last_modified": "Sun, 04 Jul 2021 14:56:22 GMT",
+  "raw_sha256": "b666d784a75359f2d9286b8ba757825642b2a73783f761feb14443b719200799",
+  "raw_bytes": 7753,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b666d784a75359f2d9286b8ba757825642b2a73783f761feb14443b719200799.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席同哥穆尔卡的谈话记录（1957年11月15日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bdf053768e107366887a.txt",
+  "text_sha256": "9f94fcf331f950bbb3cd7a2271e92e5d8f238480450a59836a9bef5a85c4699a",
+  "text_chars": 3269,
+  "text_lines": 79,
+  "document_path": "archive/documents/A-bdf053768e107366887a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650803.htm",
+  "title": "毛泽东接见法国事务部长马尔罗时的谈话（1965年8月3日）",
+  "catalogue_entry_ids": [
+    "I-9322fd12eaccd66e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5f6c454130ed74bbc973",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:15.865522+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650803.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2910-5c64d0028ab40\"",
+  "last_modified": "Sun, 04 Jul 2021 14:28:21 GMT",
+  "raw_sha256": "b0ccfe84f98169349a5848f9e2978987df70a6b02146706e0a39fbe00c5aca02",
+  "raw_bytes": 10512,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b0ccfe84f98169349a5848f9e2978987df70a6b02146706e0a39fbe00c5aca02.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东接见法国事务部长马尔罗时的谈话（1965年8月3日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5f6c454130ed74bbc973.txt",
+  "text_sha256": "a290a276ac61c9d5ab95f9c802fdf8a4971fd62b14534faaf03a9c0f515fbfd8",
+  "text_chars": 4388,
+  "text_lines": 166,
+  "document_path": "archive/documents/A-5f6c454130ed74bbc973.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

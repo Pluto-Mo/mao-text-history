@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm",
+  "title": "坚持艰苦奋斗，密切联系群众",
+  "catalogue_entry_ids": [
+    "I-343d86043de71691"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2c4941acc4b0d57f8bea",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:05.185330+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"15db-5a0e77c23db51\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:24 GMT",
+  "raw_sha256": "d0c6e1241d5370be4dd9dc81665080a3b997056bc6bd0b16e0fca7a0e032d90a",
+  "raw_bytes": 5595,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d0c6e1241d5370be4dd9dc81665080a3b997056bc6bd0b16e0fca7a0e032d90a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "坚持艰苦奋斗，密切联系群众（一九五七年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195703.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2c4941acc4b0d57f8bea.txt",
+  "text_sha256": "fa89e68e41a830bc7b0eb2cd462ef62c29a16bb7ef2310740a76d3e70217053c",
+  "text_chars": 2217,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-2c4941acc4b0d57f8bea.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560714.htm",
+  "title": "美帝国主义是纸老虎",
+  "catalogue_entry_ids": [
+    "I-1703e779c926f14e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e9856a4a8d3b111dd6f4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:03.440584+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560714.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"14b9-5a0e77866175a\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:21 GMT",
+  "raw_sha256": "09d8ddcbf16e4c7a7466e14c84c8532706ab6d7317c1c13ef3f0452408509ab9",
+  "raw_bytes": 5305,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/09d8ddcbf16e4c7a7466e14c84c8532706ab6d7317c1c13ef3f0452408509ab9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "美帝国主义是纸老虎（一九五六年七月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e9856a4a8d3b111dd6f4.txt",
+  "text_sha256": "67fc5a732625254eb90e9de6e52c8f9f863b74382b92af5dbe77674150745bf4",
+  "text_chars": 2200,
+  "text_lines": 30,
+  "document_path": "archive/documents/A-e9856a4a8d3b111dd6f4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

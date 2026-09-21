@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650319.htm",
+  "title": "毛泽东会见马共领导人洪韬、裴文、文凯和外国专家柯弗兰、爱德乐、艾泼斯坦谈话记录（1965年3月19日）",
+  "catalogue_entry_ids": [
+    "I-490cc5d5462fe9ff"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-50469e783812847d1183",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:15.388318+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650319.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4c98-5c64cf9e67f00\"",
+  "last_modified": "Sun, 04 Jul 2021 14:26:36 GMT",
+  "raw_sha256": "1d0600bdd07b4c2789ecc1803a1c255583437373f64ab3f90ab7878c0929f8ef",
+  "raw_bytes": 19608,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1d0600bdd07b4c2789ecc1803a1c255583437373f64ab3f90ab7878c0929f8ef.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见马共领导人洪韬、裴文、文凯和外国专家柯弗兰、爱德乐、艾泼斯坦谈话记录（1965年3月19日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-50469e783812847d1183.txt",
+  "text_sha256": "89dbf6923816d573df2387a520f47f53e32b30ec77e2d530837181f7ec605b33",
+  "text_chars": 8781,
+  "text_lines": 207,
+  "document_path": "archive/documents/A-50469e783812847d1183.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

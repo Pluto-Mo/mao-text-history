@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-196603.htm",
+  "title": "毛泽东对《中国共产党代表团和日本共产党代表团联合公报（草稿）》的修改（1966年3月）",
+  "catalogue_entry_ids": [
+    "I-e249a51f6ae832f7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cc1a7cbfcfb99ce8a570",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:16.179288+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-196603.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"def-5c64cf08addc0\"",
+  "last_modified": "Sun, 04 Jul 2021 14:23:59 GMT",
+  "raw_sha256": "4152e57fd1707cd05156853ca33af5fe26a4ade3310b6e0c2b39372f14e56346",
+  "raw_bytes": 3567,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4152e57fd1707cd05156853ca33af5fe26a4ade3310b6e0c2b39372f14e56346.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东对《中国共产党代表团和日本共产党代表团联合公报（草稿）》的修改（1966年3月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cc1a7cbfcfb99ce8a570.txt",
+  "text_sha256": "f41c2ea8d7aadf04b2c5cad67104274a1b4e420531b0a574059dcd6a15a74654",
+  "text_chars": 1391,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-cc1a7cbfcfb99ce8a570.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

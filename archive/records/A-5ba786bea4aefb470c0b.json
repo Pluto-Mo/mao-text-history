@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118a.htm",
+  "title": "一切反动派都是纸老虎",
+  "catalogue_entry_ids": [
+    "I-4168fe02dc92f0d2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5ba786bea4aefb470c0b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:08.481623+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19571118a.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"942-5a0e77b8c7d3e\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:14 GMT",
+  "raw_sha256": "4ca52e96487a8e827a476f5d9b556556d13e3021182e5011bb9ea7ac955f9e6e",
+  "raw_bytes": 2370,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4ca52e96487a8e827a476f5d9b556556d13e3021182e5011bb9ea7ac955f9e6e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "一切反动派都是纸老虎（一九五七年十一月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5ba786bea4aefb470c0b.txt",
+  "text_sha256": "5122e74962bb6764a2f22137d9f6d3fcd43f33b24e576afed24d1c3ae10d2fe0",
+  "text_chars": 818,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-5ba786bea4aefb470c0b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

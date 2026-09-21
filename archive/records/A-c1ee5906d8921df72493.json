@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227AA.htm",
+  "title": "讲话稿 按此",
+  "catalogue_entry_ids": [
+    "I-7cc5804dadc96957"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c1ee5906d8921df72493",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:05.072247+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227AA.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e335-5ff3c9c0fd539\"",
+  "last_modified": "Thu, 29 Jun 2023 03:51:04 GMT",
+  "raw_sha256": "5fc7dfca5f990445d625b301d616e4e813f39013f9abcb1c0672a978dd495daf",
+  "raw_bytes": 58165,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5fc7dfca5f990445d625b301d616e4e813f39013f9abcb1c0672a978dd495daf.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于正确处理人民内部矛盾的问题（讲话稿）（一九五七年二月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c1ee5906d8921df72493.txt",
+  "text_sha256": "e9497b0e3f28acaad396f852e0cc7f02c5d1fc06c135e23342f790dc6f9f4f4e",
+  "text_chars": 28339,
+  "text_lines": 58,
+  "document_path": "archive/documents/A-c1ee5906d8921df72493.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

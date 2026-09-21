@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650310.htm",
+  "title": "毛泽东主席在《关于马来西亚共产党中央委托我党将其有关国际共运的声明转交其他左派党的请示》上的批示（1965年3月10日）",
+  "catalogue_entry_ids": [
+    "I-efa5279bf83f68da"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-681dd3bc0413c3b79c30",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:15.097368+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19650310.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6a9-5c64d78526340\"",
+  "last_modified": "Sun, 04 Jul 2021 15:01:57 GMT",
+  "raw_sha256": "f89042cf205e882d1b4daabd6b7de455d8a83d20556e7dc106ef03d560f7bf23",
+  "raw_bytes": 1705,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f89042cf205e882d1b4daabd6b7de455d8a83d20556e7dc106ef03d560f7bf23.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在《关于马来西亚共产党中央委托我党将其有关国际共运的声明转交其他左派党的请示》上的批示（1965年3月10日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-681dd3bc0413c3b79c30.txt",
+  "text_sha256": "cbb5049e2e2adbe7e827766a8f4d7e5b8f1f077c4883057d4f2cf421536e22c3",
+  "text_chars": 465,
+  "text_lines": 12,
+  "document_path": "archive/documents/A-681dd3bc0413c3b79c30.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

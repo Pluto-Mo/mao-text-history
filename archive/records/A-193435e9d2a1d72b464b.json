@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19400220.htm",
+  "title": "〔未删节本〕新民主主义的宪政——二月二十日在延安各界宪政促进会成立大会的演讲（1940年2月20日）",
+  "catalogue_entry_ids": [
+    "I-2a2ffb06f793016f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-193435e9d2a1d72b464b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:11.493276+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19400220.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2fb9-5f135874bb640\"",
+  "last_modified": "Sun, 01 Jan 2023 15:31:29 GMT",
+  "raw_sha256": "0a2660d142025b7c8889600306ea7291e80f1804aa178e249679cf822b7c207f",
+  "raw_bytes": 12217,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0a2660d142025b7c8889600306ea7291e80f1804aa178e249679cf822b7c207f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "新民主主义的宪政——二月二十日在延安各界宪政促进会成立大会的演讲（毛泽东，1940年2月20日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔《毛选》删节本〕新民主主义的宪政",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400220.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-193435e9d2a1d72b464b.txt",
+  "text_sha256": "c01962e091cfefa15b63d1e71ecc745c71fa237384b4e3ccde32fd632b7ca98e",
+  "text_chars": 5463,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-193435e9d2a1d72b464b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

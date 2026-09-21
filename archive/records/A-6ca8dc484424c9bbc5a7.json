@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19571120.htm",
+  "title": "波兰代表团拜会毛主席谈话记录（1957年11月20日）",
+  "catalogue_entry_ids": [
+    "I-7f663b9206ada188"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6ca8dc484424c9bbc5a7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:13.885903+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19571120.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d27-5c64ce026b300\"",
+  "last_modified": "Sun, 04 Jul 2021 14:19:24 GMT",
+  "raw_sha256": "d24e2307fd404d23b4ff9eb6d4657adee149f5b98d578b39560bc320c384ea91",
+  "raw_bytes": 3367,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d24e2307fd404d23b4ff9eb6d4657adee149f5b98d578b39560bc320c384ea91.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "波兰代表团拜会毛主席谈话记录（1957年11月20日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6ca8dc484424c9bbc5a7.txt",
+  "text_sha256": "ec86ac3f4963e3f5e52ae4e83793099edd9a982cc6e5a3b0c4e2d0d9884b08ca",
+  "text_chars": 1146,
+  "text_lines": 54,
+  "document_path": "archive/documents/A-6ca8dc484424c9bbc5a7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

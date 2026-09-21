@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19670203.htm",
+  "title": "毛泽东主席接见卡博、巴卢库谈话记录（1967年2月3日）",
+  "catalogue_entry_ids": [
+    "I-916fd63fbd21d988"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-220e16f9c2853c3a80ca",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:18.350915+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19670203.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"45a5-5c64cd6da5400\"",
+  "last_modified": "Sun, 04 Jul 2021 14:16:48 GMT",
+  "raw_sha256": "5f70e342d8c176f533b79ae72a51f6afabc383d0739f9a59bd31b991bf98947c",
+  "raw_bytes": 17829,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5f70e342d8c176f533b79ae72a51f6afabc383d0739f9a59bd31b991bf98947c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见卡博、巴卢库谈话记录（1967年2月3日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-220e16f9c2853c3a80ca.txt",
+  "text_sha256": "8eaa6409f23d97075e6e2ad6d97f425b96acae3a49ecda69d97b5e1c2cc13ae5",
+  "text_chars": 7981,
+  "text_lines": 191,
+  "document_path": "archive/documents/A-220e16f9c2853c3a80ca.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

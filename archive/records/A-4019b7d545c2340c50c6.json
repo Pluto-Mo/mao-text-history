@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560830.htm",
+  "title": "增强党的团结，继承党的传统",
+  "catalogue_entry_ids": [
+    "I-57be24c70473d2ec"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4019b7d545c2340c50c6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:03.440936+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19560830.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3f21-5a0e778598498\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:20 GMT",
+  "raw_sha256": "a4b1318b4c20758d8956d832d053fc5b5f204c5f851efaca89548811d32bb857",
+  "raw_bytes": 16161,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a4b1318b4c20758d8956d832d053fc5b5f204c5f851efaca89548811d32bb857.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "增强党的团结，继承党的传统（一九五六年八月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4019b7d545c2340c50c6.txt",
+  "text_sha256": "0b7989a9191c3ccfc3302a1ff687efa7ef0aa431013a2ded21d06850ab0c64dc",
+  "text_chars": 7634,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-4019b7d545c2340c50c6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

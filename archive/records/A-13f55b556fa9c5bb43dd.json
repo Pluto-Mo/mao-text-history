@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19660329.htm",
+  "title": "毛泽东主席接见日共代表团宫本显治等第二次谈话记录（1966年3月29日）",
+  "catalogue_entry_ids": [
+    "I-4a42bd3d61c7347e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-13f55b556fa9c5bb43dd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:16.706814+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19660329.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2745-5c64d5b4b5b80\"",
+  "last_modified": "Sun, 04 Jul 2021 14:53:50 GMT",
+  "raw_sha256": "9dd136a2f4e8b47ab15fb6216ddb3c541c57199b42fb347fa998796157a06aa1",
+  "raw_bytes": 10053,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9dd136a2f4e8b47ab15fb6216ddb3c541c57199b42fb347fa998796157a06aa1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见日共代表团宫本显治等第二次谈话记录（1966年3月29日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-13f55b556fa9c5bb43dd.txt",
+  "text_sha256": "3bbdc1ccf7a1ac7b2394d155c022346df64b655480d85e78ce7528eecee9a90c",
+  "text_chars": 4532,
+  "text_lines": 54,
+  "document_path": "archive/documents/A-13f55b556fa9c5bb43dd.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

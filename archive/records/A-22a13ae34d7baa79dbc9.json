@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390801.htm",
+  "title": "〔未删节本〕用国法制裁反动份子——在平江惨案诸烈士追悼大会上的讲演（1939年8月1日）",
+  "catalogue_entry_ids": [
+    "I-e78b06dc26f8df6d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-22a13ae34d7baa79dbc9",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:11.061856+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390801.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1e0e-5f135a98241c0\"",
+  "last_modified": "Sun, 01 Jan 2023 15:41:03 GMT",
+  "raw_sha256": "0371fec690312da2cb66e0937e8db5e5b671e9c778f679608dcda86480dab24a",
+  "raw_bytes": 7694,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0371fec690312da2cb66e0937e8db5e5b671e9c778f679608dcda86480dab24a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "用国法制裁反动份子——在平江惨案诸烈士追悼大会上的讲演（毛泽东，1939年8月1日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔《毛选》删节本〕必须制裁反动派",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-22a13ae34d7baa79dbc9.txt",
+  "text_sha256": "f93ab8ef0f591520534411dad26bba4b2812fde63487439a8f142c732f597bd7",
+  "text_chars": 3354,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-22a13ae34d7baa79dbc9.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

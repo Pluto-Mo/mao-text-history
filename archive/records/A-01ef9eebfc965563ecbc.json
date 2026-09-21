@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671005.htm",
+  "title": "毛泽东主席会见越南党政代表团和越南南方民族解放阵线代表团谈话记录（1967年10月5日）",
+  "catalogue_entry_ids": [
+    "I-3c33f22ba18cff4c"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-01ef9eebfc965563ecbc",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:18.916064+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671005.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"25d9-5c64cd6604200\"",
+  "last_modified": "Sun, 04 Jul 2021 14:16:40 GMT",
+  "raw_sha256": "be8a81d9dac10a129ec3b9ee2e02a17b72fa23461ba14398d6703af64c7ae091",
+  "raw_bytes": 9689,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/be8a81d9dac10a129ec3b9ee2e02a17b72fa23461ba14398d6703af64c7ae091.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见越南党政代表团和越南南方民族解放阵线代表团谈话记录（1967年10月5日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-01ef9eebfc965563ecbc.txt",
+  "text_sha256": "7e682512b5e03452b456a50270f9c7422c55deb337b87bc4fe4c8b609da16929",
+  "text_chars": 3942,
+  "text_lines": 171,
+  "document_path": "archive/documents/A-01ef9eebfc965563ecbc.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671126.htm",
+  "title": "毛泽东主席接见缅共柯生（德钦巴登顶）等谈话记录（1967年11月26日）",
+  "catalogue_entry_ids": [
+    "I-e52049ded3151fc8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4c01a912398e7411e3d6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:19.853943+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671126.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3846-5c64cd81ac340\"",
+  "last_modified": "Sun, 04 Jul 2021 14:17:09 GMT",
+  "raw_sha256": "99fbad747653ec4cd3b453ce1ea97ea44e3f29730d75e1c52e1042d5df56522f",
+  "raw_bytes": 14406,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/99fbad747653ec4cd3b453ce1ea97ea44e3f29730d75e1c52e1042d5df56522f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见缅共柯生（德钦巴登顶）等谈话记录（1967年11月26日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4c01a912398e7411e3d6.txt",
+  "text_sha256": "d05f72471932ae12b87073a07ba650c631f3825054fe65a3e515cab8185c0736",
+  "text_chars": 5588,
+  "text_lines": 409,
+  "document_path": "archive/documents/A-4c01a912398e7411e3d6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

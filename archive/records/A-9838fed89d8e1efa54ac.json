@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-196711.htm",
+  "title": "毛泽东主席接见老挝人民党代表团谈话记录（1967年11月）",
+  "catalogue_entry_ids": [
+    "I-3f386a55201fbdd0"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9838fed89d8e1efa54ac",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:19.249539+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-196711.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3344-5c64cd894d540\"",
+  "last_modified": "Sun, 04 Jul 2021 14:17:17 GMT",
+  "raw_sha256": "0e7ab96cb6dad8f2e85531e8c28c90f072c4e9ec9f9a747191113f7681d44e1b",
+  "raw_bytes": 13124,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0e7ab96cb6dad8f2e85531e8c28c90f072c4e9ec9f9a747191113f7681d44e1b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见老挝人民党代表团谈话记录（1967年11月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9838fed89d8e1efa54ac.txt",
+  "text_sha256": "d34e92bd0369fac61e1850e37f22aac75a482a709afe4c1fac7869c69adb8877",
+  "text_chars": 5328,
+  "text_lines": 286,
+  "document_path": "archive/documents/A-9838fed89d8e1efa54ac.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

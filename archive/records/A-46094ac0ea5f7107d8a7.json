@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19660505.htm",
+  "title": "毛泽东主席接见阿尔巴尼亚党政代表团谈话记录（1966年5月5日）",
+  "catalogue_entry_ids": [
+    "I-fcb9e47ae1bd4470"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-46094ac0ea5f7107d8a7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:16.711978+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19660505.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6505-5c64d40c53240\"",
+  "last_modified": "Sun, 04 Jul 2021 14:46:25 GMT",
+  "raw_sha256": "e701ab25c59009ac6b9d5bb3ffca6495a38b4a88a277f0799d05265f0996d1a1",
+  "raw_bytes": 25861,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e701ab25c59009ac6b9d5bb3ffca6495a38b4a88a277f0799d05265f0996d1a1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见阿尔巴尼亚党政代表团谈话记录（1966年5月5日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-46094ac0ea5f7107d8a7.txt",
+  "text_sha256": "1ccc0531c6ec2922ae8b3dc5f332818fe853ea7db6bb126e1c09f0956299b287",
+  "text_chars": 11323,
+  "text_lines": 416,
+  "document_path": "archive/documents/A-46094ac0ea5f7107d8a7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

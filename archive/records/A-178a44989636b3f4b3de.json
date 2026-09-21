@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19560924.htm",
+  "title": "毛泽东接见蒙古人民革命党代表团谈话记录（1956年9月24日）",
+  "catalogue_entry_ids": [
+    "I-0cc180ffac273325"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-178a44989636b3f4b3de",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:13.302599+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19560924.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2a7a-5c64d06c66500\"",
+  "last_modified": "Sun, 04 Jul 2021 14:30:12 GMT",
+  "raw_sha256": "0609d124d05df32ad97672455ef8a2599a848647ad4c87d563119ba0951c1d09",
+  "raw_bytes": 10874,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0609d124d05df32ad97672455ef8a2599a848647ad4c87d563119ba0951c1d09.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东接见蒙古人民革命党代表团谈话记录（1956年9月24日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-178a44989636b3f4b3de.txt",
+  "text_sha256": "83fcd857be802b5ede218d623fcdf427395ce884fcb0262e2e24cf1b2ff72b3d",
+  "text_chars": 4361,
+  "text_lines": 230,
+  "document_path": "archive/documents/A-178a44989636b3f4b3de.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

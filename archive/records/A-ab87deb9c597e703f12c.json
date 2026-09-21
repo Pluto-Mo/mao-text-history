@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671213.htm",
+  "title": "毛泽东主席接见印共左派大吉岭县委第二批学习代表团谈话记录（1967年12月13日）",
+  "catalogue_entry_ids": [
+    "I-9ffa5926427d0220"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ab87deb9c597e703f12c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:20.510535+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19671213.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"395c-5c69e2efcb8c0\"",
+  "last_modified": "Thu, 08 Jul 2021 15:19:39 GMT",
+  "raw_sha256": "c66a09b1e7eec1b7bb60f2327e8cd5af4444fbc50832e1c7b35eb4844ac7a754",
+  "raw_bytes": 14684,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c66a09b1e7eec1b7bb60f2327e8cd5af4444fbc50832e1c7b35eb4844ac7a754.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见印共左派大吉岭县委第二批学习代表团谈话记录（1967年12月13日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ab87deb9c597e703f12c.txt",
+  "text_sha256": "882309f9f1c03310cf993ed97aa112d09003a609ad8303d0d26ea068a1d2b576",
+  "text_chars": 5838,
+  "text_lines": 360,
+  "document_path": "archive/documents/A-ab87deb9c597e703f12c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
