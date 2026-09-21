@@ -1,0 +1,101 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%AD%E5%8D%B7.pdf",
+  "title": "毛泽东年谱_中卷",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-pre1949-3",
+      "volume": 2,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/1993年版/毛泽东年谱_中卷.pdf",
+  "mirror_git_blob_sha1": "60c29a60e3d155cf20b0ae7913a7be7dd39bb889",
+  "mirror_expected_bytes": 2617072,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-6130598a9549289f51ca",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:01.521937+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%AD%E5%8D%B7.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"23b4ad6bfbba60f6f4b70bd2340c69a7e8e6bae1e7ac8b8ad553ff500e057947\"",
+  "last_modified": null,
+  "raw_sha256": "0f98a4afbebd68356bf68eb9150877692f68bd0b5c780fe9a1efe178b04d0e95",
+  "raw_bytes": 2617072,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/0f98a4afbebd68356bf68eb9150877692f68bd0b5c780fe9a1efe178b04d0e95.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 700,
+  "pdf_metadata": {
+    "format": "PDF 1.3",
+    "title": "Ã«Ôó¶«ÄêÆ×£¨ÖÐ£©",
+    "author": "ÖÐ¹²ÖÐÑëÎÄÏ×ÑÐ¾¿ÊÒ",
+    "subject": "ÕâÊÇÎÄ¼þÖ÷Ìâ",
+    "keywords": "ÄêÆ×¡ªÃ«Ôó¶«",
+    "creator": "±±´ó·½ÕýV6.0",
+    "producer": "S22PDF V1.0 ¹ùÁ¦(C)",
+    "creationDate": "D:19971221230316-08'00'",
+    "modDate": "D:20250519131728+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 699,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-6130598a9549289f51ca.jsonl",
+  "text_path": "archive/text/A-6130598a9549289f51ca.txt",
+  "text_sha256": "dfc04bbf3ccfa4ac4ff936d8e4b6dc605a8770d3c97f9eb1db6cae1f1c39ec71",
+  "text_chars": 1278573,
+  "text_lines": 409893,
+  "document_path": "archive/documents/A-6130598a9549289f51ca.md",
+  "cover_path": "archive/covers/A-6130598a9549289f51ca.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": ""
+    },
+    {
+      "pdf_page": 2,
+      "text": "　 \n　 \n　 \n主 \n　 \n编 \n　 \n逄 \n先 \n知 \n　 \n　 \n副 \n主 \n编 \n　 \n赵 \n　 冯 \n福 \n　 　 \n亭 \n　 蕙 \n吴 \n　 姚 \n正 \n　 　 \n裕 \n　 旭 \n　 \n中 \n　 　 \n共 \n　 　 \n中 \n　 　 \n央 \n　 　 \n文 \n　 　 \n献 \n　 　 \n研 \n　 　 \n究 \n　 　 \n室 \n　 　 \n编 \n　 　 \n毛 \n泽 \n东 \n年 \n谱 \n　 \n一 \n八 \n九 \n三 \nA\nA\n一 \n九 \n四 \n九 \n中 \n卷 \n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "目 \n　 　 录 \n１ \n９ \n３ \n７ \n年 \n（ \n７ \n月 \n— １ \n２ \n月 \n） \n１ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n３ \n８ \n年 \n４ \n９ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n３ \n９ \n年 \n１ \n１ \n５ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n０ \n年 \n１ \n７ \n５ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n１ \n年 \n２ \n８ \n２ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n２ \n年 \n３ \n９ \n８ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n３ \n年 \n４ \n７ \n５ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n４ \n年 \n５ \n５ \n２ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n５ \n年 \n（ \n１ \n月 \n— ８ \n月 \n） \n６ \n４ \n４ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "１ \n９ \n３ \n７ \n年 \n　 四 \n十 \n四 \n岁 \n７ \n月 \n７ \n日 \n　 夜 \n， \n日 \n本 \n侵 \n略 \n军 \n向 \n卢 \n沟 \n桥 \n一 \n带 \n的 \n中 \n国 \n军 \n队 \n发 \n动 \n进 \n攻 \n， \n并 \n炮 \n轰 \n宛 \n平 \n城 \n。 驻 \n守 \n卢 \n沟 \n桥 \n附 \n近 \n的 \n国 \n民 \n党 \n军 \n第 \n二 \n十 \n九 \n军 \n第 \n三 \n十 \n七 \n师 \n第 \n一 \n一 \n○ 旅 \n在 \n旅 \n长 \n何 \n基 \n沣 \n指 \n挥 \n下 \n奋 \n起 \n抵 \n抗 \n。 \n卢 \n沟 \n桥 \n事 \n变 \n爆 \n发 \n， \n全 \n国 \n性 \n抗 \n日 \n战 \n争 \n开 \n始 \n。 \n７ \n月 \n８ \n日 \n　 中 \n共 \n中 \n央 \n向 \n全 \n国 \n发 \n出 \n通 \n电 \n， \n呼 \n吁 \n全 \n国 \n同 \n胞 \n、 \n政 \n府 \n和 \n军 \n队 \n团 \n结 \n起 \n来 \n， \n筑 \n成 \n民 \n族 \n统 \n一 \n战 \n线 \n的 \n坚 \n固 \n长 \n城 \n， \n抵 \n抗 \n日 \n本 \n的 \n侵 \n略 \n， \n国 \n共 \n两 \n党 \n合 \n作 \n抵 \n抗 \n日 \n本 \n的 \n新 \n进 \n攻 \n。 \n同 \n日 \n　 红 \n军 \n将 \n领 \n毛 \n泽 \n东 \n、 朱 \n德 \n、 彭 \n德 \n怀 \n等 \n致 \n电 \n蒋 \n介 \n石 \n， \n要 \n求 \n实 \n行 \n全 \n国 \n总 \n动 \n员 \n， \n保 \n卫 \n平 \n津 \n， \n保 \n卫 \n华 \n北 \n， \n收 \n复 \n失 \n地 \n， \n表 \n示 \n红 \n军 \n将 \n士 \n愿 \n为 \n国 \n效 \n命 \n， \n以 \n达 \n保 \n土 \n卫 \n国 \n之 \n目 \n的 \n。 本 \n日 \n， \n又 \n致 \n电 \n北 \n平 \n宋 \n哲 \n元 \n〔 １ \n〕 ， \n天 \n津 \n张 \n自 \n忠 \n〔 ２ \n〕 ， \n张 \n家 \n口 \n刘 \n汝 \n明 \n〔 ３ \n〕 ， \n保 \n定 \n冯 \n治 \n安 \n〔 ４ \n〕 ， \n请 \n他 \n们 \n策 \n励 \n全 \n军 \n， \n为 \n保 \n卫 \n平 \n津 \n、 保 \n卫 \n华 \n北 \n而 \n战 \n。 \n同 \n日 \n　 致 \n电 \n南 \n汉 \n宸 \n〔 ５ \n〕 ， \n要 \n他 \n立 \n即 \n以 \n毛 \n泽 \n东 \n及 \n红 \n军 \n代 \n表 \n的 \n１ \n〔 １ \n〕 \n〔 ２ \n〕 \n〔 ３ \n〕 \n〔 ４ \n〕 \n〔 ５ \n〕 南 \n汉 \n宸 \n， \n当 \n时 \n在 \n天 \n津 \n从 \n事 \n中 \n共 \n统 \n一 \n战 \n线 \n工 \n作 \n。 \n冯 \n治 \n安 \n， \n当 \n时 \n任 \n国 \n民 \n党 \n军 \n第 \n二 \n十 \n九 \n军 \n第 \n三 \n十 \n七 \n师 \n师 \n长 \n。 \n刘 \n汝 \n明 \n， \n当 \n时 \n任 \n国 \n民 \n党 \n军 \n第 \n二 \n十 \n九 \n军 \n第 \n一 \n四 \n三 \n师 \n师 \n长 \n。 \n张 \n自 \n忠 \n， \n当 \n时 \n任 \n国 \n民 \n党 \n军 \n第 \n二 \n十 \n九 \n军 \n第 \n三 \n十 \n八 \n师 \n师 \n长 \n。 \n宋 \n哲 \n元 \n， \n当 \n时 \n任 \n国 \n民 \n党 \n军 \n第 \n二 \n十 \n九 \n军 \n军 \n长 \n。 \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": "名 \n义 \n， \n与 \n华 \n北 \n当 \n局 \n及 \n各 \n界 \n领 \n袖 \n协 \n商 \n团 \n结 \n抗 \n日 \n的 \n具 \n体 \n办 \n法 \n。 \n７ \n月 \n９ \n日 \n　 收 \n到 \n叶 \n剑 \n英 \n〔 １ \n〕 关 \n于 \n西 \n安 \n救 \n国 \n团 \n体 \n向 \n中 \n共 \n提 \n出 \n四 \n项 \n建 \n议 \n的 \n来 \n电 \n后 \n， \n同 \n张 \n闻 \n天 \n〔 ２ \n〕 复 \n电 \n叶 \n剑 \n英 \n： \n请 \n答 \n复 \n救 \n国 \n会 \n及 \n各 \n方 \n， \n我 \n们 \n同 \n意 \n他 \n们 \n的 \n各 \n项 \n要 \n求 \n， \n并 \n且 \n正 \n在 \n做 \n。 请 \n他 \n们 \n努 \n力 \n与 \n政 \n府 \n、 国 \n民 \n党 \n党 \n部 \n及 \n各 \n界 \n领 \n袖 \n协 \n商 \n， \n迅 \n速 \n组 \n成 \n对 \n付 \n大 \n事 \n变 \n的 \n统 \n一 \n战 \n线 \n。 \n同 \n日 \n　 同 \n张 \n闻 \n天 \n电 \n示 \n上 \n海 \n、 太 \n原 \n、 广 \n西 \n、 西 \n安 \n中 \n共 \n负 \n责 \n人 \n： \n请 \n根 \n据 \n党 \n的 \n宣 \n言 \n及 \n红 \n军 \n通 \n电 \n， \n与 \n当 \n地 \n政 \n府 \n、 国 \n民 \n党 \n党 \n部 \n及 \n各 \n界 \n领 \n袖 \n协 \n商 \n， \n迅 \n速 \n组 \n成 \n统 \n一 \n对 \n外 \n之 \n阵 \n容 \n， \n才 \n能 \n应 \n付 \n大 \n事 \n变 \n。 \n７ \n月 \n１ \n３ \n日 \n　 出 \n席 \n延 \n安 \n市 \n共 \n产 \n党 \n员 \n与 \n机 \n关 \n工 \n作 \n人 \n员 \n紧 \n急 \n会 \n议 \n， \n号 \n召 \n每 \n一 \n个 \n共 \n产 \n党 \n员 \n与 \n抗 \n日 \n的 \n革 \n命 \n者 \n， \n应 \n该 \n沉 \n着 \n地 \n完 \n成 \n一 \n切 \n必 \n需 \n准 \n备 \n， \n随 \n时 \n出 \n动 \n到 \n抗 \n日 \n前 \n线 \n。 \n同 \n日 \n　 致 \n电 \n叶 \n剑 \n英 \n： \n积 \n极 \n同 \n国 \n民 \n党 \n中 \n央 \n军 \n、 第 \n十 \n七 \n路 \n军 \n及 \n冯 \n钦 \n哉 \n〔 ３ \n〕 等 \n接 \n洽 \n， \n协 \n商 \n对 \n日 \n坚 \n决 \n抗 \n战 \n之 \n总 \n方 \n针 \n及 \n办 \n法 \n。 我 \n们 \n拟 \n先 \n派 \n四 \n千 \n人 \n赴 \n华 \n北 \n， \n主 \n力 \n改 \n编 \n后 \n出 \n发 \n， \n正 \n向 \n蒋 \n介 \n石 \n提 \n出 \n要 \n求 \n。 红 \n军 \n大 \n学 \n增 \n加 \n抗 \n日 \n课 \n程 \n， \n准 \n备 \n陆 \n续 \n派 \n出 \n。 \n７ \n月 \n１ \n４ \n日 \n　 同 \n朱 \n德 \n发 \n布 \n关 \n于 \n红 \n军 \n在 \n十 \n天 \n内 \n准 \n备 \n完 \n毕 \n， \n待 \n命 \n开 \n赴 \n抗 \n日 \n前 \n线 \n的 \n命 \n令 \n。 \n同 \n日 \n　 同 \n朱 \n德 \n等 \n致 \n电 \n叶 \n剑 \n英 \n， \n让 \n他 \n通 \n过 \n西 \n安 \n行 \n营 \n转 \n告 \n蒋 \n介 \n石 \n： \n红 \n军 \n主 \n力 \n准 \n备 \n随 \n时 \n出 \n动 \n抗 \n日 \n， \n已 \n令 \n各 \n军 \n十 \n天 \n内 \n准 \n备 \n完 \n２ \n１ \n９ \n３ \n７ \n年 \n７ \n月 \n〔 １ \n〕 \n〔 ２ \n〕 \n〔 ３ \n〕 冯 \n钦 \n哉 \n， \n当 \n时 \n任 \n国 \n民 \n党 \n军 \n第 \n七 \n军 \n军 \n长 \n。 \n张 \n闻 \n天 \n， \n当 \n时 \n任 \n中 \n共 \n中 \n央 \n政 \n治 \n局 \n常 \n委 \n， \n在 \n党 \n内 \n负 \n总 \n责 \n。 \n叶 \n剑 \n英 \n， \n当 \n时 \n任 \n中 \n共 \n中 \n央 \n革 \n命 \n军 \n事 \n委 \n员 \n会 \n副 \n总 \n参 \n谋 \n长 \n。 \n"
+    },
+    {
+      "pdf_page": 6,
+      "text": "毕 \n， \n待 \n命 \n出 \n动 \n。 同 \n意 \n担 \n任 \n平 \n绥 \n线 \n国 \n防 \n。 惟 \n红 \n军 \n特 \n长 \n在 \n运 \n动 \n战 \n， \n防 \n守 \n非 \n其 \n所 \n长 \n， \n最 \n特 \n长 \n于 \n同 \n防 \n守 \n之 \n友 \n军 \n配 \n合 \n作 \n战 \n， \n并 \n愿 \n以 \n一 \n部 \n深 \n入 \n敌 \n后 \n方 \n， \n打 \n其 \n后 \n方 \n。 \n同 \n日 \n　 关 \n于 \n广 \n西 \n、 四 \n川 \n等 \n地 \n方 \n当 \n局 \n对 \n全 \n国 \n抗 \n战 \n应 \n采 \n取 \n的 \n方 \n针 \n问 \n题 \n， \n致 \n电 \n张 \n云 \n逸 \n〔 １ \n〕 ， \n指 \n出 \n： \n“ 为 \n坚 \n蒋 \n氏 \n抗 \n日 \n决 \n心 \n， \n各 \n方 \n应 \n表 \n示 \n诚 \n意 \n拥 \n护 \n蒋 \n氏 \n及 \n南 \n京 \n的 \n抗 \n日 \n政 \n策 \n， \n不 \n可 \n有 \n牵 \n制 \n之 \n意 \n。 \n” \n“ 此 \n时 \n各 \n方 \n任 \n务 \n， \n在 \n一 \n面 \n促 \n成 \n蒋 \n氏 \n建 \n立 \n全 \n国 \n抗 \n战 \n之 \n最 \n后 \n决 \n心 \n（ \n此 \n点 \n恐 \n尚 \n有 \n问 \n题 \n） \n； \n一 \n面 \n自 \n己 \n真 \n正 \n地 \n准 \n备 \n一 \n切 \n抗 \n日 \n救 \n亡 \n步 \n骤 \n， \n并 \n同 \n南 \n京 \n一 \n道 \n做 \n去 \n。 此 \n种 \n方 \n针 \n甚 \n关 \n重 \n要 \n， \n请 \n与 \n李 \n总 \n司 \n令 \n〔 ２ \n〕 及 \n川 \n代 \n表 \n张 \n斯 \n可 \n先 \n生 \n恳 \n商 \n决 \n定 \n。 盖 \n此 \n时 \n是 \n全 \n国 \n存 \n亡 \n关 \n头 \n， \n又 \n是 \n蒋 \n及 \n国 \n民 \n党 \n彻 \n底 \n转 \n变 \n政 \n策 \n之 \n关 \n头 \n， \n故 \n我 \n们 \n及 \n各 \n方 \n做 \n法 \n必 \n须 \n适 \n合 \n于 \n上 \n述 \n之 \n总 \n方 \n针 \n。 \n” \n同 \n日 \n　 致 \n电 \n王 \n稼 \n祥 \n〔 ３ \n〕 ： \n“ 你 \n在 \n上 \n海 \n写 \n的 \n信 \n收 \n到 \n了 \n。 \n闻 \n你 \n已 \n到 \n目 \n的 \n地 \n， \n不 \n胜 \n欢 \n慰 \n。 身 \n体 \n如 \n何 \n？ \n” 日 \n军 \n大 \n举 \n进 \n攻 \n华 \n北 \n， \n“ 红 \n军 \n准 \n备 \n开 \n动 \n， \n赴 \n前 \n线 \n协 \n同 \n作 \n战 \n。 八 \n号 \n我 \n党 \n发 \n布 \n宣 \n言 \n， \n主 \n张 \n坚 \n决 \n抗 \n战 \n， \n保 \n卫 \n平 \n津 \n， \n红 \n军 \n将 \n领 \n亦 \n有 \n通 \n电 \n， \n大 \n得 \n各 \n方 \n欢 \n迎 \n。 华 \n北 \n、 上 \n海 \n及 \n各 \n地 \n救 \n亡 \n运 \n动 \n正 \n大 \n起 \n来 \n， \n我 \n们 \n正 \n令 \n各 \n地 \n组 \n织 \n统 \n一 \n战 \n线 \n机 \n关 \n。 恩 \n来 \n、 博 \n古 \n、 伯 \n渠 \n〔 ４ \n〕 已 \n到 \n庐 \n山 \n数 \n日 \n， \n谈 \n判 \n抗 \n战 \n方 \n３ \n１ \n９ \n３ \n７ \n年 \n７ \n月 \n〔 １ \n〕 \n〔 ２ \n〕 \n〔 ３ \n〕 \n〔 ４ \n〕 恩 \n来 \n、 博 \n古 \n、 伯 \n渠 \n， \n即 \n周 \n恩 \n来 \n、 秦 \n邦 \n宪 \n、 林 \n伯 \n渠 \n。 秦 \n邦 \n宪 \n、 林 \n伯 \n渠 \n当 \n时 \n受 \n中 \n共 \n中 \n央 \n委 \n派 \n协 \n助 \n周 \n恩 \n来 \n与 \n国 \n民 \n党 \n进 \n行 \n谈 \n判 \n。 \n王 \n稼 \n祥 \n， \n当 \n时 \n任 \n红 \n军 \n总 \n政 \n治 \n部 \n主 \n任 \n， \n一 \n九 \n三 \n七 \n年 \n初 \n离 \n开 \n延 \n安 \n去 \n苏 \n联 \n治 \n病 \n。 同 \n年 \n十 \n一 \n月 \n任 \n中 \n共 \n驻 \n共 \n产 \n国 \n际 \n代 \n表 \n。 \n指 \n李 \n宗 \n仁 \n。 \n张 \n云 \n逸 \n， \n当 \n时 \n任 \n中 \n共 \n中 \n央 \n革 \n命 \n军 \n事 \n委 \n员 \n会 \n副 \n总 \n参 \n谋 \n长 \n， \n受 \n中 \n央 \n派 \n遣 \n到 \n广 \n州 \n， \n负 \n责 \n与 \n广 \n东 \n、 广 \n西 \n方 \n面 \n进 \n行 \n联 \n络 \n工 \n作 \n。 \n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-6130598a9549289f51ca/page-01.png",
+    "archive/edition-checks/A-6130598a9549289f51ca/page-02.png",
+    "archive/edition-checks/A-6130598a9549289f51ca/page-03.png",
+    "archive/edition-checks/A-6130598a9549289f51ca/page-04.png",
+    "archive/edition-checks/A-6130598a9549289f51ca/page-05.png",
+    "archive/edition-checks/A-6130598a9549289f51ca/page-06.png"
+  ]
+}

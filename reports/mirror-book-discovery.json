@@ -1,0 +1,370 @@
+[
+  {
+    "folder": "毛泽东年谱",
+    "tree": {
+      "sha": "b9507946aa4ef157b881cfd6467f9f6090e1899c",
+      "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/b9507946aa4ef157b881cfd6467f9f6090e1899c",
+      "tree": [
+        {
+          "path": "1993年版",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "42cbeff8c5a721bf6b37324f956365dfb8dc870e",
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/42cbeff8c5a721bf6b37324f956365dfb8dc870e"
+        },
+        {
+          "path": "1993年版/毛泽东年谱_上卷.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3536593438862ee29badc269847bcf48c132aa5e",
+          "size": 2955247,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/3536593438862ee29badc269847bcf48c132aa5e"
+        },
+        {
+          "path": "1993年版/毛泽东年谱_下卷.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "b2e65ad6c80fce170fc80dcfea2ae924d5cc485e",
+          "size": 2490047,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/b2e65ad6c80fce170fc80dcfea2ae924d5cc485e"
+        },
+        {
+          "path": "1993年版/毛泽东年谱_中卷.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "60c29a60e3d155cf20b0ae7913a7be7dd39bb889",
+          "size": 2617072,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/60c29a60e3d155cf20b0ae7913a7be7dd39bb889"
+        },
+        {
+          "path": "2023年版",
+          "mode": "040000",
+          "type": "tree",
+          "sha": "21d13b3add646bb3d097307ec56cf1bcc4283242",
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/21d13b3add646bb3d097307ec56cf1bcc4283242"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第1卷（1893.12-1937.06）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3583756f681ddb2e857f8c82e17f51371334c3f6",
+          "size": 51885979,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/3583756f681ddb2e857f8c82e17f51371334c3f6"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第2卷（1937.07-1945.08）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "e54f923f8339cfdd3b6a4087f6a51d79503b87ca",
+          "size": 47690086,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/e54f923f8339cfdd3b6a4087f6a51d79503b87ca"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第3卷（1945.08-1949.09）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3cef012058526fc4b113ed1f02027cc7912041a8",
+          "size": 44070438,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/3cef012058526fc4b113ed1f02027cc7912041a8"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第4卷（1949.10-1952.12）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "43cc764735dc0f638109266ddf59a2a5b69c13d9",
+          "size": 50130671,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/43cc764735dc0f638109266ddf59a2a5b69c13d9"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第5卷（1953.01-1956.09）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "cfa83e286bd3ea1071188963d8a4cad544c4f749",
+          "size": 49672141,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/cfa83e286bd3ea1071188963d8a4cad544c4f749"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第6卷（1956.10-1959.03）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "0c71d10d5d07437ed16f1e338303fee7b7784d6b",
+          "size": 52299209,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/0c71d10d5d07437ed16f1e338303fee7b7784d6b"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第7卷（1959.04-1961.06）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "3ce0e5f7958ba2148968d85717bf574ed304bc52",
+          "size": 48153177,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/3ce0e5f7958ba2148968d85717bf574ed304bc52"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第8卷（1961.07-1966.09）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "93330f4d49561fec94532cdc988697c0cd5700e2",
+          "size": 49317463,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/93330f4d49561fec94532cdc988697c0cd5700e2"
+        },
+        {
+          "path": "2023年版/毛泽东年谱_第9卷（1966.10-1976.09）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "52ad589b4c1740fd2f48ee1425ab9d249a3e638d",
+          "size": 51284745,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/52ad589b4c1740fd2f48ee1425ab9d249a3e638d"
+        },
+        {
+          "path": "毛泽东军事年谱.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "002bcc65eda53db68635a005faa403c0e5d73cda",
+          "size": 28088227,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/002bcc65eda53db68635a005faa403c0e5d73cda"
+        }
+      ],
+      "truncated": false
+    },
+    "query_url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/b9507946aa4ef157b881cfd6467f9f6090e1899c?recursive=1",
+    "retrieved_at": "2026-09-21T13:56:00.994082+00:00",
+    "raw_sha256": "6e15509581933020f8820b0a33190235ff9d877a68bd2e5913852ff6247fc107",
+    "source_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca"
+  },
+  {
+    "folder": "建国以来毛泽东文稿",
+    "tree": {
+      "sha": "86a312ead8c794de0cd2143b702e525eb683abb2",
+      "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/86a312ead8c794de0cd2143b702e525eb683abb2",
+      "tree": [
+        {
+          "path": "建国以来毛泽东文稿_第08册（1953年1月-1953年10月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "176bc1c93fdc372f1ac1217f292b60d33088aa79",
+          "size": 41566840,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/176bc1c93fdc372f1ac1217f292b60d33088aa79"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第09册（1953年11月-1955年6月）1.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "fd898827c09f338af4a3565c8e2ee8abe1f1e572",
+          "size": 39456862,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/fd898827c09f338af4a3565c8e2ee8abe1f1e572"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第10册（1955年6月-1956年4月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "03b5c2b880fd328a4561847db6a5199382cd8fbf",
+          "size": 39107090,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/03b5c2b880fd328a4561847db6a5199382cd8fbf"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "17b0d307be6e33501799500949297814930a9e65",
+          "size": 41777527,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/17b0d307be6e33501799500949297814930a9e65"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第12册（1957年8月-1958年8月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "60cff18a158a2bbd0de5bbee91bf834aaa6a50a3",
+          "size": 37257374,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/60cff18a158a2bbd0de5bbee91bf834aaa6a50a3"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第13册（1958年8月-1959年3月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "9a56fa2fb2945c0e59d7895bcb1462e1e6502c01",
+          "size": 40507003,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/9a56fa2fb2945c0e59d7895bcb1462e1e6502c01"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第14册（1959年4月-1959年12月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "48800992fe211b1575f24695f55fc895af7c826e",
+          "size": 34692726,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/48800992fe211b1575f24695f55fc895af7c826e"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第15册（1960年1月-1961年3月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "6228772537ce8af2186c5edeac446aa29f5eed63",
+          "size": 34981945,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/6228772537ce8af2186c5edeac446aa29f5eed63"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第16册（1961年4月-1963年5月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "2fdf63324902a60f784145e32c368ec876afce44",
+          "size": 44633523,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/2fdf63324902a60f784145e32c368ec876afce44"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第17册（1963年6月-1965年1月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "edd23fd494e75802e1ee777674a41fdc2b84387c",
+          "size": 36533748,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/edd23fd494e75802e1ee777674a41fdc2b84387c"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第18册（1965年2月-1967年3月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "8ad4b6fcaf4b300c19567300aafc55a1ff334a65",
+          "size": 39805437,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/8ad4b6fcaf4b300c19567300aafc55a1ff334a65"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第19册（1967年3月-1970年5月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "da6f46e16b3d35eb0b8ba5406da3800cb2b0afce",
+          "size": 37716801,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/da6f46e16b3d35eb0b8ba5406da3800cb2b0afce"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第1册（1949年9月-1950年2月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "73b346052d149175c14e993e3433e516a5cfed89",
+          "size": 35598208,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/73b346052d149175c14e993e3433e516a5cfed89"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第20册（1970年6月-1976年7月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "90cc25f7dec6b80b3c6d92b4fea40586ca939c72",
+          "size": 34647442,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/90cc25f7dec6b80b3c6d92b4fea40586ca939c72"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第2册（1950年3月-1950年8月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "7df948176796f87d05e411ba1b55fadfb1feedf6",
+          "size": 37485066,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/7df948176796f87d05e411ba1b55fadfb1feedf6"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第3册（1950年9月-1950年12月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "51c6367b5b5c69dbb0f4003aa637bdd5b495e100",
+          "size": 35088388,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/51c6367b5b5c69dbb0f4003aa637bdd5b495e100"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第4册（1951年1月-1951年6月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "92ea8bbf870ff702edcccd402bc01b3d9b9b57d5",
+          "size": 37983927,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/92ea8bbf870ff702edcccd402bc01b3d9b9b57d5"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第5册（1951年7月-1952年1月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "00f9254e5d0bdd106f713dafff0ad1dafe25be19",
+          "size": 37573845,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/00f9254e5d0bdd106f713dafff0ad1dafe25be19"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第6册（1952年1月-1952年4月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "da5f11719e9be536224bbfa27f80ccf4338a47b1",
+          "size": 34003462,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/da5f11719e9be536224bbfa27f80ccf4338a47b1"
+        },
+        {
+          "path": "建国以来毛泽东文稿_第7册（1952年4月-1952年12月）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "40747371a4650bfbed42febe08b95d54b2196cf0",
+          "size": 31229752,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/40747371a4650bfbed42febe08b95d54b2196cf0"
+        }
+      ],
+      "truncated": false
+    },
+    "query_url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/86a312ead8c794de0cd2143b702e525eb683abb2?recursive=1",
+    "retrieved_at": "2026-09-21T13:56:01.221429+00:00",
+    "raw_sha256": "240a604a6f1868045aa2234d49174d4b899f67b1ece30650b35885525d69406d",
+    "source_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca"
+  },
+  {
+    "folder": "毛泽东选集",
+    "tree": {
+      "sha": "8157eb5a7d487c05caaf646befef4bda75911beb",
+      "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/8157eb5a7d487c05caaf646befef4bda75911beb",
+      "tree": [
+        {
+          "path": "毛泽东选集.docx",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "842029811129fd3b7a6ad39a5128377c45fd8d9f",
+          "size": 2815898,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/842029811129fd3b7a6ad39a5128377c45fd8d9f"
+        },
+        {
+          "path": "毛泽东选集.epub",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "dd6d58305c12112ecaa1dfd95df620a540c27f76",
+          "size": 2918518,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/dd6d58305c12112ecaa1dfd95df620a540c27f76"
+        },
+        {
+          "path": "毛泽东选集.mobi",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "f9bb9cd5fe1179f791e62c00dfef7585344f22f5",
+          "size": 11373932,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/f9bb9cd5fe1179f791e62c00dfef7585344f22f5"
+        },
+        {
+          "path": "毛泽东选集.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "a1e943341c2758c77b4a25f5241cd294d390b650",
+          "size": 16438771,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/a1e943341c2758c77b4a25f5241cd294d390b650"
+        },
+        {
+          "path": "毛泽东选集.txt",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "93b13f6d1c214433310c1a273773d0888828efa4",
+          "size": 3948663,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/93b13f6d1c214433310c1a273773d0888828efa4"
+        },
+        {
+          "path": "毛泽东选集（1-7：原版五卷+静火+赤旗+草堂）.pdf",
+          "mode": "100644",
+          "type": "blob",
+          "sha": "79227336dc1d33d99eea64f7cf80a323a8491bc9",
+          "size": 15194172,
+          "url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/blobs/79227336dc1d33d99eea64f7cf80a323a8491bc9"
+        }
+      ],
+      "truncated": false
+    },
+    "query_url": "https://api.github.com/repos/M0rtzz/Selected-Works-of-MaoTseTung/git/trees/8157eb5a7d487c05caaf646befef4bda75911beb?recursive=1",
+    "retrieved_at": "2026-09-21T13:56:01.519240+00:00",
+    "raw_sha256": "ca31c3ebcb53c985f305e7c056118210129f6f212db9e228438497511e41704e",
+    "source_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca"
+  }
+]

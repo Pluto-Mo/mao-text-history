@@ -1,0 +1,101 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8B%E5%8D%B7.pdf",
+  "title": "毛泽东年谱_下卷",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-pre1949-3",
+      "volume": 3,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/1993年版/毛泽东年谱_下卷.pdf",
+  "mirror_git_blob_sha1": "b2e65ad6c80fce170fc80dcfea2ae924d5cc485e",
+  "mirror_expected_bytes": 2490047,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-53fc15cb527a2de9836d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:01.521650+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8B%E5%8D%B7.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"4f26ff4e392134fa98948be36210fa192cf713d5f0b531fd7787c610beb165eb\"",
+  "last_modified": null,
+  "raw_sha256": "50a17f3c134e606a557230cee670a6581596154dc9d6da1bb01c5ecb8a819548",
+  "raw_bytes": 2490047,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/50a17f3c134e606a557230cee670a6581596154dc9d6da1bb01c5ecb8a819548.pdf"
+  ],
+  "media": "pdf",
+  "pdf_pages": 660,
+  "pdf_metadata": {
+    "format": "PDF 1.3",
+    "title": "Ã«Ôó¶«ÄêÆ×",
+    "author": "ÖÐ¹²ÖÐÑëÎÄÏ×ÑÐ¾¿ÊÒ±à",
+    "subject": "ÕâÊÇÎÄ¼þÖ÷Ìâ",
+    "keywords": "Ã«Ôó¶«¡ªÄêÆ×",
+    "creator": "±±´ó·½ÕýV6.0",
+    "producer": "S22PDF V1.0 ¹ùÁ¦(C)",
+    "creationDate": "D:19971220054524-08'00'",
+    "modDate": "D:20250519131719+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [],
+  "pdf_pages_with_text": 659,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-53fc15cb527a2de9836d.jsonl",
+  "text_path": "archive/text/A-53fc15cb527a2de9836d.txt",
+  "text_sha256": "d64407e4b8f3a35c951e08ec5c82167f6c0cf293175ebb0c843979549c35ddf9",
+  "text_chars": 1194229,
+  "text_lines": 382485,
+  "document_path": "archive/documents/A-53fc15cb527a2de9836d.md",
+  "cover_path": "archive/covers/A-53fc15cb527a2de9836d.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": ""
+    },
+    {
+      "pdf_page": 2,
+      "text": "　 \n主 \n编 \n逄 \n先 \n知 \n副 \n主 \n编 \n赵 冯 \n福 　 \n亭 蕙 \n　 　 \n吴 姚 \n正 　 \n裕 旭 \n中 \n共 \n中 \n央 \n文 \n献 \n研 \n究 \n室 \n编 \n毛 \n泽 \n东 \n年 \n谱 \n　 \n一 \n八 \n九 \n三 \nA\nA\n一 \n九 \n四 \n九 \n　 \n下 \n卷 \n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "参 \n加 \n本 \n卷 \n编 \n写 \n的 \n有 \n： \n姚 \n　 旭 \n　 陈 \n　 廉 \n　 李 \n兴 \n仁 \n徐 \n　 焰 \n　 周 \n炳 \n钦 \n　 李 \n　 捷 \n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "目 \n　 　 录 \n１ \n９ \n４ \n５ \n年 \n（ \n８ \n月 \n— １ \n２ \n月 \n） \n１ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n６ \n年 \n５ \n９ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n７ \n年 \n１ \n７ \n６ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n８ \n年 \n２ \n９ \n４ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n９ \n４ \n９ \n年 \n（ \n１ \n月 \n— ９ \n月 \n） \n４ \n８ \n２ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n后 \n记 \n６ \n５ \n４ \n⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ \n１ \n目 \n　 　 　 录 \n"
+    },
+    {
+      "pdf_page": 5,
+      "text": "１ \n９ \n４ \n５ \n年 \n　 五 \n十 \n二 \n岁 \n８ \n月 \n１ \n０ \n日 \n　 晚 \n上 \n， \n得 \n知 \n日 \n本 \n政 \n府 \n发 \n出 \n乞 \n降 \n照 \n会 \n。 \n同 \n日 \n　 为 \n中 \n共 \n中 \n央 \n起 \n草 \n致 \n郑 \n位 \n三 \n、 李 \n先 \n念 \n、 陈 \n少 \n敏 \n① 并 \n告 \n华 \n中 \n局 \n电 \n： \n“ 苏 \n联 \n参 \n战 \n， \n日 \n本 \n投 \n降 \n， \n内 \n战 \n迫 \n近 \n。 你 \n们 \n所 \n处 \n地 \n位 \n不 \n可 \n能 \n夺 \n取 \n大 \n城 \n市 \n， \n而 \n应 \n乘 \n机 \n扩 \n大 \n地 \n区 \n， \n夺 \n取 \n武 \n装 \n， \n夺 \n取 \n小 \n城 \n市 \n， \n发 \n动 \n群 \n众 \n， \n准 \n备 \n对 \n付 \n内 \n战 \n。 \n” \n同 \n日 \n　 二 \n十 \n四 \n时 \n， \n朱 \n德 \n总 \n司 \n令 \n在 \n延 \n安 \n总 \n部 \n发 \n布 \n命 \n令 \n， \n要 \n求 \n各 \n解 \n放 \n区 \n抗 \n日 \n部 \n队 \n向 \n附 \n近 \n敌 \n伪 \n送 \n出 \n通 \n牒 \n， \n限 \n其 \n于 \n一 \n定 \n时 \n间 \n内 \n缴 \n出 \n全 \n部 \n武 \n装 \n， \n在 \n缴 \n械 \n后 \n， \n我 \n军 \n当 \n保 \n护 \n其 \n生 \n命 \n安 \n全 \n， \n如 \n敌 \n伪 \n拒 \n绝 \n投 \n降 \n， \n予 \n以 \n坚 \n决 \n消 \n灭 \n。 \n８ \n月 \n１ \n１ \n日 \n　 为 \n中 \n共 \n中 \n央 \n起 \n草 \n《 关 \n于 \n日 \n本 \n投 \n降 \n后 \n中 \n国 \n共 \n产 \n党 \n任 \n务 \n的 \n决 \n定 \n》 \n， \n指 \n出 \n： \n“ 苏 \n联 \n参 \n战 \n后 \n， \n日 \n本 \n已 \n宣 \n布 \n投 \n降 \n。 国 \n民 \n党 \n积 \n极 \n准 \n备 \n向 \n我 \n解 \n放 \n区 \n收 \n复 \n失 \n地 \n， \n夺 \n取 \n抗 \n日 \n胜 \n利 \n的 \n果 \n实 \n。 \n这 \n一 \n争 \n夺 \n战 \n， \n将 \n是 \n极 \n猛 \n烈 \n的 \n。 \n” \n“ 目 \n前 \n阶 \n段 \n， \n应 \n集 \n中 \n主 \n要 \n力 \n量 \n迫 \n使 \n敌 \n伪 \n向 \n我 \n投 \n降 \n， \n不 \n投 \n降 \n者 \n， \n按 \n具 \n体 \n情 \n况 \n发 \n动 \n进 \n攻 \n， \n逐 \n一 \n消 \n灭 \n之 \n， \n猛 \n力 \n扩 \n大 \n解 \n放 \n区 \n， \n占 \n领 \n一 \n切 \n可 \n能 \n与 \n必 \n须 \n占 \n领 \n的 \n大 \n小 \n城 \n１ \n① 郑 \n位 \n三 \n， \n当 \n时 \n任 \n中 \n共 \n鄂 \n豫 \n皖 \n湘 \n赣 \n区 \n委 \n书 \n记 \n。 李 \n先 \n念 \n， \n当 \n时 \n任 \n新 \n四 \n军 \n第 \n五 \n师 \n师 \n长 \n兼 \n政 \n治 \n委 \n员 \n。 陈 \n少 \n敏 \n， \n当 \n时 \n任 \n中 \n共 \n鄂 \n豫 \n皖 \n湘 \n赣 \n区 \n委 \n副 \n书 \n记 \n。 \n"
+    },
+    {
+      "pdf_page": 6,
+      "text": "市 \n与 \n交 \n通 \n要 \n道 \n， \n夺 \n取 \n武 \n器 \n与 \n资 \n源 \n， \n并 \n放 \n手 \n武 \n装 \n基 \n本 \n群 \n众 \n， \n不 \n应 \n稍 \n有 \n犹 \n豫 \n。 为 \n此 \n目 \n的 \n， \n各 \n地 \n应 \n将 \n我 \n军 \n大 \n部 \n迅 \n速 \n集 \n中 \n， \n脱 \n离 \n分 \n散 \n游 \n击 \n状 \n态 \n， \n分 \n甲 \n乙 \n丙 \n三 \n等 \n， \n组 \n织 \n成 \n团 \n或 \n旅 \n或 \n师 \n， \n变 \n成 \n超 \n地 \n方 \n性 \n的 \n正 \n规 \n兵 \n团 \n， \n集 \n中 \n行 \n动 \n， \n以 \n便 \n在 \n解 \n决 \n敌 \n伪 \n时 \n保 \n证 \n我 \n军 \n取 \n得 \n胜 \n利 \n。 解 \n决 \n敌 \n伪 \n后 \n， \n主 \n力 \n应 \n迅 \n速 \n集 \n结 \n整 \n训 \n， \n提 \n高 \n战 \n斗 \n力 \n， \n准 \n备 \n用 \n于 \n制 \n止 \n内 \n战 \n方 \n面 \n。 但 \n各 \n地 \n均 \n应 \n保 \n留 \n必 \n要 \n数 \n量 \n之 \n地 \n方 \n兵 \n团 \n与 \n游 \n击 \n队 \n， \n放 \n手 \n提 \n拔 \n地 \n方 \n干 \n部 \n带 \n兵 \n， \n用 \n以 \n保 \n卫 \n地 \n方 \n， \n民 \n兵 \n枪 \n枝 \n必 \n须 \n保 \n留 \n， \n决 \n不 \n可 \n一 \n切 \n皆 \n集 \n中 \n。 \n” \n“ 将 \n来 \n阶 \n段 \n， \n国 \n民 \n党 \n可 \n能 \n向 \n我 \n大 \n举 \n进 \n攻 \n， \n我 \n党 \n应 \n准 \n备 \n调 \n动 \n兵 \n力 \n， \n对 \n付 \n内 \n战 \n。 \n” \n“ 今 \n冬 \n明 \n春 \n， \n必 \n须 \n在 \n一 \n万 \n万 \n人 \n民 \n中 \n， \n放 \n手 \n发 \n动 \n减 \n租 \n（ \n已 \n经 \n减 \n好 \n的 \n照 \n旧 \n） \n， \n在 \n一 \n切 \n新 \n解 \n放 \n区 \n一 \n律 \n减 \n租 \n， \n放 \n手 \n发 \n动 \n与 \n组 \n织 \n群 \n众 \n， \n建 \n立 \n地 \n方 \n党 \n、 地 \n方 \n政 \n府 \n与 \n提 \n拔 \n地 \n方 \n干 \n部 \n， \n以 \n便 \n迅 \n速 \n确 \n立 \n我 \n党 \n在 \n基 \n本 \n群 \n众 \n中 \n的 \n基 \n础 \n， \n迅 \n速 \n巩 \n固 \n一 \n切 \n新 \n解 \n放 \n区 \n。 但 \n是 \n， \n绝 \n对 \n不 \n可 \n损 \n害 \n中 \n农 \n利 \n益 \n（ \n中 \n农 \n也 \n是 \n基 \n本 \n群 \n众 \n） \n； \n富 \n农 \n除 \n封 \n建 \n剥 \n削 \n部 \n分 \n实 \n行 \n减 \n租 \n外 \n， \n不 \n应 \n加 \n以 \n打 \n击 \n； \n地 \n主 \n须 \n使 \n之 \n可 \n以 \n过 \n活 \n， \n没 \n收 \n分 \n配 \n土 \n地 \n是 \n过 \n早 \n的 \n。 \n” \n“ 国 \n共 \n谈 \n判 \n将 \n以 \n国 \n际 \n国 \n内 \n新 \n动 \n向 \n为 \n基 \n础 \n， \n考 \n虑 \n其 \n恢 \n复 \n， \n延 \n安 \n对 \n美 \n国 \n与 \n国 \n民 \n党 \n的 \n批 \n评 \n暂 \n时 \n将 \n取 \n和 \n缓 \n态 \n度 \n① 。 \n但 \n各 \n地 \n对 \n蒋 \n介 \n石 \n绝 \n对 \n不 \n应 \n存 \n在 \n任 \n何 \n幻 \n想 \n， \n必 \n须 \n在 \n人 \n民 \n中 \n揭 \n破 \n其 \n欺 \n骗 \n， \n对 \n蒋 \n介 \n石 \n发 \n动 \n内 \n战 \n的 \n危 \n险 \n， \n应 \n有 \n必 \n要 \n的 \n精 \n神 \n准 \n备 \n， \n但 \n目 \n前 \n阶 \n段 \n主 \n要 \n注 \n意 \n力 \n应 \n集 \n中 \n于 \n解 \n决 \n敌 \n伪 \n， \n勇 \n敢 \n、 坚 \n决 \n、 彻 \n底 \n地 \n夺 \n取 \n最 \n大 \n的 \n胜 \n利 \n， \n不 \n可 \n分 \n散 \n注 \n意 \n力 \n。 \n” \n２ \n１ \n９ \n４ \n５ \n年 \n８ \n月 \n① 蒋 \n介 \n石 \n于 \n八 \n月 \n十 \n一 \n日 \n命 \n令 \n第 \n十 \n八 \n集 \n团 \n军 \n（ \n八 \n路 \n军 \n） \n就 \n原 \n地 \n待 \n命 \n， \n不 \n许 \n向 \n敌 \n伪 \n收 \n缴 \n枪 \n械 \n， \n因 \n而 \n， \n暂 \n时 \n和 \n缓 \n对 \n国 \n民 \n党 \n的 \n批 \n评 \n这 \n一 \n决 \n定 \n未 \n能 \n实 \n现 \n。 \n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-53fc15cb527a2de9836d/page-01.png",
+    "archive/edition-checks/A-53fc15cb527a2de9836d/page-02.png",
+    "archive/edition-checks/A-53fc15cb527a2de9836d/page-03.png",
+    "archive/edition-checks/A-53fc15cb527a2de9836d/page-04.png",
+    "archive/edition-checks/A-53fc15cb527a2de9836d/page-05.png",
+    "archive/edition-checks/A-53fc15cb527a2de9836d/page-06.png"
+  ]
+}

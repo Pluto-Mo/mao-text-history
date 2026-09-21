@@ -1,0 +1,325 @@
+{
+  "url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC1%E5%8D%B7%EF%BC%881893.12-1937.06%EF%BC%89.pdf",
+  "title": "毛泽东年谱_第1卷（1893.12-1937.06）",
+  "kind": "pdf_link",
+  "source_ids": [
+    "GH-M0RTZZ-PINNED"
+  ],
+  "catalogue_entry_ids": [],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-2023-9",
+      "volume": 1,
+      "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+    }
+  ],
+  "mirror_repository": "M0rtzz/Selected-Works-of-MaoTseTung",
+  "mirror_commit": "4cc981c232e1ffe8fe2974e125c00af8376829ca",
+  "mirror_path": "毛泽东年谱/2023年版/毛泽东年谱_第1卷（1893.12-1937.06）.pdf",
+  "mirror_git_blob_sha1": "3583756f681ddb2e857f8c82e17f51371334c3f6",
+  "mirror_expected_bytes": 51885979,
+  "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+  "id": "A-1238a894a47eed51ace5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T13:56:02.819951+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC1%E5%8D%B7%EF%BC%881893.12-1937.06%EF%BC%89.pdf",
+  "http_status": 200,
+  "content_type": "application/octet-stream",
+  "charset": "",
+  "etag": "\"f9ea961cb6e4c2c253bd5db6b35fc766044f668be0090cdd30989b6070b7101e\"",
+  "last_modified": null,
+  "raw_sha256": "47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6",
+  "raw_bytes": 51885979,
+  "storage": "ordered_chunks",
+  "raw_paths": [
+    "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0000",
+    "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0001"
+  ],
+  "parts": [
+    {
+      "path": "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0000",
+      "sha256": "1480742605a39e22cff0b660f3f3591ee4d7c6d506df4731d70ae43880af2f27",
+      "bytes": 41943040
+    },
+    {
+      "path": "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0001",
+      "sha256": "0cfe0fb8f210c70fe4173376bd44ec43dcc28f6d97f934448402069ae5c41d45",
+      "bytes": 9942939
+    }
+  ],
+  "media": "pdf",
+  "pdf_pages": 700,
+  "pdf_metadata": {
+    "format": "PDF 1.6",
+    "title": "",
+    "author": "",
+    "subject": "",
+    "keywords": "",
+    "creator": "Adobe Acrobat Pro DC 19.8.20074",
+    "producer": "Adobe Acrobat Pro DC (32-bit) 22 Paper Capture Plug-in",
+    "creationDate": "D:20240110151752+08'00'",
+    "modDate": "D:20240119225715+08'00'",
+    "trapped": "",
+    "encryption": null
+  },
+  "pdf_bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "书名",
+      2
+    ],
+    [
+      1,
+      "《毛泽东年谱》出版说明",
+      4
+    ],
+    [
+      1,
+      "《毛泽东年谱（1893-1949）》出版说明",
+      6
+    ],
+    [
+      1,
+      "《毛泽东年谱（1949-1976）》出版说明",
+      8
+    ],
+    [
+      1,
+      "目录",
+      10
+    ],
+    [
+      1,
+      "1893年",
+      12
+    ],
+    [
+      1,
+      "1902年",
+      13
+    ],
+    [
+      1,
+      "1904年",
+      14
+    ],
+    [
+      1,
+      "1905年",
+      15
+    ],
+    [
+      1,
+      "1906年",
+      16
+    ],
+    [
+      1,
+      "1907年、1908年",
+      17
+    ],
+    [
+      1,
+      "1909年",
+      18
+    ],
+    [
+      1,
+      "1910年",
+      19
+    ],
+    [
+      1,
+      "1911年",
+      21
+    ],
+    [
+      1,
+      "1912年",
+      23
+    ],
+    [
+      1,
+      "1913年",
+      25
+    ],
+    [
+      1,
+      "1914年",
+      26
+    ],
+    [
+      1,
+      "1915年",
+      27
+    ],
+    [
+      1,
+      "1916年",
+      33
+    ],
+    [
+      1,
+      "1917年",
+      36
+    ],
+    [
+      1,
+      "1918年",
+      44
+    ],
+    [
+      1,
+      "1919年",
+      50
+    ],
+    [
+      1,
+      "1920年",
+      61
+    ],
+    [
+      1,
+      "1921年",
+      86
+    ],
+    [
+      1,
+      "1922年",
+      101
+    ],
+    [
+      1,
+      "1923年",
+      118
+    ],
+    [
+      1,
+      "1924年",
+      129
+    ],
+    [
+      1,
+      "1925年",
+      139
+    ],
+    [
+      1,
+      "1926年",
+      157
+    ],
+    [
+      1,
+      "1927年",
+      185
+    ],
+    [
+      1,
+      "1928年",
+      238
+    ],
+    [
+      1,
+      "1929年",
+      269
+    ],
+    [
+      1,
+      "1930年",
+      302
+    ],
+    [
+      1,
+      "1931年",
+      339
+    ],
+    [
+      1,
+      "1932年",
+      373
+    ],
+    [
+      1,
+      "1933年",
+      402
+    ],
+    [
+      1,
+      "1934年",
+      428
+    ],
+    [
+      1,
+      "1935年",
+      451
+    ],
+    [
+      1,
+      "1936年",
+      511
+    ],
+    [
+      1,
+      "1937年（1月—6月）",
+      647
+    ],
+    [
+      1,
+      "封底",
+      700
+    ]
+  ],
+  "pdf_pages_with_text": 698,
+  "text_layer_status": "present",
+  "page_map_path": "archive/pages/A-1238a894a47eed51ace5.jsonl",
+  "text_path": "archive/text/A-1238a894a47eed51ace5.txt",
+  "text_sha256": "6abbd8c432787b086bc051843e3db9ad3ed2e39021a1b7453eb4834569ef658b",
+  "text_chars": 518313,
+  "text_lines": 28201,
+  "document_path": "archive/documents/A-1238a894a47eed51ace5.md",
+  "cover_path": "archive/covers/A-1238a894a47eed51ace5.png",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation",
+  "mirror_git_blob_verified": true,
+  "imprint_candidate_text": [
+    {
+      "pdf_page": 1,
+      "text": "1\n2\n肮\nl\n器\n毛\n择\n东\n年\n谱\n中\n共\n中\n央\n党\n史\n和\n文\n献\n研\n究\n院\n绾\n中\n央\n文\n献\n出\n版\n社\n"
+    },
+    {
+      "pdf_page": 2,
+      "text": "共\n百J \n编\n冯\n蕙\n姚\n旭\n牛\n党\n和\n献\n研\n福\n亭\n院\n正\n裕\n第\n一\n卷\n央\n出\n版\n“\n汾\n汾\n孚\n＂\n汾\n孚\n\"\n$\n\"\n;\n;\ni\n;\n；\n；\n;\n；\n；\n；\n八\n八\n；\n；\n＄\n丫\n丫\n令\n丫\n｀\n丫\n丫\n；\n丫\n丫\n｀\n森\n＄\n｀\n丫\n｀\n困\n孚\n丫\n—\n份\n“\n$\n\"\n＄\n“\n$\n“\n困\n"
+    },
+    {
+      "pdf_page": 3,
+      "text": "参加本卷编写的有：\n赵福亭吴正裕黄允升蔡钊珍\n田逢禄张素华李捷蒋建农\n"
+    },
+    {
+      "pdf_page": 4,
+      "text": "原中共\n于199\n年出版，\n1 \n于20\n、\n将两部\nl \n共九卷\n《毛泽东年谱〉\n出版明\n献\n室写的《\n东年归\n—1 \n1\n年出版\n本。（\n东年谓\n949—— \n出版P\n《毛泽\n普》编\n也进行\n后的年\n为一部\n，定名\n泽东年\n中共\n党史和\n研究阮\n2023 年10 月\n"
+    },
+    {
+      "pdf_page": 5,
+      "text": ""
+    },
+    {
+      "pdf_page": 6,
+      "text": "1 \n《毛泽东年谱\n(1893— 1949))\n出版说明\n《毛泽东年谱\n(1893— 1949) 》是国内外首次详细记述毛泽东\n．的思想和生平业绩的编年体著作，经过八年时间精心编撰而成。\n这部年谱记述了一代伟人毛泽东1893 年至1949 年的生平、\n经历和实践活动，反映了他对中国革命的丰功伟绩，特别是多侧\n面多角度地体现了他的科学思想体系，包括他的理论观点、战略\n思想、政策和策略以及关于思想方法和工作方法的论述等，展示\n了他的思想发展轨迹，反映了他作为中国共产党第一代领导集体\n的核心把马克思主义的普遍原理同中国革命的具体实践相结合的\n具体过程，并尽可能地表现他的胸怀、情操、气度和风貌。这部\n年谱从一个极其重要的方面反映了中国共产党领导新民主主义革\n命走过的艰难曲折的道路和光辉历程，直到取得全国胜利。\n这部年谱的编撰方针是：将资料性、学术性、传记性相统\n一；以翔实可靠的历史文献资料为依据，大量使用和发表档案材\n料；注意汲取近年来的最新研究成果，并且经过研究考证有所发\n现和创新，澄清了一些出版物中关于毛泽东生平业绩的失实记\n载；写作上采用客观陈述的方法，一般不作评论。\n关于编撰体例作以下几点说明：\n一、按年、月、日顺序纪事，少数条目根据叙事的需要采用\n纪事本末的写法。具体日子考订不清的写旬，旬考订不清的写\n"
+    }
+  ],
+  "imprint_candidate_images": [
+    "archive/edition-checks/A-1238a894a47eed51ace5/page-01.png",
+    "archive/edition-checks/A-1238a894a47eed51ace5/page-02.png",
+    "archive/edition-checks/A-1238a894a47eed51ace5/page-03.png",
+    "archive/edition-checks/A-1238a894a47eed51ace5/page-04.png",
+    "archive/edition-checks/A-1238a894a47eed51ace5/page-05.png",
+    "archive/edition-checks/A-1238a894a47eed51ace5/page-06.png"
+  ]
+}
