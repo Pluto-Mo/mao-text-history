@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-053.htm",
+  "title": "慰问恩克鲁玛总统的信（一九六四年一月九日）",
+  "catalogue_entry_ids": [
+    "I-24aacc511eebb2e0"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-74836370c0008973d1aa",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:39.534103+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-053.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"8ab-57a291aaec29e\"",
+  "last_modified": "Thu, 08 Nov 2018 15:44:03 GMT",
+  "raw_sha256": "2166dc05945a1766c125060d024047c9af22f09083f1041e7897e4b3d8c6459d",
+  "raw_bytes": 2219,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2166dc05945a1766c125060d024047c9af22f09083f1041e7897e4b3d8c6459d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "慰问恩克鲁玛总统的信（一九六四年一月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-052.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-054.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-74836370c0008973d1aa.txt",
+  "text_sha256": "6e83ceac8524f3a208e37a392e2e08f0b785fdb84813a0aac2b5bd8424155d31",
+  "text_chars": 536,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-74836370c0008973d1aa.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

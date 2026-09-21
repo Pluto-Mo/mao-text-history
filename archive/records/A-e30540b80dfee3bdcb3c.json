@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-050.htm",
+  "title": "论反对官僚主义（一九六三年）",
+  "catalogue_entry_ids": [
+    "I-6bbf7ded36fe832d"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e30540b80dfee3bdcb3c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:38.635251+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-050.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"15ab-5c44234c035d8\"",
+  "last_modified": "Tue, 08 Jun 2021 14:45:15 GMT",
+  "raw_sha256": "5dae198801336053e26e268f15162a0cec8245774a9e225dab97dfbf5c8cc803",
+  "raw_bytes": 5547,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5dae198801336053e26e268f15162a0cec8245774a9e225dab97dfbf5c8cc803.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "论反对官僚主义（一九六三年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-049.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-051.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e30540b80dfee3bdcb3c.txt",
+  "text_sha256": "ab308b6807db9f93f573ba81c09935c05318384e91fd9e92a4685d6cec273ab8",
+  "text_chars": 2030,
+  "text_lines": 40,
+  "document_path": "archive/documents/A-e30540b80dfee3bdcb3c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

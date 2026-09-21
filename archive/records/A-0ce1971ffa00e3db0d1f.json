@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-056.htm",
+  "title": "就最近日本人民反对美帝国主义的爱国正义斗争发表谈话（一九六四年一月二十七日）",
+  "catalogue_entry_ids": [
+    "I-3c140418338cd12c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0ce1971ffa00e3db0d1f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:40.442025+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-056.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b10-57a291aeb7dbb\"",
+  "last_modified": "Thu, 08 Nov 2018 15:44:07 GMT",
+  "raw_sha256": "29efe927d2c5de236401e1fe3138d6c92476384142c961dc33474cc03709e273",
+  "raw_bytes": 2832,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/29efe927d2c5de236401e1fe3138d6c92476384142c961dc33474cc03709e273.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "就最近日本人民反对美帝国主义的爱国正义斗争发表谈话（一九六四年一月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-055.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-057.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0ce1971ffa00e3db0d1f.txt",
+  "text_sha256": "c62f005eb50b78471be978d48d86168bcb1133fb8a304974549d8d5811c7ee19",
+  "text_chars": 849,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-0ce1971ffa00e3db0d1f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

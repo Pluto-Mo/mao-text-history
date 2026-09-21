@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-097.htm",
+  "title": "接见日本社会党人士佐佐木更三、黑田寿男、细迫兼光等的谈话（一九六四年七月十日）",
+  "catalogue_entry_ids": [
+    "I-5406f45c387b74f6"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-56b9ded41e6f7f054e0a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:52.740025+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-097.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4507-57a2921118d0f\"",
+  "last_modified": "Thu, 08 Nov 2018 15:45:50 GMT",
+  "raw_sha256": "942790e33d5cd20f6e9738ffad5cc75b5561180679d18ac9a3acd6752451451f",
+  "raw_bytes": 17671,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/942790e33d5cd20f6e9738ffad5cc75b5561180679d18ac9a3acd6752451451f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见日本社会党人士佐佐木更三、黑田寿男、细迫兼光等的谈话（一九六四年七月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-096.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-098.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-56b9ded41e6f7f054e0a.txt",
+  "text_sha256": "a71eddff719c01e53996868c5610d60878b719e84e7c4cbba5f0dc74bee060cb",
+  "text_chars": 7991,
+  "text_lines": 63,
+  "document_path": "archive/documents/A-56b9ded41e6f7f054e0a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

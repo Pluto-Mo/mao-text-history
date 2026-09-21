@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-040.htm",
+  "title": "电唁杜波依斯博士逝世（一九六三年八月二十九日）",
+  "catalogue_entry_ids": [
+    "I-e06b150b72e9a8df"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e3665eaa43afa0df94b8",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:36.585412+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-040.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"62b-57a2995f5c73d\"",
+  "last_modified": "Thu, 08 Nov 2018 16:18:31 GMT",
+  "raw_sha256": "8f8eb794d1d17cf14f81ab848bf3179149255f7f35046f39f45596825c3517ce",
+  "raw_bytes": 1579,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8f8eb794d1d17cf14f81ab848bf3179149255f7f35046f39f45596825c3517ce.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "电唁杜波依斯博士逝世（一九六三年八月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-039.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-041.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e3665eaa43afa0df94b8.txt",
+  "text_sha256": "497ac0e4216f7f49348623a920b59d201c9e455b957880d265ff70c89b3c7ce7",
+  "text_chars": 251,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-e3665eaa43afa0df94b8.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

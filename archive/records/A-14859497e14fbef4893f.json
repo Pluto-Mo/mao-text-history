@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-076.htm",
+  "title": "关于胡藏芸案件的指示和批示（一九六四年四月）",
+  "catalogue_entry_ids": [
+    "I-ab9462343b790dfc"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-14859497e14fbef4893f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:46.432026+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-076.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"654-57a291cea7c3f\"",
+  "last_modified": "Thu, 08 Nov 2018 15:44:40 GMT",
+  "raw_sha256": "0cb8eab9cf451891ba6195a3d26a92060c417f1aad3b54671aeaf88b3492cf23",
+  "raw_bytes": 1620,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0cb8eab9cf451891ba6195a3d26a92060c417f1aad3b54671aeaf88b3492cf23.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于胡藏芸案件的指示和批示（一九六四年四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-075.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-077.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-14859497e14fbef4893f.txt",
+  "text_sha256": "883e8c9bd9a7a6025d89b3df486ef9de7242bb5d527fa34aa43da6d9133cd381",
+  "text_chars": 270,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-14859497e14fbef4893f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

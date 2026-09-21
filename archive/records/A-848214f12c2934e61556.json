@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-054.htm",
+  "title": "就巴拿马人民反对美帝国主义的爱国斗争对《人民日报》记者发表的谈话（一九六四年一月十二日）",
+  "catalogue_entry_ids": [
+    "I-ae1d35934e7e428e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-848214f12c2934e61556",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:39.847297+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-054.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"beb-57a291abfca0f\"",
+  "last_modified": "Thu, 08 Nov 2018 15:44:04 GMT",
+  "raw_sha256": "a6d54452b636301cbad78d2e2508ba141b61cffbc4bf44df070d7cbc466aedf1",
+  "raw_bytes": 3051,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a6d54452b636301cbad78d2e2508ba141b61cffbc4bf44df070d7cbc466aedf1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "就巴拿马人民反对美帝国主义的爱国斗争对《人民日报》记者发表的谈话（一九六四年一月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-053.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-055.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-848214f12c2934e61556.txt",
+  "text_sha256": "08b972ca52fd234f9dbf8fcb5827ceb373d9c06bbdf728f9eff000bee4974153",
+  "text_chars": 958,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-848214f12c2934e61556.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

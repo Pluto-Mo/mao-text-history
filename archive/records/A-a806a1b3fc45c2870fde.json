@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-069.htm",
+  "title": "对新华社的指示（一九六四年春）",
+  "catalogue_entry_ids": [
+    "I-b862225a843241b5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a806a1b3fc45c2870fde",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:38:44.352753+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-069.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4dc-57a291c4cb4ff\"",
+  "last_modified": "Thu, 08 Nov 2018 15:44:30 GMT",
+  "raw_sha256": "d09d9c32c4a006ab7e186fb192dab82e7f4cbfe4af0421c29b1ca2e80addd42e",
+  "raw_bytes": 1244,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d09d9c32c4a006ab7e186fb192dab82e7f4cbfe4af0421c29b1ca2e80addd42e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对新华社的指示（一九六四年春）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-068.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-070.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a806a1b3fc45c2870fde.txt",
+  "text_sha256": "eed16315d00ee5dcfbc11d82d9332af0bec8b31569588be92bb30ed335b6021e",
+  "text_chars": 125,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-a806a1b3fc45c2870fde.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
