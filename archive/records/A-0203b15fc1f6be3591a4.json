@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-063.htm",
+  "title": "《关于胡风反革命集团的第一批材料》的按语（一九五五年五月十三日）",
+  "catalogue_entry_ids": [
+    "I-c5eb5c5cc3b6bccf"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0203b15fc1f6be3591a4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:51.787676+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-063.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b1c-57a3a3822c517\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:12 GMT",
+  "raw_sha256": "13d02de0069ecc35765f14c265db780d326aa0b069ee4525df9045ca2eb305c0",
+  "raw_bytes": 2844,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/13d02de0069ecc35765f14c265db780d326aa0b069ee4525df9045ca2eb305c0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《关于胡风反革命集团的第一批材料》的按语（一九五五年五月十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-062.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-064.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0203b15fc1f6be3591a4.txt",
+  "text_sha256": "2bac127cf84b4ee4bad3f73e4879662609619e537e16556cdad34f375ddb1498",
+  "text_chars": 910,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-0203b15fc1f6be3591a4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

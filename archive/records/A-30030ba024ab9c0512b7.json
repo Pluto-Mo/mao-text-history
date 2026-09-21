@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-086.htm",
+  "title": "同音乐工作者的谈话（一九五六年八月十四日）",
+  "catalogue_entry_ids": [
+    "I-2c8cf95fa0f3fd00"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-30030ba024ab9c0512b7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:57.765670+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-086.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"219e-57a3a3d89e899\"",
+  "last_modified": "Fri, 09 Nov 2018 12:10:42 GMT",
+  "raw_sha256": "36ba326c18141ce15c020461947c0eb1a780d9faa26da3082b6cc21f8dc8d59e",
+  "raw_bytes": 8606,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/36ba326c18141ce15c020461947c0eb1a780d9faa26da3082b6cc21f8dc8d59e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "同音乐工作者的谈话（一九五六年八月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-085.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-087.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-30030ba024ab9c0512b7.txt",
+  "text_sha256": "fb66fde57cbfb67dc3813a94cfcf8f2dd1e4fee0cc7b5beba8d4467cf3995371",
+  "text_chars": 3674,
+  "text_lines": 30,
+  "document_path": "archive/documents/A-30030ba024ab9c0512b7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

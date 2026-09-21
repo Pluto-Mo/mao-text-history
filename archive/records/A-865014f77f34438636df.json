@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-075.htm",
+  "title": "扫除文盲，发展农村文化教育事业（一九五六年）",
+  "catalogue_entry_ids": [
+    "I-9ac302f0e50fbad0"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-865014f77f34438636df",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:54.628374+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-075.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6c0-57a3a3aaa2dfc\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:54 GMT",
+  "raw_sha256": "fff728b8a7003e41ef54de649fa00f2d1cde683b103d1deadc78992516eed068",
+  "raw_bytes": 1728,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fff728b8a7003e41ef54de649fa00f2d1cde683b103d1deadc78992516eed068.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "扫除文盲，发展农村文化教育事业（一九五六年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-074.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-076.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-865014f77f34438636df.txt",
+  "text_sha256": "4ab4cd19248d3cb9d3e4f2a47b31ba97da4d958fa8257e35bcd1ecd7f0d86e3f",
+  "text_chars": 342,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-865014f77f34438636df.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

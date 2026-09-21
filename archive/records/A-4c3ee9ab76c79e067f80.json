@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-116.htm",
+  "title": "在八届三中全会上的讲话（一九五七年十月七日）",
+  "catalogue_entry_ids": [
+    "I-3e31c309276e0c3e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4c3ee9ab76c79e067f80",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:06.741491+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-116.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"22fc-57a3a55c232ba\"",
+  "last_modified": "Fri, 09 Nov 2018 12:17:29 GMT",
+  "raw_sha256": "d514d7625920b5267c1740a9133c956fcbfcb75c8a1a3b65d99490c46fe97478",
+  "raw_bytes": 8956,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d514d7625920b5267c1740a9133c956fcbfcb75c8a1a3b65d99490c46fe97478.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在八届三中全会上的讲话（一九五七年十月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-115.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-117.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4c3ee9ab76c79e067f80.txt",
+  "text_sha256": "28d457039bb68b402230277d1eca31ac2c55b597ecd6a31bc2cbe62217cd3c83",
+  "text_chars": 3838,
+  "text_lines": 32,
+  "document_path": "archive/documents/A-4c3ee9ab76c79e067f80.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-078.htm",
+  "title": "在听取××部汇报工作时的指示（一九五六年三月八日）",
+  "catalogue_entry_ids": [
+    "I-ce50013a7dd0ecea"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-131d5ecfe24843e87f88",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:55.344385+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-078.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e18-57a3a3af715c9\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:59 GMT",
+  "raw_sha256": "43a769ff51f4d28edc3b4998efdcae1732a949c390851a617d85ea6cdbb5ac75",
+  "raw_bytes": 3608,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/43a769ff51f4d28edc3b4998efdcae1732a949c390851a617d85ea6cdbb5ac75.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在听取××部汇报工作时的指示（一九五六年三月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-077.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-079.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-131d5ecfe24843e87f88.txt",
+  "text_sha256": "d33092571be06dbd8565cf424a1190809e7094766d448edff15e374d83769228",
+  "text_chars": 1150,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-131d5ecfe24843e87f88.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

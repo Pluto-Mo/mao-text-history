@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-115.htm",
+  "title": "在上海听取整风情况汇报时的指示（摘录）（一九五七年九月十七日）",
+  "catalogue_entry_ids": [
+    "I-b6d44e1d8402c4a5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4d850be4c8d676666764",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:06.449262+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-115.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"629-57a3a55a6f9de\"",
+  "last_modified": "Fri, 09 Nov 2018 12:17:27 GMT",
+  "raw_sha256": "fb367640cc694f18de7f673c2fc6c6ae66dd45804cd859da390368c779a40a6b",
+  "raw_bytes": 1577,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fb367640cc694f18de7f673c2fc6c6ae66dd45804cd859da390368c779a40a6b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在上海听取整风情况汇报时的指示（摘录）（一九五七年九月十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-114.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-116.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4d850be4c8d676666764.txt",
+  "text_sha256": "81c225fecfc7ae2e1e413ca754ba935c740d2967144516fe4592cefa4ee9f424",
+  "text_chars": 265,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-4d850be4c8d676666764.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

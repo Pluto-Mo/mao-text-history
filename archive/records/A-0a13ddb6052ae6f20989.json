@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-088.htm",
+  "title": "在“八大”一次会议上的谈话（一九五六年九月十日）",
+  "catalogue_entry_ids": [
+    "I-c382099afc20cea4"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0a13ddb6052ae6f20989",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:58.341282+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-088.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b5a-57a3a3da1b671\"",
+  "last_modified": "Fri, 09 Nov 2018 12:10:44 GMT",
+  "raw_sha256": "6013da7a3412f2258f69fd01e845963f7ac46db897bc55b0ccf05fc9eacb61ce",
+  "raw_bytes": 2906,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6013da7a3412f2258f69fd01e845963f7ac46db897bc55b0ccf05fc9eacb61ce.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在“八大”一次会议上的谈话（一九五六年九月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-087.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-089.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0a13ddb6052ae6f20989.txt",
+  "text_sha256": "fac8853d2147cb2be3c5fc70fc2909ea57405fa386b18429265b340318c78043",
+  "text_chars": 920,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-0a13ddb6052ae6f20989.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

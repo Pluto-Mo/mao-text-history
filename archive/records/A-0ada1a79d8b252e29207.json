@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-068.htm",
+  "title": "在工商联执委座谈会上的讲话（摘录）（一九五五年）",
+  "catalogue_entry_ids": [
+    "I-d7ce71e722b0d86c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0ada1a79d8b252e29207",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:36:52.334240+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-068.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"109e-57a3a3a1436c7\"",
+  "last_modified": "Fri, 09 Nov 2018 12:09:44 GMT",
+  "raw_sha256": "d05de89a07684f025b625fce7d4c977e8422c7ae1a801daf49bcc26acecd257d",
+  "raw_bytes": 4254,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d05de89a07684f025b625fce7d4c977e8422c7ae1a801daf49bcc26acecd257d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在工商联执委座谈会上的讲话（摘录）（一九五五年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-067.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-069.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0ada1a79d8b252e29207.txt",
+  "text_sha256": "02d398c2319e92815eb89b1ac77e9498cd521dab1155a1c9d45e430ab922960c",
+  "text_chars": 1557,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-0ada1a79d8b252e29207.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

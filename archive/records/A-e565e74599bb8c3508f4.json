@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/3-101.htm",
+  "title": "在最高国务会议上的结束语",
+  "catalogue_entry_ids": [
+    "I-ec6eaeb6dee93bd1"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e565e74599bb8c3508f4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:02.233366+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/3-101.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"385f-57a3a532cb067\"",
+  "last_modified": "Fri, 09 Nov 2018 12:16:45 GMT",
+  "raw_sha256": "ab946b5ad6c704ef9f20b99c58b5b870e7e426b99fc63467791b664ffd5ba92d",
+  "raw_bytes": 14431,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ab946b5ad6c704ef9f20b99c58b5b870e7e426b99fc63467791b664ffd5ba92d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在最高国务会议上的结束语",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-100.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/3-102.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e565e74599bb8c3508f4.txt",
+  "text_sha256": "5e8b660fdf548d9e5647711fb0b450a3b9624093e886d11ce4e787d30a236d28",
+  "text_chars": 6616,
+  "text_lines": 27,
+  "document_path": "archive/documents/A-e565e74599bb8c3508f4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
