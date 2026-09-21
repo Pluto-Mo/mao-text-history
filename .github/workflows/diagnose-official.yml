@@ -1,0 +1,38 @@
+name: Diagnose official reader failure
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/diagnose-official.yml]
+permissions: {contents: write, actions: read}
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Read bounded diagnostic lines
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api repos/Pluto-Mo/mao-text-history/actions/jobs/106363076519/logs > /tmp/job.log
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          rows=Path('/tmp/job.log').read_text(encoding='utf-8-sig',errors='replace').splitlines()
+          wanted=set()
+          for i,line in enumerate(rows):
+              if re.search(r'CONFLICT|fatal:|error:|Error|Traceback|exceeds|No space|failed to push|cannot rebase|could not apply|Saved pages|preserved_pages',line):
+                  wanted.update(range(max(0,i-5),min(len(rows),i+15)))
+          text='\n'.join(f'{i+1}: {rows[i]}' for i in sorted(wanted))
+          Path('reports/official-failure-tail.txt').write_text(text[-16000:]+'\n')
+          PY
+      - name: Commit failure evidence
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/official-failure-tail.txt
+          git commit -q -m 'audit: preserve exact official-reader failure cause'
+          git pull --rebase origin main
+          git push origin HEAD:main
