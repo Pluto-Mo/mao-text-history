@@ -1,0 +1,17 @@
+{
+  "id":"zhengchu-1957",
+  "title":"关于正确处理人民内部矛盾的问题",
+  "nodes":[
+    {"id":"speech-date","date":"1957-02-27","role":"reported_speech_date","evidence_ids":["E001","E004"]},
+    {"id":"publication-date","date":"1957-06-19","role":"reported_publication_date","evidence_ids":["E009"]}
+  ],
+  "routes":[
+    {"role":"published_witness","source_id":"ZHENGCHU-MIA"},
+    {"role":"speech_labelled_witness","source_id":"ZHENGCHU-SPEECH"},
+    {"role":"later_editorial_note","source_id":"ZHENGCHU-WENJI"},
+    {"role":"chronology_volume_route","edition_id":"nianpu-2023-9","volume":6,"evidence_ids":["E006"]},
+    {"role":"manuscript_collection_search","edition_ids":["wengao-old-13","wengao-2023-20"],"locator":null,"status":"not_acquired"}
+  ],
+  "historical_revision_edges":[],
+  "missing":["All intermediate drafts","Authenticated original speech record","Relevant original book pages"]
+}

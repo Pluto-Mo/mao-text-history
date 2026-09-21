@@ -1,0 +1,14 @@
+[
+  {"id":"maoxuan-official","title":"《毛泽东选集》第一至四卷：官方目录对应版次待版权页确认","expected_volumes":4,"source_ids":["OFF-MAO"],"acquisition_status":"not_acquired"},
+  {"id":"maoxuan-1977-v5","title":"《毛泽东选集》第五卷（1977）","expected_volumes":1,"volume_numbers":[5],"source_ids":["MIA-MAIN","ZHENGCHU-MIA"],"acquisition_status":"not_acquired"},
+  {"id":"wengao-old-13","title":"《建国以来毛泽东文稿》旧13册","expected_volumes":13,"source_ids":["PUB-2023","WENGAO-EDIT"],"acquisition_status":"not_acquired"},
+  {"id":"wengao-2023-20","title":"《建国以来毛泽东文稿》2023修订20册","expected_volumes":20,"source_ids":["PUB-2023","WENGAO-EDIT"],"acquisition_status":"not_acquired"},
+  {"id":"nianpu-pre1949-3","title":"《毛泽东年谱（1893—1949）》旧三卷分组","expected_volumes":3,"volume_labels":["上卷","中卷","下卷"],"source_ids":["OFF-NIAN"],"acquisition_status":"not_acquired"},
+  {"id":"nianpu-post1949-6","title":"《毛泽东年谱（1949—1976）》旧六卷分组","expected_volumes":6,"source_ids":["OFF-NIAN"],"acquisition_status":"not_acquired"},
+  {"id":"nianpu-2023-9","title":"《毛泽东年谱》2023修订九卷","expected_volumes":9,"source_ids":["NIAN-2023","PUB-2023"],"acquisition_status":"not_acquired","date_ranges":[["1893-12","1937-06"],["1937-07","1945-08"],["1945-08","1949-09"],["1949-10","1952-12"],["1953-01","1956-09"],["1956-10","1959-03"],["1959-04","1961-06"],["1961-07","1966-09"],["1966-10","1976-09"]]},
+  {"id":"mia-ji-10","title":"MIA目录：《毛泽东集》十卷","expected_volumes":10,"source_ids":["MIA-COLLECT"],"acquisition_status":"not_acquired"},
+  {"id":"mia-bujuan-9","title":"MIA目录：《毛泽东集补卷》九卷","expected_volumes":9,"source_ids":["MIA-COLLECT"],"acquisition_status":"not_acquired"},
+  {"id":"mia-nianbiao","title":"MIA目录：《毛泽东集》著作年表","expected_volumes":1,"source_ids":["MIA-COLLECT"],"acquisition_status":"not_acquired"},
+  {"id":"mia-1968","title":"MIA目录：1968年武汉版《毛泽东思想万岁》五卷","expected_volumes":5,"source_ids":["MIA-1968"],"acquisition_status":"not_acquired"},
+  {"id":"wenji-1999","title":"《毛泽东文集》第七卷（1999）辅助见证本","expected_volumes":1,"volume_numbers":[7],"scope":"auxiliary","source_ids":["ZHENGCHU-WENJI"],"acquisition_status":"not_acquired"}
+]

@@ -1,0 +1,7 @@
+[
+  {"id":"G001","question":"13稿、14次、15版分别如何计数？","needed":"论文所引薄一波回忆、毛泽东传、年谱、文稿的具体书页","status":"secondary_account_found_primary_pages_missing"},
+  {"id":"G002","question":"每次改稿具体增删了哪句话？","needed":"可核底本的各次中间稿；不能由两个端点插值重建","status":"drafts_missing"},
+  {"id":"G003","question":"文稿2023新版全套正文在哪里合法取得？","needed":"20册原文件、版权页与访问/转载许可","status":"full_set_not_acquired"},
+  {"id":"G004","question":"年谱2023新版全套正文与逐日映射","needed":"9卷原文件、版权页与书页对应","status":"full_set_not_acquired"},
+  {"id":"G005","question":"同名篇是否确为同一作品或版本？","needed":"日期、正文、底本信息复核","status":"automatic_title_links_are_candidates_only"}
+]

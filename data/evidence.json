@@ -1,0 +1,11 @@
+[
+  {"id":"E001","topic":"正处","statement":"公开发表文本据1957年2月27日讲话整理；讲话日期不等于最终文本形成日期。","source_ids":["ZHENGCHU-WENJI"],"locator":"文首日期与文末注释[1]","kind":"later_edition_editorial_note","limits":"本条不是2月27日速记原稿。"},
+  {"id":"E002","topic":"正处 阶级斗争","statement":"后出编者题注说明，在发表前的整理中加入了强调阶级斗争及谁胜谁负的相关论述。","source_ids":["ZHENGCHU-WENJI"],"locator":"文末注释[1]","kind":"attributed_editorial_account","limits":"应归因给编者说明；不能据此确定某句在哪一稿首次出现。"},
+  {"id":"E003","topic":"正处 修改次数 13 14 15","statement":"论文转述不同口径：薄一波15版14次；《毛泽东传》13稿；《年谱》14次；《文稿》记5月上旬至6月中旬6次。","source_ids":["ZHENGCHU-STUDY"],"locator":"二、修改次数及原因／（一）关于文本修改次数","kind":"secondary_report_seen_in_search_cache","limits":"直接网页抓取失败；四项均是论文转引，未核原书页；不把稿、版、次数视作同一单位。"},
+  {"id":"E004","topic":"正处 讲话稿","statement":"MIA分别提供正式文本与标为讲话稿的页面。","source_ids":["MIA-MAIN","ZHENGCHU-MIA","ZHENGCHU-SPEECH"],"locator":"第五卷目录第58项及两个对应网页","kind":"catalogue_observation","limits":"网页标签不证明档案真实性；两个端点不能补全全部中间稿。"},
+  {"id":"E005","topic":"文稿 版本 全套","statement":"2023修订版由旧13册增为20册，新增1069篇，不能把旧版全文当作新版全集。","source_ids":["PUB-2023","WENGAO-EDIT"],"locator":"出版公告第2段；编纂纪实公开版说明","kind":"publication_metadata","limits":"出版信息不等于已取得20册书页。"},
+  {"id":"E006","topic":"年谱 1957 卷次","statement":"2023年九卷本第六卷覆盖1956年10月至1959年3月，可作为查1957年条目的选卷入口。","source_ids":["NIAN-2023"],"locator":"卷次时间范围表：第6卷","kind":"bibliographic_route","limits":"只建立时间覆盖关系；不将旧版第三卷页码移植到新版第六卷。"},
+  {"id":"E007","topic":"MIA 版本","statement":"1968年武汉版目录说明其共五卷，并说明网页文字版经过后人校对制作。","source_ids":["MIA-1968"],"locator":"目录开头说明","kind":"website_self_description","limits":"该说明仅作为转录来源自述，非逐字校勘完成证明。"},
+  {"id":"E008","topic":"版权 发布","statement":"MIA章程区分公版材料、明确版权材料和志愿者创作的许可。","source_ids":["MIA-RIGHTS"],"locator":"Charter section 1","kind":"source_policy","limits":"不把志愿者许可自动延伸到所有收录出版物。"},
+  {"id":"E009","topic":"正处 发表","statement":"相关研究把公开发表时间记为1957年6月19日；它与2月27日讲话日期是不同节点。","source_ids":["ZHENGCHU-STUDY"],"locator":"引言与二、修改次数及原因","kind":"secondary_report_seen_in_search_cache","limits":"应继续对照当日人民日报版面；不声称已读1957年报纸原件。"}
+]
