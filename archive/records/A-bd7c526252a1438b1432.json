@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-068.htm",
+  "title": "国防部长命令福建前线我军对金门炮击再停两星期（一九五八年十月十三日）",
+  "catalogue_entry_ids": [
+    "I-c8eeb675a7c6169b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bd7c526252a1438b1432",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:36.712542+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-068.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"ba7-57a3a6547a5af\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:49 GMT",
+  "raw_sha256": "6b24d31dee43350e8e5a83992c54c74e85e1ba1a2f2dec471082903a211271fd",
+  "raw_bytes": 2983,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6b24d31dee43350e8e5a83992c54c74e85e1ba1a2f2dec471082903a211271fd.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "国防部长命令福建前线我军对金门炮击再停两星期（一九五八年十月十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-067.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-069.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bd7c526252a1438b1432.txt",
+  "text_sha256": "93c2e9cc0444ff52d05a55c9dda66872ba3af3c89a39bf3cdbee9de745aefbd2",
+  "text_chars": 977,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-bd7c526252a1438b1432.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

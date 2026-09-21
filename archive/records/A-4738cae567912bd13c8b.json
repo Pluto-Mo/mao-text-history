@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-101.htm",
+  "title": "接见参加全军政工会议的各军区负责同志时的谈话（一九五八年十二月二十三日）",
+  "catalogue_entry_ids": [
+    "I-9e4285d36ee5c614"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4738cae567912bd13c8b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:46.616252+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-101.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"28ad-57a298640b869\"",
+  "last_modified": "Thu, 08 Nov 2018 16:14:08 GMT",
+  "raw_sha256": "55454a4ce648934f41265617b82b9f8aca31b73a127aace515b5893e8b31011d",
+  "raw_bytes": 10413,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/55454a4ce648934f41265617b82b9f8aca31b73a127aace515b5893e8b31011d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见参加全军政工会议的各军区负责同志时的谈话（一九五八年十二月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-100.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-102.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4738cae567912bd13c8b.txt",
+  "text_sha256": "bad61630327cb9faae8cebb4c47aaa87f3eaee9b42660c9363dca153c8a99bcf",
+  "text_chars": 4491,
+  "text_lines": 44,
+  "document_path": "archive/documents/A-4738cae567912bd13c8b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

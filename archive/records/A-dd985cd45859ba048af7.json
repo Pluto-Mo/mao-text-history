@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-063.htm",
+  "title": "视察武钢时的指示（一九五八年九月十三日）",
+  "catalogue_entry_ids": [
+    "I-ac047337f733f8f8"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dd985cd45859ba048af7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:35.401751+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-063.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"55a-57a3a64dbbc44\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:42 GMT",
+  "raw_sha256": "7de7ae9fe4dc18b59828d0b28964b975019e4b1c10f5cc8c9b4d48738039327c",
+  "raw_bytes": 1370,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7de7ae9fe4dc18b59828d0b28964b975019e4b1c10f5cc8c9b4d48738039327c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "视察武钢时的指示（一九五八年九月十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-062.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-064.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dd985cd45859ba048af7.txt",
+  "text_sha256": "4311f391df76cc751f736dd26bfa6a4ea554b8e4801173b82ff313c5f8acda75",
+  "text_chars": 182,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-dd985cd45859ba048af7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

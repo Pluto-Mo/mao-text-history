@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-069.htm",
+  "title": "中华人民共和国国防部长再告台湾同胞书（一九五八年十月二十五日）",
+  "catalogue_entry_ids": [
+    "I-5ba48caa7b9276c1"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e70dc57e9fda6950242a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:37.014182+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-069.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e72-57a3a68b383d7\"",
+  "last_modified": "Fri, 09 Nov 2018 12:22:46 GMT",
+  "raw_sha256": "3a8064a0df61b8563868510fe809ac291dd8c3a94628b7e08e07cb6c85929651",
+  "raw_bytes": 3698,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3a8064a0df61b8563868510fe809ac291dd8c3a94628b7e08e07cb6c85929651.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中华人民共和国国防部长再告台湾同胞书（一九五八年十月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-068.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-070.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e70dc57e9fda6950242a.txt",
+  "text_sha256": "16472454b38949af9aeeb3513a033a33f1a8429abf2a90c10aac8d3b70259212",
+  "text_chars": 1322,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-e70dc57e9fda6950242a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

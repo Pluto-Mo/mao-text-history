@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-087.htm",
+  "title": "记者对一切事物应保持冷静的头脑（一九五八年十一月二十三日×××传达）",
+  "catalogue_entry_ids": [
+    "I-ed34d98b088ffd84"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4b9373e09de9db5c71a0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:42.428818+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-087.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e02-57a3a6a299aec\"",
+  "last_modified": "Fri, 09 Nov 2018 12:23:11 GMT",
+  "raw_sha256": "b7ca41b9624d6450f5f03e8f69bf7adadaff01f8f1ec7d150547d24f2a8d09ec",
+  "raw_bytes": 3586,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b7ca41b9624d6450f5f03e8f69bf7adadaff01f8f1ec7d150547d24f2a8d09ec.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "记者对一切事物应保持冷静的头脑（一九五八年十一月二十三日×××传达）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-086.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-088.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4b9373e09de9db5c71a0.txt",
+  "text_sha256": "97aa8f6f2ec1b5ce2c84b2ca84a920531f3db12b5aabce5d7b515ecdfb2bb9c9",
+  "text_chars": 1222,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-4b9373e09de9db5c71a0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

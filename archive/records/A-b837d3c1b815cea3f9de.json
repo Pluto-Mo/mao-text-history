@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-086.htm",
+  "title": "中共中央对卫生部党组关于组织西医离职学习中医班总结报告的批示（一九五八年十一月十八日）",
+  "catalogue_entry_ids": [
+    "I-f8d568e621fb1912"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b837d3c1b815cea3f9de",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:42.303715+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-086.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5b8-57a3a6a0be16e\"",
+  "last_modified": "Fri, 09 Nov 2018 12:23:09 GMT",
+  "raw_sha256": "6c0ee1cb49c48507eddb0140b4370ea6fa20cb5e06f8f42e073bb4500af72056",
+  "raw_bytes": 1464,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6c0ee1cb49c48507eddb0140b4370ea6fa20cb5e06f8f42e073bb4500af72056.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中共中央对卫生部党组关于组织西医离职学习中医班总结报告的批示（一九五八年十一月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-085.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-087.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b837d3c1b815cea3f9de.txt",
+  "text_sha256": "0987f09bb0c252f1ff555e8d5db9b5ab7fba04e198ca1f4cf0a6c28f7ddaffd9",
+  "text_chars": 219,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-b837d3c1b815cea3f9de.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

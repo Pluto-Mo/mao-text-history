@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-081.htm",
+  "title": "在为八届六中全会作准备的郑州会议上的讲话第六次讲话（一九五八年十一月十日下午）",
+  "catalogue_entry_ids": [
+    "I-098633e03d9ddb02"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2eeafe6479f550b3ab27",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:40.631844+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-081.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"33dc-57a3a691f6d43\"",
+  "last_modified": "Fri, 09 Nov 2018 12:22:53 GMT",
+  "raw_sha256": "4c723b2dd59e1501b152b115d4c5470a46f58f0122fb1e53f79324172f63a463",
+  "raw_bytes": 13276,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4c723b2dd59e1501b152b115d4c5470a46f58f0122fb1e53f79324172f63a463.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在为八届六中全会作准备的郑州会议上的讲话第六次讲话（一九五八年十一月十日下午）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-080.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-082.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2eeafe6479f550b3ab27.txt",
+  "text_sha256": "775bc1574ca9eb00d436939cf6a4e90b6fe6c6841d7b6933cbb76b052c813c54",
+  "text_chars": 5994,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-2eeafe6479f550b3ab27.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

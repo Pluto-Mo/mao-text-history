@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-096.htm",
+  "title": "对《张鲁传》评注（陈寿三国志魏志卷九，裴松之注）（一九五八年十二月十日于武昌）",
+  "catalogue_entry_ids": [
+    "I-dfb6fd7ad9ccd4ab"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-109cbe6c1bd4d3b06ad4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:45.128513+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-096.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1924-57a3a6b338a15\"",
+  "last_modified": "Fri, 09 Nov 2018 12:23:28 GMT",
+  "raw_sha256": "1b593c4a5194d67b746f2b08dd20874a471d00885b4e98476b9b1354befa4516",
+  "raw_bytes": 6436,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1b593c4a5194d67b746f2b08dd20874a471d00885b4e98476b9b1354befa4516.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《张鲁传》评注（陈寿三国志魏志卷九，裴松之注）（一九五八年十二月十日于武昌）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-095.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-097.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-109cbe6c1bd4d3b06ad4.txt",
+  "text_sha256": "61b7beb2f2eaade69dd1c4a2f30b9c0800196fd78ba4e9569a605c0cca60451f",
+  "text_chars": 2696,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-109cbe6c1bd4d3b06ad4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

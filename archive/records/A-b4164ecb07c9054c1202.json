@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-071.htm",
+  "title": "听了华北、东北九省农业协作会议的汇报后的指示（一九五八年十月）",
+  "catalogue_entry_ids": [
+    "I-1cc3b9838e9d9ad1"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b4164ecb07c9054c1202",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:37:37.619320+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-071.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d50-57a3a65924b59\"",
+  "last_modified": "Fri, 09 Nov 2018 12:21:54 GMT",
+  "raw_sha256": "fe5ae3089921b20004e6d17b8a4c645f735cff7dd0671d8cb952f38c42354d76",
+  "raw_bytes": 3408,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/fe5ae3089921b20004e6d17b8a4c645f735cff7dd0671d8cb952f38c42354d76.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "听了华北、东北九省农业协作会议的汇报后的指示（一九五八年十月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-070.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/4-072.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b4164ecb07c9054c1202.txt",
+  "text_sha256": "c87cab45c61ea160137796f9bd5f0ab4d790f7aea5d681a89214ffb16d458f99",
+  "text_chars": 1133,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-b4164ecb07c9054c1202.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
