@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-054.htm",
+  "title": "中国农民中各阶级的分析及其对于革命的态度",
+  "catalogue_entry_ids": [
+    "I-1436ac06ce138b35"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-67226b1b8b27a8d8b103",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:01.074499+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-054.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2312-57a2953fbbf87\"",
+  "last_modified": "Thu, 08 Nov 2018 16:00:04 GMT",
+  "raw_sha256": "4a3e210efedc6557a6440a1a82b78fcd8aae0484a8c2ee9832fec0cf9ec87c6d",
+  "raw_bytes": 8978,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4a3e210efedc6557a6440a1a82b78fcd8aae0484a8c2ee9832fec0cf9ec87c6d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国农民中各阶级的分析及其对于革命的态度中国农民中各阶级的分析及其对于革命的态度",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-053.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-055.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-67226b1b8b27a8d8b103.txt",
+  "text_sha256": "070df792ed0518660e4fec593b8f904208ef9121ac44dd1372f07f36f654d280",
+  "text_chars": 3857,
+  "text_lines": 31,
+  "document_path": "archive/documents/A-67226b1b8b27a8d8b103.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

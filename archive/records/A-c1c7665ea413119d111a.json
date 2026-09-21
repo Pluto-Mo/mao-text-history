@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/admin/legal/charter.htm",
+  "title": "MIA Charter",
+  "catalogue_entry_ids": [],
+  "source_ids": [
+    "MIA-RIGHTS"
+  ],
+  "edition_refs": [],
+  "kind": "source_page",
+  "id": "A-c1c7665ea413119d111a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:45.826647+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/admin/legal/charter.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1c3b-642ce1198b343\"",
+  "last_modified": "Wed, 05 Nov 2025 00:31:26 GMT",
+  "raw_sha256": "f0d5924516363b711870958ec6d21d4cf21685d3005cadde60c713c261b9b7d1",
+  "raw_bytes": 7227,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f0d5924516363b711870958ec6d21d4cf21685d3005cadde60c713c261b9b7d1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "utf-8",
+  "html_title": "Charter of the Marxists Internet Archive (M.I.A.)",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "copyright",
+      "url": "https://www.marxists.org/admin/legal/corights.htm"
+    },
+    {
+      "title": "Creative Commons License",
+      "url": "https://www.marxists.org/admin/legal/cc/by-sa.htm"
+    },
+    {
+      "title": "budget",
+      "url": "https://www.marxists.org/admin/budget/index.htm"
+    },
+    {
+      "title": "bylaws",
+      "url": "https://www.marxists.org/admin/legal/bylaws.htm"
+    },
+    {
+      "title": "M.I.A. ByLaws",
+      "url": "https://www.marxists.org/admin/legal/bylaws.htm"
+    },
+    {
+      "title": "About the M.I.A.",
+      "url": "https://www.marxists.org/admin/intro/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c1c7665ea413119d111a.txt",
+  "text_sha256": "18e44ae2ff13598a0de42f44fcdf096fb9cd10f6875d27be5fcdeca72838bf3e",
+  "text_chars": 5530,
+  "text_lines": 58,
+  "document_path": "archive/documents/A-c1c7665ea413119d111a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

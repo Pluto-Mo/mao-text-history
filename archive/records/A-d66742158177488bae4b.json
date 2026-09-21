@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-032.htm",
+  "title": "湖南自修大学创立宣言（一九二一年八月）",
+  "catalogue_entry_ids": [
+    "I-0abd32b2657bc728"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d66742158177488bae4b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:54.487223+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-032.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"150b-57a2950f225f8\"",
+  "last_modified": "Thu, 08 Nov 2018 15:59:13 GMT",
+  "raw_sha256": "35d3fbbcbd018960103e23173ba1598c9f398c5437c97fb111426b1be2432ef5",
+  "raw_bytes": 5387,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/35d3fbbcbd018960103e23173ba1598c9f398c5437c97fb111426b1be2432ef5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "湖南自修大学创立宣言（一九二一年八月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-031.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-033.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d66742158177488bae4b.txt",
+  "text_sha256": "6aabf99961760ef8d6ae265f093bfa8d7ee673f81f03a96aece3d4ea97e05bab",
+  "text_chars": 2170,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-d66742158177488bae4b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

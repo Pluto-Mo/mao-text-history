@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-025.htm",
+  "title": "湖南受中国之累以历史及现状证明之（一九二○年九月十二日）",
+  "catalogue_entry_ids": [
+    "I-63e11cab2a46547e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a7dc6b6f1c757000a948",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:52.369195+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-025.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1027-57a29504fab94\"",
+  "last_modified": "Thu, 08 Nov 2018 15:59:03 GMT",
+  "raw_sha256": "4985d436846375adf40b9935b2907bd57a1c5c3a5c7618622bd3a102f32d60bb",
+  "raw_bytes": 4135,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4985d436846375adf40b9935b2907bd57a1c5c3a5c7618622bd3a102f32d60bb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "湖南受中国之累以历史及现状证明之（一九二○年九月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-024.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-026.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a7dc6b6f1c757000a948.txt",
+  "text_sha256": "c9e48dd44cb768cab80553b4dd222d0acec3f2106e6446d9d4198e25faeec457",
+  "text_chars": 1504,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-a7dc6b6f1c757000a948.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

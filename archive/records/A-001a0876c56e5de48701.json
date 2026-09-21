@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-017.htm",
+  "title": "新民学会会员通信集第一集",
+  "catalogue_entry_ids": [
+    "I-30da2ec090fab3fb"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-001a0876c56e5de48701",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:49.970853+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-017.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2cd9-57a29490b2b03\"",
+  "last_modified": "Thu, 08 Nov 2018 15:57:01 GMT",
+  "raw_sha256": "6f148972fa5cf2f2e60e709abaa60f00c0abf7d0ea6d77f60aa3835f34674bd9",
+  "raw_bytes": 11481,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6f148972fa5cf2f2e60e709abaa60f00c0abf7d0ea6d77f60aa3835f34674bd9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "新民学会会员通信集第一集——新民学会致各会发的信",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-016.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-018.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-001a0876c56e5de48701.txt",
+  "text_sha256": "7c4b6cc67670e942b6ddbf2d23409e80f46883189a98850023106760bae963b9",
+  "text_chars": 4583,
+  "text_lines": 74,
+  "document_path": "archive/documents/A-001a0876c56e5de48701.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

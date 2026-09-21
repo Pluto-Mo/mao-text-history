@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-037.htm",
+  "title": "纸烟税",
+  "catalogue_entry_ids": [
+    "I-19033922ce3935a5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a51a6ef53823be135705",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:55.974151+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-037.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a5d-57a295190d797\"",
+  "last_modified": "Thu, 08 Nov 2018 15:59:24 GMT",
+  "raw_sha256": "44c5cea7a483dd5b0ead3f39ed2232a6d441014fce23228ab3a0478769b0df8b",
+  "raw_bytes": 2653,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/44c5cea7a483dd5b0ead3f39ed2232a6d441014fce23228ab3a0478769b0df8b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "纸烟税",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-036.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-038.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a51a6ef53823be135705.txt",
+  "text_sha256": "6ca3257a9eaf6ecfd83e8d30950568ec4ce9b6b610c4396ead274382505eed39",
+  "text_chars": 826,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-a51a6ef53823be135705.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-058.htm",
+  "title": "江浙农民的痛苦及其反抗运动",
+  "catalogue_entry_ids": [
+    "I-23d1083727f8c85c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-10b9ee992214121a4a98",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:02.288536+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-058.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1cf1-57a2954c77c94\"",
+  "last_modified": "Thu, 08 Nov 2018 16:00:18 GMT",
+  "raw_sha256": "4475c69da07e582d30f002c4ca773bc34cac8f60026e609694e382175b752d04",
+  "raw_bytes": 7409,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4475c69da07e582d30f002c4ca773bc34cac8f60026e609694e382175b752d04.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "江浙农民的痛苦及其反抗运动江浙农民的痛苦及其反抗运动",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-057.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-059.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-10b9ee992214121a4a98.txt",
+  "text_sha256": "0d854b8ffc3a5470f4cf90eb59f7782b73fa88d58eae8bec03972055a7715dc4",
+  "text_chars": 3125,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-10b9ee992214121a4a98.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

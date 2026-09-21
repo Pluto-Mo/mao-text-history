@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-056.htm",
+  "title": "国民党右派分离的原因及其对于革命前途的影响（一九二六年一月）",
+  "catalogue_entry_ids": [
+    "I-a0ba1e81dc3f7887"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-640373e4299a730bf9a4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:35:01.691358+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-056.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"264f-57a2954757441\"",
+  "last_modified": "Thu, 08 Nov 2018 16:00:12 GMT",
+  "raw_sha256": "5131d6eef9ff082d65a553375e440a950a117e73a193251d5b2072e106aec9f6",
+  "raw_bytes": 9807,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5131d6eef9ff082d65a553375e440a950a117e73a193251d5b2072e106aec9f6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "国民党右派分离的原因及其对于革命前途的影响（一九二六年一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-055.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-057.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-640373e4299a730bf9a4.txt",
+  "text_sha256": "68e8719d47d13257309e6bd1379f6cef0f081c195947b02ff04f5ef295f79ce2",
+  "text_chars": 4370,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-640373e4299a730bf9a4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

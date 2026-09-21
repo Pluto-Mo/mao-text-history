@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-015.htm",
+  "title": "问题研究会章程（一九一九年十月廿三日）",
+  "catalogue_entry_ids": [
+    "I-3d8c9b03fd978d47"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-380bfed93cf1f76a4050",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:49.371056+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-015.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1db8-57a2948bd87b5\"",
+  "last_modified": "Thu, 08 Nov 2018 15:56:56 GMT",
+  "raw_sha256": "26a235d96ab0c85580eb78182aad2cc8fe69f39c2ca3059a3f515552e33a8999",
+  "raw_bytes": 7608,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/26a235d96ab0c85580eb78182aad2cc8fe69f39c2ca3059a3f515552e33a8999.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "问题研究会章程（一九一九年十月廿三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-014.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-016.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-380bfed93cf1f76a4050.txt",
+  "text_sha256": "ab15b430814e2ef1f5cef0bff1e863d05c81f82a03f000f726d5e7039ba09a5c",
+  "text_chars": 2516,
+  "text_lines": 119,
+  "document_path": "archive/documents/A-380bfed93cf1f76a4050.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

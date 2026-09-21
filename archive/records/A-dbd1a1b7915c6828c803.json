@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-002.htm",
+  "title": "读《明耻篇》后题词（一九一五年）",
+  "catalogue_entry_ids": [
+    "I-08d985e1361b6745"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dbd1a1b7915c6828c803",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:45.833910+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-002.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5c3-57a3c48dfd449\"",
+  "last_modified": "Fri, 09 Nov 2018 14:37:02 GMT",
+  "raw_sha256": "adde89a898f960f1759b276182cf0f1ee92e9eb4145c22ba3069d3d1ae1a5675",
+  "raw_bytes": 1475,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/adde89a898f960f1759b276182cf0f1ee92e9eb4145c22ba3069d3d1ae1a5675.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "读《明耻篇》后题词（一九一五年）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-001.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-003.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dbd1a1b7915c6828c803.txt",
+  "text_sha256": "5ce5ae42f293e2a9c79510aee2dbc557a8a0416c9256458b9c54af6c6c3362cc",
+  "text_chars": 202,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-dbd1a1b7915c6828c803.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

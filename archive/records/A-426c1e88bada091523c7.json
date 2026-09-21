@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-041.htm",
+  "title": "外力、军阀与革命（一九二三年四月十日）",
+  "catalogue_entry_ids": [
+    "I-476628e65d056694"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-426c1e88bada091523c7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:57.172970+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-041.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"10b3-57a2951ed7eb5\"",
+  "last_modified": "Thu, 08 Nov 2018 15:59:30 GMT",
+  "raw_sha256": "a05085e8bbc0731270642fd0462a7a85ca0c59cd61a3de006acba2dd23b62fcf",
+  "raw_bytes": 4275,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a05085e8bbc0731270642fd0462a7a85ca0c59cd61a3de006acba2dd23b62fcf.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "外力、军阀与革命（一九二三年四月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-040.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-042.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-426c1e88bada091523c7.txt",
+  "text_sha256": "4a13d95dca0b798a1bb05cb429b8eaace929d1c2b6e34c48683114abce69fcdc",
+  "text_chars": 1604,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-426c1e88bada091523c7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

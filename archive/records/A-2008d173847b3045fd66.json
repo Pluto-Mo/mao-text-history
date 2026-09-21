@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-021.htm",
+  "title": "驱逐张敬尧文电（一九二○年一月）",
+  "catalogue_entry_ids": [
+    "I-ec598614915533ad"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2008d173847b3045fd66",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:51.173497+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-021.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"8e8-57a294a17c9b2\"",
+  "last_modified": "Thu, 08 Nov 2018 15:57:18 GMT",
+  "raw_sha256": "64826ff76cf6155ab132f4a2a36cb4f841feb65747f426fb9946372a71fc3982",
+  "raw_bytes": 2280,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/64826ff76cf6155ab132f4a2a36cb4f841feb65747f426fb9946372a71fc3982.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "驱逐张敬尧文电（一九二○年一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-020.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-022.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2008d173847b3045fd66.txt",
+  "text_sha256": "503351c0d044a67549b4a404a5cc73a5d7d4c1ee2fcbc53755f7f24ce0279171",
+  "text_chars": 615,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-2008d173847b3045fd66.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

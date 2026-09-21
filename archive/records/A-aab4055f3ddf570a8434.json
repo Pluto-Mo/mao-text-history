@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-008.htm",
+  "title": "湘江评论创刊宣言（一九一九年七月十四日）",
+  "catalogue_entry_ids": [
+    "I-6f1354d85071ea03"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-aab4055f3ddf570a8434",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:47.283530+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-008.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4a0b-57a2944f9482b\"",
+  "last_modified": "Thu, 08 Nov 2018 15:55:52 GMT",
+  "raw_sha256": "4e8f9420c38754c8074ae9c02f338c371586f598ff77ac0d1dda27a54ec48f46",
+  "raw_bytes": 18955,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4e8f9420c38754c8074ae9c02f338c371586f598ff77ac0d1dda27a54ec48f46.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "湘江评论创刊宣言（一九一九年七月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-007.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-009.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-aab4055f3ddf570a8434.txt",
+  "text_sha256": "9f38f80356ff7a3d52ab1958ac663668e3df9d2c4057c2e40af5b3341a9d9b65",
+  "text_chars": 8507,
+  "text_lines": 80,
+  "document_path": "archive/documents/A-aab4055f3ddf570a8434.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

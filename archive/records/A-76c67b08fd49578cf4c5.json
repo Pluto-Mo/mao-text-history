@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-046.htm",
+  "title": "填写《少年中国学会改组委员会调查表》（一九二五年十一月二十一日）",
+  "catalogue_entry_ids": [
+    "I-0bee1abc5bff4576"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-76c67b08fd49578cf4c5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:58.687198+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-046.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"80e-57a29525b6bc3\"",
+  "last_modified": "Thu, 08 Nov 2018 15:59:37 GMT",
+  "raw_sha256": "86786aaa1f16b2ef7b4d6510e994efb62867cdf33d5c33f987eae88aa962cebb",
+  "raw_bytes": 2062,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/86786aaa1f16b2ef7b4d6510e994efb62867cdf33d5c33f987eae88aa962cebb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "填写《少年中国学会改组委员会调查表》（一九二五年十一月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-045.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-047.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-76c67b08fd49578cf4c5.txt",
+  "text_sha256": "7f6e4e1832148eeec7eea319111d374ca1135b5be74f8e5eb9958d7346660a90",
+  "text_chars": 485,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-76c67b08fd49578cf4c5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

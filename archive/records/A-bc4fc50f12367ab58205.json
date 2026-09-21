@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/1-049.htm",
+  "title": "反攻（一）",
+  "catalogue_entry_ids": [
+    "I-74624921390bd851"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bc4fc50f12367ab58205",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:34:59.573713+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/1-049.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1833-57a2952ae5e77\"",
+  "last_modified": "Thu, 08 Nov 2018 15:59:42 GMT",
+  "raw_sha256": "c02d52861325c85ad334cfee010f26b86619cbafd1ce4144229bfe02454e6611",
+  "raw_bytes": 6195,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c02d52861325c85ad334cfee010f26b86619cbafd1ce4144229bfe02454e6611.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "反攻（一）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-048.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/1-050.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bc4fc50f12367ab58205.txt",
+  "text_sha256": "443bb1af2476fe17bf45f408a77f61ca7195c517d9942705149ee78f1a7ad023",
+  "text_chars": 2512,
+  "text_lines": 26,
+  "document_path": "archive/documents/A-bc4fc50f12367ab58205.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
