@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450110.htm",
+  "title": "必须学会做经济工作",
+  "catalogue_entry_ids": [
+    "I-308b543789d19ea1"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a74f6ff8a29fcc743b2b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:14.952918+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450110.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2340-5a0e783dd6646\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:33 GMT",
+  "raw_sha256": "2684591fde02e942909eb36d4729e3bb68e33996ce2638026f005d394ef1f5ce",
+  "raw_bytes": 9024,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2684591fde02e942909eb36d4729e3bb68e33996ce2638026f005d394ef1f5ce.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "必须学会做经济工作（一九四五年一月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a74f6ff8a29fcc743b2b.txt",
+  "text_sha256": "dbb5f726547e9d9871a2ec3af70318a4bb7623617498ee22e5a8d7e638f44c1a",
+  "text_chars": 4066,
+  "text_lines": 30,
+  "document_path": "archive/documents/A-a74f6ff8a29fcc743b2b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

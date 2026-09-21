@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm",
+  "title": "第二次世界大战的转折点",
+  "catalogue_entry_ids": [
+    "I-c9e27d27af02b8b5"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a17a14151288470950b7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:11.189934+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1ced-5a0e78491935c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:45 GMT",
+  "raw_sha256": "ef80f7d9c0f386129ba8e6096560aa794133d4a262ed07318fb0e02c3ac9011b",
+  "raw_bytes": 7405,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ef80f7d9c0f386129ba8e6096560aa794133d4a262ed07318fb0e02c3ac9011b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "第二次世界大战的转折点（一九四二年十月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19421012.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a17a14151288470950b7.txt",
+  "text_sha256": "0396a39313d1101aab9697fdf199f321ce931830f7f21ec29b1863e6c268db5d",
+  "text_chars": 3207,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-a17a14151288470950b7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

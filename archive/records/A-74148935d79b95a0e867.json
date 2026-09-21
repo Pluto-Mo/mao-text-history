@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm",
+  "title": "目前抗日统一战线中的策略问题",
+  "catalogue_entry_ids": [
+    "I-818a5d6a49f40b5d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-74148935d79b95a0e867",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:06.373444+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"307b-5a0e785a499bf\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:03 GMT",
+  "raw_sha256": "c13a00f2ce0b45642d2aa5a383130e74a7e25d32dd989ddee89cb07a043200f4",
+  "raw_bytes": 12411,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c13a00f2ce0b45642d2aa5a383130e74a7e25d32dd989ddee89cb07a043200f4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "目前抗日统一战线中的策略问题（一九四○年三月十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400311.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-74148935d79b95a0e867.txt",
+  "text_sha256": "c58222e9dc3dd86ff71faba26989c20acc6aaaebffdca7e614a93ce4acfa5722",
+  "text_chars": 5644,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-74148935d79b95a0e867.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

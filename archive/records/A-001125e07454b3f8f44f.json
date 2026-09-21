@@ -1,0 +1,131 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm",
+  "title": "整顿党的作风",
+  "catalogue_entry_ids": [
+    "I-c0285748e85a5f1c"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-001125e07454b3f8f44f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:10.168018+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"632e-5a0e784d0a004\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:49 GMT",
+  "raw_sha256": "3f9b026ce8c35dcd9f5f0e85985c9b0a280e41110691a011eb5a1d1ad1680440",
+  "raw_bytes": 25390,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3f9b026ce8c35dcd9f5f0e85985c9b0a280e41110691a011eb5a1d1ad1680440.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "整顿党的作风（一九四二年二月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftn9"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420201.htm#_ftnref9"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-001125e07454b3f8f44f.txt",
+  "text_sha256": "c5941203cc120d310767fad394bdbdcb1cee44413f95cfac6197d49a38943656",
+  "text_chars": 11639,
+  "text_lines": 89,
+  "document_path": "archive/documents/A-001125e07454b3f8f44f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

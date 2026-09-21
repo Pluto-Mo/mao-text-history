@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410525.htm",
+  "title": "揭破远东慕尼黑的阴谋",
+  "catalogue_entry_ids": [
+    "I-0ecc0f897eaeb18d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6de5a3ed7c5141b9a205",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:08.950655+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410525.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9cc-5a0e784f696c9\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:52 GMT",
+  "raw_sha256": "ee1eb30c4430fb3f450b030f2a40036002c00f441455a14c80bc453974401546",
+  "raw_bytes": 2508,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ee1eb30c4430fb3f450b030f2a40036002c00f441455a14c80bc453974401546.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "揭破远东慕尼黑的阴谋（一九四一年五月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410525.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410525.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6de5a3ed7c5141b9a205.txt",
+  "text_sha256": "8314dbcb029c8ac9f8a01ea96fff286304561a6297ddb00cd41efb46057802ea",
+  "text_chars": 773,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-6de5a3ed7c5141b9a205.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

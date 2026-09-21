@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm",
+  "title": "关于领导方法的若干问题",
+  "catalogue_entry_ids": [
+    "I-600a70d09e73f75d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b8575f6c9f0231d0ad88",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:12.378778+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1fdb-5a0e7845f1976\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:42 GMT",
+  "raw_sha256": "71d49a02775fd0acc9bc3473f4b668efa376c900a7d8df9d756cecb167016ac2",
+  "raw_bytes": 8155,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/71d49a02775fd0acc9bc3473f4b668efa376c900a7d8df9d756cecb167016ac2.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于领导方法的若干问题（一九四三年六月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430601.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b8575f6c9f0231d0ad88.txt",
+  "text_sha256": "5eb905dc2ec6dd01626011529442b61bf995bd72632b6590e1b1ddeca78b2d14",
+  "text_chars": 3528,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-b8575f6c9f0231d0ad88.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

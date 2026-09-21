@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm",
+  "title": "一个极其重要的政策",
+  "catalogue_entry_ids": [
+    "I-d0aad3a01c50abe2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-363da93a71f02b846b2b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:10.887661+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1804-5b5d96d8903ab\"",
+  "last_modified": "Mon, 07 Dec 2020 05:52:13 GMT",
+  "raw_sha256": "8d83a0c424d56aab336f95a9b9842db2a00a188163c4d210a8cefa0c575dcb72",
+  "raw_bytes": 6148,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8d83a0c424d56aab336f95a9b9842db2a00a188163c4d210a8cefa0c575dcb72.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "一个极其重要的政策（一九四二年九月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19420907.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-363da93a71f02b846b2b.txt",
+  "text_sha256": "ba57da03f5bd62c8b0878b9ea8e5adcdf9fcaf95a123188b367ee5a2475af3c8",
+  "text_chars": 2433,
+  "text_lines": 28,
+  "document_path": "archive/documents/A-363da93a71f02b846b2b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

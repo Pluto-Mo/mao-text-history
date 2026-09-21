@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400705.htm",
+  "title": "团结到底",
+  "catalogue_entry_ids": [
+    "I-d6af095aead97afd"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8ac0e4ecadd38d861d02",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:06.981974+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400705.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1092-5a0e78571f0f8\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:00 GMT",
+  "raw_sha256": "56676123eb65a67c6068d97a4444f25438d700810ee75bfb5a9aa88ec6620d0b",
+  "raw_bytes": 4242,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/56676123eb65a67c6068d97a4444f25438d700810ee75bfb5a9aa88ec6620d0b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "团结到底（一九四○年七月五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8ac0e4ecadd38d861d02.txt",
+  "text_sha256": "d30869f2508b8b167267ad8321e1e760ea1afde9a7d54834f67cf91cf199196a",
+  "text_chars": 1741,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-8ac0e4ecadd38d861d02.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

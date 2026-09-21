@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm",
+  "title": "开展根据地的减租、生产和拥政爱民运动",
+  "catalogue_entry_ids": [
+    "I-c9203a25bca7d3c7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0921f3d3e84bdaa4c48b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:12.677532+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"174d-5a0e7844576f3\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:40 GMT",
+  "raw_sha256": "051ed66cd40408aacd4218ce9f312c2e6afd26d1361bf1d2f6d3b55b8f0297e1",
+  "raw_bytes": 5965,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/051ed66cd40408aacd4218ce9f312c2e6afd26d1361bf1d2f6d3b55b8f0297e1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "开展根据地的减租、生产和拥政爱民运动（一九四三年十月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431001.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0921f3d3e84bdaa4c48b.txt",
+  "text_sha256": "04abd488bae25a3d1d2b2d20687d1a185176434e2e1988e024528768adb10d01",
+  "text_chars": 2405,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-0921f3d3e84bdaa4c48b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

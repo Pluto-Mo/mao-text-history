@@ -1,0 +1,99 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm",
+  "title": "组织起来",
+  "catalogue_entry_ids": [
+    "I-e773d06a23e4067c"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c4501cd21898017b198f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:13.295850+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3025-5a0e7842bf3b0\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:38 GMT",
+  "raw_sha256": "dd30907db2274654a594339268eb8f08afc36bd382acb26d8be7ba931b9fa63b",
+  "raw_bytes": 12325,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dd30907db2274654a594339268eb8f08afc36bd382acb26d8be7ba931b9fa63b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "组织起来（一九四三年十一月二十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19431129.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c4501cd21898017b198f.txt",
+  "text_sha256": "2b126938d9aec04bc16601073f642ae811881fe704a45cd31b0523bec5d9ee33",
+  "text_chars": 5444,
+  "text_lines": 40,
+  "document_path": "archive/documents/A-c4501cd21898017b198f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

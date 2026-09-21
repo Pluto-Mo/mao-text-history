@@ -1,0 +1,103 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm",
+  "title": "必须制裁反动派",
+  "catalogue_entry_ids": [
+    "I-7a94844c6344e6ce"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-27128028181e0d092de1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:01.027603+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1cc1-5f135be34f4bf\"",
+  "last_modified": "Sun, 01 Jan 2023 15:46:50 GMT",
+  "raw_sha256": "77761c4b90afee3f39254587780a4bfd81613d41dc2b2691d0f9442f8a88ed84",
+  "raw_bytes": 7361,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/77761c4b90afee3f39254587780a4bfd81613d41dc2b2691d0f9442f8a88ed84.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "必须制裁反动派（一九三九年八月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔未删节本〕用国法制裁反动份子——在平江惨案诸烈士追悼大会上的讲演（1939年8月1日）",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19390801.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19390801.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-27128028181e0d092de1.txt",
+  "text_sha256": "e76edc18ad25695519f94dc4dc939500e540fee0384c1c51fa1c2cdfa3e99ad4",
+  "text_chars": 2963,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-27128028181e0d092de1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

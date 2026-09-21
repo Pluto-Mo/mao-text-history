@@ -1,0 +1,99 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm",
+  "title": "必须强调团结和进步",
+  "catalogue_entry_ids": [
+    "I-0c439ae9f0b0c627"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b7f83621b91057c7beaa",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:05.476224+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"de2-5a0e785ff1daa\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:09 GMT",
+  "raw_sha256": "bbaecd86e25ef672271c18f3009c8ed68f7165a9daa625a530a2142fa1d43cd0",
+  "raw_bytes": 3554,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bbaecd86e25ef672271c18f3009c8ed68f7165a9daa625a530a2142fa1d43cd0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "必须强调团结和进步（一九四○年二月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207b.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b7f83621b91057c7beaa.txt",
+  "text_sha256": "ab28499a0b1abc63e89404000a75ac316e62e487ecb831ebe762ae7ffc332103",
+  "text_chars": 1104,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-b7f83621b91057c7beaa.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm",
+  "title": "纪念白求恩",
+  "catalogue_entry_ids": [
+    "I-13f00a33eaec78c8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-866aebfa07c3f89a6331",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:02.948653+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"eff-5f135be808456\"",
+  "last_modified": "Sun, 01 Jan 2023 15:46:55 GMT",
+  "raw_sha256": "87ad1bb3d8d9ea7b550ad177efa72dec9a99aef82ca71ca9629a77e8b77cde36",
+  "raw_bytes": 3839,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/87ad1bb3d8d9ea7b550ad177efa72dec9a99aef82ca71ca9629a77e8b77cde36.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "纪念白求恩（一九三九年十二月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "〔未删节本〕学习白求恩（1939年12月21日）",
+      "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19391221.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391221.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-866aebfa07c3f89a6331.txt",
+  "text_sha256": "e38e9a1b81f8e80d7eb7418f466527fe36790ed500b41a293d2b71249edb2b8f",
+  "text_chars": 1380,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-866aebfa07c3f89a6331.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

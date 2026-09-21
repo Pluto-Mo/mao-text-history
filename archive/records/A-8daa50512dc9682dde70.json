@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391201.htm",
+  "title": "大量吸收知识分子",
+  "catalogue_entry_ids": [
+    "I-410500b66f0de23f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8daa50512dc9682dde70",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:02.180516+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19391201.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"dfd-5a0e786ec8b07\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:25 GMT",
+  "raw_sha256": "d16e9f3184399fd2a035c95673a193df3358f976b41d2008ffbd9c8a33d343a1",
+  "raw_bytes": 3581,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d16e9f3184399fd2a035c95673a193df3358f976b41d2008ffbd9c8a33d343a1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "大量吸收知识分子（一九三九年十二月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8daa50512dc9682dde70.txt",
+  "text_sha256": "39d69b55b1655b427a76ee8d40dacd829708901bfc5b9840bb4e47e6c1d05688",
+  "text_chars": 1412,
+  "text_lines": 11,
+  "document_path": "archive/documents/A-8daa50512dc9682dde70.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

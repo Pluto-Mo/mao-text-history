@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm",
+  "title": "改造我们的学习",
+  "catalogue_entry_ids": [
+    "I-8b5109c7180d014a"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8e5d74da9d2a9747664c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:08.482638+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2fda-5a0e7851c108e\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:54 GMT",
+  "raw_sha256": "8e58e14131fe1deca773c6a0a3defdf3bc520d43a7dd630eb9c0de69367361a4",
+  "raw_bytes": 12250,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8e58e14131fe1deca773c6a0a3defdf3bc520d43a7dd630eb9c0de69367361a4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "改造我们的学习（一九四一年五月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410519.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8e5d74da9d2a9747664c.txt",
+  "text_sha256": "c950d264ad0d7642a382cc2930597e1e4fd22328916c3255055d0673d73db621",
+  "text_chars": 5299,
+  "text_lines": 54,
+  "document_path": "archive/documents/A-8e5d74da9d2a9747664c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

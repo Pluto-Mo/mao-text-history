@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm",
+  "title": "抗日时期的经济问题和财政问题",
+  "catalogue_entry_ids": [
+    "I-dac26b9420318af9"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9bca9f72fd33d3608429",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:11.961014+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2126-5a0e78477a2b9\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:43 GMT",
+  "raw_sha256": "a81504a1f22c1d00274f97fc30132f007f80648f977f70c8a32d1fc66946473e",
+  "raw_bytes": 8486,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a81504a1f22c1d00274f97fc30132f007f80648f977f70c8a32d1fc66946473e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "抗日时期的经济问题和财政问题（一九四二年十二月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194212.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9bca9f72fd33d3608429.txt",
+  "text_sha256": "6b9c4ae148e69f4c4499075de4057d6c1f6019676d15d1487c3fe18f6a6da81f",
+  "text_chars": 3617,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-9bca9f72fd33d3608429.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

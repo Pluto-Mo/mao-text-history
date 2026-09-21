@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm",
+  "title": "两个中国之命运",
+  "catalogue_entry_ids": [
+    "I-bf416c331f991edc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-01b79d79ea1edf4d6f34",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:15.452902+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"123c-5a0e783b75fe1\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:31 GMT",
+  "raw_sha256": "ae86f890057160b9f086ac6f49e45e415202bd2bd1c42cf23fdf559a6bec16e9",
+  "raw_bytes": 4668,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ae86f890057160b9f086ac6f49e45e415202bd2bd1c42cf23fdf559a6bec16e9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "两个中国之命运（一九四五年四月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450423.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-01b79d79ea1edf4d6f34.txt",
+  "text_sha256": "fbb3e37b76e1d5e269e2a34f90ab8d23d0314f1619ab680a0c4c9c37b74d587c",
+  "text_chars": 1745,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-01b79d79ea1edf4d6f34.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

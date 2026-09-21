@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450424aa.htm",
+  "title": "〔未删节本〕论联合政府",
+  "catalogue_entry_ids": [
+    "I-178e21dedaf76c39"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-68029f79ade5ba36c892",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:16.001027+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450424aa.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"17221-5a0e77a8b58fe\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:57 GMT",
+  "raw_sha256": "5218657564fd80ac1d0315e67c1045fbf8f985ba1c1610462c7fb415b48685fe",
+  "raw_bytes": 94753,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5218657564fd80ac1d0315e67c1045fbf8f985ba1c1610462c7fb415b48685fe.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "论联合政府 （一九四五年四月二四日在中国共产党第七次全国代表大会上的政治报告）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-68029f79ade5ba36c892.txt",
+  "text_sha256": "32343da0a7d7679e69f81dc8ec7775869be663b4bd8eaf55c3491b4ad047c3d9",
+  "text_chars": 45237,
+  "text_lines": 293,
+  "document_path": "archive/documents/A-68029f79ade5ba36c892.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

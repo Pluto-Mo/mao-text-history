@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201baa.htm",
+  "title": "〔未删节本〕延安民众讨汪拥蒋大会通电",
+  "catalogue_entry_ids": [
+    "I-c91ae8d5c7afa75d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-477c148f914975d801a6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:05.170559+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201baa.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1d3a-5a0e78b48f072\"",
+  "last_modified": "Sun, 15 Mar 2020 16:53:38 GMT",
+  "raw_sha256": "cef4b79d8b52e4b846f4d858887bf2f01746bc200818c431d24a2e27c5737bec",
+  "raw_bytes": 7482,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cef4b79d8b52e4b846f4d858887bf2f01746bc200818c431d24a2e27c5737bec.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东：延安民众讨汪拥蒋大会通电",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-477c148f914975d801a6.txt",
+  "text_sha256": "98193fc667450ab4753ffc47404840b6eadf252c5046a9b51706e5ac983d6bec",
+  "text_chars": 3294,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-477c148f914975d801a6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

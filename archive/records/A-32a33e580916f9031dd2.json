@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201aa.htm",
+  "title": "〔未删节本〕中共中央关于目前时局与党的任务的决定",
+  "catalogue_entry_ids": [
+    "I-703e0a99ccfb60b6"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-32a33e580916f9031dd2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:04.332680+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400201aa.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"15df-5d584381589cf\"",
+  "last_modified": "Fri, 14 Jan 2022 05:38:56 GMT",
+  "raw_sha256": "a8829f7de1fd94b6b5eb5b98619cf6cc6c30fba3d6190fff6db0b42a9acc46cc",
+  "raw_bytes": 5599,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a8829f7de1fd94b6b5eb5b98619cf6cc6c30fba3d6190fff6db0b42a9acc46cc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东：中共中央关于目前时局与党的任务的决定（一九四○•二•一）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-32a33e580916f9031dd2.txt",
+  "text_sha256": "637d2ba7cfe82aca74517573ee75e10d139f74358a60a51400d710c10fd417e6",
+  "text_chars": 2226,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-32a33e580916f9031dd2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

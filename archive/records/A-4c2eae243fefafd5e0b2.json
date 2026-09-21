@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410623.htm",
+  "title": "关于反法西斯的国际统一战线",
+  "catalogue_entry_ids": [
+    "I-df902351e9a7b2c5"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4c2eae243fefafd5e0b2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:09.080259+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410623.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"666-5a0e784ea13a7\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:51 GMT",
+  "raw_sha256": "328cfdec004e93e02f3d6ca9491629eab1823ebfb37384a57ad941ad325d375a",
+  "raw_bytes": 1638,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/328cfdec004e93e02f3d6ca9491629eab1823ebfb37384a57ad941ad325d375a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于反法西斯的国际统一战线（一九四一年六月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4c2eae243fefafd5e0b2.txt",
+  "text_sha256": "f65af8da749df69842ecebf7dbc58b908b2d0fb13d2eda3e42ad751668f3b5b4",
+  "text_chars": 438,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-4c2eae243fefafd5e0b2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

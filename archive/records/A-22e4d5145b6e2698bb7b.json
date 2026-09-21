@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm",
+  "title": "质问国民党",
+  "catalogue_entry_ids": [
+    "I-a71126b1048e5de7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-22e4d5145b6e2698bb7b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:12.424993+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2716-5a0e7845257d5\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:41 GMT",
+  "raw_sha256": "14756b3d354f6a434f66ed9ff3e7304e44b1390ff14d416527ea191eb80853dd",
+  "raw_bytes": 10006,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/14756b3d354f6a434f66ed9ff3e7304e44b1390ff14d416527ea191eb80853dd.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "质问国民党（一九四三年七月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19430712.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-22e4d5145b6e2698bb7b.txt",
+  "text_sha256": "4fa0d40f6c62f276f4e2ba14429e9957df55447b5bc41f164489a6a43fb4ba18",
+  "text_chars": 4266,
+  "text_lines": 53,
+  "document_path": "archive/documents/A-22e4d5145b6e2698bb7b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

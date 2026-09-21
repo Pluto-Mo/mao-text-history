@@ -1,0 +1,139 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm",
+  "title": "关于打退第二次反共高潮的总结",
+  "catalogue_entry_ids": [
+    "I-30fb941df1f374b7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4b7db90f92b3b57a6959",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:08.193415+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"23ba-5a0e7852cba30\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:55 GMT",
+  "raw_sha256": "16f5a0aa2b8abd4045f77b6ef3fcb607dcbec09233e4eb335b8e8d15f49cffa7",
+  "raw_bytes": 9146,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/16f5a0aa2b8abd4045f77b6ef3fcb607dcbec09233e4eb335b8e8d15f49cffa7.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于打退第二次反共高潮的总结（一九四一年五月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftn10"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19410508.htm#_ftnref10"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4b7db90f92b3b57a6959.txt",
+  "text_sha256": "2dc177e6ad014ead43d47a6b53a618b5a43986dbbb3c61db9be3ddcbc6faa5be",
+  "text_chars": 3601,
+  "text_lines": 57,
+  "document_path": "archive/documents/A-4b7db90f92b3b57a6959.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

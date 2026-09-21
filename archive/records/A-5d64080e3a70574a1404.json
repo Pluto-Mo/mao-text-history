@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm",
+  "title": "赫尔利和蒋介石的双簧已经破产",
+  "catalogue_entry_ids": [
+    "I-a914a683f99b5df9"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5d64080e3a70574a1404",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:16.900704+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1716-5a0e7836b81f8\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:26 GMT",
+  "raw_sha256": "bfafa10b41489f68f202a131b940942d749176f4802e30292f5f4e76a9569a70",
+  "raw_bytes": 5910,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bfafa10b41489f68f202a131b940942d749176f4802e30292f5f4e76a9569a70.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "赫尔利和蒋介石的双簧已经破产（一九四五年七月十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19450710.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5d64080e3a70574a1404.txt",
+  "text_sha256": "f0926d59112e449799005e70a65f5927f605d424c15d252438480a34a3a0e0d5",
+  "text_chars": 2330,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-5d64080e3a70574a1404.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm",
+  "title": "《农村调查》的序言和跋",
+  "catalogue_entry_ids": [
+    "I-3bbe60a24d5ca859"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f154847d8ffe50575a55",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:09.695682+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"20bf-5a0e77a977e60\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:58 GMT",
+  "raw_sha256": "c9704f34c4e6be07fc663bc198af6f969e3866dbea250a3fec72a7e9ccc1e6fc",
+  "raw_bytes": 8383,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c9704f34c4e6be07fc663bc198af6f969e3866dbea250a3fec72a7e9ccc1e6fc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《农村调查》的序言和跋（一九四一年三月、四月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftn6"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-194134.htm#_ftnref6"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f154847d8ffe50575a55.txt",
+  "text_sha256": "094c142ec5354776c00151815d8d80cdb80548e457411c84e87c9d6020359925",
+  "text_chars": 3380,
+  "text_lines": 42,
+  "document_path": "archive/documents/A-f154847d8ffe50575a55.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

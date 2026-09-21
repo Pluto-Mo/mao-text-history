@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm",
+  "title": "抗日根据地的政权问题",
+  "catalogue_entry_ids": [
+    "I-2069fea0082c133a"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5068d6b1606e0ec6169f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:06.080933+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400306.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"fbc-5a0e785bac1a1\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:05 GMT",
+  "raw_sha256": "55e74bb1db4b15a3ab506658a1e3ff48883707bbae14079532ebbe14cd411246",
+  "raw_bytes": 4028,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/55e74bb1db4b15a3ab506658a1e3ff48883707bbae14079532ebbe14cd411246.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "抗日根据地的政权问题（一九四○年三月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5068d6b1606e0ec6169f.txt",
+  "text_sha256": "bad853b06e2203bf021812c9230a40170511f28f3edf413b5759678672007edd",
+  "text_chars": 1602,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-5068d6b1606e0ec6169f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm",
+  "title": "克服投降危险，力争时局好转",
+  "catalogue_entry_ids": [
+    "I-cd82991f6f7db217"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f5acd92d84f83e885ea3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:03.889780+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"12de-5a0e78669aef7\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:16 GMT",
+  "raw_sha256": "acd33b72e275e251ae1b91a1fc5b83e8d32df3194793d064a940e0ad8bc31109",
+  "raw_bytes": 4830,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/acd33b72e275e251ae1b91a1fc5b83e8d32df3194793d064a940e0ad8bc31109.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "克服投降危险，力争时局好转（一九四○年一月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400128.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f5acd92d84f83e885ea3.txt",
+  "text_sha256": "e1701cc43e88e149b47a1190ca47031a72f3809afe13066c7bfa7a079c03a437",
+  "text_chars": 1886,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-f5acd92d84f83e885ea3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

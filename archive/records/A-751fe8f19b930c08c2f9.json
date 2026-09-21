@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm",
+  "title": "评蒋介石在双十节的演说",
+  "catalogue_entry_ids": [
+    "I-ab0b3ce2e81e9d03"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-751fe8f19b930c08c2f9",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:14.176442+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"18b4-5a0e783f72809\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:35 GMT",
+  "raw_sha256": "833b2a3c39e9b8c1384feb9d322a42d08ca8fb8ad5d211d413f04c1a9a1cebca",
+  "raw_bytes": 6324,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/833b2a3c39e9b8c1384feb9d322a42d08ca8fb8ad5d211d413f04c1a9a1cebca.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "评蒋介石在双十节的演说（一九四四年十月十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441011.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-751fe8f19b930c08c2f9.txt",
+  "text_sha256": "579bedfa8312602973468090f578313112792a43c0ba8712e7455f9476bb2c00",
+  "text_chars": 2581,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-751fe8f19b930c08c2f9.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

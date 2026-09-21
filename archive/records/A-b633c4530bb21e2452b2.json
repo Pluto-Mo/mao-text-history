@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm",
+  "title": "文化工作中的统一战线",
+  "catalogue_entry_ids": [
+    "I-23720c7b6ac5a33a"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 3,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b633c4530bb21e2452b2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:14.666277+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"eb3-5a0e783ea4728\"",
+  "last_modified": "Sun, 15 Mar 2020 16:51:34 GMT",
+  "raw_sha256": "c4b761ac6920318fad353e696b4dc70d4338ff7743476b5cc85ef4dc3a7075f9",
+  "raw_bytes": 3763,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c4b761ac6920318fad353e696b4dc70d4338ff7743476b5cc85ef4dc3a7075f9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "文化工作中的统一战线（一九四四年十月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19441030.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b633c4530bb21e2452b2.txt",
+  "text_sha256": "bb2075ed1bfcfe0da4ef432d9a5642cfe7bed0ad554ac68ca818f523ddba8fa2",
+  "text_chars": 1350,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-b633c4530bb21e2452b2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

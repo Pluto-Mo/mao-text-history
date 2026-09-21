@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm",
+  "title": "《中国工人》发刊词",
+  "catalogue_entry_ids": [
+    "I-9a916a5d1962d7d6"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-dd42b6f08fa024b23020",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:05.241552+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"aeb-5a0e7862051ae\"",
+  "last_modified": "Sun, 15 Mar 2020 16:52:11 GMT",
+  "raw_sha256": "3aa1cd1aa856ebf16369b7e62c4208f89c4547e3347a74b0f60a4bf441604391",
+  "raw_bytes": 2795,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3aa1cd1aa856ebf16369b7e62c4208f89c4547e3347a74b0f60a4bf441604391.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《中国工人》发刊词（一九四○年二月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19400207.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-dd42b6f08fa024b23020.txt",
+  "text_sha256": "b8575348e44f00b8f47bd3ce406bfc6a89c6d06b933f557e774b37457ef5b4eb",
+  "text_chars": 915,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-dd42b6f08fa024b23020.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912aa.htm",
+  "title": "〔未删节本〕中国革命与中国共产党",
+  "catalogue_entry_ids": [
+    "I-994d3bcb86045e60"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 2,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ec47576830b9c9c2b786",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:03.086280+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-193912aa.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9840-5f135bf106029\"",
+  "last_modified": "Sun, 01 Jan 2023 15:47:04 GMT",
+  "raw_sha256": "2df9e08045ea1e2a7070006e16a92fa4cef4c6d8c6f154c82acd8714410b8f8e",
+  "raw_bytes": 38976,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2df9e08045ea1e2a7070006e16a92fa4cef4c6d8c6f154c82acd8714410b8f8e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东：中国革命与中国共产党（未删节本）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ec47576830b9c9c2b786.txt",
+  "text_sha256": "064cf9bf10d1b1e15016a6820534a64b4f21a67d8997b1a5681482f332033873",
+  "text_chars": 18153,
+  "text_lines": 162,
+  "document_path": "archive/documents/A-ec47576830b9c9c2b786.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
