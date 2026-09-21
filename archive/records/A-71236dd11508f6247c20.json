@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700715.htm",
+  "title": "毛泽东主席会见老挝人民党总书记凯山等谈话记录（1970年7月15日）",
+  "catalogue_entry_ids": [
+    "I-5427ce0d133b6baa"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-71236dd11508f6247c20",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:28.430220+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700715.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2e85-5f140303c1c40\"",
+  "last_modified": "Mon, 02 Jan 2023 04:14:33 GMT",
+  "raw_sha256": "5fd32bb7f43b15004777c97089f706f28e9e06dc1f1de62fae623ba989879a03",
+  "raw_bytes": 11909,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5fd32bb7f43b15004777c97089f706f28e9e06dc1f1de62fae623ba989879a03.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见老挝人民党总书记凯山等谈话记录（1970年7月15日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-71236dd11508f6247c20.txt",
+  "text_sha256": "1a78e3990ce4de1f903d16121d125178135aab8f04fb408605c3893d389dab87",
+  "text_chars": 4761,
+  "text_lines": 266,
+  "document_path": "archive/documents/A-71236dd11508f6247c20.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

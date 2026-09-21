@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700112.htm",
+  "title": "毛泽东主席在巴拉圭共产党总书记克雷依特等给我党中央的三封信上的批示（1970年1月12日）",
+  "catalogue_entry_ids": [
+    "I-cceaf87a05b57167"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0661cdc9ef999b933ee4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:27.714699+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700112.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"661-5c69e43ab8580\"",
+  "last_modified": "Thu, 08 Jul 2021 15:25:26 GMT",
+  "raw_sha256": "be7369b29ec9442391031a0e1cf5062cfbbfe0c616fe192a012b0feb4728a00f",
+  "raw_bytes": 1633,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/be7369b29ec9442391031a0e1cf5062cfbbfe0c616fe192a012b0feb4728a00f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在巴拉圭共产党总书记克雷依特等给我党中央的三封信上的批示（1970年1月12日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0661cdc9ef999b933ee4.txt",
+  "text_sha256": "a82d0da53cdbc5056bbfce1012fedfb152d0b619fe656d24ba119045d3b6d284",
+  "text_chars": 418,
+  "text_lines": 12,
+  "document_path": "archive/documents/A-0661cdc9ef999b933ee4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

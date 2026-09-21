@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740529.htm",
+  "title": "毛泽东会见马来西亚总理拉扎克谈话记录（1974年5月29日）",
+  "catalogue_entry_ids": [
+    "I-44d591837639ec04"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-83fd037ce085a2bcd702",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:36.850162+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740529.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"26f8-5f13fdfc4bec0\"",
+  "last_modified": "Mon, 02 Jan 2023 03:52:03 GMT",
+  "raw_sha256": "6e2e5cfec67bd4ee405ae6940b17a593f61f65e2b6f1c2580f9b13a8154266cd",
+  "raw_bytes": 9976,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6e2e5cfec67bd4ee405ae6940b17a593f61f65e2b6f1c2580f9b13a8154266cd.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见马来西亚总理拉扎克谈话记录（1974年5月29日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-83fd037ce085a2bcd702.txt",
+  "text_sha256": "f99353cfc538aeb597ac21376202eee9db5dfdb03750795733377a4afaff140a",
+  "text_chars": 4159,
+  "text_lines": 160,
+  "document_path": "archive/documents/A-83fd037ce085a2bcd702.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

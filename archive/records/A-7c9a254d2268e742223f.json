@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701206.htm",
+  "title": "毛泽东主席在《关于邀请荷兰共产主义统一运动（马列）派代表团访华的请示》上的批示（1970年12月6日）",
+  "catalogue_entry_ids": [
+    "I-eb8ef9eecc072ef9"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7c9a254d2268e742223f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:30.531961+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701206.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"62a-5f1403fbb6540\"",
+  "last_modified": "Mon, 02 Jan 2023 04:18:53 GMT",
+  "raw_sha256": "ecef39812aab22664b95009bcfa03bd99318d284bb3011e51ecc4b7d45fd1771",
+  "raw_bytes": 1578,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ecef39812aab22664b95009bcfa03bd99318d284bb3011e51ecc4b7d45fd1771.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在《关于邀请荷兰共产主义统一运动（马列）派代表团访华的请示》上的批示（1970年12月6日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7c9a254d2268e742223f.txt",
+  "text_sha256": "1a4aad782c3bc489f1a35f8a205614cdb1c9a29acc7c7bdc1702db5018e72848",
+  "text_chars": 402,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-7c9a254d2268e742223f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

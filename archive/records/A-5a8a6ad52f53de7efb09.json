@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-197409-12.htm",
+  "title": "毛泽东主席指示要点（1974年9—12月）",
+  "catalogue_entry_ids": [
+    "I-6ac9739c82a7f3e7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5a8a6ad52f53de7efb09",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:37.942654+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-197409-12.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d9b-5f1404081c280\"",
+  "last_modified": "Mon, 02 Jan 2023 04:19:06 GMT",
+  "raw_sha256": "417bcc28b1b9642c2f42a0b95f1302ed087246b77ffb5e16268092721d547f70",
+  "raw_bytes": 3483,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/417bcc28b1b9642c2f42a0b95f1302ed087246b77ffb5e16268092721d547f70.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席指示要点（1974年9—12月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5a8a6ad52f53de7efb09.txt",
+  "text_sha256": "6637071cb1c10c52a8d832e4edd445584e14604fd7e8416ad050a0993d8ac69b",
+  "text_chars": 1324,
+  "text_lines": 24,
+  "document_path": "archive/documents/A-5a8a6ad52f53de7efb09.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

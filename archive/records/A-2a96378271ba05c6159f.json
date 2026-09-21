@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700729.htm",
+  "title": "毛泽东主席会见朝鲜军事代表团谈话记录（1970年7月29日）",
+  "catalogue_entry_ids": [
+    "I-03d976131a0243db"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2a96378271ba05c6159f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:28.759133+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700729.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"408b-5f1401a992b80\"",
+  "last_modified": "Mon, 02 Jan 2023 04:08:30 GMT",
+  "raw_sha256": "34bea961180974e2ad7cf5b3d987f1de20e5184ffb99e2e279f1e2abb6a02010",
+  "raw_bytes": 16523,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/34bea961180974e2ad7cf5b3d987f1de20e5184ffb99e2e279f1e2abb6a02010.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见朝鲜军事代表团谈话记录（1970年7月29日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2a96378271ba05c6159f.txt",
+  "text_sha256": "7866cb91af932d3ad92c49bf192b117845e65a1b7b268c67ee9584a880185156",
+  "text_chars": 6734,
+  "text_lines": 375,
+  "document_path": "archive/documents/A-2a96378271ba05c6159f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

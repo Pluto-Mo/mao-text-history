@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730420.htm",
+  "title": "毛泽东会见墨西哥总统埃切维里亚的谈话（1973年4月20日）",
+  "catalogue_entry_ids": [
+    "I-e2921b32fed12145"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-03eb9eba2efeb1177c28",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:33.242292+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730420.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"f30-5f13fe7569c80\"",
+  "last_modified": "Mon, 02 Jan 2023 03:54:10 GMT",
+  "raw_sha256": "060ab5f4180bd7f254e44bcd683b502834ef20c487b372bffeb203c0b9028336",
+  "raw_bytes": 3888,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/060ab5f4180bd7f254e44bcd683b502834ef20c487b372bffeb203c0b9028336.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见墨西哥总统埃切维里亚的谈话（1973年4月20日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-03eb9eba2efeb1177c28.txt",
+  "text_sha256": "25170eacfb86cf9d44af855b09a1610a7a1da0f620bd5eee1d04f225822a4841",
+  "text_chars": 1401,
+  "text_lines": 67,
+  "document_path": "archive/documents/A-03eb9eba2efeb1177c28.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720710.htm",
+  "title": "毛泽东会见法国外长舒曼谈话节选（1972年7月10日）",
+  "catalogue_entry_ids": [
+    "I-cf96372e32869392"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-047425ee0953562098cb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:32.053309+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720710.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"98d-5f13fd3ba7840\"",
+  "last_modified": "Mon, 02 Jan 2023 03:48:41 GMT",
+  "raw_sha256": "b61cf375267186b29c0c22e35bae91675c06caf1071959d7f533e0e96f49ffaa",
+  "raw_bytes": 2445,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b61cf375267186b29c0c22e35bae91675c06caf1071959d7f533e0e96f49ffaa.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见法国外长舒曼谈话节选（1972年7月10日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-047425ee0953562098cb.txt",
+  "text_sha256": "8b268326c0c30e7882980ee0d4bae75c41dffcd5cefbb6af1f7864000253e9c2",
+  "text_chars": 775,
+  "text_lines": 36,
+  "document_path": "archive/documents/A-047425ee0953562098cb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

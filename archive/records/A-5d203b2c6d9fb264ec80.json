@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730729.htm",
+  "title": "毛泽东会见刚果人民共和国总统恩古瓦比的谈话（1973年7月29日）",
+  "catalogue_entry_ids": [
+    "I-660c9a3f865d71fc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5d203b2c6d9fb264ec80",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:34.155566+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730729.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"107f-5f13fd76c83c0\"",
+  "last_modified": "Mon, 02 Jan 2023 03:49:43 GMT",
+  "raw_sha256": "197df34eb547b97f8b90fb507e07532be2506b323530c46af6ab01af10638bfd",
+  "raw_bytes": 4223,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/197df34eb547b97f8b90fb507e07532be2506b323530c46af6ab01af10638bfd.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见刚果人民共和国总统恩古瓦比的谈话（1973年7月29日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5d203b2c6d9fb264ec80.txt",
+  "text_sha256": "9ab507d46174244c49af6ecd2c3d45f06d41dcd2510d3bd3a8f8496fd1991ce5",
+  "text_chars": 1564,
+  "text_lines": 67,
+  "document_path": "archive/documents/A-5d203b2c6d9fb264ec80.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

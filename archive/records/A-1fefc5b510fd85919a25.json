@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730113.htm",
+  "title": "毛泽东会见扎伊尔共和国总统蒙博托谈话记录节选（1973年1月13日）",
+  "catalogue_entry_ids": [
+    "I-b43f9cd1acc3c5dd"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1fefc5b510fd85919a25",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:32.640595+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730113.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e1e-5f13ffdedb140\"",
+  "last_modified": "Mon, 02 Jan 2023 04:00:29 GMT",
+  "raw_sha256": "154d7a7d5175cdba4027b85192e5047fe5228ad7fb84bb4c4f3bf7c442f1d6e4",
+  "raw_bytes": 3614,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/154d7a7d5175cdba4027b85192e5047fe5228ad7fb84bb4c4f3bf7c442f1d6e4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见扎伊尔共和国总统蒙博托谈话记录节选（1973年1月13日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1fefc5b510fd85919a25.txt",
+  "text_sha256": "617b8d8ede2f4d70653c1f223443066482f50292abeaf7335df698254513074e",
+  "text_chars": 1213,
+  "text_lines": 80,
+  "document_path": "archive/documents/A-1fefc5b510fd85919a25.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

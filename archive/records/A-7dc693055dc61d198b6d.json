@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680326.htm",
+  "title": "毛泽东主席对我党中央就缅共武装斗争20周年给缅共中央的贺电草稿的修改（1968年3月26日）",
+  "catalogue_entry_ids": [
+    "I-59005466e1d0751b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7dc693055dc61d198b6d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:24.590236+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680326.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"848-5c69dfc620280\"",
+  "last_modified": "Thu, 08 Jul 2021 15:05:30 GMT",
+  "raw_sha256": "c8177a14c480c417c780157f78603447d450819a4508194c65136de22d557439",
+  "raw_bytes": 2120,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c8177a14c480c417c780157f78603447d450819a4508194c65136de22d557439.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席对我党中央就缅共武装斗争20周年给缅共中央的贺电草稿的修改（1968年3月26日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7dc693055dc61d198b6d.txt",
+  "text_sha256": "1522c9056c1022522529f101c3c9214910c542c3c11f3cd2f9de573a197f0c1b",
+  "text_chars": 686,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-7dc693055dc61d198b6d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

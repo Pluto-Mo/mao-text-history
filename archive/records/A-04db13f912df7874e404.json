@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740525.htm",
+  "title": "毛泽东会见英国前首相希思谈话记录节选（1974年5月25日）",
+  "catalogue_entry_ids": [
+    "I-91a049767e1def52"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-04db13f912df7874e404",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:36.549409+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740525.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"15eb-5f13ff94781c0\"",
+  "last_modified": "Mon, 02 Jan 2023 03:59:11 GMT",
+  "raw_sha256": "8445505beb2c81ec0e75cb32befc6360ddcb03222616da4f5070eb4e4df8169e",
+  "raw_bytes": 5611,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8445505beb2c81ec0e75cb32befc6360ddcb03222616da4f5070eb4e4df8169e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见英国前首相希思谈话记录节选（1974年5月25日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-04db13f912df7874e404.txt",
+  "text_sha256": "7498add2000e3f548d8f4cae6da3da495a70c4e93f8d7abaacccb4407ece1073",
+  "text_chars": 2223,
+  "text_lines": 89,
+  "document_path": "archive/documents/A-04db13f912df7874e404.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

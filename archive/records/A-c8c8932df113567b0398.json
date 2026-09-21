@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680813.htm",
+  "title": "毛泽东主席在《关于处理马共主席穆沙要求发表文章的请示报告》上的批示（1968年8月13日）",
+  "catalogue_entry_ids": [
+    "I-6de57ddfdb192b5e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c8c8932df113567b0398",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:25.138325+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680813.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6d3-5c69e3ae87ac0\"",
+  "last_modified": "Thu, 08 Jul 2021 15:22:59 GMT",
+  "raw_sha256": "9830e2c86907f7113b25f25ac30854040b23e72f04060dc42c32a0488aa461e5",
+  "raw_bytes": 1747,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9830e2c86907f7113b25f25ac30854040b23e72f04060dc42c32a0488aa461e5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在《关于处理马共主席穆沙要求发表文章的请示报告》上的批示（1968年8月13日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c8c8932df113567b0398.txt",
+  "text_sha256": "e32d6069e2f20dba745a952a353bbc97e8c0495e8ea76091922ff6aada12b31a",
+  "text_chars": 494,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-c8c8932df113567b0398.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

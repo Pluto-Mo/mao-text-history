@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680524.htm",
+  "title": "毛泽东主席会见几内亚、马里联合友好访华代表团谈话记录（1968年5月24日）",
+  "catalogue_entry_ids": [
+    "I-f983eacb54646a76"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3240dbb0042c60440f12",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:24.591036+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680524.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1d6a-5c69e091421c0\"",
+  "last_modified": "Thu, 08 Jul 2021 15:09:03 GMT",
+  "raw_sha256": "1927ab5de1dbbe9a50d41a1c798ee73a6d7c2d56d913863df8f30ca1d87aca0c",
+  "raw_bytes": 7530,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1927ab5de1dbbe9a50d41a1c798ee73a6d7c2d56d913863df8f30ca1d87aca0c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见几内亚、马里联合友好访华代表团谈话记录（1968年5月24日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3240dbb0042c60440f12.txt",
+  "text_sha256": "e8303274678c0343881c8cd79c32407a104331e26f786347fac4288e9c934bb8",
+  "text_chars": 3026,
+  "text_lines": 126,
+  "document_path": "archive/documents/A-3240dbb0042c60440f12.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

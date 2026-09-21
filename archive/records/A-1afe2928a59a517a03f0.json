@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680805.htm",
+  "title": "毛泽东主席会见巴基斯坦外交部长侯赛因谈话记录（1968年8月5日）",
+  "catalogue_entry_ids": [
+    "I-7689f87b48331e46"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1afe2928a59a517a03f0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:24.591391+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680805.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"362f-5c69e030efe80\"",
+  "last_modified": "Thu, 08 Jul 2021 15:07:22 GMT",
+  "raw_sha256": "66aba26626d8c4b30846baf226a89b06dda2a9429191e2efecc181fc0c1ffa98",
+  "raw_bytes": 13871,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/66aba26626d8c4b30846baf226a89b06dda2a9429191e2efecc181fc0c1ffa98.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见巴基斯坦外交部长侯赛因谈话记录（1968年8月5日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1afe2928a59a517a03f0.txt",
+  "text_sha256": "3f744651ac43bdeecee15e392e75b9f36276b6d754d692578038e75105221a80",
+  "text_chars": 5794,
+  "text_lines": 256,
+  "document_path": "archive/documents/A-1afe2928a59a517a03f0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

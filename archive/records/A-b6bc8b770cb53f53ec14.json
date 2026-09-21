@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700511.htm",
+  "title": "毛泽东主席接见越共第一书记黎笋谈话记录（1970年5月11日）",
+  "catalogue_entry_ids": [
+    "I-29f52b4a065079d0"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b6bc8b770cb53f53ec14",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:28.053661+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700511.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"36d0-5f1403c742980\"",
+  "last_modified": "Mon, 02 Jan 2023 04:17:58 GMT",
+  "raw_sha256": "df41a79c6dad35578cf25c2fba30f21270a27afe1f6551b8e904fe6ad6a4b0e1",
+  "raw_bytes": 14032,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/df41a79c6dad35578cf25c2fba30f21270a27afe1f6551b8e904fe6ad6a4b0e1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席接见越共第一书记黎笋谈话记录（1970年5月11日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b6bc8b770cb53f53ec14.txt",
+  "text_sha256": "78dcf0106f8dac1369392b6f472a2c444c6bb9ba7ce7a470b928f12cf5371e5e",
+  "text_chars": 6031,
+  "text_lines": 205,
+  "document_path": "archive/documents/A-b6bc8b770cb53f53ec14.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

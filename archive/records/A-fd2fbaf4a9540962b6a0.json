@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19750621.htm",
+  "title": "毛泽东主席会见柬埔寨共产党中央书记波尔布特谈话记录（1975年6月21日）",
+  "catalogue_entry_ids": [
+    "I-cd7939475cbb89cf"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fd2fbaf4a9540962b6a0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:39.250265+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19750621.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1791-5f1402b86aa80\"",
+  "last_modified": "Mon, 02 Jan 2023 04:13:14 GMT",
+  "raw_sha256": "676089f53c6857c44c724bd6a966c12afc476c7939df60171f516f0b71c046f3",
+  "raw_bytes": 6033,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/676089f53c6857c44c724bd6a966c12afc476c7939df60171f516f0b71c046f3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见柬埔寨共产党中央书记波尔布特谈话记录（1975年6月21日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fd2fbaf4a9540962b6a0.txt",
+  "text_sha256": "0f99d41f45179575ba2c7d2a24eaca15ce1422035c1e79607cf46e2b7025417e",
+  "text_chars": 2471,
+  "text_lines": 80,
+  "document_path": "archive/documents/A-fd2fbaf4a9540962b6a0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19681001.htm",
+  "title": "毛泽东主席同巴卢库谈话记录（1968年10月1日）",
+  "catalogue_entry_ids": [
+    "I-b0e08df83d697b43"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7857ea8ccedaa74d3d2a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:25.752906+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19681001.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"13a4-5c69e34a64e80\"",
+  "last_modified": "Thu, 08 Jul 2021 15:21:14 GMT",
+  "raw_sha256": "2c08ae95c32612b735e72b7d8c74b9634b34bee1cd48202b17f4bc63a628d544",
+  "raw_bytes": 5028,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2c08ae95c32612b735e72b7d8c74b9634b34bee1cd48202b17f4bc63a628d544.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席同巴卢库谈话记录（1968年10月1日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7857ea8ccedaa74d3d2a.txt",
+  "text_sha256": "d8fb8d4c2bb854b7c38813e13ed3f21d56011600f1e928886917307344800111",
+  "text_chars": 1913,
+  "text_lines": 81,
+  "document_path": "archive/documents/A-7857ea8ccedaa74d3d2a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

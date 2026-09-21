@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740222.htm",
+  "title": "毛泽东会见赞比亚总统卡翁达和夫人的谈话（1974年2月22日）",
+  "catalogue_entry_ids": [
+    "I-409c5eb4bc176508"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bf4de25fbf76a57e0f75",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:35.353367+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740222.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1efb-5f13ffc333000\"",
+  "last_modified": "Mon, 02 Jan 2023 04:00:00 GMT",
+  "raw_sha256": "9a020d656fbe1f6eabaae47ae507134fbdf0a0f31659b3f2440f2a8f75891f89",
+  "raw_bytes": 7931,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9a020d656fbe1f6eabaae47ae507134fbdf0a0f31659b3f2440f2a8f75891f89.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见赞比亚总统卡翁达和夫人的谈话（1974年2月22日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bf4de25fbf76a57e0f75.txt",
+  "text_sha256": "c40ebf29bc9ba95823b596b99f67edb5c37dac62a209362ac3afe066317e43fa",
+  "text_chars": 3267,
+  "text_lines": 125,
+  "document_path": "archive/documents/A-bf4de25fbf76a57e0f75.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

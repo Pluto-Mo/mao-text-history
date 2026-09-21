@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680329.htm",
+  "title": "毛泽东主席在发表缅共武装斗争20年的声明的请示报告上的批示（1968年3月29日）",
+  "catalogue_entry_ids": [
+    "I-6c55d12ef59ad8b1"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b22130d62c5311c7aab5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:24.590767+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680329.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4d1-5c69e47208800\"",
+  "last_modified": "Thu, 08 Jul 2021 15:26:24 GMT",
+  "raw_sha256": "e81b9206917a19409c5a1ec1cf0626e219377600031e45fd2ab1ff9d9bd11a74",
+  "raw_bytes": 1233,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e81b9206917a19409c5a1ec1cf0626e219377600031e45fd2ab1ff9d9bd11a74.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在发表缅共武装斗争20年的声明的请示报告上的批示（1968年3月29日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b22130d62c5311c7aab5.txt",
+  "text_sha256": "97e994f2a263fd3fe914792e634ccf7561aab4cb5e596caf962291648f233330",
+  "text_chars": 241,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-b22130d62c5311c7aab5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701008.htm",
+  "title": "毛泽东主席第一次会见金日成首相的谈话（1970年10月8日）",
+  "catalogue_entry_ids": [
+    "I-44796ec5f3244b34"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9d007a09717fe28e9ed6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:30.122220+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701008.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"176d-5f1401456ff40\"",
+  "last_modified": "Mon, 02 Jan 2023 04:06:45 GMT",
+  "raw_sha256": "57cd3516e6c188fd1e40c0e058e68da5f50c5d732c670d3bc360e818d0670aff",
+  "raw_bytes": 5997,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/57cd3516e6c188fd1e40c0e058e68da5f50c5d732c670d3bc360e818d0670aff.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席第一次会见金日成首相的谈话（1970年10月8日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9d007a09717fe28e9ed6.txt",
+  "text_sha256": "1582d87f2a6b5b417d298c4c880fdac406740cfd42677667e6093df57f82c948",
+  "text_chars": 2444,
+  "text_lines": 67,
+  "document_path": "archive/documents/A-9d007a09717fe28e9ed6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

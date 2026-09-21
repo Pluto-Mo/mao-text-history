@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730912.htm",
+  "title": "毛泽东会见法国总统蓬皮杜谈话节选（1973年9月12日）",
+  "catalogue_entry_ids": [
+    "I-b5a84617fd434e71"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-789e1a1d3e7f7730744e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:34.439760+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730912.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"85d-5f13fd5a2c040\"",
+  "last_modified": "Mon, 02 Jan 2023 03:49:13 GMT",
+  "raw_sha256": "777fc2826d1d0c8023720ae5e09bc876be79c1a81663d8e13151cc20091b47a0",
+  "raw_bytes": 2141,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/777fc2826d1d0c8023720ae5e09bc876be79c1a81663d8e13151cc20091b47a0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见法国总统蓬皮杜谈话节选（1973年9月12日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-789e1a1d3e7f7730744e.txt",
+  "text_sha256": "19bc9e2bd5a65a9ce858533662ccb94378df1d679362d942289087e9fb0f1cc2",
+  "text_chars": 668,
+  "text_lines": 31,
+  "document_path": "archive/documents/A-789e1a1d3e7f7730744e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700627.htm",
+  "title": "毛泽东主席会见朝鲜民主主义人民共和国代表团谈话记录（1970年6月27日）",
+  "catalogue_entry_ids": [
+    "I-adb78b331dc82632"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ab7238bcfdbe599e4e07",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:28.315395+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700627.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"36fd-5f140284eb100\"",
+  "last_modified": "Mon, 02 Jan 2023 04:12:20 GMT",
+  "raw_sha256": "d0691b8f1f797fb83b21b8917ed1502ced6852f2a815a10ebc1b3a42dabb5b92",
+  "raw_bytes": 14077,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d0691b8f1f797fb83b21b8917ed1502ced6852f2a815a10ebc1b3a42dabb5b92.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见朝鲜民主主义人民共和国代表团谈话记录（1970年6月27日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ab7238bcfdbe599e4e07.txt",
+  "text_sha256": "3d6f004e211d88585ee3c4352f7cbc5a9d3b225264e41bb753682f95be73d47a",
+  "text_chars": 5935,
+  "text_lines": 233,
+  "document_path": "archive/documents/A-ab7238bcfdbe599e4e07.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

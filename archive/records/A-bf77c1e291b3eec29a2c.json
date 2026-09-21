@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19731102.htm",
+  "title": "毛泽东会见澳大利亚总理惠特拉姆谈话记录节选（1973年11月2日）",
+  "catalogue_entry_ids": [
+    "I-843ed7c9dd39db7d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bf77c1e291b3eec29a2c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:34.745754+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19731102.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b17-5f13fd21e7b80\"",
+  "last_modified": "Mon, 02 Jan 2023 03:48:14 GMT",
+  "raw_sha256": "19a1260202f5eba07507a7d866a8d7a9e92dad01c95359379e9b4e11562d8a7c",
+  "raw_bytes": 2839,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/19a1260202f5eba07507a7d866a8d7a9e92dad01c95359379e9b4e11562d8a7c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见澳大利亚总理惠特拉姆谈话记录节选（1973年11月2日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bf77c1e291b3eec29a2c.txt",
+  "text_sha256": "10c4072324f389387911540c1101d6b0dc1176002e346b6d2739634f6526862e",
+  "text_chars": 994,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-bf77c1e291b3eec29a2c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

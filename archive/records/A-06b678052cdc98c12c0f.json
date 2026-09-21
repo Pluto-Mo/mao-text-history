@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19750503.htm",
+  "title": "毛泽东同在京中央政治局委员的谈话（1975年5月3日）",
+  "catalogue_entry_ids": [
+    "I-1067fac9b329ea2c"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-06b678052cdc98c12c0f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:38.950335+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19750503.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"20e9-5f140112e4800\"",
+  "last_modified": "Mon, 02 Jan 2023 04:05:52 GMT",
+  "raw_sha256": "bbe9fbdf3a15e06ec1ae9c651108fd0663159c09dc2c3b13d764e4e9b309f7c3",
+  "raw_bytes": 8425,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bbe9fbdf3a15e06ec1ae9c651108fd0663159c09dc2c3b13d764e4e9b309f7c3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东同在京中央政治局委员的谈话（1975年5月3日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-06b678052cdc98c12c0f.txt",
+  "text_sha256": "ab346ac2065846c4a70e13dca6667cadcd373b6a902165915b9ba1e696ce7e5e",
+  "text_chars": 3523,
+  "text_lines": 104,
+  "document_path": "archive/documents/A-06b678052cdc98c12c0f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19690228.htm",
+  "title": "毛泽东主席会见几内亚政府代表团谈话记录（1969年2月28日）",
+  "catalogue_entry_ids": [
+    "I-66973ab245b515a4"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-54f177584e1e8fe23161",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:27.235981+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19690228.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"21f5-5c69e0e069c80\"",
+  "last_modified": "Thu, 08 Jul 2021 15:10:26 GMT",
+  "raw_sha256": "4036cc965f494f5fe77cde95993cb365303accf2987cf753250670468ef8a8d4",
+  "raw_bytes": 8693,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4036cc965f494f5fe77cde95993cb365303accf2987cf753250670468ef8a8d4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见几内亚政府代表团谈话记录（1969年2月28日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-54f177584e1e8fe23161.txt",
+  "text_sha256": "a9cd092eb58d8e1a9ecf51881293e34e2e84f378c9fe7e96c175d36256e5bf21",
+  "text_chars": 3676,
+  "text_lines": 99,
+  "document_path": "archive/documents/A-54f177584e1e8fe23161.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

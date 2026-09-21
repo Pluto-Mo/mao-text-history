@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700922.htm",
+  "title": "毛泽东主席在《关于“苏共十九大拥护者”要求我发表该组织的两个信件的请示报告》上的批示（1970年9月22日）",
+  "catalogue_entry_ids": [
+    "I-7a13741173b99d70"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fedd7daa94a3c191bf40",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:29.031533+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19700922.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"555-5f1403e1f6880\"",
+  "last_modified": "Mon, 02 Jan 2023 04:18:26 GMT",
+  "raw_sha256": "1c2bb7adc628a5968d61c82ff5ff30785e802d17bafab24be9dcb4e3d961dc1a",
+  "raw_bytes": 1365,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1c2bb7adc628a5968d61c82ff5ff30785e802d17bafab24be9dcb4e3d961dc1a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在《关于“苏共十九大拥护者”要求我发表该组织的两个信件的请示报告》上的批示（1970年9月22日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fedd7daa94a3c191bf40.txt",
+  "text_sha256": "b4d35e018e3941ff8a52ff49542114ab2ebe5361582cfc124c12ce5804367c6c",
+  "text_chars": 310,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-fedd7daa94a3c191bf40.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

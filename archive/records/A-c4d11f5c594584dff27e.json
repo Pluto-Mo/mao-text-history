@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740530.htm",
+  "title": "毛泽东会见李政道教授谈话记录节选（1974年5月30日）",
+  "catalogue_entry_ids": [
+    "I-4b99db184a8cf639"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c4d11f5c594584dff27e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:37.136159+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740530.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1fdf-5f13fdd902b80\"",
+  "last_modified": "Mon, 02 Jan 2023 03:51:26 GMT",
+  "raw_sha256": "4255a3e4ec29a0f629f30d53a70faa8a89456f7d82f44931930a84f30026dfef",
+  "raw_bytes": 8159,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4255a3e4ec29a0f629f30d53a70faa8a89456f7d82f44931930a84f30026dfef.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见李政道教授谈话记录节选（1974年5月30日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c4d11f5c594584dff27e.txt",
+  "text_sha256": "ea4ece9ea732cf72810b525ae041b17062ab155ab9c85ce8fb9d16a2185c9b9f",
+  "text_chars": 3383,
+  "text_lines": 126,
+  "document_path": "archive/documents/A-c4d11f5c594584dff27e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

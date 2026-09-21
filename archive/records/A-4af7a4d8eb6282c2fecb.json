@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720628.htm",
+  "title": "毛泽东会见斯里兰卡总理班达拉奈克夫人谈话记录节选（1972年6月28日）",
+  "catalogue_entry_ids": [
+    "I-6889fa31650b2a20"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4af7a4d8eb6282c2fecb",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:31.747191+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720628.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1381-5f13fecd26b80\"",
+  "last_modified": "Mon, 02 Jan 2023 03:55:42 GMT",
+  "raw_sha256": "39eb6e7b5a8364e2820528db645a09b70265b4be48b82967a2605daccf7c1cac",
+  "raw_bytes": 4993,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/39eb6e7b5a8364e2820528db645a09b70265b4be48b82967a2605daccf7c1cac.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见斯里兰卡总理班达拉奈克夫人谈话记录节选（1972年6月28日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4af7a4d8eb6282c2fecb.txt",
+  "text_sha256": "2144b63b1e4d40460d5e16e413d8ca40a2186bb77db30f88482e6fd8d8bb5c4b",
+  "text_chars": 1931,
+  "text_lines": 78,
+  "document_path": "archive/documents/A-4af7a4d8eb6282c2fecb.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

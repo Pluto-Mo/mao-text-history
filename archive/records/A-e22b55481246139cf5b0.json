@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19750418.htm",
+  "title": "毛泽东主席会见朝鲜劳动党总书记、共和国主席金日成谈话记录（1975年4月18日）",
+  "catalogue_entry_ids": [
+    "I-69fe7c7193103ecb"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e22b55481246139cf5b0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:38.646324+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19750418.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"244b-5f14021debe00\"",
+  "last_modified": "Mon, 02 Jan 2023 04:10:32 GMT",
+  "raw_sha256": "29a8e15632efda7ada1548ebaaec1c9ef62ab1c899604ab50a1815f7cb3dba06",
+  "raw_bytes": 9291,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/29a8e15632efda7ada1548ebaaec1c9ef62ab1c899604ab50a1815f7cb3dba06.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见朝鲜劳动党总书记、共和国主席金日成谈话记录（1975年4月18日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e22b55481246139cf5b0.txt",
+  "text_sha256": "5362be8ab506f1adc862a5ff82aa67dff9dadd5ac8c5103529e01977ed7e84fe",
+  "text_chars": 3669,
+  "text_lines": 201,
+  "document_path": "archive/documents/A-e22b55481246139cf5b0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

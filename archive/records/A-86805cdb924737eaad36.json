@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19731112.htm",
+  "title": "毛泽东会见基辛格的谈话（1973年11月12日）",
+  "catalogue_entry_ids": [
+    "I-d27125bc6f7f83e2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-86805cdb924737eaad36",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:35.036600+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19731112.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"20ff-5f13fdab3bf80\"",
+  "last_modified": "Mon, 02 Jan 2023 03:50:38 GMT",
+  "raw_sha256": "9f0995df16361e0ef1d1ec76d95db5156edc41140dac1637a6726fdea3df76b0",
+  "raw_bytes": 8447,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9f0995df16361e0ef1d1ec76d95db5156edc41140dac1637a6726fdea3df76b0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见基辛格的谈话（1973年11月12日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-86805cdb924737eaad36.txt",
+  "text_sha256": "a21a80c00e20a7d57cd9b2885fd9abb73df92c70fe7c608faf6433fc53b5bd5d",
+  "text_chars": 3439,
+  "text_lines": 157,
+  "document_path": "archive/documents/A-86805cdb924737eaad36.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

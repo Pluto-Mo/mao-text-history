@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19681219.htm",
+  "title": "毛泽东主席在《关于新共拟派代表团来华会谈问题的请示报告》上的批示（1968年12月19日）",
+  "catalogue_entry_ids": [
+    "I-0b08f29512f722db"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f95e04ae4352314a1093",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:26.940909+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19681219.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"511-5c69e3e8b4400\"",
+  "last_modified": "Thu, 08 Jul 2021 15:24:00 GMT",
+  "raw_sha256": "09cdc3921efa9dffb6a0f96beb2e9aba4b0dd0d37e619b3a7492665e5854edc9",
+  "raw_bytes": 1297,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/09cdc3921efa9dffb6a0f96beb2e9aba4b0dd0d37e619b3a7492665e5854edc9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席在《关于新共拟派代表团来华会谈问题的请示报告》上的批示（1968年12月19日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f95e04ae4352314a1093.txt",
+  "text_sha256": "0bc65a3b6fa9d7bdf84a009737d126f1a7568258144462047af559f9919356f9",
+  "text_chars": 276,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-f95e04ae4352314a1093.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

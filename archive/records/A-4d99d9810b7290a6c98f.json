@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730622.htm",
+  "title": "毛泽东会见马里国家元首特拉奥雷的谈话（1973年6月22日）",
+  "catalogue_entry_ids": [
+    "I-aa5e58d92b172ead"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4d99d9810b7290a6c98f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:33.845619+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730622.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"cba-5f13fe1bc4900\"",
+  "last_modified": "Mon, 02 Jan 2023 03:52:36 GMT",
+  "raw_sha256": "a9485a0ed292504ecd6ebc25bfad22c86e532e100606f3d4de75ad461306e53f",
+  "raw_bytes": 3258,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a9485a0ed292504ecd6ebc25bfad22c86e532e100606f3d4de75ad461306e53f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见马里国家元首特拉奥雷的谈话（1973年6月22日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4d99d9810b7290a6c98f.txt",
+  "text_sha256": "3248a9d51547ab47cb21d708d0b7124ca058f7e0859f70b370a3dee72ea00d9a",
+  "text_chars": 1175,
+  "text_lines": 44,
+  "document_path": "archive/documents/A-4d99d9810b7290a6c98f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

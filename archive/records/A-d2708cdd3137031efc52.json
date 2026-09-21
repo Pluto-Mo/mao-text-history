@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701010.htm",
+  "title": "毛泽东主席第二次会见金日成首相的谈话（1970年10月10日）",
+  "catalogue_entry_ids": [
+    "I-2673d03751883a4b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d2708cdd3137031efc52",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:30.431306+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701010.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"772-5f14012abc040\"",
+  "last_modified": "Mon, 02 Jan 2023 04:06:17 GMT",
+  "raw_sha256": "d748d55f46ed7cf9ad4f902d0d558b3addb1e745923ed8c810120f7118e63ed1",
+  "raw_bytes": 1906,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d748d55f46ed7cf9ad4f902d0d558b3addb1e745923ed8c810120f7118e63ed1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席第二次会见金日成首相的谈话（1970年10月10日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d2708cdd3137031efc52.txt",
+  "text_sha256": "51ad34aea7c497a765506a89b1456587af340b05cdd0ebbb6963c3837574cd74",
+  "text_chars": 544,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-d2708cdd3137031efc52.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

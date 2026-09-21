@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-197409-12-1.htm",
+  "title": "指示要点（1974年9—12月）",
+  "catalogue_entry_ids": [
+    "I-c3e90a38ac946bc0"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9a56858852a377e1db57",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:37.441100+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-197409-12-1.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"733-5f1404311e340\"",
+  "last_modified": "Mon, 02 Jan 2023 04:19:49 GMT",
+  "raw_sha256": "38621421fbcf3191b69a7e2251da3fe675721d5115adf35954464629d2cf8b26",
+  "raw_bytes": 1843,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/38621421fbcf3191b69a7e2251da3fe675721d5115adf35954464629d2cf8b26.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "指示要点（1974年9—12月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9a56858852a377e1db57.txt",
+  "text_sha256": "d426e5841e05daa3df0195f28ee8003e92b5fe3bfa89f938ae46beff10515986",
+  "text_chars": 518,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-9a56858852a377e1db57.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

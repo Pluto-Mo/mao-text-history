@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19681117.htm",
+  "title": "毛泽东主席会见越南总理范文同谈话记录（1968年11月17日）",
+  "catalogue_entry_ids": [
+    "I-bcc13c24fb20af8f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d76ad681ca7dcf35da3e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:26.534774+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19681117.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5777-5c69e2812b3c0\"",
+  "last_modified": "Thu, 08 Jul 2021 15:17:43 GMT",
+  "raw_sha256": "dc06cb733409d25f5496e823bef50704e7212c7eb5ebf0fd1183a8871600c980",
+  "raw_bytes": 22391,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dc06cb733409d25f5496e823bef50704e7212c7eb5ebf0fd1183a8871600c980.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见越南总理范文同谈话记录（1968年11月17日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d76ad681ca7dcf35da3e.txt",
+  "text_sha256": "f35952f53011d74a095e872bcf4a5ef896d1a757bde3ed367b1b1ea450053920",
+  "text_chars": 9512,
+  "text_lines": 427,
+  "document_path": "archive/documents/A-d76ad681ca7dcf35da3e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

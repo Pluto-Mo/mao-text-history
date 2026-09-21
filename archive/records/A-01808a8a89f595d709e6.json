@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19741020.htm",
+  "title": "毛泽东同丹麦首相保罗·哈特林的谈话（1974年10月20日）",
+  "catalogue_entry_ids": [
+    "I-07b386bb85e5b08d"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-01808a8a89f595d709e6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:38.053229+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19741020.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"15e5-5f13fffd5f940\"",
+  "last_modified": "Mon, 02 Jan 2023 04:01:01 GMT",
+  "raw_sha256": "93e06db94d2055cf3f797ad19a61aad1207752d700133ad96732287231f26065",
+  "raw_bytes": 5605,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/93e06db94d2055cf3f797ad19a61aad1207752d700133ad96732287231f26065.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东同丹麦首相保罗·哈特林的谈话（1974年10月20日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-01808a8a89f595d709e6.txt",
+  "text_sha256": "0aed746b0c4865a370a1adb73f2ce3cffcfe856597418c5b92ebf19ea02b8bef",
+  "text_chars": 2242,
+  "text_lines": 79,
+  "document_path": "archive/documents/A-01808a8a89f595d709e6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

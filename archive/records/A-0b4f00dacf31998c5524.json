@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701001.htm",
+  "title": "毛泽东主席会见缅共副主席德钦巴登顶谈话记录（1970年10月1日）",
+  "catalogue_entry_ids": [
+    "I-240c6835979ff675"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0b4f00dacf31998c5524",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:29.818146+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19701001.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"17ec-5f140337415c0\"",
+  "last_modified": "Mon, 02 Jan 2023 04:15:27 GMT",
+  "raw_sha256": "1330c85af8bd5a8d5ba155c7b6eec1e39de4350561beec7c47e25e8e4b00b366",
+  "raw_bytes": 6124,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1330c85af8bd5a8d5ba155c7b6eec1e39de4350561beec7c47e25e8e4b00b366.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见缅共副主席德钦巴登顶谈话记录（1970年10月1日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0b4f00dacf31998c5524.txt",
+  "text_sha256": "4c9ffe2e2140da7a96d68a4d2f99e5137090c16a646c359da5da3e0a9f25bac6",
+  "text_chars": 2448,
+  "text_lines": 85,
+  "document_path": "archive/documents/A-0b4f00dacf31998c5524.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

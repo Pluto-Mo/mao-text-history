@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680621.htm",
+  "title": "毛泽东主席会见坦桑尼亚总统尼雷尔谈话记录（1968年6月21日）",
+  "catalogue_entry_ids": [
+    "I-0afa9992dba070ad"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8a695184b9b467b9992d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:24.592215+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680621.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3519-5c69e2006c400\"",
+  "last_modified": "Thu, 08 Jul 2021 15:15:28 GMT",
+  "raw_sha256": "220f42522156cb48e62ff8ca7e71f8309dbbd5eebb2fc6b3d680bfed8302f5df",
+  "raw_bytes": 13593,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/220f42522156cb48e62ff8ca7e71f8309dbbd5eebb2fc6b3d680bfed8302f5df.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见坦桑尼亚总统尼雷尔谈话记录（1968年6月21日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8a695184b9b467b9992d.txt",
+  "text_sha256": "2e892517b6f973a07197da269a25fce58be444d7c143a9d30d90262f99cf5859",
+  "text_chars": 5640,
+  "text_lines": 260,
+  "document_path": "archive/documents/A-8a695184b9b467b9992d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720927.htm",
+  "title": "毛泽东会见日本内阁总理大臣田中角荣谈话记录节选（1972年9月27日）",
+  "catalogue_entry_ids": [
+    "I-10a0f7f9eaa62a47"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a7b4ddc37887cee4fe4f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:32.341934+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720927.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1516-5f13feadae140\"",
+  "last_modified": "Mon, 02 Jan 2023 03:55:09 GMT",
+  "raw_sha256": "d21423ab13045480cdae35300597831279bc03230602c0699a402cd4819b04c7",
+  "raw_bytes": 5398,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d21423ab13045480cdae35300597831279bc03230602c0699a402cd4819b04c7.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见日本内阁总理大臣田中角荣谈话记录节选（1972年9月27日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a7b4ddc37887cee4fe4f.txt",
+  "text_sha256": "8f4cff9a9e20ebb5544fa33e217e2df2fc4c62a7baef93736570a04447c0b9e2",
+  "text_chars": 2031,
+  "text_lines": 104,
+  "document_path": "archive/documents/A-a7b4ddc37887cee4fe4f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

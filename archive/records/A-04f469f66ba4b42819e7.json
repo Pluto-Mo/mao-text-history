@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740325.htm",
+  "title": "毛泽东会见坦桑尼亚总统尼雷尔的谈话（1974年3月25日）",
+  "catalogue_entry_ids": [
+    "I-ca7f03139e77fbf3"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-04f469f66ba4b42819e7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:35.938176+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740325.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"185b-5f13ff13b9200\"",
+  "last_modified": "Mon, 02 Jan 2023 03:56:56 GMT",
+  "raw_sha256": "89c9fc4f8b5f61826f022ec04fe62280d3a470bdbacdbbdea982e5dadd2106f1",
+  "raw_bytes": 6235,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/89c9fc4f8b5f61826f022ec04fe62280d3a470bdbacdbbdea982e5dadd2106f1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见坦桑尼亚总统尼雷尔的谈话（1974年3月25日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-04f469f66ba4b42819e7.txt",
+  "text_sha256": "1f13b06501ae426c69674cd2f858fd25081f14e5944ea7851f5887362ad0085f",
+  "text_chars": 2425,
+  "text_lines": 119,
+  "document_path": "archive/documents/A-04f469f66ba4b42819e7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

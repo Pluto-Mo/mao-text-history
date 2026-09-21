@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19710807.htm",
+  "title": "毛泽东会见奈温谈话记录节选（1971年8月7日）",
+  "catalogue_entry_ids": [
+    "I-2f0a0cb7de218093"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-52799fbd1b61569e9d2d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:31.154578+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19710807.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e80-5f13fe93ee480\"",
+  "last_modified": "Mon, 02 Jan 2023 03:54:42 GMT",
+  "raw_sha256": "53755b9794b7dd5b2721c2b62bd2bec3c4cdfb2f6ce2d169f9ca1e5d49a3148a",
+  "raw_bytes": 3712,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/53755b9794b7dd5b2721c2b62bd2bec3c4cdfb2f6ce2d169f9ca1e5d49a3148a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见奈温谈话记录节选（1971年8月7日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-52799fbd1b61569e9d2d.txt",
+  "text_sha256": "5af62f9b067c8499b77314d8c2c42cbe38bcb8ab02ce5fbff4e9e931885f8118",
+  "text_chars": 1350,
+  "text_lines": 56,
+  "document_path": "archive/documents/A-52799fbd1b61569e9d2d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

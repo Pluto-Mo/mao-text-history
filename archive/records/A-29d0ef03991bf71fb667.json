@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720221.htm",
+  "title": "毛泽东会见美国总统尼克松的谈话（1972年2月21日）",
+  "catalogue_entry_ids": [
+    "I-fa867467678c8b2f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-29d0ef03991bf71fb667",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:31.454788+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19720221.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"161c-5f13fe3f0dc40\"",
+  "last_modified": "Mon, 02 Jan 2023 03:53:13 GMT",
+  "raw_sha256": "8bcc4a61438a32a70aed4d3e09431b53cb86f8e6d73a995107dac3708bad7d75",
+  "raw_bytes": 5660,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8bcc4a61438a32a70aed4d3e09431b53cb86f8e6d73a995107dac3708bad7d75.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见美国总统尼克松的谈话（1972年2月21日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-29d0ef03991bf71fb667.txt",
+  "text_sha256": "89a3b7b06af55e29c2629e870266f01f92411623411f59ce2e31a5c76f596d4c",
+  "text_chars": 2197,
+  "text_lines": 101,
+  "document_path": "archive/documents/A-29d0ef03991bf71fb667.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

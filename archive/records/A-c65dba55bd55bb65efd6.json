@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730217.htm",
+  "title": "毛泽东会见基辛格博士的谈话（1973年2月17日）",
+  "catalogue_entry_ids": [
+    "I-6ad7caba2a9cfe12"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c65dba55bd55bb65efd6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:32.951289+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730217.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1822-5f13fd8f93e40\"",
+  "last_modified": "Mon, 02 Jan 2023 03:50:09 GMT",
+  "raw_sha256": "de9c2680f1571051a476c9a6546c4327b2ffd5e96e5a28ae6d68a96d06e5932e",
+  "raw_bytes": 6178,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/de9c2680f1571051a476c9a6546c4327b2ffd5e96e5a28ae6d68a96d06e5932e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见基辛格博士的谈话（1973年2月17日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c65dba55bd55bb65efd6.txt",
+  "text_sha256": "6e2ddf538a389e2b3dff7c63320ab6eef1a0588db6ae430dafcde3388add9931",
+  "text_chars": 2465,
+  "text_lines": 100,
+  "document_path": "archive/documents/A-c65dba55bd55bb65efd6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

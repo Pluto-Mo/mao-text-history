@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730605.htm",
+  "title": "毛泽东会见黎笋、范文同谈话记录节选（1973年6月5日）",
+  "catalogue_entry_ids": [
+    "I-21e6e242985ebca7"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-054ed55fb1f3988f7ca2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:33.544061+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19730605.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"796-5f13fdc7d8300\"",
+  "last_modified": "Mon, 02 Jan 2023 03:51:08 GMT",
+  "raw_sha256": "ecc0bf391539160aaa793e0cef55b5d895677018a5d8180b88a644ab70220508",
+  "raw_bytes": 1942,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ecc0bf391539160aaa793e0cef55b5d895677018a5d8180b88a644ab70220508.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见黎笋、范文同谈话记录节选（1973年6月5日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-054ed55fb1f3988f7ca2.txt",
+  "text_sha256": "3b0d6f31cfe6b1c76d5894b89dd06a3949159610e8474a824cc222dff1f804dd",
+  "text_chars": 550,
+  "text_lines": 27,
+  "document_path": "archive/documents/A-054ed55fb1f3988f7ca2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

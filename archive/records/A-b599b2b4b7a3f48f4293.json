@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19710603.htm",
+  "title": "毛泽东主席会见齐奥塞斯库谈话记录节选（1971年6月3日）",
+  "catalogue_entry_ids": [
+    "I-497a5a23e883bf1b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-b599b2b4b7a3f48f4293",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:30.835395+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19710603.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1ec3-5f14035d66fc0\"",
+  "last_modified": "Mon, 02 Jan 2023 04:16:07 GMT",
+  "raw_sha256": "0d2385da9e15fde5fd29298e59826ede7b2ff868b65fcf633bc3f9b6bbf55652",
+  "raw_bytes": 7875,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0d2385da9e15fde5fd29298e59826ede7b2ff868b65fcf633bc3f9b6bbf55652.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东主席会见齐奥塞斯库谈话记录节选（1971年6月3日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-b599b2b4b7a3f48f4293.txt",
+  "text_sha256": "f6563bf25ab7b1395bfff6ff5948306fe7b9dbc5dd48c66d2adf1fc5c4ab06db",
+  "text_chars": 3231,
+  "text_lines": 120,
+  "document_path": "archive/documents/A-b599b2b4b7a3f48f4293.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

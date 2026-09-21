@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740402.htm",
+  "title": "毛泽东同柬埔寨民族统一阵线和王国民族团结政府代表团乔森潘团长和英萨利副团长的谈话（1974年4月2日）",
+  "catalogue_entry_ids": [
+    "I-eed5f5b96d42d601"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a60ed8a4598354b84791",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:36.237165+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740402.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"395e-5f14002c1a780\"",
+  "last_modified": "Mon, 02 Jan 2023 04:01:50 GMT",
+  "raw_sha256": "41171f04a30fbb65c9d28c8edddfd93ad4a158a2837461ab0a0662e24b26904a",
+  "raw_bytes": 14686,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/41171f04a30fbb65c9d28c8edddfd93ad4a158a2837461ab0a0662e24b26904a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东同柬埔寨民族统一阵线和王国民族团结政府代表团乔森潘团长和英萨利副团长的谈话（1974年4月2日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a60ed8a4598354b84791.txt",
+  "text_sha256": "2b1c8240a658e88a1089af9e7ebbe852db534217708fcc6754835fb0f64b082f",
+  "text_chars": 6350,
+  "text_lines": 222,
+  "document_path": "archive/documents/A-a60ed8a4598354b84791.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

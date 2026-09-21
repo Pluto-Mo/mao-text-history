@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680813b.htm",
+  "title": "毛主席接见意共（马列）代表团谈话记录（1968年8月13日）",
+  "catalogue_entry_ids": [
+    "I-7401ceae8e9000fc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3e83760ea808c176d3fe",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:25.436355+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19680813b.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2796-5c69e8100d0c0\"",
+  "last_modified": "Thu, 08 Jul 2021 15:42:35 GMT",
+  "raw_sha256": "a6da9b43e8a6eb127b51a6a21321191c0b9079d10b9c8b2c4ca58c4f71dbfabc",
+  "raw_bytes": 10134,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a6da9b43e8a6eb127b51a6a21321191c0b9079d10b9c8b2c4ca58c4f71dbfabc.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛主席接见意共（马列）代表团谈话记录（1968年8月13日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3e83760ea808c176d3fe.txt",
+  "text_sha256": "3dd46b2ff97fa5ec242a3c71e1ffca2d759d70395d8fe59c228cc4bde204d7f0",
+  "text_chars": 4314,
+  "text_lines": 130,
+  "document_path": "archive/documents/A-3e83760ea808c176d3fe.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

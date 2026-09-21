@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740225.htm",
+  "title": "毛泽东会见阿尔及利亚革命委员会主席布迈丁谈话记录节选（1974年2月25日）",
+  "catalogue_entry_ids": [
+    "I-1085195409e79d58"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-other",
+      "volume": null,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d4f8325f000cea08d88b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:42:35.653219+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/mia-chinese-mao-19740225.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1a2f-5f13fd11b1540\"",
+  "last_modified": "Mon, 02 Jan 2023 03:47:57 GMT",
+  "raw_sha256": "742f3c6d08179b6700b1bbeb114f186fc7999a5ba4387986959ebc174564d61e",
+  "raw_bytes": 6703,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/742f3c6d08179b6700b1bbeb114f186fc7999a5ba4387986959ebc174564d61e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛泽东会见阿尔及利亚革命委员会主席布迈丁谈话记录节选（1974年2月25日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d4f8325f000cea08d88b.txt",
+  "text_sha256": "036f9cc8b4c7565163f903f891013edd08389d754cb97f778e6f99f643b9f7be",
+  "text_chars": 2666,
+  "text_lines": 108,
+  "document_path": "archive/documents/A-d4f8325f000cea08d88b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
