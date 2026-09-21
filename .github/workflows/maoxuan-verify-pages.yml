@@ -1,0 +1,57 @@
+name: Verify Maoxuan source page evidence
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/maoxuan-verify-pages.yml
+permissions:
+  contents: read
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            archive/records
+      - run: python -m pip install pymupdf==1.26.4
+      - name: Render selected already preserved PDF pages, never execute embedded content
+        run: |
+          python - <<'PY'
+          import json, pathlib, subprocess, hashlib
+          import pymupdf
+          selected={
+            'A-0a774548ee55c2288a21':[316,317,318,323,324],
+            'A-53fc15cb527a2de9836d':[285],
+            'A-3aabe7d7d8be471b024f':[12,16,164,165],
+            'A-6130598a9549289f51ca':[10,14,180,181],
+            'A-08e901d73dcd78e98c4b':[551,552],
+            'A-93d18940d055820ccb0b':[552,567],
+            'A-bc29fda8b40043e7d0d2':[603]
+          }
+          out=pathlib.Path('/tmp/maoxuan-page-review');out.mkdir()
+          manifest=[]
+          for rid,numbers in selected.items():
+            r=json.loads(pathlib.Path('archive/records/'+rid+'.json').read_text())
+            chunks=[subprocess.check_output(['git','show','HEAD:'+p]) for p in r['raw_paths']]
+            raw=b''.join(chunks)
+            assert hashlib.sha256(raw).hexdigest()==r['raw_sha256'],rid
+            doc=pymupdf.open(stream=raw,filetype='pdf')
+            for num in numbers:
+              page=doc[num-1];name=rid+'-page-'+str(num)
+              page.get_pixmap(matrix=pymupdf.Matrix(1.7,1.7),alpha=False).save(out/(name+'.png'))
+              (out/(name+'.txt')).write_text(page.get_text(),encoding='utf-8')
+              manifest.append({'witness_id':rid,'pdf_page':num,'source_url':r['url'],'raw_sha256':r['raw_sha256'],'image_file':name+'.png','rendering':'PyMuPDF 1.26.4; no OCR or source text changes'})
+            print(rid,len(numbers),'pages rendered',flush=True)
+          (out/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
+          PY
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: maoxuan-page-review
+          path: /tmp/maoxuan-page-review
+          compression-level: 0
+          retention-days: 7
+          if-no-files-found: error
