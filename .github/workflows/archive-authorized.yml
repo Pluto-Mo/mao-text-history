@@ -1,0 +1,71 @@
+name: Preserve authorized full corpus
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - archive_corpus.py
+      - portal_probe.py
+      - tests/test_archive_corpus.py
+      - authorization/**
+      - .github/workflows/archive-authorized.yml
+permissions:
+  contents: write
+concurrency:
+  group: authorized-corpus-preservation
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Install parsers
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install pymupdf==1.26.4
+      - name: Run preservation and repository regression tests
+        run: python -m unittest discover -s tests -v
+      - name: Set up checkpoint commits
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - name: Inspect actual official reader links and configuration
+        run: python -u portal_probe.py
+      - name: Persist official reader inspection
+        run: |
+          git add archive reports/official-reader-discovery.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: preserve official reader configuration and exact resource URLs'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Preserve every linked PDF and binary book file
+        run: python -u archive_corpus.py collect pdf --workers 3
+      - name: Commit PDF originals and page-indexed extracted text
+        run: |
+          python archive_corpus.py verify
+          git add archive reports/archive-* exports/fulltext-zhengchu.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: preserve authorized PDF books, source hashes and page text'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Preserve every indexed HTML source with corrected Chinese decoding
+        run: python -u archive_corpus.py collect html --workers 4
+      - name: Validate complete preserved corpus and mappings
+        run: |
+          python archive_corpus.py index
+          python archive_corpus.py verify
+          python -m unittest discover -s tests -v
+      - name: Commit full text rather than temporary acquisition receipts
+        run: |
+          git add archive reports/archive-* exports/fulltext-zhengchu.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: commit full source HTML, searchable text and exact catalogue mappings'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
