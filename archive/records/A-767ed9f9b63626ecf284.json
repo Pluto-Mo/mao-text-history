@@ -1,0 +1,45 @@
+{
+  "id": "A-767ed9f9b63626ecf284",
+  "title": "毛泽东年谱（1949—1976）（第五卷）〔官方阅读器全文文字层〕",
+  "url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/ddcdf1b3887dbedd06965f2619a3727d77188/mobile/javascript/search_config.js",
+  "reader_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/ddcdf1b3887dbedd06965f2619a3727d77188/mobile/index.html",
+  "landing_url": "https://ebook.dswxyjy.org.cn/detail/362",
+  "status": "preserved",
+  "media": "official_page_text",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "source_ids": [
+    "OFF-NIAN"
+  ],
+  "catalogue_entry_ids": [
+    "I-01b2bf15cc7a6cad"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "nianpu-post1949-6",
+      "volume": 5,
+      "basis": "official_book_landing_and_reader_configuration"
+    }
+  ],
+  "reader_page_count": 637,
+  "page_array_length": 637,
+  "reader_text_array_complete": true,
+  "array_index_to_reader_page": "index + 1",
+  "encoding": "utf-8",
+  "retrieved_at": "2026-09-21T13:59:14.790940+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "text_role_note": "original publication text including prefaces, author text, editorial notes; not newly authored history",
+  "normalization": "JSON string escapes decoded; page text unchanged",
+  "raw_sha256": "ab3cceadb833ea3a7b2ee0593712f4d00f5eff87d26996bcbc87b0119e39f4a3",
+  "raw_bytes": 1547668,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/ab3cceadb833ea3a7b2ee0593712f4d00f5eff87d26996bcbc87b0119e39f4a3.js"
+  ],
+  "text_path": "archive/text/A-767ed9f9b63626ecf284.txt",
+  "text_sha256": "9f224b740ec9ace003bf5141db69ec966d4b157435460f92ff0fca40b28313eb",
+  "text_chars": 883430,
+  "text_lines": 2548,
+  "document_path": "archive/documents/A-767ed9f9b63626ecf284.md",
+  "page_map_path": "archive/pages/A-767ed9f9b63626ecf284.jsonl"
+}

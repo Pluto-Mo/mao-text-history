@@ -1,0 +1,45 @@
+{
+  "id": "A-30d13185d1f27d6e4de9",
+  "title": "毛泽东选集（第三卷）〔官方阅读器全文文字层〕",
+  "url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/4c7451f802ad6cc211c9bec38ffc1acd46133/mobile/javascript/search_config.js",
+  "reader_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/4c7451f802ad6cc211c9bec38ffc1acd46133/mobile/index.html",
+  "landing_url": "https://ebook.dswxyjy.org.cn/detail/13",
+  "status": "preserved",
+  "media": "official_page_text",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "source_ids": [
+    "OFF-MAO"
+  ],
+  "catalogue_entry_ids": [
+    "I-0c1bb0af59ab89c6"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-official",
+      "volume": 3,
+      "basis": "official_book_landing_and_reader_configuration"
+    }
+  ],
+  "reader_page_count": 345,
+  "page_array_length": 345,
+  "reader_text_array_complete": true,
+  "array_index_to_reader_page": "index + 1",
+  "encoding": "utf-8",
+  "retrieved_at": "2026-09-21T13:59:03.198005+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "text_role_note": "original publication text including prefaces, author text, editorial notes; not newly authored history",
+  "normalization": "JSON string escapes decoded; page text unchanged",
+  "raw_sha256": "db32b9fe81193d6391370affabe7b05b930968e84a81546362eba301a8e72fdd",
+  "raw_bytes": 731456,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/db32b9fe81193d6391370affabe7b05b930968e84a81546362eba301a8e72fdd.js"
+  ],
+  "text_path": "archive/text/A-30d13185d1f27d6e4de9.txt",
+  "text_sha256": "0bd033c9d0d819dcc15f13855db67c0e027fe9597686635d507b2d66e9204857",
+  "text_chars": 346481,
+  "text_lines": 1380,
+  "document_path": "archive/documents/A-30d13185d1f27d6e4de9.md",
+  "page_map_path": "archive/pages/A-30d13185d1f27d6e4de9.jsonl"
+}

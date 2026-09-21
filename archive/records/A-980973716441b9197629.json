@@ -1,0 +1,45 @@
+{
+  "id": "A-980973716441b9197629",
+  "title": "毛泽东选集（第四卷）〔官方阅读器全文文字层〕",
+  "url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/36e607c0457c68b8f6cca39f64231ccb9989/mobile/javascript/search_config.js",
+  "reader_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/36e607c0457c68b8f6cca39f64231ccb9989/mobile/index.html",
+  "landing_url": "https://ebook.dswxyjy.org.cn/detail/14",
+  "status": "preserved",
+  "media": "official_page_text",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "source_ids": [
+    "OFF-MAO"
+  ],
+  "catalogue_entry_ids": [
+    "I-7571d08ae417d4c0"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-official",
+      "volume": 4,
+      "basis": "official_book_landing_and_reader_configuration"
+    }
+  ],
+  "reader_page_count": 410,
+  "page_array_length": 410,
+  "reader_text_array_complete": true,
+  "array_index_to_reader_page": "index + 1",
+  "encoding": "utf-8",
+  "retrieved_at": "2026-09-21T13:59:04.983704+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "text_role_note": "original publication text including prefaces, author text, editorial notes; not newly authored history",
+  "normalization": "JSON string escapes decoded; page text unchanged",
+  "raw_sha256": "c4ad80b15f7c7bde2dac26caec6024460d6775ac4c04a8a0c17b3dc6f45c201c",
+  "raw_bytes": 880808,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/c4ad80b15f7c7bde2dac26caec6024460d6775ac4c04a8a0c17b3dc6f45c201c.js"
+  ],
+  "text_path": "archive/text/A-980973716441b9197629.txt",
+  "text_sha256": "2706ce252a7686f3af2517df4244807b8a4fc83012bc098515453364bd588f24",
+  "text_chars": 414815,
+  "text_lines": 1640,
+  "document_path": "archive/documents/A-980973716441b9197629.md",
+  "page_map_path": "archive/pages/A-980973716441b9197629.jsonl"
+}

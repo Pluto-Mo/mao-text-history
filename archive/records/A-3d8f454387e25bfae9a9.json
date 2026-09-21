@@ -1,0 +1,45 @@
+{
+  "id": "A-3d8f454387e25bfae9a9",
+  "title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+  "url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/b0d41b3f5e572ea7b1b190ed18dde2c863381/mobile/javascript/search_config.js",
+  "reader_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/b0d41b3f5e572ea7b1b190ed18dde2c863381/mobile/index.html",
+  "landing_url": "https://ebook.dswxyjy.org.cn/detail/12",
+  "status": "preserved",
+  "media": "official_page_text",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "source_ids": [
+    "OFF-MAO"
+  ],
+  "catalogue_entry_ids": [
+    "I-f327e679f0878c89"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-official",
+      "volume": 2,
+      "basis": "official_book_landing_and_reader_configuration"
+    }
+  ],
+  "reader_page_count": 461,
+  "page_array_length": 461,
+  "reader_text_array_complete": true,
+  "array_index_to_reader_page": "index + 1",
+  "encoding": "utf-8",
+  "retrieved_at": "2026-09-21T13:59:01.698330+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "text_role_note": "original publication text including prefaces, author text, editorial notes; not newly authored history",
+  "normalization": "JSON string escapes decoded; page text unchanged",
+  "raw_sha256": "9e3cb10b0c5c6713fe98b61e09fe509107e512fc784b057367b6934bccb25015",
+  "raw_bytes": 1010644,
+  "storage": "single_file",
+  "raw_paths": [
+    "archive/objects/9e3cb10b0c5c6713fe98b61e09fe509107e512fc784b057367b6934bccb25015.js"
+  ],
+  "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+  "text_sha256": "505221a28b1d24db6a6b1520a9751ddf9471a07933a5e49a157cfb43611e2289",
+  "text_chars": 476483,
+  "text_lines": 1844,
+  "document_path": "archive/documents/A-3d8f454387e25bfae9a9.md",
+  "page_map_path": "archive/pages/A-3d8f454387e25bfae9a9.jsonl"
+}
