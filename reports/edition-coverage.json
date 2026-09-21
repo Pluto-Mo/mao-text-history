@@ -1,0 +1,2070 @@
+[
+  {
+    "edition_id": "maoxuan-official",
+    "title": "《毛泽东选集》第一至四卷：官方目录对应版次待版权页确认",
+    "expected_volumes": 4,
+    "volumes_with_source_files": 4,
+    "volumes_covered_by_files_or_registered_web_texts": 4,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-8bfc27ba981e89432b11",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/cfd1c7395b455e97e58af81933b2a8e555113/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/69ab9aabd67e1f99fa085322c5e46d1e193bd493a74d54baefa266863ec6bd93.js"
+            ],
+            "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+            "document_path": "archive/documents/A-8bfc27ba981e89432b11.md",
+            "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
+            "native_text_layer": null,
+            "native_page_count": 359,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-3d8f454387e25bfae9a9",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/b0d41b3f5e572ea7b1b190ed18dde2c863381/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/9e3cb10b0c5c6713fe98b61e09fe509107e512fc784b057367b6934bccb25015.js"
+            ],
+            "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+            "document_path": "archive/documents/A-3d8f454387e25bfae9a9.md",
+            "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
+            "native_text_layer": null,
+            "native_page_count": 461,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-30d13185d1f27d6e4de9",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/4c7451f802ad6cc211c9bec38ffc1acd46133/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/db32b9fe81193d6391370affabe7b05b930968e84a81546362eba301a8e72fdd.js"
+            ],
+            "text_path": "archive/text/A-30d13185d1f27d6e4de9.txt",
+            "document_path": "archive/documents/A-30d13185d1f27d6e4de9.md",
+            "record_path": "archive/records/A-30d13185d1f27d6e4de9.json",
+            "native_text_layer": null,
+            "native_page_count": 345,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-980973716441b9197629",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/36e607c0457c68b8f6cca39f64231ccb9989/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/c4ad80b15f7c7bde2dac26caec6024460d6775ac4c04a8a0c17b3dc6f45c201c.js"
+            ],
+            "text_path": "archive/text/A-980973716441b9197629.txt",
+            "document_path": "archive/documents/A-980973716441b9197629.md",
+            "record_path": "archive/records/A-980973716441b9197629.json",
+            "native_text_layer": null,
+            "native_page_count": 410,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "maoxuan-1977-v5",
+    "title": "《毛泽东选集》第五卷（1977）",
+    "expected_volumes": 1,
+    "volumes_with_source_files": 0,
+    "volumes_covered_by_files_or_registered_web_texts": 1,
+    "volumes": [
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": false,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 72,
+        "preserved_HTML_witnesses": 72,
+        "container_witnesses": [],
+        "status": "registered_web_texts_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "wengao-old-13",
+    "title": "《建国以来毛泽东文稿》旧13册",
+    "expected_volumes": 13,
+    "volumes_with_source_files": 13,
+    "volumes_covered_by_files_or_registered_web_texts": 13,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-82fa37116043841dbfe3",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c01.pdf",
+            "raw_paths": [
+              "archive/objects/3b57bec20dabe65cf0faf8b94e80ce521a59582ab39aa764c9b5c8e0de2380ef.pdf"
+            ],
+            "text_path": "archive/text/A-82fa37116043841dbfe3.txt",
+            "document_path": "archive/documents/A-82fa37116043841dbfe3.md",
+            "record_path": "archive/records/A-82fa37116043841dbfe3.json",
+            "native_text_layer": "present",
+            "native_page_count": 827,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-c724e56dcfb0bace9d90",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c02.pdf",
+            "raw_paths": [
+              "archive/objects/c67f31a47842a393fae1a9427c883fcb869f4ff525f959479e1e238f010efc18.pdf"
+            ],
+            "text_path": "archive/text/A-c724e56dcfb0bace9d90.txt",
+            "document_path": "archive/documents/A-c724e56dcfb0bace9d90.md",
+            "record_path": "archive/records/A-c724e56dcfb0bace9d90.json",
+            "native_text_layer": "present",
+            "native_page_count": 713,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-e5c3f7365430d751e53a",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c03.pdf",
+            "raw_paths": [
+              "archive/objects/f63d2a5240812a453d6d2b41326e64a2b884f9d6a793f7e1bef22f186dfcce47.pdf"
+            ],
+            "text_path": "archive/text/A-e5c3f7365430d751e53a.txt",
+            "document_path": "archive/documents/A-e5c3f7365430d751e53a.md",
+            "record_path": "archive/records/A-e5c3f7365430d751e53a.json",
+            "native_text_layer": "present",
+            "native_page_count": 734,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-3bc2c15672fb764e26d8",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c04.pdf",
+            "raw_paths": [
+              "archive/objects/19a0d7863044e823ad6eff92bd52f5ff24542ec693dbdc9876990834cbff7a8d.pdf"
+            ],
+            "text_path": "archive/text/A-3bc2c15672fb764e26d8.txt",
+            "document_path": "archive/documents/A-3bc2c15672fb764e26d8.md",
+            "record_path": "archive/records/A-3bc2c15672fb764e26d8.json",
+            "native_text_layer": "present",
+            "native_page_count": 678,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-357202aad869491328e3",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c05.pdf",
+            "raw_paths": [
+              "archive/objects/05f6652538596b5faaf0679590540047997d04aa5847deb392140b4c9c96a7cb.pdf"
+            ],
+            "text_path": "archive/text/A-357202aad869491328e3.txt",
+            "document_path": "archive/documents/A-357202aad869491328e3.md",
+            "record_path": "archive/records/A-357202aad869491328e3.json",
+            "native_text_layer": "present",
+            "native_page_count": 605,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 6,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-d6e9f1d4170c1ba7f814",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf",
+            "raw_paths": [
+              "archive/objects/694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc.pdf"
+            ],
+            "text_path": "archive/text/A-d6e9f1d4170c1ba7f814.txt",
+            "document_path": "archive/documents/A-d6e9f1d4170c1ba7f814.md",
+            "record_path": "archive/records/A-d6e9f1d4170c1ba7f814.json",
+            "native_text_layer": "present",
+            "native_page_count": 702,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 7,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-e19595b565de61a292c7",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c07.pdf",
+            "raw_paths": [
+              "archive/objects/229026f9b6d8f3bc4e5492130b3eef593c427c40106a984d53de23a62e65dcec.pdf"
+            ],
+            "text_path": "archive/text/A-e19595b565de61a292c7.txt",
+            "document_path": "archive/documents/A-e19595b565de61a292c7.md",
+            "record_path": "archive/records/A-e19595b565de61a292c7.json",
+            "native_text_layer": "present",
+            "native_page_count": 702,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 8,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-cbdc439fcfad00032603",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c08.pdf",
+            "raw_paths": [
+              "archive/objects/bc1f91e36bc20f365c1b84d666e60c2d38764e92478168a71f69f3cb3ced349e.pdf"
+            ],
+            "text_path": "archive/text/A-cbdc439fcfad00032603.txt",
+            "document_path": "archive/documents/A-cbdc439fcfad00032603.md",
+            "record_path": "archive/records/A-cbdc439fcfad00032603.json",
+            "native_text_layer": "present",
+            "native_page_count": 671,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 9,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-56a60457d76d07362f4c",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c09.pdf",
+            "raw_paths": [
+              "archive/objects/e42980872eca21b2abecb21d52a31c6032b62dbe08392ad67aed4e03933c1f5e.pdf"
+            ],
+            "text_path": "archive/text/A-56a60457d76d07362f4c.txt",
+            "document_path": "archive/documents/A-56a60457d76d07362f4c.md",
+            "record_path": "archive/records/A-56a60457d76d07362f4c.json",
+            "native_text_layer": "present",
+            "native_page_count": 651,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 10,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-5f72d71ff376dc2576bf",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c10.pdf",
+            "raw_paths": [
+              "archive/objects/5ae95b8e52f962c2b8c3b4b8b34ddccb837a03f61ec3abe13a24b8e11c47a1b1.pdf"
+            ],
+            "text_path": "archive/text/A-5f72d71ff376dc2576bf.txt",
+            "document_path": "archive/documents/A-5f72d71ff376dc2576bf.md",
+            "record_path": "archive/records/A-5f72d71ff376dc2576bf.json",
+            "native_text_layer": "present",
+            "native_page_count": 494,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 11,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-3f53fdd42a42e84cf1d4",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c11.pdf",
+            "raw_paths": [
+              "archive/objects/b5c194398b686285c02a1a1f05154c5001fb1624e27a56e49ae8c1608f901192.pdf"
+            ],
+            "text_path": "archive/text/A-3f53fdd42a42e84cf1d4.txt",
+            "document_path": "archive/documents/A-3f53fdd42a42e84cf1d4.md",
+            "record_path": "archive/records/A-3f53fdd42a42e84cf1d4.json",
+            "native_text_layer": "present",
+            "native_page_count": 525,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 12,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-1650b6ab4e87a3902cb6",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c12.pdf",
+            "raw_paths": [
+              "archive/objects/e240b91ae43f94c62098ea37afac2e62a8c7059c568d2c4ea15d29caaa6394f0.pdf"
+            ],
+            "text_path": "archive/text/A-1650b6ab4e87a3902cb6.txt",
+            "document_path": "archive/documents/A-1650b6ab4e87a3902cb6.md",
+            "record_path": "archive/records/A-1650b6ab4e87a3902cb6.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 650,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 13,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-3ff7a99562eb05091c0c",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c13.pdf",
+            "raw_paths": [
+              "archive/objects/889a238d48c666fd4a3bda8e506af6b1779474be13b0661f3c03f826027438ff.pdf"
+            ],
+            "text_path": "archive/text/A-3ff7a99562eb05091c0c.txt",
+            "document_path": "archive/documents/A-3ff7a99562eb05091c0c.md",
+            "record_path": "archive/records/A-3ff7a99562eb05091c0c.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 569,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "wengao-2023-20",
+    "title": "《建国以来毛泽东文稿》2023修订20册",
+    "expected_volumes": 20,
+    "volumes_with_source_files": 20,
+    "volumes_covered_by_files_or_registered_web_texts": 20,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-55068d4cf6c07ff822ae",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC1%E5%86%8C%EF%BC%881949%E5%B9%B49%E6%9C%88-1950%E5%B9%B42%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/c8a6d16228abe524e7aaf5b894083b31f7ddb56fe88d8d682fd6d75c7d48b683.pdf"
+            ],
+            "text_path": "archive/text/A-55068d4cf6c07ff822ae.txt",
+            "document_path": "archive/documents/A-55068d4cf6c07ff822ae.md",
+            "record_path": "archive/records/A-55068d4cf6c07ff822ae.json",
+            "native_text_layer": "present",
+            "native_page_count": 536,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-a1f47716795a11c92e56",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC2%E5%86%8C%EF%BC%881950%E5%B9%B43%E6%9C%88-1950%E5%B9%B48%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/d7c1d1b00533f31687a1d084bed84207ccec7a029895eb3219d0e2b407fa1fc9.pdf"
+            ],
+            "text_path": "archive/text/A-a1f47716795a11c92e56.txt",
+            "document_path": "archive/documents/A-a1f47716795a11c92e56.md",
+            "record_path": "archive/records/A-a1f47716795a11c92e56.json",
+            "native_text_layer": "present",
+            "native_page_count": 532,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-06545d8195fb68b8c23b",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC3%E5%86%8C%EF%BC%881950%E5%B9%B49%E6%9C%88-1950%E5%B9%B412%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/a7f91440988d0e67857e5dfff63fca4e7e9458c8a023ad96a65293f67dcaf0cf.pdf"
+            ],
+            "text_path": "archive/text/A-06545d8195fb68b8c23b.txt",
+            "document_path": "archive/documents/A-06545d8195fb68b8c23b.md",
+            "record_path": "archive/records/A-06545d8195fb68b8c23b.json",
+            "native_text_layer": "present",
+            "native_page_count": 540,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-813811c7311857ac1f3d",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC4%E5%86%8C%EF%BC%881951%E5%B9%B41%E6%9C%88-1951%E5%B9%B46%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/97979bb0ef250b529a4b77fee6a1c2cfbf25b5227a8430030315b443a520ba6f.pdf"
+            ],
+            "text_path": "archive/text/A-813811c7311857ac1f3d.txt",
+            "document_path": "archive/documents/A-813811c7311857ac1f3d.md",
+            "record_path": "archive/records/A-813811c7311857ac1f3d.json",
+            "native_text_layer": "present",
+            "native_page_count": 546,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-86df691b1b5a8f68bef7",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC5%E5%86%8C%EF%BC%881951%E5%B9%B47%E6%9C%88-1952%E5%B9%B41%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/015f961eaf078bb3d764a1ad1fa76ae97ee0245b1e209f66b3fd91c986992bc4.pdf"
+            ],
+            "text_path": "archive/text/A-86df691b1b5a8f68bef7.txt",
+            "document_path": "archive/documents/A-86df691b1b5a8f68bef7.md",
+            "record_path": "archive/records/A-86df691b1b5a8f68bef7.json",
+            "native_text_layer": "present",
+            "native_page_count": 552,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 6,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-2abd4501edfd1ae6a245",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC6%E5%86%8C%EF%BC%881952%E5%B9%B41%E6%9C%88-1952%E5%B9%B44%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/1793273031e5adbb8254044c6b58fd37128c88b5f5d53a90e205a7559b740ec2.pdf"
+            ],
+            "text_path": "archive/text/A-2abd4501edfd1ae6a245.txt",
+            "document_path": "archive/documents/A-2abd4501edfd1ae6a245.md",
+            "record_path": "archive/records/A-2abd4501edfd1ae6a245.json",
+            "native_text_layer": "present",
+            "native_page_count": 528,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 7,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-b84d15effe1e87b57a16",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC7%E5%86%8C%EF%BC%881952%E5%B9%B44%E6%9C%88-1952%E5%B9%B412%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/d8571b5559018b0a003486e5d12eb15f129aafdde9b992103e27677396249e35.pdf"
+            ],
+            "text_path": "archive/text/A-b84d15effe1e87b57a16.txt",
+            "document_path": "archive/documents/A-b84d15effe1e87b57a16.md",
+            "record_path": "archive/records/A-b84d15effe1e87b57a16.json",
+            "native_text_layer": "present",
+            "native_page_count": 504,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 8,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-6bfa382795f05e811e0f",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC08%E5%86%8C%EF%BC%881953%E5%B9%B41%E6%9C%88-1953%E5%B9%B410%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/9caae4547f954ec8e18683f83a3377334c0d6d6e01f20a1b0b9e7fabcd870334.pdf"
+            ],
+            "text_path": "archive/text/A-6bfa382795f05e811e0f.txt",
+            "document_path": "archive/documents/A-6bfa382795f05e811e0f.md",
+            "record_path": "archive/records/A-6bfa382795f05e811e0f.json",
+            "native_text_layer": "present",
+            "native_page_count": 548,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 9,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-edc5e3d062acc84468f6",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC09%E5%86%8C%EF%BC%881953%E5%B9%B411%E6%9C%88-1955%E5%B9%B46%E6%9C%88%EF%BC%891.pdf",
+            "raw_paths": [
+              "archive/objects/69c965b5508a1b8e184539a1364f898e40ba65436f4a26ef0c5749e0858ed1f1.pdf"
+            ],
+            "text_path": "archive/text/A-edc5e3d062acc84468f6.txt",
+            "document_path": "archive/documents/A-edc5e3d062acc84468f6.md",
+            "record_path": "archive/records/A-edc5e3d062acc84468f6.json",
+            "native_text_layer": "present",
+            "native_page_count": 544,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 10,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-5f841006ac6d22cfb20c",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC10%E5%86%8C%EF%BC%881955%E5%B9%B46%E6%9C%88-1956%E5%B9%B44%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/b073dcceeb4a311c543fd33ed6a783fdaac748aa23d003ba7f86f1090a41e06d.pdf"
+            ],
+            "text_path": "archive/text/A-5f841006ac6d22cfb20c.txt",
+            "document_path": "archive/documents/A-5f841006ac6d22cfb20c.md",
+            "record_path": "archive/records/A-5f841006ac6d22cfb20c.json",
+            "native_text_layer": "present",
+            "native_page_count": 534,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 11,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-8bf4b1959901dc138cd4",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1.pdf"
+            ],
+            "text_path": "archive/text/A-8bf4b1959901dc138cd4.txt",
+            "document_path": "archive/documents/A-8bf4b1959901dc138cd4.md",
+            "record_path": "archive/records/A-8bf4b1959901dc138cd4.json",
+            "native_text_layer": "present",
+            "native_page_count": 520,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 12,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-caf85a05e451f61b51cd",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC12%E5%86%8C%EF%BC%881957%E5%B9%B48%E6%9C%88-1958%E5%B9%B48%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/1b8728a7499383f00b5663d93f0d751fa3a17e36f20bae394100eb0a345ccd47.pdf"
+            ],
+            "text_path": "archive/text/A-caf85a05e451f61b51cd.txt",
+            "document_path": "archive/documents/A-caf85a05e451f61b51cd.md",
+            "record_path": "archive/records/A-caf85a05e451f61b51cd.json",
+            "native_text_layer": "present",
+            "native_page_count": 530,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 13,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-d84213011ecf32275a9f",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC13%E5%86%8C%EF%BC%881958%E5%B9%B48%E6%9C%88-1959%E5%B9%B43%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/3bbcdedb71fed8759eea23654fab313344966ce7aab5337aa0dc3f736c9179ce.pdf"
+            ],
+            "text_path": "archive/text/A-d84213011ecf32275a9f.txt",
+            "document_path": "archive/documents/A-d84213011ecf32275a9f.md",
+            "record_path": "archive/records/A-d84213011ecf32275a9f.json",
+            "native_text_layer": "present",
+            "native_page_count": 560,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 14,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-7bd2170ed91fc795d048",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC14%E5%86%8C%EF%BC%881959%E5%B9%B44%E6%9C%88-1959%E5%B9%B412%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/e585e6396d428f5014f5aa5f00e8b2ad87c284a790aab0cd709ccd0cea1f9442.pdf"
+            ],
+            "text_path": "archive/text/A-7bd2170ed91fc795d048.txt",
+            "document_path": "archive/documents/A-7bd2170ed91fc795d048.md",
+            "record_path": "archive/records/A-7bd2170ed91fc795d048.json",
+            "native_text_layer": "present",
+            "native_page_count": 542,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 15,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-1aead70c759f2a13f5c9",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC15%E5%86%8C%EF%BC%881960%E5%B9%B41%E6%9C%88-1961%E5%B9%B43%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/d076500de5875bf7fcaa83e32514f854fb20b8b220fc93c04bdf4e594a3a7bba.pdf"
+            ],
+            "text_path": "archive/text/A-1aead70c759f2a13f5c9.txt",
+            "document_path": "archive/documents/A-1aead70c759f2a13f5c9.md",
+            "record_path": "archive/records/A-1aead70c759f2a13f5c9.json",
+            "native_text_layer": "present",
+            "native_page_count": 558,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 16,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-84a4f3838025326dca92",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC16%E5%86%8C%EF%BC%881961%E5%B9%B44%E6%9C%88-1963%E5%B9%B45%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/db2cd085df785b428f9b503b9a9a64d7a03d44f703496e2fbe525b6559cc2eea.pdf.part0000",
+              "archive/objects/db2cd085df785b428f9b503b9a9a64d7a03d44f703496e2fbe525b6559cc2eea.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-84a4f3838025326dca92.txt",
+            "document_path": "archive/documents/A-84a4f3838025326dca92.md",
+            "record_path": "archive/records/A-84a4f3838025326dca92.json",
+            "native_text_layer": "present",
+            "native_page_count": 576,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 17,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-7083867e129f8be1ac0d",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC17%E5%86%8C%EF%BC%881963%E5%B9%B46%E6%9C%88-1965%E5%B9%B41%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/30242bb3d24f5cbc13f98331d3b45c34cd4cc9b3b9c5878f22902a4539a7c42d.pdf"
+            ],
+            "text_path": "archive/text/A-7083867e129f8be1ac0d.txt",
+            "document_path": "archive/documents/A-7083867e129f8be1ac0d.md",
+            "record_path": "archive/records/A-7083867e129f8be1ac0d.json",
+            "native_text_layer": "present",
+            "native_page_count": 562,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 18,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-6992063864ea72b2ab0d",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC18%E5%86%8C%EF%BC%881965%E5%B9%B42%E6%9C%88-1967%E5%B9%B43%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/95a8fcbca1136e23dcbc6377ed1874dc11e6def01e50ee19dc447e598addcff7.pdf"
+            ],
+            "text_path": "archive/text/A-6992063864ea72b2ab0d.txt",
+            "document_path": "archive/documents/A-6992063864ea72b2ab0d.md",
+            "record_path": "archive/records/A-6992063864ea72b2ab0d.json",
+            "native_text_layer": "present",
+            "native_page_count": 552,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 19,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-096f1e7b59097fedd51f",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC19%E5%86%8C%EF%BC%881967%E5%B9%B43%E6%9C%88-1970%E5%B9%B45%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/b7014ac1ab6ea6ab4d3829cac5634d64bde84857fbedb1a1cd124e4774e0faa6.pdf"
+            ],
+            "text_path": "archive/text/A-096f1e7b59097fedd51f.txt",
+            "document_path": "archive/documents/A-096f1e7b59097fedd51f.md",
+            "record_path": "archive/records/A-096f1e7b59097fedd51f.json",
+            "native_text_layer": "present",
+            "native_page_count": 558,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 20,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-a8527dfd93ce517280d8",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC20%E5%86%8C%EF%BC%881970%E5%B9%B46%E6%9C%88-1976%E5%B9%B47%E6%9C%88%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/5bebd8d0540d9918936e7cc781a653a216d1857d80a3957b62ffe67c4156a8ce.pdf"
+            ],
+            "text_path": "archive/text/A-a8527dfd93ce517280d8.txt",
+            "document_path": "archive/documents/A-a8527dfd93ce517280d8.md",
+            "record_path": "archive/records/A-a8527dfd93ce517280d8.json",
+            "native_text_layer": "present",
+            "native_page_count": 560,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "nianpu-pre1949-3",
+    "title": "《毛泽东年谱（1893—1949）》旧三卷分组",
+    "expected_volumes": 3,
+    "volumes_with_source_files": 3,
+    "volumes_covered_by_files_or_registered_web_texts": 3,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-8c1bf1993f5b7ec66f3e",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8A%E5%8D%B7.pdf",
+            "raw_paths": [
+              "archive/objects/0453a2657d6d6451e48027e7ac6df8fc08349de2655020a699205034d3d80f04.pdf"
+            ],
+            "text_path": "archive/text/A-8c1bf1993f5b7ec66f3e.txt",
+            "document_path": "archive/documents/A-8c1bf1993f5b7ec66f3e.md",
+            "record_path": "archive/records/A-8c1bf1993f5b7ec66f3e.json",
+            "native_text_layer": "present",
+            "native_page_count": 750,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-6130598a9549289f51ca",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%AD%E5%8D%B7.pdf",
+            "raw_paths": [
+              "archive/objects/0f98a4afbebd68356bf68eb9150877692f68bd0b5c780fe9a1efe178b04d0e95.pdf"
+            ],
+            "text_path": "archive/text/A-6130598a9549289f51ca.txt",
+            "document_path": "archive/documents/A-6130598a9549289f51ca.md",
+            "record_path": "archive/records/A-6130598a9549289f51ca.json",
+            "native_text_layer": "present",
+            "native_page_count": 700,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-53fc15cb527a2de9836d",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8B%E5%8D%B7.pdf",
+            "raw_paths": [
+              "archive/objects/50a17f3c134e606a557230cee670a6581596154dc9d6da1bb01c5ecb8a819548.pdf"
+            ],
+            "text_path": "archive/text/A-53fc15cb527a2de9836d.txt",
+            "document_path": "archive/documents/A-53fc15cb527a2de9836d.md",
+            "record_path": "archive/records/A-53fc15cb527a2de9836d.json",
+            "native_text_layer": "present",
+            "native_page_count": 660,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "nianpu-post1949-6",
+    "title": "《毛泽东年谱（1949—1976）》旧六卷分组",
+    "expected_volumes": 6,
+    "volumes_with_source_files": 6,
+    "volumes_covered_by_files_or_registered_web_texts": 6,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-0829b12f8678778d6a98",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220615/00cfd7b0e9fea36fc799ce967e62bddb83981/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/4bd70fb626be8e587157cef9ca93ccbda45ac490e9cd9ddb3e2446f023d0f31d.js"
+            ],
+            "text_path": "archive/text/A-0829b12f8678778d6a98.txt",
+            "document_path": "archive/documents/A-0829b12f8678778d6a98.md",
+            "record_path": "archive/records/A-0829b12f8678778d6a98.json",
+            "native_text_layer": null,
+            "native_page_count": 655,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-c29477681e436c0f3a85",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/eef739a67302f8fb712adf8dbaccf10186543/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/7f6e7ebec3980b9b3009cdb69e539ffc390b78bfec5c8bae7e3bc4c3cdb6234a.js"
+            ],
+            "text_path": "archive/text/A-c29477681e436c0f3a85.txt",
+            "document_path": "archive/documents/A-c29477681e436c0f3a85.md",
+            "record_path": "archive/records/A-c29477681e436c0f3a85.json",
+            "native_text_layer": null,
+            "native_page_count": 648,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-4f86c74615690e4246fe",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/7959b5b5a449a3046af7bbf4ea4ff53297585/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/f03e5ba0e6825ebd840eeb378513e208c0e5271b483722e8fd3ac802dcd14f18.js"
+            ],
+            "text_path": "archive/text/A-4f86c74615690e4246fe.txt",
+            "document_path": "archive/documents/A-4f86c74615690e4246fe.md",
+            "record_path": "archive/records/A-4f86c74615690e4246fe.json",
+            "native_text_layer": null,
+            "native_page_count": 663,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-bbdee33f11dbfba049f7",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/79ab1da440b78ea7eff0d2f9d1ab392b49601/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/da00825743447325a89edc5efe2644aeb8675dbf6c77cad0e59ed40f6a2ffa61.js"
+            ],
+            "text_path": "archive/text/A-bbdee33f11dbfba049f7.txt",
+            "document_path": "archive/documents/A-bbdee33f11dbfba049f7.md",
+            "record_path": "archive/records/A-bbdee33f11dbfba049f7.json",
+            "native_text_layer": null,
+            "native_page_count": 614,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-767ed9f9b63626ecf284",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/ddcdf1b3887dbedd06965f2619a3727d77188/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/ab3cceadb833ea3a7b2ee0593712f4d00f5eff87d26996bcbc87b0119e39f4a3.js"
+            ],
+            "text_path": "archive/text/A-767ed9f9b63626ecf284.txt",
+            "document_path": "archive/documents/A-767ed9f9b63626ecf284.md",
+            "record_path": "archive/records/A-767ed9f9b63626ecf284.json",
+            "native_text_layer": null,
+            "native_page_count": 637,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 6,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-c53443178f49c4d165bb",
+            "media": "official_page_text",
+            "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220617/2053d7632026d25b29c4a92627a1ef6039585/mobile/javascript/search_config.js",
+            "raw_paths": [
+              "archive/objects/ef5c076fa7abfec8b7ad1a9c8263c8d62d02b8c5e0f867bcd934be825885a026.js"
+            ],
+            "text_path": "archive/text/A-c53443178f49c4d165bb.txt",
+            "document_path": "archive/documents/A-c53443178f49c4d165bb.md",
+            "record_path": "archive/records/A-c53443178f49c4d165bb.json",
+            "native_text_layer": null,
+            "native_page_count": 662,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "nianpu-2023-9",
+    "title": "《毛泽东年谱》2023修订九卷",
+    "expected_volumes": 9,
+    "volumes_with_source_files": 9,
+    "volumes_covered_by_files_or_registered_web_texts": 9,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-1238a894a47eed51ace5",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC1%E5%8D%B7%EF%BC%881893.12-1937.06%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0000",
+              "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-1238a894a47eed51ace5.txt",
+            "document_path": "archive/documents/A-1238a894a47eed51ace5.md",
+            "record_path": "archive/records/A-1238a894a47eed51ace5.json",
+            "native_text_layer": "present",
+            "native_page_count": 700,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-3aabe7d7d8be471b024f",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC2%E5%8D%B7%EF%BC%881937.07-1945.08%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0000",
+              "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-3aabe7d7d8be471b024f.txt",
+            "document_path": "archive/documents/A-3aabe7d7d8be471b024f.md",
+            "record_path": "archive/records/A-3aabe7d7d8be471b024f.json",
+            "native_text_layer": "present",
+            "native_page_count": 626,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-ce6e7a65555cd6cd36fd",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC3%E5%8D%B7%EF%BC%881945.08-1949.09%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0000",
+              "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-ce6e7a65555cd6cd36fd.txt",
+            "document_path": "archive/documents/A-ce6e7a65555cd6cd36fd.md",
+            "record_path": "archive/records/A-ce6e7a65555cd6cd36fd.json",
+            "native_text_layer": "present",
+            "native_page_count": 588,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-0a774548ee55c2288a21",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC4%E5%8D%B7%EF%BC%881949.10-1952.12%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0000",
+              "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-0a774548ee55c2288a21.txt",
+            "document_path": "archive/documents/A-0a774548ee55c2288a21.md",
+            "record_path": "archive/records/A-0a774548ee55c2288a21.json",
+            "native_text_layer": "present",
+            "native_page_count": 654,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-08e901d73dcd78e98c4b",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC5%E5%8D%B7%EF%BC%881953.01-1956.09%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0000",
+              "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-08e901d73dcd78e98c4b.txt",
+            "document_path": "archive/documents/A-08e901d73dcd78e98c4b.md",
+            "record_path": "archive/records/A-08e901d73dcd78e98c4b.json",
+            "native_text_layer": "present",
+            "native_page_count": 650,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 6,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-264a603d150bc5388914",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0000",
+              "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-264a603d150bc5388914.txt",
+            "document_path": "archive/documents/A-264a603d150bc5388914.md",
+            "record_path": "archive/records/A-264a603d150bc5388914.json",
+            "native_text_layer": "present",
+            "native_page_count": 666,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 7,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-97c183f19ad837e7deff",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC7%E5%8D%B7%EF%BC%881959.04-1961.06%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0000",
+              "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-97c183f19ad837e7deff.txt",
+            "document_path": "archive/documents/A-97c183f19ad837e7deff.md",
+            "record_path": "archive/records/A-97c183f19ad837e7deff.json",
+            "native_text_layer": "present",
+            "native_page_count": 616,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 8,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-93d18940d055820ccb0b",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC8%E5%8D%B7%EF%BC%881961.07-1966.09%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e.pdf.part0000",
+              "archive/objects/165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-93d18940d055820ccb0b.txt",
+            "document_path": "archive/documents/A-93d18940d055820ccb0b.md",
+            "record_path": "archive/records/A-93d18940d055820ccb0b.json",
+            "native_text_layer": "present",
+            "native_page_count": 638,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 9,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-bc29fda8b40043e7d0d2",
+            "media": "pdf",
+            "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf",
+            "raw_paths": [
+              "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0000",
+              "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0001"
+            ],
+            "text_path": "archive/text/A-bc29fda8b40043e7d0d2.txt",
+            "document_path": "archive/documents/A-bc29fda8b40043e7d0d2.md",
+            "record_path": "archive/records/A-bc29fda8b40043e7d0d2.json",
+            "native_text_layer": "present",
+            "native_page_count": 668,
+            "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "mia-ji-10",
+    "title": "MIA目录：《毛泽东集》十卷",
+    "expected_volumes": 10,
+    "volumes_with_source_files": 10,
+    "volumes_covered_by_files_or_registered_web_texts": 10,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 42,
+        "preserved_HTML_witnesses": 42,
+        "container_witnesses": [
+          {
+            "id": "A-12fbcc5eb211681c08d0",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01.pdf",
+            "raw_paths": [
+              "archive/objects/238b4233969ced05e8cf96506d6c8a3b390a7dfbcb377cb1673f6e68ad3b5d8e.pdf"
+            ],
+            "text_path": "archive/text/A-12fbcc5eb211681c08d0.txt",
+            "document_path": "archive/documents/A-12fbcc5eb211681c08d0.md",
+            "record_path": "archive/records/A-12fbcc5eb211681c08d0.json",
+            "native_text_layer": "present",
+            "native_page_count": 170,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-03e01bdabdf4e5a46933",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/02.pdf",
+            "raw_paths": [
+              "archive/objects/d503e484a972addff95a3e349c92ab060e896e25ab78f63ec257a4bdc90d172a.pdf"
+            ],
+            "text_path": "archive/text/A-03e01bdabdf4e5a46933.txt",
+            "document_path": "archive/documents/A-03e01bdabdf4e5a46933.md",
+            "record_path": "archive/records/A-03e01bdabdf4e5a46933.json",
+            "native_text_layer": "present",
+            "native_page_count": 266,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-e34b07fd26831eb15ddc",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/03.pdf",
+            "raw_paths": [
+              "archive/objects/3cfae507de260f3eb725fb0714331c75a845c8e5243adee9cc05831cef1a429d.pdf"
+            ],
+            "text_path": "archive/text/A-e34b07fd26831eb15ddc.txt",
+            "document_path": "archive/documents/A-e34b07fd26831eb15ddc.md",
+            "record_path": "archive/records/A-e34b07fd26831eb15ddc.json",
+            "native_text_layer": "present",
+            "native_page_count": 370,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-8c37e610c110d980b7cb",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/04.pdf",
+            "raw_paths": [
+              "archive/objects/cb6f6157f2a4b3e4b423f4e003a14d5016a622416ad338ff707cd5327e9e4a4b.pdf"
+            ],
+            "text_path": "archive/text/A-8c37e610c110d980b7cb.txt",
+            "document_path": "archive/documents/A-8c37e610c110d980b7cb.md",
+            "record_path": "archive/records/A-8c37e610c110d980b7cb.json",
+            "native_text_layer": "present",
+            "native_page_count": 402,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-c3b44be4f35b9db8f3c6",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/05.pdf",
+            "raw_paths": [
+              "archive/objects/43021899721f362987649523c5d5b38c9d8f0e8e2ddb381f63b14070bb1c4386.pdf"
+            ],
+            "text_path": "archive/text/A-c3b44be4f35b9db8f3c6.txt",
+            "document_path": "archive/documents/A-c3b44be4f35b9db8f3c6.md",
+            "record_path": "archive/records/A-c3b44be4f35b9db8f3c6.json",
+            "native_text_layer": "present",
+            "native_page_count": 342,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 6,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-cb5acd934e37bc99dfd5",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/06.pdf",
+            "raw_paths": [
+              "archive/objects/c9be02a495fa8347c93f1e1dc16dbf4c89b3d45cdc61bf538f04261ac260940d.pdf"
+            ],
+            "text_path": "archive/text/A-cb5acd934e37bc99dfd5.txt",
+            "document_path": "archive/documents/A-cb5acd934e37bc99dfd5.md",
+            "record_path": "archive/records/A-cb5acd934e37bc99dfd5.json",
+            "native_text_layer": "present",
+            "native_page_count": 362,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 7,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-b99c65c4fad3b5adc31e",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/07.pdf",
+            "raw_paths": [
+              "archive/objects/1c5561ccb433a4d7707b1aed1cc8e6dd783e0d2b4cede13b51d46373a1b6284b.pdf"
+            ],
+            "text_path": "archive/text/A-b99c65c4fad3b5adc31e.txt",
+            "document_path": "archive/documents/A-b99c65c4fad3b5adc31e.md",
+            "record_path": "archive/records/A-b99c65c4fad3b5adc31e.json",
+            "native_text_layer": "present",
+            "native_page_count": 334,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 8,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-1e94a15478bcf5a7703a",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/08.pdf",
+            "raw_paths": [
+              "archive/objects/7ea1dc3d5c11d923ecbf22edf36330ebfb37798f11720b01876165ab6af235b3.pdf"
+            ],
+            "text_path": "archive/text/A-1e94a15478bcf5a7703a.txt",
+            "document_path": "archive/documents/A-1e94a15478bcf5a7703a.md",
+            "record_path": "archive/records/A-1e94a15478bcf5a7703a.json",
+            "native_text_layer": "present",
+            "native_page_count": 358,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 9,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-f6f499c502c5970f6ccb",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/09.pdf",
+            "raw_paths": [
+              "archive/objects/1486db8177f18ee09ce43e1580a7f00ccace7a3b4fe298d19c6902283dde774a.pdf"
+            ],
+            "text_path": "archive/text/A-f6f499c502c5970f6ccb.txt",
+            "document_path": "archive/documents/A-f6f499c502c5970f6ccb.md",
+            "record_path": "archive/records/A-f6f499c502c5970f6ccb.json",
+            "native_text_layer": "present",
+            "native_page_count": 350,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 10,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-3ae8064b9aa1cb037b87",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/10.pdf",
+            "raw_paths": [
+              "archive/objects/6de60e351c9597e21d8ccea11e6011ed0a7a0911a980057a73f12e011df78f3f.pdf"
+            ],
+            "text_path": "archive/text/A-3ae8064b9aa1cb037b87.txt",
+            "document_path": "archive/documents/A-3ae8064b9aa1cb037b87.md",
+            "record_path": "archive/records/A-3ae8064b9aa1cb037b87.json",
+            "native_text_layer": "present",
+            "native_page_count": 366,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "mia-bujuan-9",
+    "title": "MIA目录：《毛泽东集补卷》九卷",
+    "expected_volumes": 9,
+    "volumes_with_source_files": 9,
+    "volumes_covered_by_files_or_registered_web_texts": 9,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-c0966a995bb82067c6e1",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-01.pdf",
+            "raw_paths": [
+              "archive/objects/7db0eec5b88cfce1aa460bc3eadb94b6f984f2e477536f1c7ca3709f641b9e60.pdf"
+            ],
+            "text_path": "archive/text/A-c0966a995bb82067c6e1.txt",
+            "document_path": "archive/documents/A-c0966a995bb82067c6e1.md",
+            "record_path": "archive/records/A-c0966a995bb82067c6e1.json",
+            "native_text_layer": "present",
+            "native_page_count": 322,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-75a7749553b326fd810a",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-02.pdf",
+            "raw_paths": [
+              "archive/objects/1d3c048fbd2199710888aebf048944a78345b82c68acabc5eb73162e83594ad2.pdf"
+            ],
+            "text_path": "archive/text/A-75a7749553b326fd810a.txt",
+            "document_path": "archive/documents/A-75a7749553b326fd810a.md",
+            "record_path": "archive/records/A-75a7749553b326fd810a.json",
+            "native_text_layer": "present",
+            "native_page_count": 322,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-8a1139d509e3ac2d82a3",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-03.pdf",
+            "raw_paths": [
+              "archive/objects/69a23adba4415140538b02ccff45a60e8a341aa90e68cc3159056ca8b536900e.pdf"
+            ],
+            "text_path": "archive/text/A-8a1139d509e3ac2d82a3.txt",
+            "document_path": "archive/documents/A-8a1139d509e3ac2d82a3.md",
+            "record_path": "archive/records/A-8a1139d509e3ac2d82a3.json",
+            "native_text_layer": "present",
+            "native_page_count": 326,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-ffd2fbafda9efed5201f",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-04.pdf",
+            "raw_paths": [
+              "archive/objects/9e549220c1431d1c09a4eeda3b38881d5a3c855e84e8248dada82b753df03927.pdf"
+            ],
+            "text_path": "archive/text/A-ffd2fbafda9efed5201f.txt",
+            "document_path": "archive/documents/A-ffd2fbafda9efed5201f.md",
+            "record_path": "archive/records/A-ffd2fbafda9efed5201f.json",
+            "native_text_layer": "present",
+            "native_page_count": 310,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-028f0dfdea8664806899",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-05.pdf",
+            "raw_paths": [
+              "archive/objects/683a640750124f67d0185ec58b4d5b92ab968f2cc9565bcb2654c827570bb803.pdf"
+            ],
+            "text_path": "archive/text/A-028f0dfdea8664806899.txt",
+            "document_path": "archive/documents/A-028f0dfdea8664806899.md",
+            "record_path": "archive/records/A-028f0dfdea8664806899.json",
+            "native_text_layer": "present",
+            "native_page_count": 334,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 6,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-a8fd7b6cee628133d81a",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-06.pdf",
+            "raw_paths": [
+              "archive/objects/079cc1102643767ff4348274e0c5e10f8c856c7afb10aa8722968af11ca85ec3.pdf"
+            ],
+            "text_path": "archive/text/A-a8fd7b6cee628133d81a.txt",
+            "document_path": "archive/documents/A-a8fd7b6cee628133d81a.md",
+            "record_path": "archive/records/A-a8fd7b6cee628133d81a.json",
+            "native_text_layer": "present",
+            "native_page_count": 310,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 7,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-62f735c6da46e36ae0c7",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-07.pdf",
+            "raw_paths": [
+              "archive/objects/074d27c3fe362842a4c9fa2b6ed1d6e3d00892dede0eb6cb0715fb6cdbb19c07.pdf"
+            ],
+            "text_path": "archive/text/A-62f735c6da46e36ae0c7.txt",
+            "document_path": "archive/documents/A-62f735c6da46e36ae0c7.md",
+            "record_path": "archive/records/A-62f735c6da46e36ae0c7.json",
+            "native_text_layer": "present",
+            "native_page_count": 296,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 8,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-9aa7e85f6386f8919ed5",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-08.pdf",
+            "raw_paths": [
+              "archive/objects/47471a87176741c999a6eecf099aff2b59b3f62473c12e4bca9ce76bd6c65835.pdf"
+            ],
+            "text_path": "archive/text/A-9aa7e85f6386f8919ed5.txt",
+            "document_path": "archive/documents/A-9aa7e85f6386f8919ed5.md",
+            "record_path": "archive/records/A-9aa7e85f6386f8919ed5.json",
+            "native_text_layer": "present",
+            "native_page_count": 316,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 9,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-f3ac1b13df9237355d4a",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-09.pdf",
+            "raw_paths": [
+              "archive/objects/d46a28bb457f36244d0505faafb7f5d6e5d4eb2585d7c62b7a274d218744665a.pdf"
+            ],
+            "text_path": "archive/text/A-f3ac1b13df9237355d4a.txt",
+            "document_path": "archive/documents/A-f3ac1b13df9237355d4a.md",
+            "record_path": "archive/records/A-f3ac1b13df9237355d4a.json",
+            "native_text_layer": "present",
+            "native_page_count": 398,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "mia-nianbiao",
+    "title": "MIA目录：《毛泽东集》著作年表",
+    "expected_volumes": 1,
+    "volumes_with_source_files": 1,
+    "volumes_covered_by_files_or_registered_web_texts": 1,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [
+          {
+            "id": "A-5d96739a71bdc04a49b4",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-10.pdf",
+            "raw_paths": [
+              "archive/objects/c86c08e13cc7bd85803b9758f76fc3d52cb0ebe1580b442e3ecd83936a4ecb7e.pdf"
+            ],
+            "text_path": "archive/text/A-5d96739a71bdc04a49b4.txt",
+            "document_path": "archive/documents/A-5d96739a71bdc04a49b4.md",
+            "record_path": "archive/records/A-5d96739a71bdc04a49b4.json",
+            "native_text_layer": "present",
+            "native_page_count": 298,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "mia-1968",
+    "title": "MIA目录：1968年武汉版《毛泽东思想万岁》五卷",
+    "expected_volumes": 5,
+    "volumes_with_source_files": 5,
+    "volumes_covered_by_files_or_registered_web_texts": 5,
+    "volumes": [
+      {
+        "volume": 1,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 151,
+        "preserved_HTML_witnesses": 151,
+        "container_witnesses": [
+          {
+            "id": "A-89124e2b9b2d8649265f",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210806.pdf",
+            "raw_paths": [
+              "archive/objects/53323cb2a7747c055a098b4d6ce5beaa6e1a2d29a9a1af8e4b7e16c80884eebd.pdf"
+            ],
+            "text_path": "archive/text/A-89124e2b9b2d8649265f.txt",
+            "document_path": "archive/documents/A-89124e2b9b2d8649265f.md",
+            "record_path": "archive/records/A-89124e2b9b2d8649265f.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 317,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 2,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 146,
+        "preserved_HTML_witnesses": 146,
+        "container_witnesses": [
+          {
+            "id": "A-bd01c76faf2082236de4",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210801.pdf",
+            "raw_paths": [
+              "archive/objects/df0da7a2d1e5ab0c2856850500f466b20df857c1fe0c5b2c909c815518825eef.pdf"
+            ],
+            "text_path": "archive/text/A-bd01c76faf2082236de4.txt",
+            "document_path": "archive/documents/A-bd01c76faf2082236de4.md",
+            "record_path": "archive/records/A-bd01c76faf2082236de4.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 281,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 3,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 126,
+        "preserved_HTML_witnesses": 126,
+        "container_witnesses": [
+          {
+            "id": "A-b16186e193af1c0f0083",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210802.pdf",
+            "raw_paths": [
+              "archive/objects/0314585f8f380de47f342eaf4f349754f03101673171f90160909d8b4a283071.pdf"
+            ],
+            "text_path": "archive/text/A-b16186e193af1c0f0083.txt",
+            "document_path": "archive/documents/A-b16186e193af1c0f0083.md",
+            "record_path": "archive/records/A-b16186e193af1c0f0083.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 275,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 4,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 197,
+        "preserved_HTML_witnesses": 197,
+        "container_witnesses": [
+          {
+            "id": "A-5324a9a62d31e38b920d",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210803.pdf",
+            "raw_paths": [
+              "archive/objects/f74fb2ca4f1888f016b892f340471e7d6d06c51e38c79e839f7b9ca19b9c3d49.pdf"
+            ],
+            "text_path": "archive/text/A-5324a9a62d31e38b920d.txt",
+            "document_path": "archive/documents/A-5324a9a62d31e38b920d.md",
+            "record_path": "archive/records/A-5324a9a62d31e38b920d.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 359,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      },
+      {
+        "volume": 5,
+        "whole_source_file_or_reader_complete": true,
+        "all_registered_HTML_entries_preserved": true,
+        "registered_HTML_entries": 378,
+        "preserved_HTML_witnesses": 378,
+        "container_witnesses": [
+          {
+            "id": "A-40ca82ecb75cd61ad8b2",
+            "media": "pdf",
+            "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210804.pdf",
+            "raw_paths": [
+              "archive/objects/758b6c841dceb73efee768fecf890cb6c6c3a9639f182427b4251a3f51d52f17.pdf"
+            ],
+            "text_path": "archive/text/A-40ca82ecb75cd61ad8b2.txt",
+            "document_path": "archive/documents/A-40ca82ecb75cd61ad8b2.md",
+            "record_path": "archive/records/A-40ca82ecb75cd61ad8b2.json",
+            "native_text_layer": "image_only_no_text_layer",
+            "native_page_count": 360,
+            "printed_edition_identity": "source_label_not_print_imprint_review"
+          }
+        ],
+        "status": "source_files_preserved"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  },
+  {
+    "edition_id": "wenji-1999",
+    "title": "《毛泽东文集》第七卷（1999）辅助见证本",
+    "expected_volumes": 1,
+    "volumes_with_source_files": 0,
+    "volumes_covered_by_files_or_registered_web_texts": 0,
+    "volumes": [
+      {
+        "volume": 7,
+        "whole_source_file_or_reader_complete": false,
+        "all_registered_HTML_entries_preserved": false,
+        "registered_HTML_entries": 0,
+        "preserved_HTML_witnesses": 0,
+        "container_witnesses": [],
+        "status": "not_complete"
+      }
+    ],
+    "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+  }
+]

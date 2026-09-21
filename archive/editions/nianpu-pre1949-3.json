@@ -1,0 +1,82 @@
+{
+  "edition_id": "nianpu-pre1949-3",
+  "title": "《毛泽东年谱（1893—1949）》旧三卷分组",
+  "expected_volumes": 3,
+  "volumes_with_source_files": 3,
+  "volumes_covered_by_files_or_registered_web_texts": 3,
+  "volumes": [
+    {
+      "volume": 1,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-8c1bf1993f5b7ec66f3e",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8A%E5%8D%B7.pdf",
+          "raw_paths": [
+            "archive/objects/0453a2657d6d6451e48027e7ac6df8fc08349de2655020a699205034d3d80f04.pdf"
+          ],
+          "text_path": "archive/text/A-8c1bf1993f5b7ec66f3e.txt",
+          "document_path": "archive/documents/A-8c1bf1993f5b7ec66f3e.md",
+          "record_path": "archive/records/A-8c1bf1993f5b7ec66f3e.json",
+          "native_text_layer": "present",
+          "native_page_count": 750,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 2,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-6130598a9549289f51ca",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%AD%E5%8D%B7.pdf",
+          "raw_paths": [
+            "archive/objects/0f98a4afbebd68356bf68eb9150877692f68bd0b5c780fe9a1efe178b04d0e95.pdf"
+          ],
+          "text_path": "archive/text/A-6130598a9549289f51ca.txt",
+          "document_path": "archive/documents/A-6130598a9549289f51ca.md",
+          "record_path": "archive/records/A-6130598a9549289f51ca.json",
+          "native_text_layer": "present",
+          "native_page_count": 700,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 3,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-53fc15cb527a2de9836d",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8B%E5%8D%B7.pdf",
+          "raw_paths": [
+            "archive/objects/50a17f3c134e606a557230cee670a6581596154dc9d6da1bb01c5ecb8a819548.pdf"
+          ],
+          "text_path": "archive/text/A-53fc15cb527a2de9836d.txt",
+          "document_path": "archive/documents/A-53fc15cb527a2de9836d.md",
+          "record_path": "archive/records/A-53fc15cb527a2de9836d.json",
+          "native_text_layer": "present",
+          "native_page_count": 660,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

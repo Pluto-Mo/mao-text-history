@@ -1,0 +1,235 @@
+{
+  "edition_id": "nianpu-2023-9",
+  "title": "《毛泽东年谱》2023修订九卷",
+  "expected_volumes": 9,
+  "volumes_with_source_files": 9,
+  "volumes_covered_by_files_or_registered_web_texts": 9,
+  "volumes": [
+    {
+      "volume": 1,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-1238a894a47eed51ace5",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC1%E5%8D%B7%EF%BC%881893.12-1937.06%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0000",
+            "archive/objects/47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-1238a894a47eed51ace5.txt",
+          "document_path": "archive/documents/A-1238a894a47eed51ace5.md",
+          "record_path": "archive/records/A-1238a894a47eed51ace5.json",
+          "native_text_layer": "present",
+          "native_page_count": 700,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 2,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-3aabe7d7d8be471b024f",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC2%E5%8D%B7%EF%BC%881937.07-1945.08%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0000",
+            "archive/objects/2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-3aabe7d7d8be471b024f.txt",
+          "document_path": "archive/documents/A-3aabe7d7d8be471b024f.md",
+          "record_path": "archive/records/A-3aabe7d7d8be471b024f.json",
+          "native_text_layer": "present",
+          "native_page_count": 626,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 3,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-ce6e7a65555cd6cd36fd",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC3%E5%8D%B7%EF%BC%881945.08-1949.09%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0000",
+            "archive/objects/f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-ce6e7a65555cd6cd36fd.txt",
+          "document_path": "archive/documents/A-ce6e7a65555cd6cd36fd.md",
+          "record_path": "archive/records/A-ce6e7a65555cd6cd36fd.json",
+          "native_text_layer": "present",
+          "native_page_count": 588,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 4,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-0a774548ee55c2288a21",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC4%E5%8D%B7%EF%BC%881949.10-1952.12%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0000",
+            "archive/objects/fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-0a774548ee55c2288a21.txt",
+          "document_path": "archive/documents/A-0a774548ee55c2288a21.md",
+          "record_path": "archive/records/A-0a774548ee55c2288a21.json",
+          "native_text_layer": "present",
+          "native_page_count": 654,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 5,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-08e901d73dcd78e98c4b",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC5%E5%8D%B7%EF%BC%881953.01-1956.09%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0000",
+            "archive/objects/ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-08e901d73dcd78e98c4b.txt",
+          "document_path": "archive/documents/A-08e901d73dcd78e98c4b.md",
+          "record_path": "archive/records/A-08e901d73dcd78e98c4b.json",
+          "native_text_layer": "present",
+          "native_page_count": 650,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 6,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-264a603d150bc5388914",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0000",
+            "archive/objects/e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-264a603d150bc5388914.txt",
+          "document_path": "archive/documents/A-264a603d150bc5388914.md",
+          "record_path": "archive/records/A-264a603d150bc5388914.json",
+          "native_text_layer": "present",
+          "native_page_count": 666,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 7,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-97c183f19ad837e7deff",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC7%E5%8D%B7%EF%BC%881959.04-1961.06%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0000",
+            "archive/objects/493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-97c183f19ad837e7deff.txt",
+          "document_path": "archive/documents/A-97c183f19ad837e7deff.md",
+          "record_path": "archive/records/A-97c183f19ad837e7deff.json",
+          "native_text_layer": "present",
+          "native_page_count": 616,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 8,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-93d18940d055820ccb0b",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC8%E5%8D%B7%EF%BC%881961.07-1966.09%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e.pdf.part0000",
+            "archive/objects/165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-93d18940d055820ccb0b.txt",
+          "document_path": "archive/documents/A-93d18940d055820ccb0b.md",
+          "record_path": "archive/records/A-93d18940d055820ccb0b.json",
+          "native_text_layer": "present",
+          "native_page_count": 638,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 9,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-bc29fda8b40043e7d0d2",
+          "media": "pdf",
+          "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf",
+          "raw_paths": [
+            "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0000",
+            "archive/objects/19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d.pdf.part0001"
+          ],
+          "text_path": "archive/text/A-bc29fda8b40043e7d0d2.txt",
+          "document_path": "archive/documents/A-bc29fda8b40043e7d0d2.md",
+          "record_path": "archive/records/A-bc29fda8b40043e7d0d2.json",
+          "native_text_layer": "present",
+          "native_page_count": 668,
+          "printed_edition_identity": "source_bytes_verified_imprint_images_available_for_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

@@ -1,0 +1,1073 @@
+[
+  {
+    "title": "建国以来毛泽东文稿_第19册（1967年3月-1970年5月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-096f1e7b59097fedd51f",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 439
+    },
+    "normalized_text_offset": 11,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "b7014ac1ab6ea6ab4d3829cac5634d64bde84857fbedb1a1cd124e4774e0faa6",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC19%E5%86%8C%EF%BC%881967%E5%B9%B43%E6%9C%88-1970%E5%B9%B45%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "事情正在起变化",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-1358b45aab7bd294bcc5",
+    "locator": {
+      "kind": "web_lines",
+      "number": 1
+    },
+    "normalized_text_offset": 0,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "2b490c986bf81e095f2e671a41204d375e56a7c1c2b2db256da7f14b87251728",
+    "source_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570515.htm"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 157
+    },
+    "normalized_text_offset": 105,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 158
+    },
+    "normalized_text_offset": 32,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 167
+    },
+    "normalized_text_offset": 222,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 170
+    },
+    "normalized_text_offset": 325,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 174
+    },
+    "normalized_text_offset": 267,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 178
+    },
+    "normalized_text_offset": 216,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 179
+    },
+    "normalized_text_offset": 521,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 181
+    },
+    "normalized_text_offset": 393,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 183
+    },
+    "normalized_text_offset": 415,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 184
+    },
+    "normalized_text_offset": 116,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 225
+    },
+    "normalized_text_offset": 28,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 317
+    },
+    "normalized_text_offset": 279,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 318
+    },
+    "normalized_text_offset": 494,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-264a603d150bc5388914",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 337
+    },
+    "normalized_text_offset": 447,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(11)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-3f53fdd42a42e84cf1d4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 41
+    },
+    "normalized_text_offset": 222,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "b5c194398b686285c02a1a1f05154c5001fb1624e27a56e49ae8c1608f901192",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c11.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第18册（1965年2月-1967年3月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-6992063864ea72b2ab0d",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 263
+    },
+    "normalized_text_offset": 32,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "95a8fcbca1136e23dcbc6377ed1874dc11e6def01e50ee19dc447e598addcff7",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC18%E5%86%8C%EF%BC%881965%E5%B9%B42%E6%9C%88-1967%E5%B9%B43%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第17册（1963年6月-1965年1月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-7083867e129f8be1ac0d",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 217
+    },
+    "normalized_text_offset": 271,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "30242bb3d24f5cbc13f98331d3b45c34cd4cc9b3b9c5878f22902a4539a7c42d",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC17%E5%86%8C%EF%BC%881963%E5%B9%B46%E6%9C%88-1965%E5%B9%B41%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 17
+    },
+    "normalized_text_offset": 77,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 280
+    },
+    "normalized_text_offset": 190,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 282
+    },
+    "normalized_text_offset": 27,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 319
+    },
+    "normalized_text_offset": 296,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 335
+    },
+    "normalized_text_offset": 362,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 355
+    },
+    "normalized_text_offset": 82,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 430
+    },
+    "normalized_text_offset": 0,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 436
+    },
+    "normalized_text_offset": 70,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 454
+    },
+    "normalized_text_offset": 299,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 461
+    },
+    "normalized_text_offset": 145,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-8bf4b1959901dc138cd4",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 462
+    },
+    "normalized_text_offset": 49,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第8卷（1961.07-1966.09）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-93d18940d055820ccb0b",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 162
+    },
+    "normalized_text_offset": 83,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC8%E5%8D%B7%EF%BC%881961.07-1966.09%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第8卷（1961.07-1966.09）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-93d18940d055820ccb0b",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 567
+    },
+    "normalized_text_offset": 589,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC8%E5%8D%B7%EF%BC%881961.07-1966.09%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第7卷（1959.04-1961.06）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-97c183f19ad837e7deff",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 251
+    },
+    "normalized_text_offset": 315,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC7%E5%8D%B7%EF%BC%881959.04-1961.06%EF%BC%89.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿_第20册（1970年6月-1976年7月）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-a8527dfd93ce517280d8",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 63
+    },
+    "normalized_text_offset": 289,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "5bebd8d0540d9918936e7cc781a653a216d1857d80a3957b62ffe67c4156a8ce",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC20%E5%86%8C%EF%BC%881970%E5%B9%B46%E6%9C%88-1976%E5%B9%B47%E6%9C%88%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第9卷（1966.10-1976.09）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-bc29fda8b40043e7d0d2",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 97
+    },
+    "normalized_text_offset": 503,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf"
+  },
+  {
+    "title": "毛泽东年谱_第9卷（1966.10-1976.09）",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-bc29fda8b40043e7d0d2",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 345
+    },
+    "normalized_text_offset": 495,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d",
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf"
+  },
+  {
+    "title": "讲话稿 按此",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-c1ee5906d8921df72493",
+    "locator": {
+      "kind": "web_lines",
+      "number": 1
+    },
+    "normalized_text_offset": 0,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "5fc7dfca5f990445d625b301d616e4e813f39013f9abcb1c0672a978dd495daf",
+    "source_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227AA.htm"
+  },
+  {
+    "title": "关于正确处理人民内部矛盾的问题",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d5c116872a1a98cb93ae",
+    "locator": {
+      "kind": "web_lines",
+      "number": 1
+    },
+    "normalized_text_offset": 0,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "3623abc1cbbd0df75c4bd359d9cf4fb1448caeeffa88b782f53b7fc760b3e624",
+    "source_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19570227.htm"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 13
+    },
+    "normalized_text_offset": 246,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 16
+    },
+    "normalized_text_offset": 181,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 17
+    },
+    "normalized_text_offset": 169,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 338
+    },
+    "normalized_text_offset": 165,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 339
+    },
+    "normalized_text_offset": 0,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 381
+    },
+    "normalized_text_offset": 423,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 395
+    },
+    "normalized_text_offset": 394,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 418
+    },
+    "normalized_text_offset": 89,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 492
+    },
+    "normalized_text_offset": 0,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "事情正在起变化",
+    "catalogue_entry_ids": [
+      "I-9cb45a04d7901f8a",
+      "I-b8f2a1550f887f61",
+      "B-4e16fdbdc2f759f45a65",
+      "B-80fc64abc2326b8a7255"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 498
+    },
+    "normalized_text_offset": 451,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 515
+    },
+    "normalized_text_offset": 342,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 522
+    },
+    "normalized_text_offset": 6,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  },
+  {
+    "title": "建国以来毛泽东文稿(6)",
+    "title_key": "关于正确处理人民内部矛盾的问题",
+    "catalogue_entry_ids": [
+      "I-aa7c003511bbbea0",
+      "I-a8159058e5333aac",
+      "B-c5e2567a3a90efcb334c",
+      "B-3d73a656c7e96335a908"
+    ],
+    "witness_id": "A-d6e9f1d4170c1ba7f814",
+    "locator": {
+      "kind": "pdf_page",
+      "number": 523
+    },
+    "normalized_text_offset": 43,
+    "normalization": "NFKC; letters/digits retained; whitespace/punctuation ignored",
+    "basis": "exact_normalized_title_occurs_in_source_page",
+    "status": "candidate_occurrence_not_work_identity_or_revision",
+    "source_raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf"
+  }
+]

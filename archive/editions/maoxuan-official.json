@@ -1,0 +1,106 @@
+{
+  "edition_id": "maoxuan-official",
+  "title": "《毛泽东选集》第一至四卷：官方目录对应版次待版权页确认",
+  "expected_volumes": 4,
+  "volumes_with_source_files": 4,
+  "volumes_covered_by_files_or_registered_web_texts": 4,
+  "volumes": [
+    {
+      "volume": 1,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-8bfc27ba981e89432b11",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/cfd1c7395b455e97e58af81933b2a8e555113/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/69ab9aabd67e1f99fa085322c5e46d1e193bd493a74d54baefa266863ec6bd93.js"
+          ],
+          "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+          "document_path": "archive/documents/A-8bfc27ba981e89432b11.md",
+          "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
+          "native_text_layer": null,
+          "native_page_count": 359,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 2,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-3d8f454387e25bfae9a9",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/b0d41b3f5e572ea7b1b190ed18dde2c863381/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/9e3cb10b0c5c6713fe98b61e09fe509107e512fc784b057367b6934bccb25015.js"
+          ],
+          "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+          "document_path": "archive/documents/A-3d8f454387e25bfae9a9.md",
+          "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
+          "native_text_layer": null,
+          "native_page_count": 461,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 3,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-30d13185d1f27d6e4de9",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/4c7451f802ad6cc211c9bec38ffc1acd46133/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/db32b9fe81193d6391370affabe7b05b930968e84a81546362eba301a8e72fdd.js"
+          ],
+          "text_path": "archive/text/A-30d13185d1f27d6e4de9.txt",
+          "document_path": "archive/documents/A-30d13185d1f27d6e4de9.md",
+          "record_path": "archive/records/A-30d13185d1f27d6e4de9.json",
+          "native_text_layer": null,
+          "native_page_count": 345,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 4,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-980973716441b9197629",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220801/36e607c0457c68b8f6cca39f64231ccb9989/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/c4ad80b15f7c7bde2dac26caec6024460d6775ac4c04a8a0c17b3dc6f45c201c.js"
+          ],
+          "text_path": "archive/text/A-980973716441b9197629.txt",
+          "document_path": "archive/documents/A-980973716441b9197629.md",
+          "record_path": "archive/records/A-980973716441b9197629.json",
+          "native_text_layer": null,
+          "native_page_count": 410,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

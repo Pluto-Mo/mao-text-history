@@ -1,0 +1,19 @@
+{
+  "edition_id": "maoxuan-1977-v5",
+  "title": "《毛泽东选集》第五卷（1977）",
+  "expected_volumes": 1,
+  "volumes_with_source_files": 0,
+  "volumes_covered_by_files_or_registered_web_texts": 1,
+  "volumes": [
+    {
+      "volume": 5,
+      "whole_source_file_or_reader_complete": false,
+      "all_registered_HTML_entries_preserved": true,
+      "registered_HTML_entries": 72,
+      "preserved_HTML_witnesses": 72,
+      "container_witnesses": [],
+      "status": "registered_web_texts_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

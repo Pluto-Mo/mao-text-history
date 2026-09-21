@@ -1,0 +1,154 @@
+{
+  "edition_id": "nianpu-post1949-6",
+  "title": "《毛泽东年谱（1949—1976）》旧六卷分组",
+  "expected_volumes": 6,
+  "volumes_with_source_files": 6,
+  "volumes_covered_by_files_or_registered_web_texts": 6,
+  "volumes": [
+    {
+      "volume": 1,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-0829b12f8678778d6a98",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220615/00cfd7b0e9fea36fc799ce967e62bddb83981/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/4bd70fb626be8e587157cef9ca93ccbda45ac490e9cd9ddb3e2446f023d0f31d.js"
+          ],
+          "text_path": "archive/text/A-0829b12f8678778d6a98.txt",
+          "document_path": "archive/documents/A-0829b12f8678778d6a98.md",
+          "record_path": "archive/records/A-0829b12f8678778d6a98.json",
+          "native_text_layer": null,
+          "native_page_count": 655,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 2,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-c29477681e436c0f3a85",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/eef739a67302f8fb712adf8dbaccf10186543/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/7f6e7ebec3980b9b3009cdb69e539ffc390b78bfec5c8bae7e3bc4c3cdb6234a.js"
+          ],
+          "text_path": "archive/text/A-c29477681e436c0f3a85.txt",
+          "document_path": "archive/documents/A-c29477681e436c0f3a85.md",
+          "record_path": "archive/records/A-c29477681e436c0f3a85.json",
+          "native_text_layer": null,
+          "native_page_count": 648,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 3,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-4f86c74615690e4246fe",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/7959b5b5a449a3046af7bbf4ea4ff53297585/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/f03e5ba0e6825ebd840eeb378513e208c0e5271b483722e8fd3ac802dcd14f18.js"
+          ],
+          "text_path": "archive/text/A-4f86c74615690e4246fe.txt",
+          "document_path": "archive/documents/A-4f86c74615690e4246fe.md",
+          "record_path": "archive/records/A-4f86c74615690e4246fe.json",
+          "native_text_layer": null,
+          "native_page_count": 663,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 4,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-bbdee33f11dbfba049f7",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/79ab1da440b78ea7eff0d2f9d1ab392b49601/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/da00825743447325a89edc5efe2644aeb8675dbf6c77cad0e59ed40f6a2ffa61.js"
+          ],
+          "text_path": "archive/text/A-bbdee33f11dbfba049f7.txt",
+          "document_path": "archive/documents/A-bbdee33f11dbfba049f7.md",
+          "record_path": "archive/records/A-bbdee33f11dbfba049f7.json",
+          "native_text_layer": null,
+          "native_page_count": 614,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 5,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-767ed9f9b63626ecf284",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220616/ddcdf1b3887dbedd06965f2619a3727d77188/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/ab3cceadb833ea3a7b2ee0593712f4d00f5eff87d26996bcbc87b0119e39f4a3.js"
+          ],
+          "text_path": "archive/text/A-767ed9f9b63626ecf284.txt",
+          "document_path": "archive/documents/A-767ed9f9b63626ecf284.md",
+          "record_path": "archive/records/A-767ed9f9b63626ecf284.json",
+          "native_text_layer": null,
+          "native_page_count": 637,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 6,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-c53443178f49c4d165bb",
+          "media": "official_page_text",
+          "source_url": "https://ebook.dswxyjy.org.cn/dswxbooks/storage/files/20220617/2053d7632026d25b29c4a92627a1ef6039585/mobile/javascript/search_config.js",
+          "raw_paths": [
+            "archive/objects/ef5c076fa7abfec8b7ad1a9c8263c8d62d02b8c5e0f867bcd934be825885a026.js"
+          ],
+          "text_path": "archive/text/A-c53443178f49c4d165bb.txt",
+          "document_path": "archive/documents/A-c53443178f49c4d165bb.md",
+          "record_path": "archive/records/A-c53443178f49c4d165bb.json",
+          "native_text_layer": null,
+          "native_page_count": 662,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

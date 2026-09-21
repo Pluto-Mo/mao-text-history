@@ -1,0 +1,19 @@
+{
+  "edition_id": "wenji-1999",
+  "title": "《毛泽东文集》第七卷（1999）辅助见证本",
+  "expected_volumes": 1,
+  "volumes_with_source_files": 0,
+  "volumes_covered_by_files_or_registered_web_texts": 0,
+  "volumes": [
+    {
+      "volume": 7,
+      "whole_source_file_or_reader_complete": false,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [],
+      "status": "not_complete"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

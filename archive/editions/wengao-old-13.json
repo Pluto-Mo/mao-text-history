@@ -1,0 +1,322 @@
+{
+  "edition_id": "wengao-old-13",
+  "title": "《建国以来毛泽东文稿》旧13册",
+  "expected_volumes": 13,
+  "volumes_with_source_files": 13,
+  "volumes_covered_by_files_or_registered_web_texts": 13,
+  "volumes": [
+    {
+      "volume": 1,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-82fa37116043841dbfe3",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c01.pdf",
+          "raw_paths": [
+            "archive/objects/3b57bec20dabe65cf0faf8b94e80ce521a59582ab39aa764c9b5c8e0de2380ef.pdf"
+          ],
+          "text_path": "archive/text/A-82fa37116043841dbfe3.txt",
+          "document_path": "archive/documents/A-82fa37116043841dbfe3.md",
+          "record_path": "archive/records/A-82fa37116043841dbfe3.json",
+          "native_text_layer": "present",
+          "native_page_count": 827,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 2,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-c724e56dcfb0bace9d90",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c02.pdf",
+          "raw_paths": [
+            "archive/objects/c67f31a47842a393fae1a9427c883fcb869f4ff525f959479e1e238f010efc18.pdf"
+          ],
+          "text_path": "archive/text/A-c724e56dcfb0bace9d90.txt",
+          "document_path": "archive/documents/A-c724e56dcfb0bace9d90.md",
+          "record_path": "archive/records/A-c724e56dcfb0bace9d90.json",
+          "native_text_layer": "present",
+          "native_page_count": 713,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 3,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-e5c3f7365430d751e53a",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c03.pdf",
+          "raw_paths": [
+            "archive/objects/f63d2a5240812a453d6d2b41326e64a2b884f9d6a793f7e1bef22f186dfcce47.pdf"
+          ],
+          "text_path": "archive/text/A-e5c3f7365430d751e53a.txt",
+          "document_path": "archive/documents/A-e5c3f7365430d751e53a.md",
+          "record_path": "archive/records/A-e5c3f7365430d751e53a.json",
+          "native_text_layer": "present",
+          "native_page_count": 734,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 4,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-3bc2c15672fb764e26d8",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c04.pdf",
+          "raw_paths": [
+            "archive/objects/19a0d7863044e823ad6eff92bd52f5ff24542ec693dbdc9876990834cbff7a8d.pdf"
+          ],
+          "text_path": "archive/text/A-3bc2c15672fb764e26d8.txt",
+          "document_path": "archive/documents/A-3bc2c15672fb764e26d8.md",
+          "record_path": "archive/records/A-3bc2c15672fb764e26d8.json",
+          "native_text_layer": "present",
+          "native_page_count": 678,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 5,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-357202aad869491328e3",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c05.pdf",
+          "raw_paths": [
+            "archive/objects/05f6652538596b5faaf0679590540047997d04aa5847deb392140b4c9c96a7cb.pdf"
+          ],
+          "text_path": "archive/text/A-357202aad869491328e3.txt",
+          "document_path": "archive/documents/A-357202aad869491328e3.md",
+          "record_path": "archive/records/A-357202aad869491328e3.json",
+          "native_text_layer": "present",
+          "native_page_count": 605,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 6,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-d6e9f1d4170c1ba7f814",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf",
+          "raw_paths": [
+            "archive/objects/694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc.pdf"
+          ],
+          "text_path": "archive/text/A-d6e9f1d4170c1ba7f814.txt",
+          "document_path": "archive/documents/A-d6e9f1d4170c1ba7f814.md",
+          "record_path": "archive/records/A-d6e9f1d4170c1ba7f814.json",
+          "native_text_layer": "present",
+          "native_page_count": 702,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 7,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-e19595b565de61a292c7",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c07.pdf",
+          "raw_paths": [
+            "archive/objects/229026f9b6d8f3bc4e5492130b3eef593c427c40106a984d53de23a62e65dcec.pdf"
+          ],
+          "text_path": "archive/text/A-e19595b565de61a292c7.txt",
+          "document_path": "archive/documents/A-e19595b565de61a292c7.md",
+          "record_path": "archive/records/A-e19595b565de61a292c7.json",
+          "native_text_layer": "present",
+          "native_page_count": 702,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 8,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-cbdc439fcfad00032603",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c08.pdf",
+          "raw_paths": [
+            "archive/objects/bc1f91e36bc20f365c1b84d666e60c2d38764e92478168a71f69f3cb3ced349e.pdf"
+          ],
+          "text_path": "archive/text/A-cbdc439fcfad00032603.txt",
+          "document_path": "archive/documents/A-cbdc439fcfad00032603.md",
+          "record_path": "archive/records/A-cbdc439fcfad00032603.json",
+          "native_text_layer": "present",
+          "native_page_count": 671,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 9,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-56a60457d76d07362f4c",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c09.pdf",
+          "raw_paths": [
+            "archive/objects/e42980872eca21b2abecb21d52a31c6032b62dbe08392ad67aed4e03933c1f5e.pdf"
+          ],
+          "text_path": "archive/text/A-56a60457d76d07362f4c.txt",
+          "document_path": "archive/documents/A-56a60457d76d07362f4c.md",
+          "record_path": "archive/records/A-56a60457d76d07362f4c.json",
+          "native_text_layer": "present",
+          "native_page_count": 651,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 10,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-5f72d71ff376dc2576bf",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c10.pdf",
+          "raw_paths": [
+            "archive/objects/5ae95b8e52f962c2b8c3b4b8b34ddccb837a03f61ec3abe13a24b8e11c47a1b1.pdf"
+          ],
+          "text_path": "archive/text/A-5f72d71ff376dc2576bf.txt",
+          "document_path": "archive/documents/A-5f72d71ff376dc2576bf.md",
+          "record_path": "archive/records/A-5f72d71ff376dc2576bf.json",
+          "native_text_layer": "present",
+          "native_page_count": 494,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 11,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-3f53fdd42a42e84cf1d4",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c11.pdf",
+          "raw_paths": [
+            "archive/objects/b5c194398b686285c02a1a1f05154c5001fb1624e27a56e49ae8c1608f901192.pdf"
+          ],
+          "text_path": "archive/text/A-3f53fdd42a42e84cf1d4.txt",
+          "document_path": "archive/documents/A-3f53fdd42a42e84cf1d4.md",
+          "record_path": "archive/records/A-3f53fdd42a42e84cf1d4.json",
+          "native_text_layer": "present",
+          "native_page_count": 525,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 12,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-1650b6ab4e87a3902cb6",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c12.pdf",
+          "raw_paths": [
+            "archive/objects/e240b91ae43f94c62098ea37afac2e62a8c7059c568d2c4ea15d29caaa6394f0.pdf"
+          ],
+          "text_path": "archive/text/A-1650b6ab4e87a3902cb6.txt",
+          "document_path": "archive/documents/A-1650b6ab4e87a3902cb6.md",
+          "record_path": "archive/records/A-1650b6ab4e87a3902cb6.json",
+          "native_text_layer": "image_only_no_text_layer",
+          "native_page_count": 650,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    },
+    {
+      "volume": 13,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-3ff7a99562eb05091c0c",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c13.pdf",
+          "raw_paths": [
+            "archive/objects/889a238d48c666fd4a3bda8e506af6b1779474be13b0661f3c03f826027438ff.pdf"
+          ],
+          "text_path": "archive/text/A-3ff7a99562eb05091c0c.txt",
+          "document_path": "archive/documents/A-3ff7a99562eb05091c0c.md",
+          "record_path": "archive/records/A-3ff7a99562eb05091c0c.json",
+          "native_text_layer": "image_only_no_text_layer",
+          "native_page_count": 569,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

@@ -1,0 +1,34 @@
+{
+  "edition_id": "mia-nianbiao",
+  "title": "MIA目录：《毛泽东集》著作年表",
+  "expected_volumes": 1,
+  "volumes_with_source_files": 1,
+  "volumes_covered_by_files_or_registered_web_texts": 1,
+  "volumes": [
+    {
+      "volume": 1,
+      "whole_source_file_or_reader_complete": true,
+      "all_registered_HTML_entries_preserved": false,
+      "registered_HTML_entries": 0,
+      "preserved_HTML_witnesses": 0,
+      "container_witnesses": [
+        {
+          "id": "A-5d96739a71bdc04a49b4",
+          "media": "pdf",
+          "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-10.pdf",
+          "raw_paths": [
+            "archive/objects/c86c08e13cc7bd85803b9758f76fc3d52cb0ebe1580b442e3ecd83936a4ecb7e.pdf"
+          ],
+          "text_path": "archive/text/A-5d96739a71bdc04a49b4.txt",
+          "document_path": "archive/documents/A-5d96739a71bdc04a49b4.md",
+          "record_path": "archive/records/A-5d96739a71bdc04a49b4.json",
+          "native_text_layer": "present",
+          "native_page_count": 298,
+          "printed_edition_identity": "source_label_not_print_imprint_review"
+        }
+      ],
+      "status": "source_files_preserved"
+    }
+  ],
+  "meaning_of_complete": "complete retrieved digital files or bounded reader pages, NOT independent printed-book or manuscript authentication"
+}

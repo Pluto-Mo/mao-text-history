@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "A-028f0dfdea8664806899",
+    "title": "第五卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 5,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-05.pdf",
+    "raw_sha256": "683a640750124f67d0185ec58b4d5b92ab968f2cc9565bcb2654c827570bb803",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 333,
+        "whitespace_normalized_text": "===PDFPAGE333===毛泽东集补卷第5卷〔1936•9〜1938•12)1984年8月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4—63055電話(03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-15-6",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-03e01bdabdf4e5a46933",
+    "title": "第二卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 2,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/02.pdf",
+    "raw_sha256": "d503e484a972addff95a3e349c92ab060e896e25ab78f63ec257a4bdc90d172a",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-06545d8195fb68b8c23b",
+    "title": "建国以来毛泽东文稿_第3册（1950年9月-1950年12月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 3,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC3%E5%86%8C%EF%BC%881950%E5%B9%B49%E6%9C%88-1950%E5%B9%B412%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "a7f91440988d0e67857e5dfff63fca4e7e9458c8a023ad96a65293f67dcaf0cf",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-08e901d73dcd78e98c4b",
+    "title": "毛泽东年谱_第5卷（1953.01-1956.09）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 5,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC5%E5%8D%B7%EF%BC%881953.01-1956.09%EF%BC%89.pdf",
+    "raw_sha256": "ba83874b716e334221fc1105f85530900883ec9430e36a13105ab5886eb22830",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-096f1e7b59097fedd51f",
+    "title": "建国以来毛泽东文稿_第19册（1967年3月-1970年5月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 19,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC19%E5%86%8C%EF%BC%881967%E5%B9%B43%E6%9C%88-1970%E5%B9%B45%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "b7014ac1ab6ea6ab4d3829cac5634d64bde84857fbedb1a1cd124e4774e0faa6",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体H期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 11,
+        "whitespace_normalized_text": "===PDFPAGE11===对《关于不准抢夺人民解放军武器、装备和各种军用物资的命令》的批语（一九六七年九月五日）．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．（150)对戚本禹检讨信的批语（一九六七年九月七日）．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．（152)对《关千抓紧搞好秋收、秋种、秋耕的通知》的批语（一九六七年九月十三日）..............................….．．．．．(154)对《关千严禁抢夺国家物资商品，冲击仓库，确保国家财产安全的通知》的批语（一九六七年九月十三日）．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．（155)对林彪接见曾思玉、刘丰的讲话记录稿的批语和修改（一九六七年九月十三日、十月十一日）……………………（156)对山东省革委会拟在本省报刊上公开点名批判谭启龙等的请示报告的批语（一九六七年九月十六日）．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．（159)对《关千在外地串连学生和在京上访人员立即返回原单位的紧急通知》的批语（一九六七年九月二十三日）…………...……...…...……(160)对两报一刊社论稿《无产阶级专政下的文化大革命胜利万岁》的批语（一九六七年九月二十八日、三十日）……………………（161)对林彪在国庆十八周年庆祝大会上的讲话稿的批语（一九六七年九月二十九日）……......…......……………(164)对《关千在全军深入开展革命大批判运动的通知》稿的批语（一九六七年十月一日）य.............•·......य..........•.•••••••••(166)对陈伯达、江青关千选编《刘少奇言论》报告和《出版说明》的批语（一九六七年十月九日）．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．（169)6",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-0a774548ee55c2288a21",
+    "title": "毛泽东年谱_第4卷（1949.10-1952.12）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 4,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC4%E5%8D%B7%EF%BC%881949.10-1952.12%EF%BC%89.pdf",
+    "raw_sha256": "fc9d8eb877991db15f55d3862fc949d4732b3e0bf5cf7d71fdfa4de2228b3113",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-1238a894a47eed51ace5",
+    "title": "毛泽东年谱_第1卷（1893.12-1937.06）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 1,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC1%E5%8D%B7%EF%BC%881893.12-1937.06%EF%BC%89.pdf",
+    "raw_sha256": "47fe85f4b19b77943c395fd8664a98e881fd49212bc6ea217c27bff700eac3e6",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===原中共于199年出版，1于20、将两部l共九卷《毛泽东年谱〉出版明献室写的《东年归—11年出版本。（东年谓949——出版P《毛泽普》编也进行后的年为一部，定名泽东年中共党史和研究阮2023年10月",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 6,
+        "whitespace_normalized_text": "===PDFPAGE6===1《毛泽东年谱(1893—1949))出版说明《毛泽东年谱(1893—1949)》是国内外首次详细记述毛泽东．的思想和生平业绩的编年体著作，经过八年时间精心编撰而成。这部年谱记述了一代伟人毛泽东1893年至1949年的生平、经历和实践活动，反映了他对中国革命的丰功伟绩，特别是多侧面多角度地体现了他的科学思想体系，包括他的理论观点、战略思想、政策和策略以及关于思想方法和工作方法的论述等，展示了他的思想发展轨迹，反映了他作为中国共产党第一代领导集体的核心把马克思主义的普遍原理同中国革命的具体实践相结合的具体过程，并尽可能地表现他的胸怀、情操、气度和风貌。这部年谱从一个极其重要的方面反映了中国共产党领导新民主主义革命走过的艰难曲折的道路和光辉历程，直到取得全国胜利。这部年谱的编撰方针是：将资料性、学术性、传记性相统一；以翔实可靠的历史文献资料为依据，大量使用和发表档案材料；注意汲取近年来的最新研究成果，并且经过研究考证有所发现和创新，澄清了一些出版物中关于毛泽东生平业绩的失实记载；写作上采用客观陈述的方法，一般不作评论。关于编撰体例作以下几点说明：一、按年、月、日顺序纪事，少数条目根据叙事的需要采用纪事本末的写法。具体日子考订不清的写旬，旬考订不清的写",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 7,
+        "whitespace_normalized_text": "===PDFPAGE7===2出版说明月，月考订不清的写季。用旬、月、季表述的条目，一般放在该旬、月、季的末尾，有的则视情况酌定。只能判定时间为某年的条目，一律放在年末。二、记述谱主的活动，一般省略主语。三、某些重大的历史事件，或与谱主有关的大事，列专条按时间顺序写入谱内。四、回忆毛泽东的材料（包括他本人的回忆），他人致毛泽东的函电，以及对史实的订正等，有一些通过注释发表或说明。对于正文中涉及的部分人物、地名和事件等，作了简略的注释。五、凡引用编入《毛泽东选集》的著作，均据《毛泽东选集》第二版。谨以此书纪念毛泽东100周年诞辰。中共中央文献研究室1993年8月`",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 8,
+        "whitespace_normalized_text": "===PDFPAGE8===1毛泽年谱4976))出版说明《毛泽东年产1—197/成立郅世27的生平全面而充分地记录他的各种、决策过程，反映了他的思想理、国的发展，国社会大贝献历了复中国社今｀建设、曲折的过程年谱东正确具有重一部记述毛泽午从中华人民绩的编著作，特别作方些重一问题上的毛泽东为中华人制度的，作出索。这探索纭、彗钉了反映、值的思索过理论、既记述及所取,了`..，一，巾汜沭..1一的牛误，．．，甫错；、＿，、所带ZI-....J.,.,,,、宰和刁＾7．，年谱中，还可以了陪毛泽东三这＿7年间是怎样工作活的，l几乎天的毛党和主要和决因此谱在的方面反映了从中华民共和国成立到他逝世的27兄户家的历_,_0这普的编现了性、学传记统一，观记述，编写作评论谱以中案馆保料为据，发大量未毛泽东集中的和谈话~十分翔实于这部谱的编写，作L,J点说:",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 700,
+        "whitespace_normalized_text": "===PDFPAGE700===l1893.121937.06毛择东年谱中共中央党史和文献研究院编ISBN978-7-5073-4984-9中欢迎关注中央文献出版社官方网站及微信公众号网址：http://www.zywxpress.com微信公众号：zywx50739117875Q7II34984911>定价：800.00元（全九卷）献出版社",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-12fbcc5eb211681c08d0",
+    "title": "第一卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 1,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01.pdf",
+    "raw_sha256": "238b4233969ced05e8cf96506d6c8a3b390a7dfbcb377cb1673f6e68ad3b5d8e",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-1650b6ab4e87a3902cb6",
+    "title": "建国以来毛泽东文稿(12)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 12,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c12.pdf",
+    "raw_sha256": "e240b91ae43f94c62098ea37afac2e62a8c7059c568d2c4ea15d29caaa6394f0",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-1aead70c759f2a13f5c9",
+    "title": "建国以来毛泽东文稿_第15册（1960年1月-1961年3月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 15,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC15%E5%86%8C%EF%BC%881960%E5%B9%B41%E6%9C%88-1961%E5%B9%B43%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "d076500de5875bf7fcaa83e32514f854fb20b8b220fc93c04bdf4e594a3a7bba",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加D号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-1e94a15478bcf5a7703a",
+    "title": "第八卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 8,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/08.pdf",
+    "raw_sha256": "7ea1dc3d5c11d923ecbf22edf36330ebfb37798f11720b01876165ab6af235b3",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-264a603d150bc5388914",
+    "title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 6,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC6%E5%8D%B7%EF%BC%881956.10-1959.03%EF%BC%89.pdf",
+    "raw_sha256": "e92fe5099c1c865e951f472479118e4d2c3fa0056d6ef4f7738df4b564cd722c",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-2abd4501edfd1ae6a245",
+    "title": "建国以来毛泽东文稿_第6册（1952年1月-1952年4月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 6,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC6%E5%86%8C%EF%BC%881952%E5%B9%B41%E6%9C%88-1952%E5%B9%B44%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "1793273031e5adbb8254044c6b58fd37128c88b5f5d53a90e205a7559b740ec2",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-357202aad869491328e3",
+    "title": "建国以来毛泽东文稿(5)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 5,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c05.pdf",
+    "raw_sha256": "05f6652538596b5faaf0679590540047997d04aa5847deb392140b4c9c96a7cb",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-3aabe7d7d8be471b024f",
+    "title": "毛泽东年谱_第2卷（1937.07-1945.08）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 2,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC2%E5%8D%B7%EF%BC%881937.07-1945.08%EF%BC%89.pdf",
+    "raw_sha256": "2ee8791d0eb2d0babb07135205cd9c9cf32a6a9866e03a06e34e753ad0c9bfed",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-3ae8064b9aa1cb037b87",
+    "title": "第十卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 10,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/10.pdf",
+    "raw_sha256": "6de60e351c9597e21d8ccea11e6011ed0a7a0911a980057a73f12e011df78f3f",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-3bc2c15672fb764e26d8",
+    "title": "建国以来毛泽东文稿(4)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 4,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c04.pdf",
+    "raw_sha256": "19a0d7863044e823ad6eff92bd52f5ff24542ec693dbdc9876990834cbff7a8d",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-3f53fdd42a42e84cf1d4",
+    "title": "建国以来毛泽东文稿(11)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 11,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c11.pdf",
+    "raw_sha256": "b5c194398b686285c02a1a1f05154c5001fb1624e27a56e49ae8c1608f901192",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-3ff7a99562eb05091c0c",
+    "title": "建国以来毛泽东文稿(13)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 13,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c13.pdf",
+    "raw_sha256": "889a238d48c666fd4a3bda8e506af6b1779474be13b0661f3c03f826027438ff",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-40ca82ecb75cd61ad8b2",
+    "title": "毛泽东思想万岁（1961—1968）",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      },
+      {
+        "edition_id": "mia-1968",
+        "volume": 5,
+        "basis": "five_date_ranges_linked_in_MIA_catalogue; print_identity_not_independently_authenticated"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210804.pdf",
+    "raw_sha256": "758b6c841dceb73efee768fecf890cb6c6c3a9639f182427b4251a3f51d52f17",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-5324a9a62d31e38b920d",
+    "title": "毛泽东思想万岁（1958—1960）",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      },
+      {
+        "edition_id": "mia-1968",
+        "volume": 4,
+        "basis": "five_date_ranges_linked_in_MIA_catalogue; print_identity_not_independently_authenticated"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210803.pdf",
+    "raw_sha256": "f74fb2ca4f1888f016b892f340471e7d6d06c51e38c79e839f7b9ca19b9c3d49",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-53fc15cb527a2de9836d",
+    "title": "毛泽东年谱_下卷",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-pre1949-3",
+        "volume": 3,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8B%E5%8D%B7.pdf",
+    "raw_sha256": "50a17f3c134e606a557230cee670a6581596154dc9d6da1bb01c5ecb8a819548",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-55068d4cf6c07ff822ae",
+    "title": "建国以来毛泽东文稿_第1册（1949年9月-1950年2月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 1,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC1%E5%86%8C%EF%BC%881949%E5%B9%B49%E6%9C%88-1950%E5%B9%B42%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "c8a6d16228abe524e7aaf5b894083b31f7ddb56fe88d8d682fd6d75c7d48b683",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-56a60457d76d07362f4c",
+    "title": "建国以来毛泽东文稿(9)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 9,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c09.pdf",
+    "raw_sha256": "e42980872eca21b2abecb21d52a31c6032b62dbe08392ad67aed4e03933c1f5e",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-5d96739a71bdc04a49b4",
+    "title": "著作年表",
+    "edition_refs": [
+      {
+        "edition_id": "mia-nianbiao",
+        "volume": 1,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-10.pdf",
+    "raw_sha256": "c86c08e13cc7bd85803b9758f76fc3d52cb0ebe1580b442e3ecd83936a4ecb7e",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 297,
+        "whitespace_normalized_text": "===PDFPAGE297===毛泽东集补卷別卷毛泽东著作年表1986年3月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068印刷•製本/凸版印刷ISBN4-915441-20-2",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-5f72d71ff376dc2576bf",
+    "title": "建国以来毛泽东文稿(10)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 10,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c10.pdf",
+    "raw_sha256": "5ae95b8e52f962c2b8c3b4b8b34ddccb837a03f61ec3abe13a24b8e11c47a1b1",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-5f841006ac6d22cfb20c",
+    "title": "建国以来毛泽东文稿_第10册（1955年6月-1956年4月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 10,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC10%E5%86%8C%EF%BC%881955%E5%B9%B46%E6%9C%88-1956%E5%B9%B44%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "b073dcceeb4a311c543fd33ed6a783fdaac748aa23d003ba7f86f1090a41e06d",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-6130598a9549289f51ca",
+    "title": "毛泽东年谱_中卷",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-pre1949-3",
+        "volume": 2,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%AD%E5%8D%B7.pdf",
+    "raw_sha256": "0f98a4afbebd68356bf68eb9150877692f68bd0b5c780fe9a1efe178b04d0e95",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-62f735c6da46e36ae0c7",
+    "title": "第七卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 7,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-07.pdf",
+    "raw_sha256": "074d27c3fe362842a4c9fa2b6ed1d6e3d00892dede0eb6cb0715fb6cdbb19c07",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 295,
+        "whitespace_normalized_text": "===PDFPAGE295===毛泽东集补卷第7卷〔1941.2〜1945.4〕1985年1月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-17-2",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-6992063864ea72b2ab0d",
+    "title": "建国以来毛泽东文稿_第18册（1965年2月-1967年3月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 18,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC18%E5%86%8C%EF%BC%881965%E5%B9%B42%E6%9C%88-1967%E5%B9%B43%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "95a8fcbca1136e23dcbc6377ed1874dc11e6def01e50ee19dc447e598addcff7",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和[J号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-6bfa382795f05e811e0f",
+    "title": "建国以来毛泽东文稿_第08册（1953年1月-1953年10月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 8,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC08%E5%86%8C%EF%BC%881953%E5%B9%B41%E6%9C%88-1953%E5%B9%B410%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "9caae4547f954ec8e18683f83a3377334c0d6d6e01f20a1b0b9e7fabcd870334",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和［］号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-6f3c97f39a890c27616d",
+    "title": "毛泽东选集",
+    "edition_refs": [
+      {
+        "edition_id": "maoxuan-mirror-combined-unverified",
+        "volume": null,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86.pdf",
+    "raw_sha256": "e65195a022c0a066d8bbcf68fcf452a764f7f759019331cf153dadd16233d242",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===目录第一卷第二版出版说明本书出版的说明第一次国内革命战争时期中国社会各阶级的分析湖南农民运动考察报告第二次国内革命战争时期中国的红色政权为什么能够存在？井冈山的斗争关于纠正党内的错误思想星星之火，可以燎原反对本本主义必须注意经济工作怎样分析农村阶级我们的经济政策关心群众生活，注意工作方法论反对日本帝国主义的策略中国革命战争的战略问题关于蒋介石声明的声明中国共产党在抗日时期的任务为争取千百万群众进入抗日民族统一战线而斗争实践论矛盾论第二卷4/2480",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 10,
+        "whitespace_normalized_text": "===PDFPAGE10===中国人民解放军布告中国人民解放军总部发言人为英国军舰暴行发表的声明在新政治协商会议筹备会上的讲话论人民民主专政丢掉幻想，准备斗争别了，司徒雷登为什么要讨论白皮书？“友谊”，还是侵略？唯心历史观的破产第五卷出版说明社会主义革命和社会主义建设时期（一）中国人民站起来了中国人民大团结万岁人民英雄们永垂不朽永远保持艰苦奋斗的作风征询对待富农策略问题的意见为争取国家财政经济状况的基本好转而斗争不要四面出击做一个完全的革命派你们是全民族的模范人物给中国人民志愿军的命令中国人民志愿军要爱护朝鲜的一山一水一草一木中共中央政治局扩大会议决议要点镇压反革命必须实行党的群众路线镇压反革命必须打得稳，打得准，打得狠应当重视电影《武训传》的讨论三大运动的伟大胜利10/2480",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-7083867e129f8be1ac0d",
+    "title": "建国以来毛泽东文稿_第17册（1963年6月-1965年1月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 17,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC17%E5%86%8C%EF%BC%881963%E5%B9%B46%E6%9C%88-1965%E5%B9%B41%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "30242bb3d24f5cbc13f98331d3b45c34cd4cc9b3b9c5878f22902a4539a7c42d",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-75a7749553b326fd810a",
+    "title": "第二卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 2,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-02.pdf",
+    "raw_sha256": "1d3c048fbd2199710888aebf048944a78345b82c68acabc5eb73162e83594ad2",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 321,
+        "whitespace_normalized_text": "===PDFPAGE321===毛泽东集补卷第2卷〔1921.1-1928-12)1984年2月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-12-1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-7bd2170ed91fc795d048",
+    "title": "建国以来毛泽东文稿_第14册（1959年4月-1959年12月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 14,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC14%E5%86%8C%EF%BC%881959%E5%B9%B44%E6%9C%88-1959%E5%B9%B412%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "e585e6396d428f5014f5aa5f00e8b2ad87c284a790aab0cd709ccd0cea1f9442",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-813811c7311857ac1f3d",
+    "title": "建国以来毛泽东文稿_第4册（1951年1月-1951年6月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 4,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC4%E5%86%8C%EF%BC%881951%E5%B9%B41%E6%9C%88-1951%E5%B9%B46%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "97979bb0ef250b529a4b77fee6a1c2cfbf25b5227a8430030315b443a520ba6f",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-82fa37116043841dbfe3",
+    "title": "建国以来毛泽东文稿(1)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 1,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c01.pdf",
+    "raw_sha256": "3b57bec20dabe65cf0faf8b94e80ce521a59582ab39aa764c9b5c8e0de2380ef",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-84a4f3838025326dca92",
+    "title": "建国以来毛泽东文稿_第16册（1961年4月-1963年5月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 16,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC16%E5%86%8C%EF%BC%881961%E5%B9%B44%E6%9C%88-1963%E5%B9%B45%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "db2cd085df785b428f9b503b9a9a64d7a03d44f703496e2fbe525b6559cc2eea",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-86df691b1b5a8f68bef7",
+    "title": "建国以来毛泽东文稿_第5册（1951年7月-1952年1月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 5,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC5%E5%86%8C%EF%BC%881951%E5%B9%B47%E6%9C%88-1952%E5%B9%B41%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "015f961eaf078bb3d764a1ad1fa76ae97ee0245b1e209f66b3fd91c986992bc4",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加D号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-89124e2b9b2d8649265f",
+    "title": "毛泽东思想万岁（1913－1943）",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      },
+      {
+        "edition_id": "mia-1968",
+        "volume": 1,
+        "basis": "five_date_ranges_linked_in_MIA_catalogue; print_identity_not_independently_authenticated"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210806.pdf",
+    "raw_sha256": "53323cb2a7747c055a098b4d6ce5beaa6e1a2d29a9a1af8e4b7e16c80884eebd",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-8a1139d509e3ac2d82a3",
+    "title": "第三卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 3,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-03.pdf",
+    "raw_sha256": "69a23adba4415140538b02ccff45a60e8a341aa90e68cc3159056ca8b536900e",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 325,
+        "whitespace_normalized_text": "===PDFPAGE325===毛泽东集补卷第3卷〔1929*1〜1931.12〕1984年4月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4—63055電話(03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-13-X",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-8bf4b1959901dc138cd4",
+    "title": "建国以来毛泽东文稿_第11册（1956年4月-1957年7月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 11,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC11%E5%86%8C%EF%BC%881956%E5%B9%B44%E6%9C%88-1957%E5%B9%B47%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "e0066ce583188f5994d9bc112f59450c1fab10a2ffd80a8d43470f2b6235bab1",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-8c1bf1993f5b7ec66f3e",
+    "title": "毛泽东年谱_上卷",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-pre1949-3",
+        "volume": 1,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/1993%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E4%B8%8A%E5%8D%B7.pdf",
+    "raw_sha256": "0453a2657d6d6451e48027e7ac6df8fc08349de2655020a699205034d3d80f04",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-8c37e610c110d980b7cb",
+    "title": "第四卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 4,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/04.pdf",
+    "raw_sha256": "cb6f6157f2a4b3e4b423f4e003a14d5016a622416ad338ff707cd5327e9e4a4b",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-93d18940d055820ccb0b",
+    "title": "毛泽东年谱_第8卷（1961.07-1966.09）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 8,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC8%E5%8D%B7%EF%BC%881961.07-1966.09%EF%BC%89.pdf",
+    "raw_sha256": "165c74e7ca4bb3cd0f2e85a05aafb77df18ad07c76da06ecadbd21685257c45e",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-954172d8c85f3d0233c0",
+    "title": "苏联解密档案选：毛泽东著作",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/20200712e.pdf",
+    "raw_sha256": "ffc51207d96b8c6f6b094e8823150f497d686c327ac4e7cd2fcb56796baa2907",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-97c183f19ad837e7deff",
+    "title": "毛泽东年谱_第7卷（1959.04-1961.06）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 7,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC7%E5%8D%B7%EF%BC%881959.04-1961.06%EF%BC%89.pdf",
+    "raw_sha256": "493c817c7b58f899b5fae5d5287806745b41520aa6053cfab124f186a38e5cf3",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-9aa7e85f6386f8919ed5",
+    "title": "第八卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 8,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-08.pdf",
+    "raw_sha256": "47471a87176741c999a6eecf099aff2b59b3f62473c12e4bca9ce76bd6c65835",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 315,
+        "whitespace_normalized_text": "===PDFPAGE315===毛泽东集补卷第8卷〔1945.5〜1949.91985年4月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-18-0",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-a1f47716795a11c92e56",
+    "title": "建国以来毛泽东文稿_第2册（1950年3月-1950年8月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 2,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC2%E5%86%8C%EF%BC%881950%E5%B9%B43%E6%9C%88-1950%E5%B9%B48%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "d7c1d1b00533f31687a1d084bed84207ccec7a029895eb3219d0e2b407fa1fc9",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-a8527dfd93ce517280d8",
+    "title": "建国以来毛泽东文稿_第20册（1970年6月-1976年7月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 20,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC20%E5%86%8C%EF%BC%881970%E5%B9%B46%E6%9C%88-1976%E5%B9%B47%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "5bebd8d0540d9918936e7cc781a653a216d1857d80a3957b62ffe67c4156a8ce",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 559,
+        "whitespace_normalized_text": "===PDFPAGE559===图书在版编目{CIP)数据建国以来毛泽东文稿／中共中央党史和文献研究院编－－北京：中央文献出版社，2023.11ISBN978-7-5073-4985-6I．心建…II．心中…m．心毛泽东著作N.CDA4中国国家版本馆CIP数据核字(2023)第211646号建国以来毛泽东文稿编者：中共中央党史和文献研究院责任编辑：田雪鹰彭勇张哲司文君王若曦臧凯特责任印制：郑刚黄冉武晓东封面设计：田哈出版发行：中央文献出版社地址：北京西四北大街前毛家湾l号邮编：100017网址：www.zywxpress.com电子邮箱：zywx5073@126.com销售热线：010-83072503/83072509/83089319/83089404/83089317/83089394排版：北京中献唐人数字技术有限公司印刷：河北鹏润印刷有限公司710mmx1000mm16开676.5印张7570千字2023年12月第1版2023年12月第1次印刷ISBN978-7-5073-4985-6定价：1500.00元（全二十册）版权所有侵权必究本社版图书如有印装错误可随时调换（电话：13601084124/13811637459)",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-a8fd7b6cee628133d81a",
+    "title": "第六卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 6,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-06.pdf",
+    "raw_sha256": "079cc1102643767ff4348274e0c5e10f8c856c7afb10aa8722968af11ca85ec3",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 309,
+        "whitespace_normalized_text": "===PDFPAGE309===毛泽东集补卷第6卷〔1939.1〜1941.1〕1984年10月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-16-4",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-b16186e193af1c0f0083",
+    "title": "毛泽东思想万岁（1949—1957）",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      },
+      {
+        "edition_id": "mia-1968",
+        "volume": 3,
+        "basis": "five_date_ranges_linked_in_MIA_catalogue; print_identity_not_independently_authenticated"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210802.pdf",
+    "raw_sha256": "0314585f8f380de47f342eaf4f349754f03101673171f90160909d8b4a283071",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-b84d15effe1e87b57a16",
+    "title": "建国以来毛泽东文稿_第7册（1952年4月-1952年12月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 7,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC7%E5%86%8C%EF%BC%881952%E5%B9%B44%E6%9C%88-1952%E5%B9%B412%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "d8571b5559018b0a003486e5d12eb15f129aafdde9b992103e27677396249e35",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-b99c65c4fad3b5adc31e",
+    "title": "第七卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 7,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/07.pdf",
+    "raw_sha256": "1c5561ccb433a4d7707b1aed1cc8e6dd783e0d2b4cede13b51d46373a1b6284b",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-bc29fda8b40043e7d0d2",
+    "title": "毛泽东年谱_第9卷（1966.10-1976.09）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 9,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC9%E5%8D%B7%EF%BC%881966.10-1976.09%EF%BC%89.pdf",
+    "raw_sha256": "19c1956183851a8a23fb562403fcd985d0e2d13f6330b75204b6f58c9ebfa02d",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 10,
+        "whitespace_normalized_text": "===PDFPAGE10===1966年10月510月22日晨四时，阅邓小平(1J十月二十一日送审的《在中央工作会议上的初步检讨》稿后，批示：“小平同志：可以照此去讲。但在第九页第一行｀补过自新＇之后，是否加几句积极振奋的话，例如说，在自己的积极努力和同志们积极帮助之下，我相信错误会得到改正的。请同志们给我以时间，我会站起来的。干了半辈子革命，跌了跤子，难道就一獗不振了吗？又，题目上｀初步＇二字可以去掉。”10月23日刘少奇(2)、邓小平在中央工作会议上作检讨发言，就指导“文化大革命”中犯的所谓路线错误承担了主要责任。10月24日晚上，在中南海游泳池住处召集中共中央政治局部分成员、各中央局负责人开会。毛泽东讲话。他说：会开得差不多了，明天上午再开半天。这次会议是我提议的。时间这么[1)邓小平，当时任中共中央总书记、国务院副总理、国防委员会副主席。“文化大革命”开始后不久被打倒。1973年3月、12月先后恢复国务院副总理、中共中央政治局委员等职。1975年1月起任中共中央政治局常委、中央副主席、国务院副总理、中央军委副主席、解放军总参谋长。1976年4月受“四人帮”诬陷，再次被撤销党内外一切职务。1977年7月在中共十届三中全会上恢复中央政治局委员、中央政治局常委、中央副主席、国务院副总理、中央军委副主席、解放军总参谋长职务。(2)刘少奇，当时任中共中央副主席、中华人民共和国主席、国防委员会主席。“文化大革命”开始后不久被打倒。1968年10月中共八届十二中全会错误地通过决议，宣布把刘少奇“永远开除出党，撤销其党内外的一切职务”。1969年11月12日刘少奇在河南开封逝世。1980年2月中共中央为刘少奇平反昭雪。",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 661,
+        "whitespace_normalized_text": "===PDFPAGE661===656《毛泽东年谱(1893—1949))后．记《毛泽东年谱(1893一1949)》，从1985年开始撰写，经过反复修改和向专家征求意见，千1993年定稿付排。本书在胡乔木的关心和指导下撰写，他审改了部分年谱稿。本书的撰写还得到李琦的指导。主编逄先知：负责全书的修改和定稿。副主编冯蕙：负责1937年7月至19·45年8月年谱稿的修改；·姚旭：负责1945年8月至1949年9月年谱稿的修改；赵福亭：负责1893年至1927年7月和1935年1月至1937年6月年谱稿的修改；吴正裕：负责1927年8月至1937年6月年谱稿的修改。分段起草者：蔡钊珍：1893年至1924年12月张素华：1925年1月至1927年7月黄允升：1927年8月至1934年12月田逢禄、李捷、蒋建农：1935年1月至1937年6月姜国珍：1937年7月至1939年12月",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 662,
+        "whitespace_normalized_text": "===PDFPAGE662===后记刘益涛：1940年1月至1943年12月高风、刘益涛：1944年1月至1945年8月姚旭：1945年8月至1945年12月徐焰：19'46年1月至1946年12月李兴仁：1947年1月至1947年12月陈廉：1948年1月至1948年12月周炳钦：1949年1月至1949年9月657参加本书1985年以前的前期工作的有：廖盖隆、陈思明、钱家梢、薛培松、叶志如。参加本书工作的还有：汪裕尧、王玉璞。应中央文献研究室的聘请，国防大学派出姚旭等五位同志参加本书的撰写工作。中央档案馆提供本书使用的档案材料。许多老同志为本书提供了回忆材料。参加本书审读的有：中央党史研究室王淇、刘经宇、李撼、王沛、张培森；军事科学院姚杰、傅吉庆、洪明、陈伙成；中央党校王渔、盖军、王仲清、李玲玉；国防大学张麟；中央档案馆齐得平、曹雁行、殷子贤；彭德怀传记组王亚志；陈毅传记组吴克斌；罗荣桓传记组黄瑶；兰州军区离休老同志成普；北京大学萧超然；厦门大学汪谢白；湖南韶山管理局高菊村；中共湖南省委党史委唐振南；湖南社科院王兴国。本室金冲及、力平、陈思明和周恩来研究组、刘少奇研究组、朱德研究组、邓小平研究组、综合研究组、科研局的有关同志。1993年12月",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      },
+      {
+        "pdf_page": 667,
+        "whitespace_normalized_text": "===PDFPAGE667===|图书在版编目(CIP)数据谱／中共中央总史和文六：中央版社，2院编－－SBN978-4984-9番..II.…m.G)谱W_Q)A753．一一一版本馆－—...,据核字（一第21164毛泽东年谱绩中共中主(1一3(4—9副主编：13卷）冯9卷）陈责杨茂荣孙翊责郑刚封面设计：文献研知知冯蕙姚旭捷吴正裕源吴正裕李庆晴王卫冉武晓出版·献出版社地北京西街前毛家邮100017网址www.com发中央文社|匣销售热线：010-83072二03/8307250983089319308940417/8308子邮箱：73@126排版：北京华艺图文设计公司印刷：河北鹏润印刷有限公司710mm361.254370千202月第12023年1次印978-7－气0784-9800.00九卷）贩侵权必杜版图书羲镶误换（电话：13601084124/13811637459)",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-bd01c76faf2082236de4",
+    "title": "毛泽东思想万岁（1943—1949）",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      },
+      {
+        "edition_id": "mia-1968",
+        "volume": 2,
+        "basis": "five_date_ranges_linked_in_MIA_catalogue; print_identity_not_independently_authenticated"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210801.pdf",
+    "raw_sha256": "df0da7a2d1e5ab0c2856850500f466b20df857c1fe0c5b2c909c815518825eef",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-c0966a995bb82067c6e1",
+    "title": "第一卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 1,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-01.pdf",
+    "raw_sha256": "7db0eec5b88cfce1aa460bc3eadb94b6f984f2e477536f1c7ca3709f641b9e60",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 321,
+        "whitespace_normalized_text": "===PDFPAGE321===毛泽东集补卷第1卷〔少年时代〜1920.12〕1983年12月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-11-3",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-c3b44be4f35b9db8f3c6",
+    "title": "第五卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 5,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/05.pdf",
+    "raw_sha256": "43021899721f362987649523c5d5b38c9d8f0e8e2ddb381f63b14070bb1c4386",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-c724e56dcfb0bace9d90",
+    "title": "建国以来毛泽东文稿(2)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 2,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c02.pdf",
+    "raw_sha256": "c67f31a47842a393fae1a9427c883fcb869f4ff525f959479e1e238f010efc18",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-caf85a05e451f61b51cd",
+    "title": "建国以来毛泽东文稿_第12册（1957年8月-1958年8月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 12,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC12%E5%86%8C%EF%BC%881957%E5%B9%B48%E6%9C%88-1958%E5%B9%B48%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "1b8728a7499383f00b5663d93f0d751fa3a17e36f20bae394100eb0a345ccd47",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-cb5acd934e37bc99dfd5",
+    "title": "第六卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 6,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/06.pdf",
+    "raw_sha256": "c9be02a495fa8347c93f1e1dc16dbf4c89b3d45cdc61bf538f04261ac260940d",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-cbdc439fcfad00032603",
+    "title": "建国以来毛泽东文稿(8)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 8,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c08.pdf",
+    "raw_sha256": "bc1f91e36bc20f365c1b84d666e60c2d38764e92478168a71f69f3cb3ced349e",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-ce6e7a65555cd6cd36fd",
+    "title": "毛泽东年谱_第3卷（1945.08-1949.09）",
+    "edition_refs": [
+      {
+        "edition_id": "nianpu-2023-9",
+        "volume": 3,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1/2023%E5%B9%B4%E7%89%88/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%B9%B4%E8%B0%B1_%E7%AC%AC3%E5%8D%B7%EF%BC%881945.08-1949.09%EF%BC%89.pdf",
+    "raw_sha256": "f0c76c272810d80a1ea93070b4393d276933bc07a63bb54ae815590b803a4468",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-cf3c5c96be8e5bd71168",
+    "title": "无产阶级文化大革命大字报选 (第一集)",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210809.pdf",
+    "raw_sha256": "ad8653a6294fe356c6bc4a68625ea0cf08ea4ad00b2331e3e45063f62486f3ba",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-d6e9f1d4170c1ba7f814",
+    "title": "建国以来毛泽东文稿(6)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 6,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c06.pdf",
+    "raw_sha256": "694f316f70707c1b005390285a70f3847ab84a7e583626b46b965d20eb7556fc",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-d84213011ecf32275a9f",
+    "title": "建国以来毛泽东文稿_第13册（1958年8月-1959年3月）",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 13,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC13%E5%86%8C%EF%BC%881958%E5%B9%B48%E6%9C%88-1959%E5%B9%B43%E6%9C%88%EF%BC%89.pdf",
+    "raw_sha256": "3bbcdedb71fed8759eea23654fab313344966ce7aab5337aa0dc3f736c9179ce",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集于一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，l",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-e19595b565de61a292c7",
+    "title": "建国以来毛泽东文稿(7)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 7,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c07.pdf",
+    "raw_sha256": "229026f9b6d8f3bc4e5492130b3eef593c427c40106a984d53de23a62e65dcec",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-e34b07fd26831eb15ddc",
+    "title": "第三卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 3,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/03.pdf",
+    "raw_sha256": "3cfae507de260f3eb725fb0714331c75a845c8e5243adee9cc05831cef1a429d",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-e5c3f7365430d751e53a",
+    "title": "建国以来毛泽东文稿(3)",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-old-13",
+        "volume": 3,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/c03.pdf",
+    "raw_sha256": "f63d2a5240812a453d6d2b41326e64a2b884f9d6a793f7e1bef22f186dfcce47",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-edc5e3d062acc84468f6",
+    "title": "建国以来毛泽东文稿_第09册（1953年11月-1955年6月）1",
+    "edition_refs": [
+      {
+        "edition_id": "wengao-2023-20",
+        "volume": 9,
+        "basis": "mirror_folder_and_filename_pending_book_imprint_check"
+      }
+    ],
+    "source_url": "https://raw.githubusercontent.com/M0rtzz/Selected-Works-of-MaoTseTung/4cc981c232e1ffe8fe2974e125c00af8376829ca/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF/%E5%BB%BA%E5%9B%BD%E4%BB%A5%E6%9D%A5%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%96%87%E7%A8%BF_%E7%AC%AC09%E5%86%8C%EF%BC%881953%E5%B9%B411%E6%9C%88-1955%E5%B9%B46%E6%9C%88%EF%BC%891.pdf",
+    "raw_sha256": "69c965b5508a1b8e184539a1364f898e40ba65436f4a26ef0c5749e0858ed1f1",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 4,
+        "whitespace_normalized_text": "===PDFPAGE4===出版说明《建国以来毛泽东文稿》是一部供研究用的多卷本综合文献集。选稿的范围：（一）手稿，包括文章、指示、批语、电报、讲话提纲、书信、批注、诗词、题词、修改的文件中加写和改写的文字等；（二）经本人审定过的讲话、报告、谈话记录和新闻稿等；（三）非本人起草但经本人审定并用本人名义发出的其他文稿。未经本人审定的讲话和谈话记录稿，不编入这部文献集。这部文献集千一九八七年至一九九八年，由原中共中央文献研究室编辑，中央文献出版社出版、内部发行，共十三册。这次公开出版，新增了一些文稿，并对原有文稿的注释作了修订，对部分文稿作了补注，订正了个别文稿的时间差错，全书共二十册。这部文献集的编排：（一）以写作或发表的时间为序；（二）不能确定具体日期的，按照文稿的月份放在同月合适的位置或最后；（三）对在同一背景下论述同一主题的部分文稿，作了集纳，并按照首篇的时间排序。编入这部文献集的文稿，在本人生前公开发表的，按发表稿刊印；本人生前没有公开发表的，按手稿或其他原件刊印。每篇文稿末尾，均注明刊印根据。文稿中的错字、漏字，分别在（〉号和CJ号内校正，衍字加口号。文稿没有标点的，1",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-f3ac1b13df9237355d4a",
+    "title": "第九卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 9,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-09.pdf",
+    "raw_sha256": "d46a28bb457f36244d0505faafb7f5d6e5d4eb2585d7c62b7a274d218744665a",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 397,
+        "whitespace_normalized_text": "===PDFPAGE397===毛泽东集补卷第9卷补遗1985年8月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-19-9",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-f6f499c502c5970f6ccb",
+    "title": "第九卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-ji-10",
+        "volume": 9,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/09.pdf",
+    "raw_sha256": "1486db8177f18ee09ce43e1580a7f00ccace7a3b4fe298d19c6902283dde774a",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-f9feca7a3dc91a159ea9",
+    "title": "毛泽东著作专题摘编",
+    "edition_refs": [
+      {
+        "edition_id": "mia-other",
+        "volume": null,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/01210805.pdf",
+    "raw_sha256": "807b72378e8aa31733c90aec95d73c092feaa08d651d0a1f8f9db3b6948674e0",
+    "internal_publication_candidates": [],
+    "manually_authenticated": false
+  },
+  {
+    "id": "A-ffd2fbafda9efed5201f",
+    "title": "第四卷",
+    "edition_refs": [
+      {
+        "edition_id": "mia-bujuan-9",
+        "volume": 4,
+        "basis": "source_catalogue_not_print_collation"
+      }
+    ],
+    "source_url": "https://www.marxists.org/chinese/pdf/chinese_marxists/mao/1-04.pdf",
+    "raw_sha256": "9e549220c1431d1c09a4eeda3b38881d5a3c855e84e8248dada82b753df03927",
+    "internal_publication_candidates": [
+      {
+        "pdf_page": 309,
+        "whitespace_normalized_text": "===PDFPAGE309===毛泽东集补卷第4卷〔1932•1〜1936•81984年6月26日初版発行©監修者竹内実編集者毛沢東文献資料研究会•代表藤本幸三市川宏発行者中村公省発行所株式会社蒼蒼社東京都千代田区猿楽町1一2—6振替•東京4一63055電話（03)291-0068写植/長城社印刷•製本/中央精版印刷ISBN4-915441-14-8",
+        "locator_note": "normalization only for finding imprint text; inspect original page before edition authentication"
+      }
+    ],
+    "manually_authenticated": false
+  }
+]
