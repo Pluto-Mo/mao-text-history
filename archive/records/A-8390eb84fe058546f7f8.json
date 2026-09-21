@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-169.htm",
+  "title": "在听取×××同志汇报时的插话（摘录）（一九六五年十一月）",
+  "catalogue_entry_ids": [
+    "I-20fce436f21abc38"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8390eb84fe058546f7f8",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:19.289588+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-169.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6c6-57a292d488d63\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:15 GMT",
+  "raw_sha256": "6015daf9ba258b9d0874ac424f58630076a81c59edad466cbcfe592c9edfd145",
+  "raw_bytes": 1734,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6015daf9ba258b9d0874ac424f58630076a81c59edad466cbcfe592c9edfd145.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在听取×××同志汇报时的插话（摘录）（一九六五年十一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-168.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-170.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8390eb84fe058546f7f8.txt",
+  "text_sha256": "b528c9c65702104bde0203f7717d753a743eb8ef0afbc483641313fcf4635365",
+  "text_chars": 322,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-8390eb84fe058546f7f8.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

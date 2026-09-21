@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-167.htm",
+  "title": "关于大学文科改革的指示（摘录）（一九六五年十月）",
+  "catalogue_entry_ids": [
+    "I-181cffe20d134a30"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-23bd80b1163b59d1fc70",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:18.707060+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-167.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"9a8-57a292d2e9ca9\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:13 GMT",
+  "raw_sha256": "312703c4db5fe741833f71fbd4bb34d6e8883d573f9c90077961a1645a2ed8cb",
+  "raw_bytes": 2472,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/312703c4db5fe741833f71fbd4bb34d6e8883d573f9c90077961a1645a2ed8cb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于大学文科改革的指示（摘录）（一九六五年十月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-166.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-168.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-23bd80b1163b59d1fc70.txt",
+  "text_sha256": "43fb95428977c0dec3e51b1ad5f6454df68ea5e6b8ffdc48eb7654ca9768bb57",
+  "text_chars": 710,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-23bd80b1163b59d1fc70.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

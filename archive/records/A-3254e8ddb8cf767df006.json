@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-184.htm",
+  "title": "在中央政治局常委扩大会议上的讲话（摘录）（一九六六年三月十七日至二十日）",
+  "catalogue_entry_ids": [
+    "I-6316e0274460a4da"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3254e8ddb8cf767df006",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:23.784369+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-184.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"798-57a292e68d366\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:34 GMT",
+  "raw_sha256": "dba29d8c134ef72e93a7453ae6bf5ace9cf601c04ae43280ef040159e91cb5e9",
+  "raw_bytes": 1944,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/dba29d8c134ef72e93a7453ae6bf5ace9cf601c04ae43280ef040159e91cb5e9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中央政治局常委扩大会议上的讲话（摘录）（一九六六年三月十七日至二十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-183.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-185.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3254e8ddb8cf767df006.txt",
+  "text_sha256": "b697e2098e027b8866b70c42a2275d17986aeefa07aff4db517fb70fc379c0c4",
+  "text_chars": 452,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-3254e8ddb8cf767df006.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

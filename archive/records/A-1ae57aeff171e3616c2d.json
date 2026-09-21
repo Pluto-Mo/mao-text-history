@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-219.htm",
+  "title": "对陈伯达同志《两个月来运动的总结》的指示（一九六六年十月二十四日）",
+  "catalogue_entry_ids": [
+    "I-d48e2bca4e44d97e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1ae57aeff171e3616c2d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:34.289138+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-219.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"572-57a2931055aa9\"",
+  "last_modified": "Thu, 08 Nov 2018 15:50:18 GMT",
+  "raw_sha256": "bd1ef4567a2e67627728743bf4b80870d93437fb75edc7a92eb74014da2a73ec",
+  "raw_bytes": 1394,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bd1ef4567a2e67627728743bf4b80870d93437fb75edc7a92eb74014da2a73ec.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对陈伯达同志《两个月来运动的总结》的指示（一九六六年十月二十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-218.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-220.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1ae57aeff171e3616c2d.txt",
+  "text_sha256": "88020824cc17569308683598f96e1d8a02495471a750317bf028ba7fe50b50e9",
+  "text_chars": 191,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-1ae57aeff171e3616c2d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

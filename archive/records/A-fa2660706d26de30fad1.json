@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-189.htm",
+  "title": "给林彪同志的信（对军委总后勤部“关于进一步搞好部队农副业生产的报告”的批示）（一九六六年五月七日）",
+  "catalogue_entry_ids": [
+    "I-d1ddcc25bc6ad32b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fa2660706d26de30fad1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:25.293946+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-189.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b9d-57a292ebe17dc\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:40 GMT",
+  "raw_sha256": "7a9e1125063265c8262265c1b5c0663a0793fe80a93cf4b04ce8beb2037e83c3",
+  "raw_bytes": 2973,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7a9e1125063265c8262265c1b5c0663a0793fe80a93cf4b04ce8beb2037e83c3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给林彪同志的信（对军委总后勤部“关于进一步搞好部队农副业生产的报告”的批示）（一九六六年五月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-188.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-190.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fa2660706d26de30fad1.txt",
+  "text_sha256": "6ef28304457f830735452a4604894dbf3256f1c7cc72cb993f4db3b53eddee12",
+  "text_chars": 916,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-fa2660706d26de30fad1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

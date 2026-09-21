@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-181.htm",
+  "title": "在修改《林彪同志委托江青同志召开的部队文艺工作座谈会纪要》时所加的话（一九六六年三月）",
+  "catalogue_entry_ids": [
+    "I-436a27cc641f3840"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-24d0adfa5fbe8c3d8e4c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:22.880268+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-181.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7b6-57a292e26e823\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:30 GMT",
+  "raw_sha256": "874bdef00078e32de7b572d569f7ee1a822804ad7ecf0e68abdf7cb13e40fab2",
+  "raw_bytes": 1974,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/874bdef00078e32de7b572d569f7ee1a822804ad7ecf0e68abdf7cb13e40fab2.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在修改《林彪同志委托江青同志召开的部队文艺工作座谈会纪要》时所加的话（一九六六年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-180.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-182.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-24d0adfa5fbe8c3d8e4c.txt",
+  "text_sha256": "d58c04269f21deebe114b404b588b57fd3b14482fa8734047766c20781a814d3",
+  "text_chars": 414,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-24d0adfa5fbe8c3d8e4c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

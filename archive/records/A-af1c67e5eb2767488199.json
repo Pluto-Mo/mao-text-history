@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-182.htm",
+  "title": "看了“人工喉”、“断手再植”、“止血粉’等文章后对医务工作者的指示（一九六六年三月十二日）",
+  "catalogue_entry_ids": [
+    "I-1989276cd179aa1c"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-af1c67e5eb2767488199",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:23.188366+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-182.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6c8-57a292e358e32\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:31 GMT",
+  "raw_sha256": "e859ccf997926ed95c435d836b1d98aff1861bf70a0c27412cdc6100e2fa87b1",
+  "raw_bytes": 1736,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e859ccf997926ed95c435d836b1d98aff1861bf70a0c27412cdc6100e2fa87b1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "看了“人工喉”、“断手再植”、“止血粉’等文章后对医务工作者的指示（一九六六年三月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-181.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-183.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-af1c67e5eb2767488199.txt",
+  "text_sha256": "8dd4a9612a620e9d3a6c09c4f57a382cba7246a6074aefa60132b8d9278cb4b7",
+  "text_chars": 363,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-af1c67e5eb2767488199.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

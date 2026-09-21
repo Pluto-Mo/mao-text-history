@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-160.htm",
+  "title": "接见李宗仁先生及其夫人的谈话（一九六五年七月二十七日）",
+  "catalogue_entry_ids": [
+    "I-b81f9e8bcb7329e5"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ab9a3037084207c27cab",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:17.537943+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-160.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"740-57a292c4266fb\"",
+  "last_modified": "Thu, 08 Nov 2018 15:48:58 GMT",
+  "raw_sha256": "6827bef44045c369ce1aba14b522de54d8f699073cc35d415a823f1891ba80b9",
+  "raw_bytes": 1856,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6827bef44045c369ce1aba14b522de54d8f699073cc35d415a823f1891ba80b9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "接见李宗仁先生及其夫人的谈话（一九六五年七月二十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-159.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-161.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ab9a3037084207c27cab.txt",
+  "text_sha256": "0e778f32ffe0df13ba98930caa0200ff23b5043e1b651acea93d89678da0ddea",
+  "text_chars": 370,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-ab9a3037084207c27cab.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

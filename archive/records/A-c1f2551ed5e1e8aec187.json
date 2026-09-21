@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-179.htm",
+  "title": "关于农业机械化问题与备战备荒为人民的指示信（一）（一九六六年二月十九曰）",
+  "catalogue_entry_ids": [
+    "I-81c2d08c4c65746e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c1f2551ed5e1e8aec187",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:22.286687+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-179.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6b4-57a292dfcda59\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:27 GMT",
+  "raw_sha256": "0e4f89c1132b849500d7b7765825016edf4f37ff57cf6ddc929f9d012623602f",
+  "raw_bytes": 1716,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0e4f89c1132b849500d7b7765825016edf4f37ff57cf6ddc929f9d012623602f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于农业机械化问题与备战备荒为人民的指示信（一）（一九六六年二月十九曰）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-178.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-180.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c1f2551ed5e1e8aec187.txt",
+  "text_sha256": "930a29fbeaa573904863dc129239ec6ea5362b864478df517a67e78f0b4b2361",
+  "text_chars": 336,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-c1f2551ed5e1e8aec187.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

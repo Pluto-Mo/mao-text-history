@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-194.htm",
+  "title": "畅游长江时对青年的指示（一九六六年七月十七日上午）",
+  "catalogue_entry_ids": [
+    "I-2a37daa7dc802745"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3236ba2997b1d24d717b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:26.781854+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-194.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"576-57a292f2a10e9\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:47 GMT",
+  "raw_sha256": "d56ee96a4881da2d0eee12f5e23bf3d371e1e859e5d0e1a4f5b036d4c592133c",
+  "raw_bytes": 1398,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d56ee96a4881da2d0eee12f5e23bf3d371e1e859e5d0e1a4f5b036d4c592133c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "畅游长江时对青年的指示（一九六六年七月十七日上午）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-193.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-195.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3236ba2997b1d24d717b.txt",
+  "text_sha256": "3980bfa6402e6d58adf0d3f943eeb445c6ba6e81bbf7ddd6608bb6b653e235cd",
+  "text_chars": 182,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-3236ba2997b1d24d717b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-193.htm",
+  "title": "关于北大“六·一八”事件（一九六六年七月）",
+  "catalogue_entry_ids": [
+    "I-96ee341c4b225a04"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-71a5e85469b037491552",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:26.500638+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-193.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4e2-57a292f132d72\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:45 GMT",
+  "raw_sha256": "2c182c53cab63c74a13ab66dd0e6fcabeabb3e52d192c97baffd548c79394ffe",
+  "raw_bytes": 1250,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2c182c53cab63c74a13ab66dd0e6fcabeabb3e52d192c97baffd548c79394ffe.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于北大“六·一八”事件（一九六六年七月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-192.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-194.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-71a5e85469b037491552.txt",
+  "text_sha256": "4c77c0e0f84f1ebc90fa689b43bfc27d8fe6906fbe123511466be649cd2ab6b7",
+  "text_chars": 121,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-71a5e85469b037491552.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

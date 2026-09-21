@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-165.htm",
+  "title": "同黑非洲留法学生联合代表团的谈话（摘录）（一九六五年九月十四日）",
+  "catalogue_entry_ids": [
+    "I-04b7051d7261346e"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-7dd0db885bbf5eba006f",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:18.083957+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-165.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7c2-57a292d15482f\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:12 GMT",
+  "raw_sha256": "23559b20d94f04ee680bbd5bbb9be64fdea594da37056dedfde55dd5ca94feb2",
+  "raw_bytes": 1986,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/23559b20d94f04ee680bbd5bbb9be64fdea594da37056dedfde55dd5ca94feb2.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "同黑非洲留法学生联合代表团的谈话（摘录）（一九六五年九月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-164.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-166.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-7dd0db885bbf5eba006f.txt",
+  "text_sha256": "aba7593cd23d69e6f249945c6e3089cef6e464da557e2ff3c3e77b0f0399cba9",
+  "text_chars": 476,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-7dd0db885bbf5eba006f.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

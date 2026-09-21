@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-171.htm",
+  "title": "反对折衷主义（一九六五年十二月二日）",
+  "catalogue_entry_ids": [
+    "I-a4eed752c071ea73"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-695f00a475401e82ca1e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:19.881970+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-171.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1968-57a292d7dc699\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:19 GMT",
+  "raw_sha256": "4b7fc0ccc9c1bf26078c3efeeee572f34b2f68e68b2e88822aa66e4bedfc2e4a",
+  "raw_bytes": 6504,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4b7fc0ccc9c1bf26078c3efeeee572f34b2f68e68b2e88822aa66e4bedfc2e4a.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "反对折衷主义（一九六五年十二月二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-170.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-172.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-695f00a475401e82ca1e.txt",
+  "text_sha256": "0bcbfba6a0b722e38007f58f6c34ac6ebd0c257a89790d61c980519d5a314513",
+  "text_chars": 2638,
+  "text_lines": 29,
+  "document_path": "archive/documents/A-695f00a475401e82ca1e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

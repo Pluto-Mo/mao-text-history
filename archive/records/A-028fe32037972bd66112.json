@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-207.htm",
+  "title": "在第一次接见红卫兵大会上与林彪同志的谈话（一九六六年八月十八日）",
+  "catalogue_entry_ids": [
+    "I-5875b8ae57441aed"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-028fe32037972bd66112",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:30.687651+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-207.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"538-57a292fed714e\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:59 GMT",
+  "raw_sha256": "ba4cb6c051ad6599e1713adc838acc42bee10dde38d94018b3fbad2d6dcc045f",
+  "raw_bytes": 1336,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ba4cb6c051ad6599e1713adc838acc42bee10dde38d94018b3fbad2d6dcc045f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在第一次接见红卫兵大会上与林彪同志的谈话（一九六六年八月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-206.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-208.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-028fe32037972bd66112.txt",
+  "text_sha256": "bc77a7acad68cd33b986d02f26dac694d41ab7e192947878a611ebc8be04b2fa",
+  "text_chars": 158,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-028fe32037972bd66112.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

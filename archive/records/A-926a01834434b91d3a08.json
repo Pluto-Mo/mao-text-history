@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-214.htm",
+  "title": "对署名“奥地利《红旗》派的同志”来信的批示（一九六六年九月九日）",
+  "catalogue_entry_ids": [
+    "I-a91869460fd73849"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-926a01834434b91d3a08",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:32.789155+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-214.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a2b-57a29308b676e\"",
+  "last_modified": "Thu, 08 Nov 2018 15:50:10 GMT",
+  "raw_sha256": "bf7965af4ffb20b1fae6cee64345d99e46036a8f8efcbcb37eca223c91503a7e",
+  "raw_bytes": 2603,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bf7965af4ffb20b1fae6cee64345d99e46036a8f8efcbcb37eca223c91503a7e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对署名“奥地利《红旗》派的同志”来信的批示（一九六六年九月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-213.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-215.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-926a01834434b91d3a08.txt",
+  "text_sha256": "9778bf4f4340e35b5d5d36deb46702fae85d3623b5d0aa9db5b9f035c43b3560",
+  "text_chars": 707,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-926a01834434b91d3a08.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

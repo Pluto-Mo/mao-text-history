@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-190.htm",
+  "title": "为中共中央“五·一六”通知所加的几段话（一九六六年五月十六日）",
+  "catalogue_entry_ids": [
+    "I-d876c35206305ddb"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2f49b25b251faf5b2c96",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:25.588573+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-190.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"f72-57a292eea8709\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:42 GMT",
+  "raw_sha256": "ca4840a5cfe12d043783f7a38c636d8d9a5dd040ff1589a898f5dc3286ef4e21",
+  "raw_bytes": 3954,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ca4840a5cfe12d043783f7a38c636d8d9a5dd040ff1589a898f5dc3286ef4e21.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为中共中央“五·一六”通知所加的几段话（一九六六年五月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-189.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-191.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2f49b25b251faf5b2c96.txt",
+  "text_sha256": "c4284e9807f1e4738c553588ac54b7f65b2e8a914e54a32d1acb3fd7b9713bbe",
+  "text_chars": 1412,
+  "text_lines": 21,
+  "document_path": "archive/documents/A-2f49b25b251faf5b2c96.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

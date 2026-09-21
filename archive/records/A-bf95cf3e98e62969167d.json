@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-173.htm",
+  "title": "在杭州与陈伯达、艾思奇等同志的谈话（一九六五年十二月二十一日）",
+  "catalogue_entry_ids": [
+    "I-9a1301fefbd38588"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-bf95cf3e98e62969167d",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:39:20.479068+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-173.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"8f4-57a292dab9d27\"",
+  "last_modified": "Thu, 08 Nov 2018 15:49:22 GMT",
+  "raw_sha256": "8537382e87fe1b74cdd3eecb7f775ebcb78255d777c5ab81d29fa0a7e6acec27",
+  "raw_bytes": 2292,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/8537382e87fe1b74cdd3eecb7f775ebcb78255d777c5ab81d29fa0a7e6acec27.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在杭州与陈伯达、艾思奇等同志的谈话（一九六五年十二月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-172.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-174.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-bf95cf3e98e62969167d.txt",
+  "text_sha256": "8936b10755f5473ec09a2b0d740ba65eb57da80fdae601062f079db739a4c174",
+  "text_chars": 629,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-bf95cf3e98e62969167d.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
