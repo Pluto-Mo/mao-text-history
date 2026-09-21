@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm",
+  "title": "为争取国家财政经济状况的基本好转而斗争",
+  "catalogue_entry_ids": [
+    "I-105e81a49b6905a2"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6066b3b999728f9af35b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:46.348230+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"226a-5a0e77a71491b\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:55 GMT",
+  "raw_sha256": "c52b2d0c33ab37257a7a933d3777ccbc4a7ea0b6dd46f9232ed81070e58ae37d",
+  "raw_bytes": 8810,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c52b2d0c33ab37257a7a933d3777ccbc4a7ea0b6dd46f9232ed81070e58ae37d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为争取国家财政经济状况的基本好转而斗争（一九五○年六月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6066b3b999728f9af35b.txt",
+  "text_sha256": "7ce110cbd0ed67ff6861912458dec3aaad7faf1e8fc33ede79ed74c247e4a9b1",
+  "text_chars": 3814,
+  "text_lines": 33,
+  "document_path": "archive/documents/A-6066b3b999728f9af35b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

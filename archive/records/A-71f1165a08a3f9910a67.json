@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510119.htm",
+  "title": "中国人民志愿军要爱护朝鲜的一山一水一草一木",
+  "catalogue_entry_ids": [
+    "I-b582f3ad38bba6d1"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-71f1165a08a3f9910a67",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:48.161718+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510119.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"52b-5a0e77a2b56d2\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:51 GMT",
+  "raw_sha256": "3d0907893fc4cbe1c27d486e3f2ca68cddf0d04350e192c6587ff703137ac758",
+  "raw_bytes": 1323,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/3d0907893fc4cbe1c27d486e3f2ca68cddf0d04350e192c6587ff703137ac758.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国人民志愿军要爱护朝鲜的一山一水一草一木（一九五一年一月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-71f1165a08a3f9910a67.txt",
+  "text_sha256": "d0dfed2011bfa2e28e7651c00a2ad7d47888e7b42ad735664c997208dbc1eaba",
+  "text_chars": 289,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-71f1165a08a3f9910a67.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

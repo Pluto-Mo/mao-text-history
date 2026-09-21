@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530319.htm",
+  "title": "解决“五多”问题",
+  "catalogue_entry_ids": [
+    "I-e1cb6b936651cffb"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-484f4d4a9dff92129dfd",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:52.346481+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530319.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"f27-5a0e77950e4d7\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:36 GMT",
+  "raw_sha256": "c4afe9945dd5016b6b891b7001e3095874004aecd6a01c91ebbc393882fe4825",
+  "raw_bytes": 3879,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c4afe9945dd5016b6b891b7001e3095874004aecd6a01c91ebbc393882fe4825.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "解决“五多”问题（一九五三年三月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-484f4d4a9dff92129dfd.txt",
+  "text_sha256": "fa76d7da804e9ab167be5bc919aa69356c24a49cd5dcdbd6fbf640c16b2d5363",
+  "text_chars": 1555,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-484f4d4a9dff92129dfd.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm",
+  "title": "不要四面出击",
+  "catalogue_entry_ids": [
+    "I-12a163ef3d58b204"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-273871842698fffe094a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:46.644527+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19500606b.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"131d-5a0e77a648779\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:54 GMT",
+  "raw_sha256": "6dc86e862213defb559536872aa2d8bc7d7f9d4fe818601aa9e8798db588afff",
+  "raw_bytes": 4893,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6dc86e862213defb559536872aa2d8bc7d7f9d4fe818601aa9e8798db588afff.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "不要四面出击（一九五○年六月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-273871842698fffe094a.txt",
+  "text_sha256": "772a95c5e6fbfda4829b7863c25505238cb31ccf88a1784f56c8ed8eac0b584e",
+  "text_chars": 2023,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-273871842698fffe094a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

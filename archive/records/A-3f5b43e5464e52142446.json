@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19531015.htm",
+  "title": "关于农业互助合作的两次谈话",
+  "catalogue_entry_ids": [
+    "I-f627bc3868d0b38f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3f5b43e5464e52142446",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:55.348583+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19531015.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"2e38-5a0e77919f650\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:33 GMT",
+  "raw_sha256": "6da221a98a10f6241e67194631533e1ab3cb5ba6edbd076687a9bf42f7211d92",
+  "raw_bytes": 11832,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6da221a98a10f6241e67194631533e1ab3cb5ba6edbd076687a9bf42f7211d92.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于农业互助合作的两次谈话（一九五三年十月十五日、十一月四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19531015.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19531015.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3f5b43e5464e52142446.txt",
+  "text_sha256": "6e943aabba8ada3a15d9fe233d9ac07c20f86cbf74493e971d7ee60d791fa551",
+  "text_chars": 5272,
+  "text_lines": 46,
+  "document_path": "archive/documents/A-3f5b43e5464e52142446.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

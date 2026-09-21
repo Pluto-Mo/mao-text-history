@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511023.htm",
+  "title": "三大运动的伟大胜利",
+  "catalogue_entry_ids": [
+    "I-aeaca59ce5e435ef"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-534f07eab29186bd995e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:49.354381+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511023.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"19b4-5a0e77dfa7feb\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:55 GMT",
+  "raw_sha256": "41c06628f6a264b225d0caabb0d9e0f83ea290dd880a3e0b59ef267b5cf5b3bb",
+  "raw_bytes": 6580,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/41c06628f6a264b225d0caabb0d9e0f83ea290dd880a3e0b59ef267b5cf5b3bb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "三大运动的伟大胜利（一九五一年十月二十三日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-534f07eab29186bd995e.txt",
+  "text_sha256": "865e68d3d29fd19d6fe2ef66627e1e261fc1732d3ebd873aae19b82372a5288b",
+  "text_chars": 2883,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-534f07eab29186bd995e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

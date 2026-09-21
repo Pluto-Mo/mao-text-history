@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm",
+  "title": "永远保持艰苦奋斗的作风",
+  "catalogue_entry_ids": [
+    "I-dc6000e51baec132"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-604da54d4a2dd7dc8443",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:45.745890+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19491026.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5f7-5f20c961ae37f\"",
+  "last_modified": "Thu, 12 Jan 2023 08:05:55 GMT",
+  "raw_sha256": "0319b9352712137b7be4283e0780933f1cae357a876fb7ff449bfdb9ab7eef47",
+  "raw_bytes": 1527,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0319b9352712137b7be4283e0780933f1cae357a876fb7ff449bfdb9ab7eef47.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "永远保持艰苦奋斗的作风（一九四九年十月二十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-604da54d4a2dd7dc8443.txt",
+  "text_sha256": "aa9f9ac1dee9f829ed690124c996e621af0fd9a14d3609db2954cbe3b9a617dd",
+  "text_chars": 326,
+  "text_lines": 11,
+  "document_path": "archive/documents/A-604da54d4a2dd7dc8443.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

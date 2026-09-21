@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520606.htm",
+  "title": "工人阶级与资产阶级的矛盾是国内的主要矛盾",
+  "catalogue_entry_ids": [
+    "I-332e485050c4cb5f"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-0b9e7977b1ffd98ac240",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:50.863601+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520606.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4fd-5a0e779864cbe\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:40 GMT",
+  "raw_sha256": "94c14766508be237cb45f4e83f7480934455680da6dcb8c24920a53d3664a174",
+  "raw_bytes": 1277,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/94c14766508be237cb45f4e83f7480934455680da6dcb8c24920a53d3664a174.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "工人阶级与资产阶级的矛盾是国内的主要矛盾（一九五二年六月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-0b9e7977b1ffd98ac240.txt",
+  "text_sha256": "ac1c8e9d5776ad347113ade1ab75cac3930f3f6144ebe5c681aba9125155c2b0",
+  "text_chars": 245,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-0b9e7977b1ffd98ac240.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

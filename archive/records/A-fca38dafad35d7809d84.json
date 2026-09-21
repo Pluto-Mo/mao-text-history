@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520101.htm",
+  "title": "元旦祝词",
+  "catalogue_entry_ids": [
+    "I-16d68c1c2eb9438e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fca38dafad35d7809d84",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:50.261326+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520101.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6d3-5a0e779ad0ea2\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:42 GMT",
+  "raw_sha256": "06ef1bba2683adf78ed951cbf3bcfe12d0608808c25eac6eb20bd374f7c2966b",
+  "raw_bytes": 1747,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/06ef1bba2683adf78ed951cbf3bcfe12d0608808c25eac6eb20bd374f7c2966b.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "元旦祝词（一九五二年一月一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fca38dafad35d7809d84.txt",
+  "text_sha256": "babbe2f9e90cd72ea87a28939c4172ca7c9ac6d827eee121235edd4e263f9498",
+  "text_chars": 475,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-fca38dafad35d7809d84.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

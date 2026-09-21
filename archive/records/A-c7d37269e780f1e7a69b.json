@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm",
+  "title": "关于“三反”、“五反”的斗争",
+  "catalogue_entry_ids": [
+    "I-1e1c0000ead79499"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c7d37269e780f1e7a69b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:49.649222+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1d84-5a0e779e64eea\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:46 GMT",
+  "raw_sha256": "40604c906bf5b9df5e03672301b80564223226c0223e5970532ea2d7fae0e2df",
+  "raw_bytes": 7556,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/40604c906bf5b9df5e03672301b80564223226c0223e5970532ea2d7fae0e2df.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于“三反”、“五反”的斗争（一九五一年十一月——一九五二年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm#_ftn2"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195111.htm#_ftnref2"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c7d37269e780f1e7a69b.txt",
+  "text_sha256": "58325d077a611431cba25cffb757c9eca139adafdeaf72aed9420b8947c9ffcb",
+  "text_chars": 3014,
+  "text_lines": 48,
+  "document_path": "archive/documents/A-c7d37269e780f1e7a69b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

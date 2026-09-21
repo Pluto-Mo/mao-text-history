@@ -1,0 +1,147 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm",
+  "title": "论人民民主专政",
+  "catalogue_entry_ids": [
+    "I-376cb2ef1bfa5152"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cd0b09d7ce228eb8f670",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:42.802936+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"51a5-5a0e77eb52542\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:07 GMT",
+  "raw_sha256": "7403551c94b8ecffa9dfbbfebd411e7719b4eab41d2e8ecdf065b417263c2e83",
+  "raw_bytes": 20901,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/7403551c94b8ecffa9dfbbfebd411e7719b4eab41d2e8ecdf065b417263c2e83.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "论人民民主专政——纪念中国共产党二十八周年（一九四九年六月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn10"
+    },
+    {
+      "title": "[11]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftn11"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref5"
+    },
+    {
+      "title": "[6]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref6"
+    },
+    {
+      "title": "[7]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref7"
+    },
+    {
+      "title": "[8]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref8"
+    },
+    {
+      "title": "[9]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref9"
+    },
+    {
+      "title": "[10]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref10"
+    },
+    {
+      "title": "[11]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490630.htm#_ftnref11"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cd0b09d7ce228eb8f670.txt",
+  "text_sha256": "18a939df6c1d666a197c392a0021548e26fc16e9fec29cda89e4a7cce0ebed6d",
+  "text_chars": 9437,
+  "text_lines": 89,
+  "document_path": "archive/documents/A-cd0b09d7ce228eb8f670.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

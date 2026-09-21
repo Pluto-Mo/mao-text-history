@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530709.htm",
+  "title": "关于国家资本主义",
+  "catalogue_entry_ids": [
+    "I-eb50409bbd34fd4c"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ecd0f9801889448e1869",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:53.546552+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530709.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"62e-5a0e77dbfa964\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:51 GMT",
+  "raw_sha256": "5b0dd69cc8594596b3cc4fb8e0349ca663381f52049698b4b35145a0f1c63feb",
+  "raw_bytes": 1582,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/5b0dd69cc8594596b3cc4fb8e0349ca663381f52049698b4b35145a0f1c63feb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于国家资本主义（一九五三年七月九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ecd0f9801889448e1869.txt",
+  "text_sha256": "1a5e4fc3835bb843380d4ecbfa92f85cf2f7875ebe96202aeee8643c9734a68e",
+  "text_chars": 419,
+  "text_lines": 9,
+  "document_path": "archive/documents/A-ecd0f9801889448e1869.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

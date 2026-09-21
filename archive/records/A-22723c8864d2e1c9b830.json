@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm",
+  "title": "中国人民大团结万岁",
+  "catalogue_entry_ids": [
+    "I-256eef09036e2ce0"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-22723c8864d2e1c9b830",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:45.322421+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d31-5a0e77e4515b4\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:59 GMT",
+  "raw_sha256": "c3f9b4434170500136dbbaf074731a17359acbf67406b55eed939ce221eafe58",
+  "raw_bytes": 3377,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c3f9b4434170500136dbbaf074731a17359acbf67406b55eed939ce221eafe58.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国人民大团结万岁（一九四九年九月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-22723c8864d2e1c9b830.txt",
+  "text_sha256": "483493a6bc5fc308403f617dc87551fb7b743abbe51def1f0cdcc07c64ac78e2",
+  "text_chars": 1256,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-22723c8864d2e1c9b830.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

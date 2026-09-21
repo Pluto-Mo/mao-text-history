@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19521024.htm",
+  "title": "祝贺中国人民志愿军的重大胜利",
+  "catalogue_entry_ids": [
+    "I-6c733c4e895b0f75"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6614e380333d0e6d886c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:51.450599+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19521024.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"850-5a0e7797a081c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:39 GMT",
+  "raw_sha256": "ee9dbfc46af434164c95c9d911f8f71b216ed121a6d1518c1cd6bbbf9196ec25",
+  "raw_bytes": 2128,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ee9dbfc46af434164c95c9d911f8f71b216ed121a6d1518c1cd6bbbf9196ec25.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "祝贺中国人民志愿军的重大胜利（一九五二年十月二十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6614e380333d0e6d886c.txt",
+  "text_sha256": "359d4b7425f6e115c297a5775e0afe724b9daf8c3f3f360114fdc167466d42cc",
+  "text_chars": 689,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-6614e380333d0e6d886c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm",
+  "title": "把农业互助合作当作一件大事去做",
+  "catalogue_entry_ids": [
+    "I-6414c9c3344e6a42"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c5de4e4d84dc4ea01b16",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:49.988636+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19511215.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"71b-5a0e779d8b288\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:45 GMT",
+  "raw_sha256": "bac39d3b18677fccbf96e90055cdb23e27249dbd17a0bf11265d404548b88f3d",
+  "raw_bytes": 1819,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bac39d3b18677fccbf96e90055cdb23e27249dbd17a0bf11265d404548b88f3d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "把农业互助合作当作一件大事去做（一九五一年十二月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c5de4e4d84dc4ea01b16.txt",
+  "text_sha256": "440d23b7078d582097fd1a4c1faa9ac5351589abf6360df77e305d86cda8e33d",
+  "text_chars": 488,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-c5de4e4d84dc4ea01b16.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

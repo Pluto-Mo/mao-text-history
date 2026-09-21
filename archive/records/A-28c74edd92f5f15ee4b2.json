@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm",
+  "title": "关于中华人民共和国宪法草案",
+  "catalogue_entry_ids": [
+    "I-e666a74ef7b8b789"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-28c74edd92f5f15ee4b2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:55.647544+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"263b-5a0e77d84e27c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:47 GMT",
+  "raw_sha256": "864ebbaf3273d94a3aedd27631e3eee5e6f37f3d6bf0ad7dcc5ddca4bf7e2089",
+  "raw_bytes": 9787,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/864ebbaf3273d94a3aedd27631e3eee5e6f37f3d6bf0ad7dcc5ddca4bf7e2089.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于中华人民共和国宪法草案（一九五四年六月十四日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540614.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-28c74edd92f5f15ee4b2.txt",
+  "text_sha256": "ab3d1efd99fdf089dd7e34a9abd3bc9386906f9a340764fbab94b93ab1324fb3",
+  "text_chars": 4297,
+  "text_lines": 35,
+  "document_path": "archive/documents/A-28c74edd92f5f15ee4b2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

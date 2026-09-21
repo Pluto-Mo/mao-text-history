@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm",
+  "title": "《中国农村的社会主义高潮》的按语",
+  "catalogue_entry_ids": [
+    "I-500c96b74185f2fd"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d0045246180c909e5ed7",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:58.651126+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a54d-5f2366652050f\"",
+  "last_modified": "Sat, 14 Jan 2023 09:59:02 GMT",
+  "raw_sha256": "bce6fefe71e712454ce136fe97838a26ba70fe68f09c5b6f372d32037d0e7637",
+  "raw_bytes": 42317,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bce6fefe71e712454ce136fe97838a26ba70fe68f09c5b6f372d32037d0e7637.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "《中国农村的社会主义高潮》的按语（一九五五年九月、十二月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195509a.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d0045246180c909e5ed7.txt",
+  "text_sha256": "b6ebc0392db2083c65cdc588e97fe21634c164af464b8bdd4e8505847b09745d",
+  "text_chars": 19011,
+  "text_lines": 154,
+  "document_path": "archive/documents/A-d0045246180c909e5ed7.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

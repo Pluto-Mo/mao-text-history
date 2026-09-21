@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195012.htm",
+  "title": "镇压反革命必须打得稳，打得准，打得狠",
+  "catalogue_entry_ids": [
+    "I-080baa614fd43d94"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c5670be61cd6a7b45137",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:47.851018+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195012.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1252-5a0e77e06d42d\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:55 GMT",
+  "raw_sha256": "cde416737744669af28870b536252754f2b5ceb3ba8ea981a8a24f62d9b8623d",
+  "raw_bytes": 4690,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cde416737744669af28870b536252754f2b5ceb3ba8ea981a8a24f62d9b8623d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "镇压反革命必须打得稳，打得准，打得狠（一九五O年十二月——一九五一年九月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c5670be61cd6a7b45137.txt",
+  "text_sha256": "093bb3bff7c90a05546ea52d11b62a998fa047dab101d590d99aa9266a96a831",
+  "text_chars": 1744,
+  "text_lines": 27,
+  "document_path": "archive/documents/A-c5670be61cd6a7b45137.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930b.htm",
+  "title": "人民英雄们永垂不朽",
+  "catalogue_entry_ids": [
+    "I-5ead8342d86a6ef8"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-51d0be94c30330486dc1",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:45.441880+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490930b.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"4e6-5a0e77e33c032\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:58 GMT",
+  "raw_sha256": "e2d2e6eb60ea44f188927d2772ddb7144da0bc5a67d885d6c6274e533dc828fe",
+  "raw_bytes": 1254,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e2d2e6eb60ea44f188927d2772ddb7144da0bc5a67d885d6c6274e533dc828fe.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "人民英雄们永垂不朽（一九四九年九月三十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-51d0be94c30330486dc1.txt",
+  "text_sha256": "44de53e1a89c54a85194af9248faca07d807ff41ff92a0d6a85efa38f98eb53f",
+  "text_chars": 247,
+  "text_lines": 11,
+  "document_path": "archive/documents/A-51d0be94c30330486dc1.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

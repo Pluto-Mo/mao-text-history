@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540915.htm",
+  "title": "为建设一个伟大的社会主义国家而奋斗",
+  "catalogue_entry_ids": [
+    "I-43f0880027ea9365"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-e1df3428f71824acf0e6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:55.957986+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19540915.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a17-5a0e7790de08f\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:32 GMT",
+  "raw_sha256": "81a9ac6200df8c86475c9f577d24e5c220f29db6b36fdca54f118d9ef89a42a6",
+  "raw_bytes": 2583,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/81a9ac6200df8c86475c9f577d24e5c220f29db6b36fdca54f118d9ef89a42a6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "为建设一个伟大的社会主义国家而奋斗（一九五四年九月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-e1df3428f71824acf0e6.txt",
+  "text_sha256": "fae86efb99ad40c626c2c03ca922b1b134cc9fb3aa648a0a6dd0c8db5867fcdf",
+  "text_chars": 840,
+  "text_lines": 30,
+  "document_path": "archive/documents/A-e1df3428f71824acf0e6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

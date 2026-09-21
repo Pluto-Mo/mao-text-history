@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19541016.htm",
+  "title": "关于《红楼梦》研究问题的信",
+  "catalogue_entry_ids": [
+    "I-013f27e0ba334458"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9dc6cd00c3c1d9e15cf2",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:56.246202+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19541016.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"a24-5a2fded0d8426\"",
+  "last_modified": "Sat, 11 Apr 2020 06:26:11 GMT",
+  "raw_sha256": "47197788c5827a3f0c88ec278ce2a0df69014da5f85c5ce8fbfab7e321e1de76",
+  "raw_bytes": 2596,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/47197788c5827a3f0c88ec278ce2a0df69014da5f85c5ce8fbfab7e321e1de76.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于《红楼梦》研究问题的信（一九五四年十月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19541016.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19541016.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9dc6cd00c3c1d9e15cf2.txt",
+  "text_sha256": "36277397d73f0362e56178bb58a1345d32fd5b889402a3d3e687224307b578dd",
+  "text_chars": 830,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-9dc6cd00c3c1d9e15cf2.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

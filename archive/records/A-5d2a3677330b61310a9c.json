@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530519.htm",
+  "title": "对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评",
+  "catalogue_entry_ids": [
+    "I-82d05ee87a13e883"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5d2a3677330b61310a9c",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:52.650420+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530519.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5dc-602438a08d67e\"",
+  "last_modified": "Sun, 06 Aug 2023 16:22:42 GMT",
+  "raw_sha256": "190943a57e6a0358637905f6a254e916d3220ed53a74270d71e1f604cd41dae6",
+  "raw_bytes": 1500,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/190943a57e6a0358637905f6a254e916d3220ed53a74270d71e1f604cd41dae6.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对刘少奇、杨尚昆破坏纪律擅自以中央名义发出文件的批评（一九五三年五月十九日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5d2a3677330b61310a9c.txt",
+  "text_sha256": "cd25a40db35a64331b919a450bdcad91fd2d4864290dbff9ba0b90975d4993c4",
+  "text_chars": 327,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-5d2a3677330b61310a9c.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

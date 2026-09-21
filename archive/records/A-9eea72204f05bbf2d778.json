@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm",
+  "title": "批判离开总路线的右倾观点",
+  "catalogue_entry_ids": [
+    "I-add15d320a7ca8f5"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9eea72204f05bbf2d778",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:52.945633+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c7b-5a0e77dcbfda5\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:51 GMT",
+  "raw_sha256": "6836707aabd6af75df69cf9bb66311af7aa16ba50ffb1856a8f36628f3757b98",
+  "raw_bytes": 3195,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6836707aabd6af75df69cf9bb66311af7aa16ba50ffb1856a8f36628f3757b98.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "批判离开总路线的右倾观点（一九五三年六月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530615.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9eea72204f05bbf2d778.txt",
+  "text_sha256": "497b6e095b18503d66830f375536a5f1536543bd82b49c5668a9dab6e2874da7",
+  "text_chars": 1091,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-9eea72204f05bbf2d778.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

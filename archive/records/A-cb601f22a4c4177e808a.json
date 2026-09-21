@@ -1,0 +1,91 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm",
+  "title": "在新政治协商会议筹备会上的讲话",
+  "catalogue_entry_ids": [
+    "I-e4d3af7f429bf7dc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 4,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cb601f22a4c4177e808a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:42.801893+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1b11-5a0e77ec263e4\"",
+  "last_modified": "Sun, 15 Mar 2020 16:50:08 GMT",
+  "raw_sha256": "cc5ecfc80b9fb761dcfa25bc4f466fc06e259c7169e86a23df43a4bb01eef3d1",
+  "raw_bytes": 6929,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cc5ecfc80b9fb761dcfa25bc4f466fc06e259c7169e86a23df43a4bb01eef3d1.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在新政治协商会议筹备会上的讲话（一九四九年六月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftn4"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19490615.htm#_ftnref4"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cb601f22a4c4177e808a.txt",
+  "text_sha256": "460bef824a4eb7d6ac4c26ecf874e471039b1aeb9205a12d05dc8aaf9a174cf6",
+  "text_chars": 2847,
+  "text_lines": 37,
+  "document_path": "archive/documents/A-cb601f22a4c4177e808a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

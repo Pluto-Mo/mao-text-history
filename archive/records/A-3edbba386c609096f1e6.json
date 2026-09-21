@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510520.htm",
+  "title": "应当重视电影《武训传》的讨论",
+  "catalogue_entry_ids": [
+    "I-ee80baa552135c7b"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3edbba386c609096f1e6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:49.043127+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510520.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b20-5a0e779f2a32b\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:47 GMT",
+  "raw_sha256": "eee060820b346ecaa09c23476a00d975070d449455db6ceb31568ba30c512637",
+  "raw_bytes": 2848,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/eee060820b346ecaa09c23476a00d975070d449455db6ceb31568ba30c512637.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "应当重视电影《武训传》的讨论（一九五一年五月二十日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3edbba386c609096f1e6.txt",
+  "text_sha256": "960832b2d9e95078a38eb7bea954e82de2360a84398548b7c32a8ecc86fe8831",
+  "text_chars": 1038,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-3edbba386c609096f1e6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

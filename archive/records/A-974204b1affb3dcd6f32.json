@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520804.htm",
+  "title": "团结起来，划清敌我界限",
+  "catalogue_entry_ids": [
+    "I-a10412e0aeff23dc"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-974204b1affb3dcd6f32",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:51.155361+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520804.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"11a9-5a0e77deddd8a\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:54 GMT",
+  "raw_sha256": "01ab67bd7b40ab88951c8f529230ac1c57b88f72354deb492c083304f060f7cf",
+  "raw_bytes": 4521,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/01ab67bd7b40ab88951c8f529230ac1c57b88f72354deb492c083304f060f7cf.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "（一九五二年八月四日）：团结起来，划清敌我界限",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-974204b1affb3dcd6f32.txt",
+  "text_sha256": "91e946a2026be95533fa2d80c81a260ce928c942538c1fca6d55e253daa626ce",
+  "text_chars": 1813,
+  "text_lines": 28,
+  "document_path": "archive/documents/A-974204b1affb3dcd6f32.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

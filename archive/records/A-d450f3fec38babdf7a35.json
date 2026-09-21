@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520406.htm",
+  "title": "中共中央关于西藏工作方针的指示",
+  "catalogue_entry_ids": [
+    "I-8af8bbef6df1b635"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d450f3fec38babdf7a35",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:50.553266+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520406.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"13e1-5a0e7799eb6c1\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:41 GMT",
+  "raw_sha256": "a32a314a3b41d4bbab996c2ff3623efce0b8dcc9e0560853191163436fabc9a0",
+  "raw_bytes": 5089,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a32a314a3b41d4bbab996c2ff3623efce0b8dcc9e0560853191163436fabc9a0.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中共中央关于西藏工作方针的指示（一九五二年四月六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520406.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19520406.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d450f3fec38babdf7a35.txt",
+  "text_sha256": "1584df617bb044bb90ead01578b3444903a77be9b9e60d31972aa87687677415",
+  "text_chars": 2064,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-d450f3fec38babdf7a35.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

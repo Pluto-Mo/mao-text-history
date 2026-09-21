@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550907.htm",
+  "title": "农业合作化必须依靠党团员和贫农下中农",
+  "catalogue_entry_ids": [
+    "I-65b90366660cba0c"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-2c102d7f3dd9c5b90a9e",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:58.530396+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550907.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"d90-5a0e778c221e5\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:27 GMT",
+  "raw_sha256": "f0edea6107e78f7ee3ab150f7c070948d0288a6550de25e52b1ac39336b5fdc8",
+  "raw_bytes": 3472,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f0edea6107e78f7ee3ab150f7c070948d0288a6550de25e52b1ac39336b5fdc8.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "农业合作化必须依靠党团员和贫农下中农（一九五五年九月七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-2c102d7f3dd9c5b90a9e.txt",
+  "text_sha256": "8479ef79e63695f95dc88890f00a20b18c0b0e3f9642bd63060e8a85af13d93d",
+  "text_chars": 1365,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-2c102d7f3dd9c5b90a9e.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

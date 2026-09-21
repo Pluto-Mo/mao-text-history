@@ -1,0 +1,67 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm",
+  "title": "征询对农业十七条的意见",
+  "catalogue_entry_ids": [
+    "I-08bbb304b8048585"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-3bccbd883bc71300d592",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:59.424325+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"14b0-5a0e778a9f662\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:25 GMT",
+  "raw_sha256": "cb2013b72a5d8719578ef2b5e539e1bea6ec0e1b3c9ae55906fb3775ec29e3a4",
+  "raw_bytes": 5296,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/cb2013b72a5d8719578ef2b5e539e1bea6ec0e1b3c9ae55906fb3775ec29e3a4.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "征询对农业十七条的意见（一九五五年十二月二十一日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19551221.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-3bccbd883bc71300d592.txt",
+  "text_sha256": "0dbc7a10d670ca258bbfd30684137451abaca2dd10a90bf897dbdf8315eecd94",
+  "text_chars": 2112,
+  "text_lines": 34,
+  "document_path": "archive/documents/A-3bccbd883bc71300d592.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

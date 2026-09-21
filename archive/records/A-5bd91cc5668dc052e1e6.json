@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550128.htm",
+  "title": "原子弹吓不倒中国人民",
+  "catalogue_entry_ids": [
+    "I-1243ad6fa052e798"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5bd91cc5668dc052e1e6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:56.739164+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19550128.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"aac-5a0e77d74293a\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:46 GMT",
+  "raw_sha256": "2329034f65198e959f214258b5e07684d639c527aa77a48f4d1e47c78b30cbdb",
+  "raw_bytes": 2732,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2329034f65198e959f214258b5e07684d639c527aa77a48f4d1e47c78b30cbdb.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "原子弹吓不倒中国人民（一九五五年一月二十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5bd91cc5668dc052e1e6.txt",
+  "text_sha256": "d5752cec2080ec0c5c76d5fd4766106ef60ce339170e7f9e039295b08e1c47f8",
+  "text_chars": 984,
+  "text_lines": 12,
+  "document_path": "archive/documents/A-5bd91cc5668dc052e1e6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

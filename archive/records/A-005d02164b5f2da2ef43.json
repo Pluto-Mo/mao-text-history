@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195503.htm",
+  "title": "在中国共产党全国代表会议上的讲话",
+  "catalogue_entry_ids": [
+    "I-f31bc17ee083f704"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-005d02164b5f2da2ef43",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:57.017532+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-195503.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5c25-5a0e778f5286c\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:30 GMT",
+  "raw_sha256": "d85add0edfbbab35608876b011a8556ba870b754bbefec3ae4843b2df69d14a8",
+  "raw_bytes": 23589,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d85add0edfbbab35608876b011a8556ba870b754bbefec3ae4843b2df69d14a8.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "在中国共产党全国代表会议上的讲话（一九五五年三月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-005d02164b5f2da2ef43.txt",
+  "text_sha256": "09ae370289a66f48c11243fc037daa6ab4e493ddfa0f9d35260f424aca6efd62",
+  "text_chars": 11072,
+  "text_lines": 64,
+  "document_path": "archive/documents/A-005d02164b5f2da2ef43.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm",
+  "title": "中共中央政治局扩大会议决议要点",
+  "catalogue_entry_ids": [
+    "I-5603ffe70b224b09"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fffe85d6e900a8582223",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:48.446861+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1560-5a0e77a1e9531\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:50 GMT",
+  "raw_sha256": "b407be34384c42e8ae47e0d64ddd1890be623c252a345f2fc2eb91d545a15338",
+  "raw_bytes": 5472,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b407be34384c42e8ae47e0d64ddd1890be623c252a345f2fc2eb91d545a15338.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中共中央政治局扩大会议决议要点（一九五一年二月十八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm#_ftn3"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510218.htm#_ftnref3"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fffe85d6e900a8582223.txt",
+  "text_sha256": "d29d88c989f201ed75aab3c44dbabc46a3ceb2ba6ec72c18abe9a4d9d9f55a61",
+  "text_chars": 1904,
+  "text_lines": 62,
+  "document_path": "archive/documents/A-fffe85d6e900a8582223.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

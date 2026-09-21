@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510515.htm",
+  "title": "镇压反革命必须实行党的群众路线",
+  "catalogue_entry_ids": [
+    "I-7b54480b13eaacad"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a63c3b37b06abaf12dad",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:48.751253+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19510515.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"f6a-5a0e779fed82d\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:48 GMT",
+  "raw_sha256": "e8d1de0cc2fc2352ab9360b58ca2ca4ccda797949dcb15b0297a907153680a45",
+  "raw_bytes": 3946,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e8d1de0cc2fc2352ab9360b58ca2ca4ccda797949dcb15b0297a907153680a45.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "镇压反革命必须实行党的群众路线（一九五一年五月十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a63c3b37b06abaf12dad.txt",
+  "text_sha256": "2e729387d154098256b1c10c2bd127a376628013ac39084489efba76311107aa",
+  "text_chars": 1480,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-a63c3b37b06abaf12dad.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

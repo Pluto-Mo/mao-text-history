@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530912.htm",
+  "title": "抗美援朝的伟大胜利和今后的任务",
+  "catalogue_entry_ids": [
+    "I-fd1dc4ff1851a68e"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-502091a75df9373967c3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:54.762170+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530912.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1cb2-5a0e77d9a3f3f\"",
+  "last_modified": "Sun, 15 Mar 2020 16:49:48 GMT",
+  "raw_sha256": "0a3dac4e4794fd9e2be7dfb1949d8caece18575ec7f0c5ce02e042ee261ea0a3",
+  "raw_bytes": 7346,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/0a3dac4e4794fd9e2be7dfb1949d8caece18575ec7f0c5ce02e042ee261ea0a3.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "抗美援朝的伟大胜利和今后的任务（一九五三年九月十二日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-502091a75df9373967c3.txt",
+  "text_sha256": "6b67fbaf5456509decc6e76ab01d347b4e70a2719d7b796111534a783acb3b32",
+  "text_chars": 3191,
+  "text_lines": 37,
+  "document_path": "archive/documents/A-502091a75df9373967c3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

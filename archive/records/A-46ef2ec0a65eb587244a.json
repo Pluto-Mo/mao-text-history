@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm",
+  "title": "给中国人民志愿军的命令",
+  "catalogue_entry_ids": [
+    "I-e18f3d59493516a6"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-46ef2ec0a65eb587244a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:47.558529+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"789-5f20c963bf82e\"",
+  "last_modified": "Thu, 12 Jan 2023 08:05:57 GMT",
+  "raw_sha256": "278ebe105abd2bf6c28ded167486598d1f7d75ef653a2f08c6f9e81467ed25df",
+  "raw_bytes": 1929,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/278ebe105abd2bf6c28ded167486598d1f7d75ef653a2f08c6f9e81467ed25df.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给中国人民志愿军的命令（一九五○年十月八日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-46ef2ec0a65eb587244a.txt",
+  "text_sha256": "fbc67ce2c4a7a43eb49dff9a014907008e529a69682d5fdac453115a00642437",
+  "text_chars": 510,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-46ef2ec0a65eb587244a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm",
+  "title": "批判大汉族主义",
+  "catalogue_entry_ids": [
+    "I-6b0ad69c21a973ca"
+  ],
+  "source_ids": [
+    "MIA-MAIN"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "maoxuan-mia-catalogue",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-1966d9938107defb25aa",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:41:52.045830+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19530316.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"7da-5a0e7795d67f9\"",
+  "last_modified": "Sun, 15 Mar 2020 16:48:37 GMT",
+  "raw_sha256": "897a0dd5df34ef2bd58090ab73d3e521e973c0677cfb482d42c81d242bb3a312",
+  "raw_bytes": 2010,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/897a0dd5df34ef2bd58090ab73d3e521e973c0677cfb482d42c81d242bb3a312.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "批判大汉族主义（一九五三年三月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-1966d9938107defb25aa.txt",
+  "text_sha256": "4a1326be077afa25cca08a171be160557e3b7d2d685d1f771a9b92987a790b79",
+  "text_chars": 630,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-1966d9938107defb25aa.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
