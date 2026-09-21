@@ -1,0 +1,226 @@
+#!/usr/bin/env python3
+"""Whole-Maoxuan evidence traversal. Offline only; raw source files stay immutable.
+Relationships describe observable text or attributed source statements, never invented drafts.
+"""
+from __future__ import annotations
+import argparse, bisect, collections, datetime, difflib, hashlib, json, pathlib, re, subprocess, unicodedata, shutil
+from dataclasses import dataclass
+ROOT=pathlib.Path(__file__).resolve().parent
+OUT=ROOT/'maoxuan'
+VERSION='1.3'
+CN_DIGITS={'〇':'0','○':'0','零':'0','一':'1','二':'2','三':'3','四':'4','五':'5','六':'6','七':'7','八':'8','九':'9'}
+YEAR=r'(?:[12][0-9]{3}|[一二][〇○零一二三四五六七八九]{3})'
+NUMERIC_DATE_RE=re.compile(r'(?<![0-9])([12][0-9]{3})[.．/-](0?[1-9]|1[0-2])[.．/-](0?[1-9]|[12][0-9]|3[01])(?![0-9])')
+DATE_RE=re.compile(r'('+YEAR+r')年(?:([0-9一二三四五六七八九十廿卅〇○零]{1,3})月)?(?:([0-9一二三四五六七八九十廿卅〇○零]{1,3})日)?')
+REV_RE=re.compile(r'删[节改去除]|修改|修订|改题|改为|改成|原题|原名|原文|补充|增补|重写|改写|修正|更改|改动|定稿|审定|审阅|校订|发表|刊载|登载|收入|一部分|第一部分|节选|节录|摘录|合并|整理')
+COLLECTIONS=('maoxuan','wengao','nianpu','mia')
+
+def load(p): return json.loads((ROOT/p).read_bytes().decode('utf-8'))
+def rows(p):
+ q=ROOT/p
+ if not q.exists(): return []
+ return [json.loads(s) for s in q.read_bytes().decode('utf-8').splitlines() if s.strip()]
+def write(p,data):
+ q=ROOT/p;q.parent.mkdir(parents=True,exist_ok=True);q.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+def textfile(p,text):
+ q=ROOT/p;q.parent.mkdir(parents=True,exist_ok=True);q.write_text(text,encoding='utf-8')
+def jsonl(p,data): textfile(p,''.join(json.dumps(x,ensure_ascii=False,separators=(',',':'))+'\n' for x in data))
+def sha(b): return hashlib.sha256(b).hexdigest()
+def norm(s): return ''.join(c for c in unicodedata.normalize('NFKC',s) if c.isalnum())
+def normalized_map(s):
+ chars=[]; offsets=[]
+ for i,ch in enumerate(s):
+  for c in unicodedata.normalize('NFKC',ch):
+   if c.isalnum(): chars.append(c);offsets.append(i)
+ return ''.join(chars),offsets
+
+def number_cn(s):
+ if not s:return None
+ s=unicodedata.normalize('NFKC',s)
+ if s.isdigit():return int(s)
+ if '十' in s:
+  a,b=s.split('十',1);return (int(CN_DIGITS.get(a,'1')) if a else 1)*10+(int(CN_DIGITS.get(b,'0')) if b else 0)
+ if s.startswith('廿'):return 20+number_cn(s[1:] or '零')
+ if s.startswith('卅'):return 30+number_cn(s[1:] or '零')
+ return int(''.join(CN_DIGITS.get(c,c) for c in s))
+
+def dates(s):
+ out=[]
+ compact=unicodedata.normalize('NFKC',re.sub(r'\s+','',s))
+ for m in DATE_RE.finditer(compact):
+  try:
+   y,mo,day=(number_cn(x) for x in m.groups())
+   if not 1800<=y<=2100 or (mo is not None and not 1<=mo<=12) or (day is not None and not 1<=day<=31):continue
+   if day and mo: datetime.date(y,mo,day)
+   iso=str(y)+(f'-{mo:02}' if mo else '')+(f'-{day:02}' if day and mo else '')
+   out.append({'literal':m.group(),'date':iso,'precision':'day' if day and mo else 'month' if mo else 'year','binding':'date_mentioned_in_source_not_automatically_event_date'})
+  except (ValueError,TypeError):continue
+ for m in NUMERIC_DATE_RE.finditer(compact):
+  try:
+   y,mo,day=map(int,m.groups());datetime.date(y,mo,day)
+   out.append({'literal':m.group(),'date':f'{y:04}-{mo:02}-{day:02}','precision':'day','binding':'date_mentioned_in_source_not_automatically_event_date'})
+  except ValueError:pass
+ return out
+
+def family(r):
+ es=[e.get('edition_id','') for e in r.get('edition_refs',[])]
+ if any(e.startswith('nianpu') for e in es):return 'nianpu'
+ if any(e.startswith('wengao') for e in es):return 'wengao'
+ if any(e=='maoxuan-official' for e in es):return 'maoxuan'
+ if 'marxists.org' in r['url']:return 'mia'
+ return 'other'
+
+def quality(r,text):
+ letters=sum(c.isalnum() for c in text)
+ cjk=sum('\u3400'<=c<='\u9fff' for c in text)
+ ratio=cjk/max(letters,1)
+ problem=None
+ if ratio<0.45:
+  if r.get('media')=='official_page_text':problem='garbled_official_text_layer'
+  elif cjk<10 and r.get('media')=='pdf':problem='no_usable_chinese_from_scan_pages'
+  elif r.get('title')=='MIA Charter':problem='non_chinese_document_not_a_corrupted_source'
+  else:problem='non_chinese_or_unusable_text_layer'
+ if letters<=20:problem='empty_or_short_text'
+ return {'text_chars':len(text),'cjk_ratio_of_alphanumeric':round(ratio,4),'searchable_chinese':letters>20 and ratio>=0.45,'problem':problem}
+
+_LINE_BREAKS={}
+def line_number(rid,text,pos):
+ if rid not in _LINE_BREAKS:_LINE_BREAKS[rid]=[m.start() for m in re.finditer('\n',text)]
+ return bisect.bisect_left(_LINE_BREAKS[rid],pos)+1
+
+def source_span(r,text,start,end,kind='web_lines',number=None):
+ """Exact character offsets are in retained UTF-8-decoded source text, not normalized text."""
+ quote=text[start:end]
+ return {'witness_id':r['id'],'source_url':r['url'],'source_raw_sha256':r['raw_sha256'],
+  'source_text_file':r['text_path'],'source_text_sha256':r.get('text_sha256'),
+  'edition_refs':r.get('edition_refs',[]),'locator':{'kind':kind,'number':number if number else line_number(r['id'],text,start),
+  'line_start':line_number(r['id'],text,start),'line_end':line_number(r['id'],text,max(start,end-1)),
+  'char_start':start,'char_end':end,'printed_page':None},'quote':quote,'quote_sha256':sha(quote.encode()),'normalization':'none; exact retained source excerpt'}
+
+def get_records():return [json.loads(p.read_bytes().decode('utf-8')) for p in sorted((ROOT/'archive/records').glob('*.json'))]
+
+def parse_web(r,text):
+ lines=text.splitlines(keepends=True); offsets=[0]
+ for line in lines:offsets.append(offsets[-1]+len(line))
+ # Standalone date headings are more reliable than URL dates and browser titles.
+ date_indices=[i for i,l in enumerate(lines[:45]) if re.match(r'^\s*[（(]'+YEAR+r'年',unicodedata.normalize('NFKC',l).replace('(', '（'))]
+ if not date_indices:
+  date_indices=[i for i,l in enumerate(lines[:45]) if re.match(r'^\s*[（(][12][0-9]{3}[.．/-]',l)]
+ if not date_indices:
+  date_indices=[i for i,l in enumerate(lines[:25]) if len(norm(l))<35 and DATE_RE.search(re.sub(r'\s+','',l)) and ('年' in l) and i>=4]
+ di=date_indices[0] if date_indices else None
+ start=di+1 if di is not None else 4
+ head=''.join(lines[max(0,start-4):start])
+ notes=[];excluded=set()
+ # Asterisk editorial notes may sit before the body or after the notes heading.
+ for i,l in enumerate(lines):
+  s=l.strip()
+  is_intro=(i>=start and i<start+3 and bool(re.match(r'^(?:\*\s*)?(?:这是毛泽东|这篇|毛泽东此文|本文是|这是.*?毛泽东)',s)))
+  is_asterisk=bool(re.match(r'^\*\s*\S',s))
+  is_after_star=i>0 and lines[i-1].strip()=='*' and bool(re.match(r'^(这是|这篇|毛泽东|本文)',s))
+  if (is_intro or is_asterisk or is_after_star) and len(norm(s))>12:
+   notes.append(source_span(r,text,offsets[i],offsets[i+1])); excluded.add(i)
+ # Keep author text and footnotes separate; a source-note detector never changes original text.
+ end=len(lines)
+ for i in range(start,len(lines)):
+  if norm(lines[i]) in {'注释','注解'}:end=i;break
+ # Bibliographic tails are not body paragraphs.
+ for i in range(start,end):
+  if re.match(r'^\s*[（(]《毛泽东选集》',lines[i]):end=i;break
+ body=[]
+ for i in range(start,end):
+  s=lines[i].strip()
+  if i in excluded or not s or s=='*' or re.fullmatch(r'[\[〔（(]\d+[\]〕）)]',s):continue
+  body.append({'line':i+1,'char_start':offsets[i],'char_end':offsets[i+1],'text':lines[i]})
+ body_text=''.join(x['text'] for x in body)
+ return {'source_date_heading':lines[di].strip() if di is not None else None,
+  'dates':dates(lines[di]) if di is not None else dates(lines[0]) if lines else [],
+  'body_blocks':body,'body_text':body_text,'body_normalized':norm(body_text),'editorial_notes':notes,
+  'boundary_status':'heuristic_heading_and_notes_separation; CR/LF preserved in exact source text','header_text':head,
+  'body_line_start':start+1,'body_line_end':end}
+
+def baseline(records):
+ byurl={r['url']:r for r in records if r.get('status')=='preserved'}
+ main=byurl['https://www.marxists.org/chinese/maozedong/index.htm']
+ text=(ROOT/main['text_path']).read_bytes().decode('utf-8');lines=text.splitlines(keepends=True)
+ offsets=[0]
+ for l in lines:offsets.append(offsets[-1]+len(l))
+ entries=rows('catalog/entries.jsonl')
+ ent={(e.get('volume'),e['title']):e for e in entries if e.get('edition_id')=='maoxuan-mia-catalogue'}
+ works=[];volume=0
+ for i,line in enumerate(lines):
+  s=line.strip()
+  if re.fullmatch(r'第[一二三四五]卷',s):volume='一二三四五'.index(s[1])+1
+  elif s=='其它' and volume:break
+  elif volume and re.fullmatch(r'\d+\.',s):
+   title=lines[i+1].strip();entry=ent[(volume,title)];r=byurl[entry['url']]
+   body=(ROOT/r['text_path']).read_bytes().decode('utf-8');parsed=parse_web(r,body)
+   work={'id':f'MX{volume}-{int(s[:-1]):03}','volume':volume,'ordinal':int(s[:-1]),'title':title,
+    'scope':'core_volumes_1_4' if volume<5 else 'historical_volume_5_separate',
+    'baseline_catalogue_entry_id':entry['id'],'baseline_witness_id':r['id'],
+    'baseline_provenance':source_span(main,text,offsets[i],offsets[i+2]),
+    'source_date_heading':parsed['source_date_heading'],'date_mentions':parsed['dates'],
+    'aliases':[],'canonical_web':{'record':r,'text':body,'parsed':parsed}}
+   # Catalogue labels remain literal. Short body header variants are retrieval aliases, not silently corrected titles.
+   for h in parsed['header_text'].splitlines():
+    n=norm(h)
+    if 2<=len(n)<=max(len(norm(title))+5,12) and difflib.SequenceMatcher(None,n,norm(title),autojunk=False).ratio()>.86 and n!=norm(title):
+     work['aliases'].append({'title':h,'basis':'near-identical_retained_article_header; catalogue_label_kept','status':'retrieval_alias_not_historical_retitle'})
+   works.append(work)
+ assert len({w['id'] for w in works})==len(works)
+ return works,main
+
+def own_claim_types(quote):
+ s=re.sub(r'\s+','',quote);types=[]
+ tests={
+ 'reported_retitle':r'原题|原名|改题|题目改|改名',
+ 'reported_revision':r'(?:作者|毛泽东|这封信|这篇|本文|本篇|他).{0,100}(?:作了|加以|予以|经过|重新|进行).{0,12}(?:补充|修改|删节|删改|修订|整理)|指名批评.{0,20}删改|(?:删节|修改)过',
+ 'reported_excerpt':r'(?:报告|讲话|结论|决议)[^。]{0,25}(?:的一部分|的第一部分|的第一章)|(?:命令|社论|发言)的节录|节选|节录|摘录',
+ 'reported_compilation':r'这里选辑|这里的[（(]一[）)]|一百零四篇按语|四十三篇',
+ 'reported_publication':r'发表|刊载|登载|载于|出版|收入本书|收入.*?选集',
+ 'reported_composition_context':r'写的|起草|讲演|讲话|演说|电报|一封信|报告|开幕词|闭幕词|碑文|决议',
+ 'reported_joint_authorship':r'合写|共同起草|集体起草|集体编写|几位同志|其他几位同志|其他同志起草|合作写作|其它几个同志起草'
+ }
+ for kind,pat in tests.items():
+  if re.search(pat,s):types.append(kind)
+ return types or ['editorial_note']
+
+def probe():
+ records=get_records();works,main=baseline(records)
+ notes=[]
+ for w in works:
+  for n in w['canonical_web']['parsed']['editorial_notes']:
+   types=own_claim_types(n['quote'])
+   notes.append({'work_id':w['id'],'title':w['title'],'types':types,'quote':n['quote'],'line':n['locator']['line_start']})
+ write('maoxuan/probe-notes.json',notes)
+ textfile('maoxuan/probe-notes.txt','\n\n'.join(f"{n['work_id']} {n['title']} {'|'.join(n['types'])}\n{n['quote']}" for n in notes))
+ print('works',len(works),'notes',len(notes),'no notes',[(w['id'],w['title']) for w in works if not w['canonical_web']['parsed']['editorial_notes']])
+ print('types',dict(collections.Counter(t for n in notes for t in n['types'])))
+ print('revision notes')
+ for n in notes:
+  if any(t in n['types'] for t in ['reported_retitle','reported_revision']):print(n['work_id'],n['title'],n['quote'])
+
+
+class Matcher:
+ def __init__(self,words):
+  self.next=[{}];self.fail=[0];self.out=[[]]
+  for word in sorted(set(words)):
+   state=0
+   for char in word:
+    if char not in self.next[state]:
+     self.next[state][char]=len(self.next);self.next.append({});self.fail.append(0);self.out.append([])
+    state=self.next[state][char]
+   self.out[state].append(word)
+  q=collections.deque(self.next[0].values())
+  while q:
+   state=q.popleft()
+   for char,child in self.next[state].items():
+    q.append(child);f=self.fail[state]
+    while f and char not in self.next[f]:f=self.fail[f]
+    self.fail[child]=self.next[f].get(char,0);self.out[child].extend(self.out[self.fail[child]])
+ def find(self,text):
+  state=0
+  for i,char in enumerate(text):
+   while state and char not in self.next[state]:state=self.fail[state]
+   state=self.next[state].get(char,0)
+   for word in self.out[
