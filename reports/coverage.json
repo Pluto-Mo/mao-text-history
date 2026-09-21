@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-09-21T08:39:45.494456+00:00",
+  "scope": "catalogues and HTML witness acquisition checks; not full books",
+  "source_pages": 13,
+  "source_page_statuses": {
+    "retrieved_html": 11,
+    "fetch_failed": 2
+  },
+  "catalogue_entries": 2533,
+  "entries_by_source": {
+    "MIA-MAIN": 350,
+    "MIA-1968": 998,
+    "MIA-COLLECT": 1172,
+    "OFF-MAO": 4,
+    "OFF-NIAN": 9
+  },
+  "entries_by_kind": {
+    "html_link": 1369,
+    "pdf_link": 41,
+    "unlinked_toc": 1110,
+    "book_landing": 13
+  },
+  "fetch_statuses": {
+    "retrieved_html": 1378,
+    "fetch_failed": 2
+  },
+  "same_title_candidate_groups": 32,
+  "confirmed_revision_edges": 0,
+  "unattempted_html_urls": 0,
+  "persistent_full_volumes": 0,
+  "published_book_fulltexts": 0,
+  "raw_bytes_location": "temporary runner .cache; not retained in public Git or artifacts",
+  "warnings": [
+    "Catalogue coverage is not full-text coverage.",
+    "Exact title matches are not verified edition mappings.",
+    "Fetch hashes identify observed bytes, not authenticity.",
+    "Missing books remain explicit volume records."
+  ]
+}
