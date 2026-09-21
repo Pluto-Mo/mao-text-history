@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:40:46.641806+00:00",
+  "generated_at": "2026-09-21T08:43:46.626762+00:00",
   "scope": "catalogues and HTML witness acquisition checks; not full books",
   "source_pages": 13,
   "source_page_statuses": {
@@ -39,5 +39,25 @@
   "parser_version": 2,
   "unresolved_catalogue_volumes": 0,
   "titles_with_decoding_replacements": 0,
-  "legacy_text_extractions_not_revalidated": 1367
+  "legacy_text_extractions_not_revalidated": 1367,
+  "acceptance": {
+    "real_volume_examples_checked": 7,
+    "title_decode_replacements": 0,
+    "confirmed_full_sets": 0,
+    "confirmed_revision_edges": 0
+  },
+  "failed_sources": [
+    {
+      "source_id": "ZHENGCHU-WENJI",
+      "url": "https://fuwu.12371.cn/2013/08/19/ARTI1376892293655966_all.shtml",
+      "status": "fetch_failed",
+      "error": "ValueError: robots_unavailable_ValueError"
+    },
+    {
+      "source_id": "ZHENGCHU-STUDY",
+      "url": "https://hprc.cssn.cn/gsyj/zzs/mzdsxyj/202405/t20240515_5751256.html",
+      "status": "fetch_failed",
+      "error": "ValueError: robots_unavailable_URLError"
+    }
+  ]
 }

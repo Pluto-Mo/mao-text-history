@@ -134,10 +134,10 @@ def catalogue(soup, source, receipt):
                 continue
             if node.name=='h4':
                 title=c.clean(node.get_text(' ',strip=True))
-                match=re.fullmatch(r'第([一二三四五六七八九十]+)卷',title)
+                match=re.match(r'^第([一二三四五六七八九十]+)卷(?:\s|$)',title)
                 if match:
                     volume,edition=c.CN[match.group(1)],'maoxuan-mia-catalogue'
-                elif title=='其它':
+                elif re.match(r'^其它(?:\s|$)',title):
                     volume,edition=None,'mia-other'
             contexts[id(node)]=(edition,volume)
         for row in data:

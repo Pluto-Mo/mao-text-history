@@ -39,4 +39,9 @@ class CatalogueV2Tests(unittest.TestCase):
         source={'id':'MIA-1968','url':'https://www.marxists.org/chinese/maozedong/1968/index.htm','kind':'mia_1968','edition_id':'mia-1968'}
         self.assertEqual([r['volume'] for r in v.catalogue(soup,source,{})],[1,2])
 
+    def test_volume_heading_with_period_subtitle(self):
+        soup=BeautifulSoup('<h4>第二卷<br>抗日战争时期（上）</h4><a href="a.htm">论持久战</a><h4>第五卷<br>社会主义革命和社会主义建设时期（一）</h4><a href="b.htm">关于正确处理人民内部矛盾的问题</a>', 'html5lib')
+        source={'id':'MIA-MAIN','url':'https://www.marxists.org/chinese/maozedong/index.htm','kind':'mia_main','edition_id':'maoxuan-mia-catalogue'}
+        self.assertEqual([r['volume'] for r in v.catalogue(soup,source,{})],[2,5])
+
 if __name__=='__main__': unittest.main()
