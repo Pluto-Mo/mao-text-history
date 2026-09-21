@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-016.htm",
+  "title": "中国国民党中央执行委员会严驳北京党员之违法会议",
+  "catalogue_entry_ids": [
+    "I-0ec2b4e58f652f24"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-d065338d57a6873b53b5",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:34.942557+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-016.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"aa7-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "c22a85f6eae9f8fa20046bd36d25a0cecbef9214369ac5cdb330ea465c352924",
+  "raw_bytes": 2727,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/c22a85f6eae9f8fa20046bd36d25a0cecbef9214369ac5cdb330ea465c352924.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国国民党中央执行委员会严驳北京党员之违法会议",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-016.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-016.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-d065338d57a6873b53b5.txt",
+  "text_sha256": "0867e6fc3c6efaef0a2ed967d63e8419fc96fc03f69435e4b0c85d7ad3e10652",
+  "text_chars": 858,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-d065338d57a6873b53b5.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

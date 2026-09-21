@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-006.htm",
+  "title": "民众的大联合",
+  "catalogue_entry_ids": [
+    "I-6da83015ce798c45"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-777c1ff5d093ffc3b259",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:31.935123+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-006.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3c6f-5359e7a4847d6\"",
+  "last_modified": "Sun, 19 Jun 2016 09:47:36 GMT",
+  "raw_sha256": "74f0b87e25faad95f43bd78191b6dfc006c1ac11fbdc474db242196302a6525c",
+  "raw_bytes": 15471,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/74f0b87e25faad95f43bd78191b6dfc006c1ac11fbdc474db242196302a6525c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "民众的大联合（一九一九·七·二一/二八/八·四）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-777c1ff5d093ffc3b259.txt",
+  "text_sha256": "54b0431fadc13c6715bc0d1b93a3deb88bf667dc7c650ffd6e85e50c357f5289",
+  "text_chars": 7025,
+  "text_lines": 83,
+  "document_path": "archive/documents/A-777c1ff5d093ffc3b259.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

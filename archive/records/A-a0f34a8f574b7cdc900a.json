@@ -1,0 +1,103 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm",
+  "title": "体育之研究",
+  "catalogue_entry_ids": [
+    "I-d9fa15850969a9f2"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-a0f34a8f574b7cdc900a",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:30.739475+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"3dc8-5359e7a6e4e54\"",
+  "last_modified": "Sun, 19 Jun 2016 09:47:38 GMT",
+  "raw_sha256": "1932478b3fe29cd5c483b7b69d337a9b0cbbbb17be37c0b58bc801d3431e5c5e",
+  "raw_bytes": 15816,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/1932478b3fe29cd5c483b7b69d337a9b0cbbbb17be37c0b58bc801d3431e5c5e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "体育之研究（一九一七·四·一）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftn1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftn2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftn3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftn4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftn5"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftnref1"
+    },
+    {
+      "title": "[2]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftnref2"
+    },
+    {
+      "title": "[3]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftnref3"
+    },
+    {
+      "title": "[4]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftnref4"
+    },
+    {
+      "title": "[5]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-002.htm#_ftnref5"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-a0f34a8f574b7cdc900a.txt",
+  "text_sha256": "3390be9c1f492170d9818236166964e0be60e7d3042bb3e7adfd26faeebd13f0",
+  "text_chars": 6742,
+  "text_lines": 185,
+  "document_path": "archive/documents/A-a0f34a8f574b7cdc900a.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-018.htm",
+  "title": "政治周报发刊理由",
+  "catalogue_entry_ids": [
+    "I-b44cb8d1c44de217"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-209422f5acf4d5821277",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:35.536022+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-018.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"ce1-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "4f9a4b10e281039408350fad7d6bf6e25b9627eaaab3815ccef1426c08cc1d78",
+  "raw_bytes": 3297,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4f9a4b10e281039408350fad7d6bf6e25b9627eaaab3815ccef1426c08cc1d78.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "政治周报发刊理由",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-209422f5acf4d5821277.txt",
+  "text_sha256": "588b30bd595d212b3b76b2723e479342d4e0fb4204e7e4b8c4a6fc7998a09712",
+  "text_chars": 1232,
+  "text_lines": 17,
+  "document_path": "archive/documents/A-209422f5acf4d5821277.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

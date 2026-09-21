@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-368.htm",
+  "title": "关于正确对待犯过错误的老造反派的指示（一九六七年十一月）",
+  "catalogue_entry_ids": [
+    "I-5476d68a235b3aea"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f0f10fab9286c8d5b588",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:26.540303+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-368.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6fd-57a293cbe701e\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:34 GMT",
+  "raw_sha256": "39b988c0478388d4d16181e94e10ca355f957ff5e1e28a64501c75b1cbe10ff9",
+  "raw_bytes": 1789,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/39b988c0478388d4d16181e94e10ca355f957ff5e1e28a64501c75b1cbe10ff9.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于正确对待犯过错误的老造反派的指示（一九六七年十一月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-367.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-369.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f0f10fab9286c8d5b588.txt",
+  "text_sha256": "45f0f536992b10e88bbf55ad8a59ddf6e63916e0740e760c0a040f53620e2793",
+  "text_chars": 384,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-f0f10fab9286c8d5b588.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-349.htm",
+  "title": "对庆祝国庆的指示（一九六七年九月）",
+  "catalogue_entry_ids": [
+    "I-b5d1fa6c94f06643"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-ef5af7200275ba7ed9f0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:20.832821+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-349.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"550-57a293b68b265\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:12 GMT",
+  "raw_sha256": "07397d25c9fdd83b613de8a9b6236a38e88abdaf7eafe8d270a31ff22bb61b07",
+  "raw_bytes": 1360,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/07397d25c9fdd83b613de8a9b6236a38e88abdaf7eafe8d270a31ff22bb61b07.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对庆祝国庆的指示（一九六七年九月）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-348.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-350.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-ef5af7200275ba7ed9f0.txt",
+  "text_sha256": "ffb0f25e9416ad0eed0879cdbd60ea3308a997cc8306b788e5cfef926998f891",
+  "text_chars": 159,
+  "text_lines": 15,
+  "document_path": "archive/documents/A-ef5af7200275ba7ed9f0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

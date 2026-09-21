@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-011.htm",
+  "title": "新时代发刊词",
+  "catalogue_entry_ids": [
+    "I-c56677c1595ed64e"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-8111add5cb0a4b4576e0",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:33.610943+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-011.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"758-52aa45e64daaa\"",
+  "last_modified": "Sun, 31 Jan 2016 17:12:10 GMT",
+  "raw_sha256": "64a55b4bb0df7254f9876975b03f3a425ac22e232515e75b7e8a47208ca5fd59",
+  "raw_bytes": 1880,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/64a55b4bb0df7254f9876975b03f3a425ac22e232515e75b7e8a47208ca5fd59.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "新时代发刊词（一九二三·四·一〇）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-8111add5cb0a4b4576e0.txt",
+  "text_sha256": "85e6f1935939233c718774da5af47608b4fec42418819891632edc2117b5ca3f",
+  "text_chars": 547,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-8111add5cb0a4b4576e0.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

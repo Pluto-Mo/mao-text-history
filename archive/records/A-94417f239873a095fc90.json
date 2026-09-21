@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-012.htm",
+  "title": "北京政变与商人",
+  "catalogue_entry_ids": [
+    "I-c970f85b19874717"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-94417f239873a095fc90",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:33.734908+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-012.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"146d-529fc23b33dc0\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:51 GMT",
+  "raw_sha256": "bd527884be9c480067e210c9d1f054ba338b2c122bfa866271634df24351de86",
+  "raw_bytes": 5229,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/bd527884be9c480067e210c9d1f054ba338b2c122bfa866271634df24351de86.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "北京政变与商人",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-94417f239873a095fc90.txt",
+  "text_sha256": "4f8f4de40587fb05bc79091e585b3d3290888a11a4cf1f0798d87b1e18a0b2d9",
+  "text_chars": 2191,
+  "text_lines": 16,
+  "document_path": "archive/documents/A-94417f239873a095fc90.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

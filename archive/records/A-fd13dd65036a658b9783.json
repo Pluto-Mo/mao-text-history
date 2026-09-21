@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-004.htm",
+  "title": "工人夜学招生广告",
+  "catalogue_entry_ids": [
+    "I-d90e826dff84aaa2"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-fd13dd65036a658b9783",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:31.629229+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-004.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"684-527af384ec640\"",
+  "last_modified": "Fri, 25 Dec 2015 01:53:21 GMT",
+  "raw_sha256": "4cc347d211c65c3e60106b0f6ffff3526b6bfeb8b3d19f43619365e1cd9d980f",
+  "raw_bytes": 1668,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/4cc347d211c65c3e60106b0f6ffff3526b6bfeb8b3d19f43619365e1cd9d980f.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "工人夜学招生广告（一九一七·一〇）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-fd13dd65036a658b9783.txt",
+  "text_sha256": "c4acdacd5f9f8e6779c67ad728906a206bf7647f116daa615500620400c3a645",
+  "text_chars": 430,
+  "text_lines": 13,
+  "document_path": "archive/documents/A-fd13dd65036a658b9783.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

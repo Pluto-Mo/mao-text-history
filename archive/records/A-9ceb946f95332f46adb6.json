@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-015.htm",
+  "title": "纸烟税",
+  "catalogue_entry_ids": [
+    "I-997d5abedf8b7c5f"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9ceb946f95332f46adb6",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:34.631546+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-015.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"b5b-529fc2c29fd40\"",
+  "last_modified": "Sat, 23 Jan 2016 08:32:13 GMT",
+  "raw_sha256": "199284a79f06c9b2be9bcd2086eb2e2cf6a16626929c095a6a31857c0143bd98",
+  "raw_bytes": 2907,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/199284a79f06c9b2be9bcd2086eb2e2cf6a16626929c095a6a31857c0143bd98.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "纸烟税",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-015.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-015.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9ceb946f95332f46adb6.txt",
+  "text_sha256": "abce05b8fd0e1fba96a586a7e3980487788321f72fd4cc5ade570a9327bfa793",
+  "text_chars": 932,
+  "text_lines": 19,
+  "document_path": "archive/documents/A-9ceb946f95332f46adb6.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-341.htm",
+  "title": "对《中共中央、国务院、中央军委、中央文革小组给煤炭工业战线职工的一封信》的批示和修改（一九六七年八月十六日）",
+  "catalogue_entry_ids": [
+    "I-2475fb55501f952b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5d9db62cd513bfef42bf",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:19.079187+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-341.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6c5-57a293abbb876\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:01 GMT",
+  "raw_sha256": "9e3d7e7569d54945d8feef3b3dfead020ce7e1ab5c4391a5be2299aa71c78328",
+  "raw_bytes": 1733,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/9e3d7e7569d54945d8feef3b3dfead020ce7e1ab5c4391a5be2299aa71c78328.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "对《中共中央、国务院、中央军委、中央文革小组给煤炭工业战线职工的一封信》的批示和修改（一九六七年八月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-340.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-342.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5d9db62cd513bfef42bf.txt",
+  "text_sha256": "45579d884d4acb1fe7fd7865a37ef0cb6dcf5544a36b93f245935e7b230a059d",
+  "text_chars": 324,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-5d9db62cd513bfef42bf.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-377.htm",
+  "title": "支持美国黑人抗暴斗争的声明（一九六八年四月十六日）",
+  "catalogue_entry_ids": [
+    "I-22a18165b44d4005"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-97eda8d373c40e21c0de",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:29.227745+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-377.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"c4c-57a3c40ffbf01\"",
+  "last_modified": "Fri, 09 Nov 2018 14:34:50 GMT",
+  "raw_sha256": "90e001a2d721873f49c72c08469e9572a57cdb5118965701666a42408d8cb37d",
+  "raw_bytes": 3148,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/90e001a2d721873f49c72c08469e9572a57cdb5118965701666a42408d8cb37d.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "支持美国黑人抗暴斗争的声明（一九六八年四月十六日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-376.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-378.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-97eda8d373c40e21c0de.txt",
+  "text_sha256": "dc5d11c1f157295c1ccab6415ea18111e88d80ec2c2a79a75467062e8787f0c3",
+  "text_chars": 1031,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-97eda8d373c40e21c0de.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

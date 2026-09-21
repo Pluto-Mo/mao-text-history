@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-013.htm",
+  "title": "「省宪经」与赵恒惕",
+  "catalogue_entry_ids": [
+    "I-265568531be4148d"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-6517901039e5eba29818",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:34.043621+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-013.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"ada-5359e798ecadf\"",
+  "last_modified": "Sun, 19 Jun 2016 09:47:24 GMT",
+  "raw_sha256": "2f9f7e57a03c8d31b7b9f04b5ebc0e5d68ea8eb059869faf5e4d84359e89c621",
+  "raw_bytes": 2778,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/2f9f7e57a03c8d31b7b9f04b5ebc0e5d68ea8eb059869faf5e4d84359e89c621.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "「省宪经」与赵恒惕",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-6517901039e5eba29818.txt",
+  "text_sha256": "1f9327666697085519987bee68ae936331f8ede9c31a3716e1f433f2e8af0e95",
+  "text_chars": 950,
+  "text_lines": 20,
+  "document_path": "archive/documents/A-6517901039e5eba29818.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-014.htm",
+  "title": "英国人与梁如浩",
+  "catalogue_entry_ids": [
+    "I-a4e6b880f252cbea"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-cc4309ecf701380f96df",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:34.527342+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-014.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"e9d-529fc312bba40\"",
+  "last_modified": "Sat, 23 Jan 2016 08:33:37 GMT",
+  "raw_sha256": "a4603a71f72d0dadef3fc4ddb11f0697340149e937b48d4e924a43f1f386f473",
+  "raw_bytes": 3741,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a4603a71f72d0dadef3fc4ddb11f0697340149e937b48d4e924a43f1f386f473.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "英国人与梁如浩",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-014.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-014.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-cc4309ecf701380f96df.txt",
+  "text_sha256": "9545ba65713e84f5419fdc11add297dc154d596a255684ac49fe9a910b64f7d3",
+  "text_chars": 1343,
+  "text_lines": 23,
+  "document_path": "archive/documents/A-cc4309ecf701380f96df.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

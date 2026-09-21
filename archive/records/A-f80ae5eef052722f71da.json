@@ -1,0 +1,71 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-008.htm",
+  "title": "*文化书社启事",
+  "catalogue_entry_ids": [
+    "I-8cc9f55d0ef0d019"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f80ae5eef052722f71da",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:32.532744+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-008.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6da-527af51ff5000\"",
+  "last_modified": "Fri, 25 Dec 2015 02:00:32 GMT",
+  "raw_sha256": "a31ea987fc5f65669a153e746a042f6f807d92b8dd8704a8f15df94db1a4440c",
+  "raw_bytes": 1754,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/a31ea987fc5f65669a153e746a042f6f807d92b8dd8704a8f15df94db1a4440c.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "*文化书社启事（一九二〇·一一·一）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-008.htm#_ftn1"
+    },
+    {
+      "title": "[1]",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/01-008.htm#_ftnref1"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f80ae5eef052722f71da.txt",
+  "text_sha256": "6f7bca4001cbb7dd89baa98638a19f8a7743379e332618ab6a0c7221d380a83e",
+  "text_chars": 379,
+  "text_lines": 18,
+  "document_path": "archive/documents/A-f80ae5eef052722f71da.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

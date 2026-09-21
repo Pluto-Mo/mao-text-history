@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-353.htm",
+  "title": "毛主席视察华北、中南和华东地区时谈话的主要精神的传达三、视察浙江时的指示",
+  "catalogue_entry_ids": [
+    "I-ff1d80c4b76d46e8"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-f29b01736ce929d8f2d3",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:22.024982+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-353.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"aba-57a293bba7c37\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:17 GMT",
+  "raw_sha256": "d0156843c561faf21961008e3a92a38bf43095c193732f84ffdc6207db5b5842",
+  "raw_bytes": 2746,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/d0156843c561faf21961008e3a92a38bf43095c193732f84ffdc6207db5b5842.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "毛主席视察华北、中南和华东地区时谈话的主要精神的传达（三、视察浙江时的指示）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-352.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-354.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-f29b01736ce929d8f2d3.txt",
+  "text_sha256": "96a88df308dcf54b9383848a8d4c77094c48fdb554b0738562fc9532da4bdee5",
+  "text_chars": 755,
+  "text_lines": 25,
+  "document_path": "archive/documents/A-f29b01736ce929d8f2d3.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

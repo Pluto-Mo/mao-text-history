@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-017.htm",
+  "title": "中国国民党之反奉战争宣传大纲",
+  "catalogue_entry_ids": [
+    "I-8b72668857557998"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-4561044f5fb836b3000b",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:35.229785+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-017.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"1e31-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "e3a536283bd8e1ebe471d60c333d06d0c95055baeb29999bcfd26cdafa13ccab",
+  "raw_bytes": 7729,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/e3a536283bd8e1ebe471d60c333d06d0c95055baeb29999bcfd26cdafa13ccab.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "中国国民党之反奉战争宣传大纲",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-4561044f5fb836b3000b.txt",
+  "text_sha256": "c495d28033c0b4bdd40ba3908e6532a5faa4762020a9e6744cdf0aadd47a69bb",
+  "text_chars": 3326,
+  "text_lines": 38,
+  "document_path": "archive/documents/A-4561044f5fb836b3000b.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

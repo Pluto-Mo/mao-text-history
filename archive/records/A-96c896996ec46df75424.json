@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-365.htm",
+  "title": "进行教育革命要依靠无产阶级革命派（一九六七年十月二十五日）",
+  "catalogue_entry_ids": [
+    "I-e38d4ead0673160b"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-96c896996ec46df75424",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:25.633836+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-365.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"604-57a293c97cd57\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:32 GMT",
+  "raw_sha256": "f42159508e5e1457bf23f41fa24af155e6c16b63d5be920e78c07fdca639de09",
+  "raw_bytes": 1540,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/f42159508e5e1457bf23f41fa24af155e6c16b63d5be920e78c07fdca639de09.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "进行教育革命要依靠无产阶级革命派（一九六七年十月二十五日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-364.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-366.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-96c896996ec46df75424.txt",
+  "text_sha256": "79303b4ba0f88286c528ae2571d7e8cb65bdf05746ee2fbe7ff825568f15f455",
+  "text_chars": 241,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-96c896996ec46df75424.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

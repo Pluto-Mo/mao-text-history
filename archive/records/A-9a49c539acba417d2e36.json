@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-001.htm",
+  "title": "给宫崎滔天的信",
+  "catalogue_entry_ids": [
+    "I-fb9e72babe82ed23"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-9a49c539acba417d2e36",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:30.423603+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-001.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"6ae-5359e7a85be68\"",
+  "last_modified": "Sun, 19 Jun 2016 09:47:40 GMT",
+  "raw_sha256": "6c2d9e74ca5b58d1d2735f1c9786aeab1dc994b2bf031061cc17550431fa546e",
+  "raw_bytes": 1710,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/6c2d9e74ca5b58d1d2735f1c9786aeab1dc994b2bf031061cc17550431fa546e.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "给宫崎滔天的信（一九一七·三）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-9a49c539acba417d2e36.txt",
+  "text_sha256": "7af861ef71fa73349cddb80552fdc5fc6754d55c7bf39d1d939e39b4f0f35089",
+  "text_chars": 236,
+  "text_lines": 22,
+  "document_path": "archive/documents/A-9a49c539acba417d2e36.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

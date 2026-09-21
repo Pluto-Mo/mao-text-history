@@ -1,0 +1,63 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/collect/01-019.htm",
+  "title": "三三三一制",
+  "catalogue_entry_ids": [
+    "I-4f83d0f733619a41"
+  ],
+  "source_ids": [
+    "MIA-COLLECT"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-ji-10",
+      "volume": 1,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-c48566171afb33f2acf4",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:35.838881+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/collect/01-019.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"935-529fc23c28000\"",
+  "last_modified": "Sat, 23 Jan 2016 08:29:52 GMT",
+  "raw_sha256": "b3ac9b32edbb984a859fbd2d562cd020f8085ceb8808bae9dfbd090ce1620aa5",
+  "raw_bytes": 2357,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/b3ac9b32edbb984a859fbd2d562cd020f8085ceb8808bae9dfbd090ce1620aa5.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "三三三一制",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "《毛泽东集》",
+      "url": "https://www.marxists.org/chinese/maozedong/collect/index.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-c48566171afb33f2acf4.txt",
+  "text_sha256": "26a7b9ef745ed871a95c6cee2e76bc9578d18ccc706f5a22198228321913258b",
+  "text_chars": 789,
+  "text_lines": 10,
+  "document_path": "archive/documents/A-c48566171afb33f2acf4.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}

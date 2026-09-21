@@ -1,0 +1,75 @@
+{
+  "url": "https://www.marxists.org/chinese/maozedong/1968/5-363.htm",
+  "title": "关于按系统实现革命的大联合的指示（一九六七年十月十七日）",
+  "catalogue_entry_ids": [
+    "I-274f39f1e9317950"
+  ],
+  "source_ids": [
+    "MIA-1968"
+  ],
+  "edition_refs": [
+    {
+      "edition_id": "mia-1968",
+      "volume": 5,
+      "basis": "source_catalogue_not_print_collation"
+    }
+  ],
+  "kind": "html_link",
+  "id": "A-5320c8c953f657545d82",
+  "authorization_ref": "authorization/user-declared-fulltext.json",
+  "retrieved_at": "2026-09-21T14:40:25.039744+00:00",
+  "archival_authenticity_verified": false,
+  "original_work_completeness_verified": false,
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/5-363.htm",
+  "http_status": 200,
+  "content_type": "text/html",
+  "charset": "",
+  "etag": "\"5fd-57a293c7f057e\"",
+  "last_modified": "Thu, 08 Nov 2018 15:53:30 GMT",
+  "raw_sha256": "ed4923e297a3f8382bfe873f66515d70e6b44da1258c0b0bfc70014393989443",
+  "raw_bytes": 1533,
+  "storage": "gzip",
+  "raw_paths": [
+    "archive/objects/ed4923e297a3f8382bfe873f66515d70e6b44da1258c0b0bfc70014393989443.html.gz"
+  ],
+  "media": "html",
+  "encoding": "gb18030",
+  "html_title": "关于按系统实现革命的大联合的指示（一九六七年十月十七日）",
+  "replacement_characters": 0,
+  "extraction_scope": "all_visible_source_page_text_including_editorial_notes",
+  "normalization": "HTML parsing and line-edge whitespace only; no spelling or simplified-traditional conversion",
+  "links": [
+    {
+      "title": "中文马克思主义文库",
+      "url": "https://www.marxists.org/chinese/index.html"
+    },
+    {
+      "title": "毛泽东",
+      "url": "https://www.marxists.org/chinese/maozedong/index.htm"
+    },
+    {
+      "title": "1968年汉版《毛泽东思想万岁》",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "上一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-362.htm"
+    },
+    {
+      "title": "目录",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/index.htm"
+    },
+    {
+      "title": "下一页",
+      "url": "https://www.marxists.org/chinese/maozedong/1968/5-364.htm"
+    }
+  ],
+  "image_links": [],
+  "text_path": "archive/text/A-5320c8c953f657545d82.txt",
+  "text_sha256": "d07bf91b99f1f9c432afc8d671e0f87efb3fb587748648642e16e3c929391ef5",
+  "text_chars": 240,
+  "text_lines": 14,
+  "document_path": "archive/documents/A-5320c8c953f657545d82.md",
+  "status": "preserved",
+  "quality": "machine_extraction_not_scholarly_collation"
+}
