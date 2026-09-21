@@ -1,0 +1,41 @@
+name: Read archive failure evidence
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/diagnose-archives-v2.yml]
+permissions: {contents: write, actions: read}
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Obtain failure contexts as inert sanitized text
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --allow-escape-sequences repos/Pluto-Mo/mao-text-history/actions/jobs/106359076484/logs > /tmp/html.log
+          gh api --allow-escape-sequences repos/Pluto-Mo/mao-text-history/actions/jobs/106363076519/logs > /tmp/official.log
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          for name in ['html','official']:
+              text=Path('/tmp/'+name+'.log').read_text(encoding='utf-8-sig',errors='replace')
+              text=re.sub(r'\x1b\[[0-?]*[ -/]*[@-~]','',text)
+              rows=text.splitlines(); wanted=set()
+              for i,line in enumerate(rows):
+                  if re.search(r'CONFLICT|fatal:|error:|Traceback|exceeds|No space|failed to push|cannot rebase|could not apply|Saved pages',line,re.I):
+                      wanted.update(range(max(0,i-4),min(len(rows),i+16)))
+              output='\n'.join(f'{i+1}: {rows[i]}' for i in sorted(wanted))
+              Path('reports/'+name+'-failure-tail.txt').write_text(output[-18000:]+'\n',encoding='utf-8')
+          PY
+      - name: Save diagnostic facts without a noisy file listing
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/html-failure-tail.txt reports/official-failure-tail.txt
+          git commit -q -m 'audit: retain actual publishing and reader failures'
+          git pull --rebase origin main
+          git push origin HEAD:main
