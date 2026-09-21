@@ -1,0 +1,63 @@
+{
+  "id": "mia-1950-1008",
+  "approval": "reviewed_official_document_body",
+  "reviewed_at": "2026-09-21",
+  "title": "给中国人民志愿军的命令〔来源节录〕",
+  "historical_date": "1950-10-08",
+  "agency": "中国人民革命军事委员会",
+  "url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm",
+  "start": "中国人民志愿军各级领导同志们:",
+  "end": "一九五○年十月八日于北京",
+  "work_id": "cpv-order-1950-1008",
+  "source_label": "MIA / 《毛选》第五卷",
+  "edition_note": "网页自报《毛泽东选集》第五卷，人民出版社1977年4月第1版，第32页；尚未核原书书页。",
+  "limitations": "原网页题注明确说明这是命令的节录。本库完整复制的是可见命令节录，不是原命令全文；现代题注本身不复制进正文。",
+  "completeness": "source_explicit_excerpt",
+  "min_chars": 100,
+  "max_chars": 20000,
+  "excluded_markers": [
+    "上一页",
+    "下一页",
+    "版权所有",
+    "这是毛泽东同志给中国人民志愿军的命令的节录",
+    "Public domain"
+  ],
+  "rights_basis": "中国人民革命军事委员会发布的正式命令之正文；不包括后出编者题注。",
+  "rights_references": [
+    "https://www.wipo.int/wipolex/en/legislation/details/21065",
+    "https://www.marxists.org/admin/legal/terms-of-use.htm"
+  ],
+  "final_url": "https://www.marxists.org/chinese/maozedong/marxist.org-chinese-mao-19501008.htm",
+  "content_type": "text/html",
+  "http_charset": null,
+  "http_status": 200,
+  "encoding": "gb18030",
+  "html_title": "给中国人民志愿军的命令（一九五○年十月八日）",
+  "source_text_start_index": 89,
+  "source_text_end_index_exclusive": 475,
+  "non_whitespace_characters": 380,
+  "extraction_version": 1,
+  "transformations": [
+    "HTML entities decoded by parser",
+    "script/style/noscript excluded",
+    "reviewed inclusive body boundaries applied",
+    "blank lines/line-edge whitespace removed"
+  ],
+  "spelling_corrected": false,
+  "traditional_simplified_conversion": false,
+  "locator_note": "Indices address parser text, NOT raw HTML bytes or printed book pages.",
+  "retrieved_at": "2026-09-21T09:35:52.340855+00:00",
+  "body_path": "fulltext/snapshots/mia-1950-1008/99cddef5294c6119867652e2ae5c8f4d4d762049a0cc37f2f358a5955eb9f3f7.txt",
+  "body_sha256": "99cddef5294c6119867652e2ae5c8f4d4d762049a0cc37f2f358a5955eb9f3f7",
+  "body_byte_count": 1145,
+  "raw_sha256": "278ebe105abd2bf6c28ded167486598d1f7d75ef653a2f08c6f9e81467ed25df",
+  "raw_byte_count": 1929,
+  "raw_html_retained": false,
+  "official_body_retained": true,
+  "complete_original_verified": false,
+  "archival_authenticity_verified": false,
+  "catalogue_entry_ids": [
+    "I-e18f3d59493516a6"
+  ],
+  "catalogue_mapping_basis": "exact_source_url_only"
+}

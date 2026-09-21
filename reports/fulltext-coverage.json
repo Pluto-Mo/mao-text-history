@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-09-21T09:35:59.531520+00:00",
+  "approved_targets": 8,
+  "persisted_web_bodies": 7,
+  "distinct_work_ids": 5,
+  "source_explicit_excerpts": 1,
+  "available_web_bodies_not_explicitly_excerpted": 6,
+  "non_whitespace_characters_across_witnesses": 5903,
+  "generated_text_lines": 41,
+  "parallel_witness_groups": 2,
+  "failed_this_attempt": 1,
+  "confirmed_original_full_documents": 0,
+  "complete_book_volumes": 0,
+  "four_complete_collections": false,
+  "rights_scope": "individually reviewed official-document bodies, not source-wide or book-wide permission",
+  "source_counts": {
+    "MIA / 1968年武汉版": 4,
+    "维基文库 / 固定页面修订": 2,
+    "MIA / 《毛选》第五卷": 1
+  },
+  "pending_collections": [
+    {
+      "title": "毛泽东选集及其现代编辑题注",
+      "status": "whole_collection_not_licensed_or_acquired"
+    },
+    {
+      "title": "建国以来毛泽东文稿（旧13册、修订20册）",
+      "status": "whole_collection_not_licensed_or_acquired"
+    },
+    {
+      "title": "毛泽东年谱（旧版、2023修订9卷）",
+      "status": "whole_collection_not_licensed_or_acquired"
+    },
+    {
+      "title": "MIA毛泽东全库、1968武汉版和毛泽东集等整套汇编",
+      "status": "site_access_does_not_grant_all_underlying_rights"
+    }
+  ]
+}

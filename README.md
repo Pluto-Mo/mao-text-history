@@ -60,3 +60,11 @@ python catalogue_v2.py --full
 不同网站是不同文本见证本，一个字的差异可能来自转录、排印、节录或不同底本。自动同题匹配只能提供候选，不能认定作者在哪一次改了什么；日期范围相交也只是查书路线。
 
 方法和验收见 [数据模型](docs/data-model.md)，发布边界见 [资料权利](docs/rights.md)，首个专题见 [《正处》导读](cases/README.md)。
+
+## 已保存的公文正文
+
+见 [全文正文目录及验收](reports/fulltext-coverage.md) 和 [全文文件夹](fulltext/README.md)。这里保存的是实际UTF-8正文快照，不只是网址。来源明确为节录的，仍标为节录。
+
+`python fulltexts.py search 金门` 检索已入库正文；`python fulltexts.py read mia-1958-1006` 阅读；`python fulltexts.py compare mia-1958-1006 ws-1958-1006` 对比两种已成功保存的网页见证本。
+
+本轮逐篇收录依据见 `rights/fulltext-allowlist.json`。原始公文正文与现代编辑题注分开，未授权的整套出版物仍不转载。历史目录报告 reports/coverage.json 不统计后来新增的全文层，两个报告不能混用。

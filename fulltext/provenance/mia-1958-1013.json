@@ -1,0 +1,62 @@
+{
+  "id": "mia-1958-1013",
+  "approval": "reviewed_official_document_body",
+  "reviewed_at": "2026-09-21",
+  "title": "国防部长命令福建前线我军对金门炮击再停两星期",
+  "historical_date": "1958-10-13",
+  "agency": "中华人民共和国国防部",
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-068.htm",
+  "start": "福建前线人民解放军同志们：",
+  "end": "如果护航，立即开炮。切切令。",
+  "work_id": "mod-order-1958-1013",
+  "source_label": "MIA / 1968年武汉版",
+  "edition_note": "站方1968年武汉版《毛泽东思想万岁》第四卷，第068项；网页转录，未核原书。",
+  "limitations": "本网页保留若干疑似转录异文，未改为现代校正版；此命令与10月6日、25日文告是不同文件，不是同一文章的三个稿本。",
+  "completeness": "available_web_body",
+  "min_chars": 100,
+  "max_chars": 20000,
+  "excluded_markers": [
+    "上一页",
+    "下一页",
+    "版权所有",
+    "Public domain"
+  ],
+  "rights_basis": "国防部长向福建前线发布的正式命令正文；不是个人一般文章。",
+  "rights_references": [
+    "https://www.wipo.int/wipolex/en/legislation/details/21065",
+    "https://www.marxists.org/admin/legal/terms-of-use.htm"
+  ],
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-068.htm",
+  "content_type": "text/html",
+  "http_charset": null,
+  "http_status": 200,
+  "encoding": "gb18030",
+  "html_title": "国防部长命令福建前线我军对金门炮击再停两星期（一九五八年十月十三日）",
+  "source_text_start_index": 113,
+  "source_text_end_index_exclusive": 965,
+  "non_whitespace_characters": 851,
+  "extraction_version": 1,
+  "transformations": [
+    "HTML entities decoded by parser",
+    "script/style/noscript excluded",
+    "reviewed inclusive body boundaries applied",
+    "blank lines/line-edge whitespace removed"
+  ],
+  "spelling_corrected": false,
+  "traditional_simplified_conversion": false,
+  "locator_note": "Indices address parser text, NOT raw HTML bytes or printed book pages.",
+  "retrieved_at": "2026-09-21T09:35:54.326062+00:00",
+  "body_path": "fulltext/snapshots/mia-1958-1013/8e5ff3d0e88d45cbdb7600c0d3b40b7aa267d8ddf38497774ed3a977ab837b25.txt",
+  "body_sha256": "8e5ff3d0e88d45cbdb7600c0d3b40b7aa267d8ddf38497774ed3a977ab837b25",
+  "body_byte_count": 2553,
+  "raw_sha256": "6b24d31dee43350e8e5a83992c54c74e85e1ba1a2f2dec471082903a211271fd",
+  "raw_byte_count": 2983,
+  "raw_html_retained": false,
+  "official_body_retained": true,
+  "complete_original_verified": false,
+  "archival_authenticity_verified": false,
+  "catalogue_entry_ids": [
+    "I-c8eeb675a7c6169b"
+  ],
+  "catalogue_mapping_basis": "exact_source_url_only"
+}

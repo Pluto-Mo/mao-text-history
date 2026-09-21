@@ -1,0 +1,63 @@
+{
+  "id": "mia-1958-1025",
+  "approval": "reviewed_official_document_body",
+  "reviewed_at": "2026-09-21",
+  "title": "中华人民共和国国防部长再告台湾同胞书",
+  "historical_date": "1958-10-25",
+  "agency": "中华人民共和国国防部",
+  "url": "https://www.marxists.org/chinese/maozedong/1968/4-069.htm",
+  "start": "台湾、澎湖、金门、马祖军民同胞们：",
+  "end": "我们这些话是好心，非恶意，将来你们会慢慢理解的。",
+  "work_id": "mod-announcement-1958-1025",
+  "source_label": "MIA / 1968年武汉版",
+  "edition_note": "站方1968年武汉版《毛泽东思想万岁》第四卷，第069项；网页转录，未核原书。",
+  "limitations": "只保存该网页可见正文；未把其他底本中的落款等补入，不将其认证为原件。",
+  "completeness": "available_web_body",
+  "min_chars": 100,
+  "max_chars": 20000,
+  "excluded_markers": [
+    "上一页",
+    "下一页",
+    "版权所有",
+    "Public domain"
+  ],
+  "rights_basis": "国防部行政公告正文；不包括后出编者题注。",
+  "rights_references": [
+    "https://www.wipo.int/wipolex/en/legislation/details/21065",
+    "https://zh.wikisource.org/wiki/中华人民共和国国防部部長彭德怀再告台灣同胞書?oldid=2666983",
+    "https://www.marxists.org/admin/legal/terms-of-use.htm"
+  ],
+  "final_url": "https://www.marxists.org/chinese/maozedong/1968/4-069.htm",
+  "content_type": "text/html",
+  "http_charset": null,
+  "http_status": 200,
+  "encoding": "gb18030",
+  "html_title": "中华人民共和国国防部长再告台湾同胞书（一九五八年十月二十五日）",
+  "source_text_start_index": 107,
+  "source_text_end_index_exclusive": 1310,
+  "non_whitespace_characters": 1201,
+  "extraction_version": 1,
+  "transformations": [
+    "HTML entities decoded by parser",
+    "script/style/noscript excluded",
+    "reviewed inclusive body boundaries applied",
+    "blank lines/line-edge whitespace removed"
+  ],
+  "spelling_corrected": false,
+  "traditional_simplified_conversion": false,
+  "locator_note": "Indices address parser text, NOT raw HTML bytes or printed book pages.",
+  "retrieved_at": "2026-09-21T09:35:55.334477+00:00",
+  "body_path": "fulltext/snapshots/mia-1958-1025/7de973aa87b81522b7a458960a7722beef60829b3381f772642f717af6c4dc10.txt",
+  "body_sha256": "7de973aa87b81522b7a458960a7722beef60829b3381f772642f717af6c4dc10",
+  "body_byte_count": 3606,
+  "raw_sha256": "3a8064a0df61b8563868510fe809ac291dd8c3a94628b7e08e07cb6c85929651",
+  "raw_byte_count": 3698,
+  "raw_html_retained": false,
+  "official_body_retained": true,
+  "complete_original_verified": false,
+  "archival_authenticity_verified": false,
+  "catalogue_entry_ids": [
+    "I-5ba48caa7b9276c1"
+  ],
+  "catalogue_mapping_basis": "exact_source_url_only"
+}
