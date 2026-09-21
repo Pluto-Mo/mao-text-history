@@ -1,0 +1,166 @@
+state]:yield word,i-len(word)+1
+
+def units(r,text):
+ if r.get('page_map_path'):
+  for p in rows(r['page_map_path']):
+   start,end=p['char_start'],p['char_end'];s=text[start:end]
+   m=re.match(r'\s*=== (?:PDF|READER) PAGE [^\n]+===\n*',s)
+   if m:start+=m.end()
+   yield {'kind':'pdf_page' if 'pdf_page' in p else 'reader_page','number':p.get('pdf_page',p.get('reader_page')),'start':start,'end':end,'text':text[start:end]}
+ else:
+  yield {'kind':'web_lines','number':1,'start':0,'end':len(text),'text':text}
+
+def anchorize(work):
+ parsed=work['canonical_web']['parsed'];chars=[];offsets=[]
+ for b in parsed['body_blocks']:
+  n,mp=normalized_map(b['text']);chars.extend(n);offsets.extend(b['char_start']+x for x in mp)
+ s=''.join(chars);count=min(100,max(12,len(s)//450));width=min(32,max(16,len(s)//3))
+ if len(s)<36:return []
+ starts=sorted(set(round(i*(len(s)-width)/(count-1)) for i in range(count)))
+ out=[]
+ for i,start in enumerate(starts):
+  anchor=s[start:start+width]
+  if len(set(anchor))<10:continue
+  r=work['canonical_web']['record'];text=work['canonical_web']['text']
+  out.append({'id':f"{work['id']}-A{i:02}",'key':anchor,'body_normalized_offset':start,
+   'source':source_span(r,text,offsets[start],offsets[start+width-1]+1)})
+ return out
+
+def context_dates(s,pos):
+ before=s[:pos];explicit=dates(before[-240:])
+ md=list(re.finditer(r'(?:[0-9一二三四五六七八九十廿卅]{1,3})月(?:[0-9一二三四五六七八九十廿卅]{1,3})日?',before[-500:]))
+ return {'explicit_dates_in_preceding_context':explicit[-2:],'nearest_month_day_label':md[-1].group() if md else None,
+  'date_binding':'visible_labels_only; chronological_entry_boundaries_need_review'}
+
+def sentences(parsed):
+ result=[]
+ for block in parsed['body_blocks']:
+  for m in re.finditer(r'[^。！？\n]+[。！？]?',block['text']):
+   n=norm(m.group())
+   if len(n)>=3:result.append({'normalized':n,'start':block['char_start']+m.start(),'end':block['char_start']+m.end()})
+ return result
+
+def diff_witnesses(w,r,text,pair_id):
+ left=w['canonical_web'];right_parsed=parse_web(r,text);a=sentences(left['parsed']);b=sentences(right_parsed)
+ if not a or not b:return None
+ sm=difflib.SequenceMatcher(None,[x['normalized'] for x in a],[x['normalized'] for x in b],autojunk=False)
+ ops=[];equal_chars=0
+ for tag,i,j,k,l in sm.get_opcodes():
+  row={'operation':tag,'left_sentence_interval':[i,j],'right_sentence_interval':[k,l]}
+  if i<j:row['left']=source_span(left['record'],left['text'],a[i]['start'],a[j-1]['end'])
+  if k<l:row['right']=source_span(r,text,b[k]['start'],b[l-1]['end'])
+  if tag=='equal':equal_chars+=sum(len(x['normalized']) for x in a[i:j])
+  ops.append(row)
+ path=f'maoxuan/comparisons/{pair_id}.jsonl';jsonl(path,ops)
+ return {'id':pair_id,'work_id':w['id'],'left_witness':left['record']['id'],'right_witness':r['id'],'path':path,
+  'method':'sentence alignment after NFKC and whitespace/punctuation removal; exact retained spans stored',
+  'operations':dict(collections.Counter(x['operation'] for x in ops)),'identical_sentence_characters':equal_chars,
+  'historical_direction':'undetermined; left/right is presentation order, not earlier/later',
+  'not_claimed':'authorial responsibility, adjacent historical drafts, complete source identity or motive'}
+
+def build():
+ # Clear only generated output directories; curated/static research files are preserved.
+ for name in ['works','dossiers','contexts','correspondences','comparisons']:
+  path=OUT/name
+  if path.exists():shutil.rmtree(path)
+ _LINE_BREAKS.clear()
+ records=get_records();byid={r['id']:r for r in records};works,main=baseline(records);bywork={w['id']:w for w in works}
+ texts={};quality_rows=[]
+ for r in records:
+  if r.get('status')!='preserved' or not r.get('text_path'):continue
+  t=(ROOT/r['text_path']).read_bytes().decode('utf-8');texts[r['id']]=t
+  qr={'witness_id':r['id'],'title':r['title'],'family':family(r),'edition_refs':r.get('edition_refs',[]),**quality(r,t)}
+  qr['text_digest_valid']=sha(t.encode())==r.get('text_sha256');quality_rows.append(qr)
+ good={q['witness_id'] for q in quality_rows if q['searchable_chinese'] and q['text_digest_valid']}
+ patterns=collections.defaultdict(list);anchors={};own=[]
+ for w in works:
+  for note in w['canonical_web']['parsed']['editorial_notes']:
+   types=own_claim_types(note['quote']);eid=f"{w['id']}-N{len(w.get('note_ids',[]))+1:02}"
+   claim={'id':eid,'work_id':w['id'],'types':types,'level':'attributed_editorial_statement','source':note,
+    'dates_mentioned':dates(note['quote']),'claim_boundary':'source reports this; neither independent manuscript authentication nor a recovered draft'}
+   own.append(claim);w.setdefault('note_ids',[]).append(eid)
+   for title in re.findall(r'原题(?:为|是)[《〈]([^》〉]+)[》〉]',note['quote']):w['aliases'].append({'title':title,'basis':eid,'status':'original_title_reported_by_source'})
+  for alias in rows('maoxuan/reviewed-aliases.jsonl'):
+   if alias['work_id']==w['id']:w['aliases'].append({k:v for k,v in alias.items() if k!='work_id'})
+  keys={norm(w['title'])}|{norm(a['title']) for a in w['aliases']}
+  for key in keys:
+   if len(key)>=3:patterns[key].append(('title',w['id'],None))
+  aa=anchorize(w);anchors[w['id']]=aa
+  for x in aa:patterns[x['key']].append(('anchor',w['id'],x['id']))
+  w['anchor_count']=len(aa)
+ matcher=Matcher(patterns);contexts=collections.defaultdict(list);links=collections.defaultdict(lambda:{'anchors':set(),'pages':set(),'matches':[]});audit=collections.Counter()
+ for ri,r in enumerate(records):
+  if r['id'] not in good:continue
+  text=texts[r['id']];fam=family(r)
+  for unit in units(r,text):
+   audit['units_visited']+=1;comp=norm(unit['text'])
+   if not comp:continue
+   audit['nonempty_units_visited']+=1;found_titles=collections.defaultdict(list);found_anchors=collections.defaultdict(list)
+   for key,pos in matcher.find(comp):
+    for kind,wid,aid in patterns[key]:
+     if kind=='title':found_titles[wid].append((pos,key))
+     elif r['id']!=bywork[wid]['baseline_witness_id']:found_anchors[wid].append((pos,key,aid))
+   if not found_titles and not found_anchors:continue
+   _,offsets=normalized_map(unit['text'])
+   for wid,hits in found_anchors.items():
+    link=links[(wid,r['id'])];link['anchors'].update(aid for _,_,aid in hits);link['pages'].add((unit['kind'],unit['number']))
+    seen=set()
+    for pos,key,aid in hits:
+     if (aid,pos) in seen:continue
+     seen.add((aid,pos));src=source_span(r,text,unit['start']+offsets[pos],unit['start']+offsets[pos+len(key)-1]+1,unit['kind'],unit['number'])
+     link['matches'].append({'anchor_id':aid,'source':src})
+   for wid,hits in found_titles.items():
+    if r['id']==bywork[wid]['baseline_witness_id']:continue
+    positions=sorted({p for p,k in hits});clusters=[]
+    for pos in positions:
+     if clusters and pos-clusters[-1][-1]<230:clusters[-1].append(pos)
+     else:clusters.append([pos])
+    for cluster in clusters:
+     pos=cluster[0];start=max(0,pos-160);end=min(len(comp),cluster[-1]+len(norm(bywork[wid]['title']))+240)
+     excerpt=source_span(r,text,unit['start']+offsets[start],unit['start']+offsets[end-1]+1,unit['kind'],unit['number']);compact=comp[start:end]
+     toc=('目录' in comp[:80] and len(found_titles)>3) or (len(found_titles)>8 and not found_anchors)
+     revise=bool(re.search(r'修改|删节|删改|修订|改题|改为|改成|原题|原名|原文|增补|重写|改写|审定|定稿|校订',compact))
+     title_key=norm(bywork[wid]['title']);hit_end=pos+len(title_key)
+     before=unit['text'][:offsets[pos]].rstrip();after=unit['text'][offsets[min(hit_end-1,len(offsets)-1)]+1:].lstrip()
+     book_quoted=before.endswith(('《','〈')) and after.startswith(('》','〉'))
+     short_ambiguous=len(title_key)<=6 and not book_quoted and pos>60 and not found_anchors.get(wid)
+     typ='ordinary_phrase_occurrence' if short_ambiguous else 'catalogue_mention' if toc else 'revision_context_candidate' if revise else 'chronicle_context' if fam=='nianpu' else 'text_reference'
+     contexts[wid].append({'id':f'{wid}-X{len(contexts[wid])+1:05}','work_id':wid,'family':fam,'relation_type':typ,
+      'status':'located_source_context_not_verified_work_identity_or_revision','source':excerpt,'title_occurrence_count':len(cluster),'explicit_book_title_delimiters':book_quoted,'short_title_ambiguous':short_ambiguous,
+      'date_context':context_dates(comp,pos),'review_question':'Does the predicate concern this work, a quoted other work, or editorial normalization? Context and date must be checked.' if revise else None})
+  if ri%100==0:print('scanned',ri,'/',len(records),dict(audit),flush=True)
+ print('scan finished; building correspondences and comparisons',flush=True)
+ mappings=collections.defaultdict(list);diffs=[];weak=[]
+ for (wid,rid),link in sorted(links.items()):
+  w=bywork[wid];r=byid[rid];distinct=len(link['anchors']);total=w['anchor_count'];coverage=distinct/max(total,1)
+  if distinct<2:weak.append({'work_id':wid,'witness_id':rid,'distinct_anchor_matches':distinct,'status':'single_shared_excerpt_not_promoted'});continue
+  fam=family(r);mid=f'{wid}-{rid}'
+  mapping={'id':mid,'work_id':wid,'witness_id':rid,'family':fam,'media':r['media'],'edition_refs':r.get('edition_refs',[]),
+   'relation_type':'chronicle_shared_excerpt' if fam=='nianpu' else 'observed_text_correspondence','status':'exact_normalized_body_anchors_observed',
+   'distinct_anchor_matches':distinct,'baseline_anchor_count':total,'sampled_body_anchor_coverage':round(coverage,4),
+   'sample_coverage_is_not_fulltext_percentage':True,'matched_locations':[{'kind':k,'number':n} for k,n in sorted(link['pages'])],
+   'evidence_path':f'maoxuan/correspondences/{mid}.jsonl','work_identity_independently_verified':False,'historical_revision_edge':False,
+   'warning':'shared source passages are proven; full edition identity, intervening drafts, and authorship of changes are not inferred'}
+  jsonl(mapping['evidence_path'],link['matches']);mappings[wid].append(mapping)
+  if r['media']=='html' and r.get('kind') not in {'source_catalogue'} and coverage>=0.20 and distinct>=3 and len(texts[rid])<450000:
+   d=diff_witnesses(w,r,texts[rid],mid)
+   if d:diffs.append(d);mapping['comparison_id']=d['id']
+ # Source-labelled same-title/date alternatives must not be lost just because revisions destroy long anchors.
+ print('anchor comparisons finished; source-labelled alternative comparisons',flush=True)
+ parsed_web={r['id']:parse_web(r,texts[r['id']]) for r in records if r['id'] in good and r['media']=='html' and r.get('kind')!='source_catalogue' and len(texts[r['id']])<450000}
+ byurl={r['url']:r for r in records};parallel=collections.defaultdict(list);done_pairs={(d['work_id'],d['right_witness']) for d in diffs}
+ for w in works:
+  left=w['canonical_web'];wid=w['id'];br=left['record'];n=norm(w['title']);bd={d['date'] for d in w['date_mentions']}
+  explicit={link['url'].split('#')[0]:link for link in br.get('links',[]) if len(norm(link['title']))>=5 and '/chinese/maozedong/' in link['url'] and not link['url'].split('#')[0].endswith(('index.htm','index.html')) and link['url'].split('#')[0]!=br['url']}
+  for rid,rp in parsed_web.items():
+   if rid==br['id']:continue
+   r=byid[rid];rd={d['date'] for d in rp['dates']}
+   same_date=bool(bd & rd);declared_link=r['url'] in explicit
+   if not same_date and not declared_link:continue
+   title_match=any(n in norm(line) and len(norm(line))<=len(n)+24 for line in texts[rid].splitlines()[:12])
+   if not ((title_match and same_date) or declared_link):continue
+   evidence={'id':wid+'-P-'+rid,'work_id':wid,'witness_id':rid,'basis':'source_explicit_link' if declared_link else 'matching_article_header_title_and_source_date',
+    'source_link_label':explicit[r['url']]['title'] if declared_link else None,'baseline_source_dates':sorted(bd),'other_source_dates':sorted(rd),
+    'relation_type':'source_labelled_parallel_or_parent_text_candidate','historical_revision_edge':False,
+    'source_header':source_span(r,texts[rid],0,min(len(texts[rid]),sum(len(x) for x in texts[rid].splitlines(keepends=True)[:12]))),
+    'warning':'date/title/link allow comparison, not automatic authentication of a common work or ad
