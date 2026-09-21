@@ -1,0 +1,64 @@
+name: Recover and integrate full HTML texts
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [recover_html.py, .github/workflows/recover-html.yml]
+permissions: {contents: write}
+concurrency:
+  group: fulltext-write-recovery
+  cancel-in-progress: false
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with: {ref: main}
+      - name: Install parsers
+        run: |
+          python -m pip install -r requirements.txt
+          python -m pip install pymupdf==1.26.4
+      - name: Set checkpoint identity and bounded Git packing memory
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config pack.threads 2
+          git config pack.windowMemory 128m
+      - name: Preserve and commit every HTML batch
+        run: python -u recover_html.py
+      - name: Run actual corpus and research regression tests
+        run: |
+          python - <<'PY'
+          import unittest,json
+          from pathlib import Path
+          result=unittest.TextTestRunner(verbosity=2).run(unittest.defaultTestLoader.discover('tests'))
+          Path('reports/fulltext-test-results.json').write_text(json.dumps({'tests_run':result.testsRun,'failures':len(result.failures),'errors':len(result.errors),'passed':result.wasSuccessful()},indent=2))
+          if not result.wasSuccessful(): raise SystemExit(1)
+          PY
+      - name: Preserve original source image resources
+        run: python -u archive_assets.py
+      - name: Build page-level searchable full-text corpus and exact source maps
+        run: python -u integrate_archive.py
+      - name: Exercise real full-text search
+        run: |
+          python research.py search 关于正确处理人民内部矛盾的问题 --edition wengao-old-13 --limit 6 > reports/zhengchu-search-old-wengao.jsonl
+          python research.py search 关于正确处理人民内部矛盾的问题 --edition wengao-2023-20 --limit 6 > reports/zhengchu-search-new-wengao.jsonl
+          python research.py search 关于正确处理人民内部矛盾的问题 --edition nianpu-2023-9 --limit 6 > reports/zhengchu-search-new-nianpu.jsonl
+      - name: Commit verified full-text integration
+        run: |
+          git add archive reports exports README.md AGENTS.md docs/missing-materials.md
+          if ! git diff --cached --quiet; then
+            git commit -q -m 'data: integrate full sources, searchable pages and edition-level completion evidence'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Preserve diagnostic summary on any error
+        if: failure()
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import subprocess,json
+          p=Path('reports/recovery-worktree-status.txt')
+          p.write_text(subprocess.run(['git','status','--short'],capture_output=True,text=True).stdout[-10000:])
+          PY
