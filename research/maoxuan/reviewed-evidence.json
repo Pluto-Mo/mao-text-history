@@ -3,11 +3,13 @@
     "id": "MXE-001",
     "work_ids": [],
     "relation_type": "later_editorial_policy",
-    "claim": "1991年第二版出版说明明确：保留原有篇目，增收《反对本本主义》；校正部分日期、史实、字词和题解，修订重点在注释。该层不能归为作者在1991年的改稿。",
+    "claim": "《毛泽东选集》1991年第二版出版说明称，保留原有篇目，增收《反对本本主义》，并校正部分日期、史实、字词和题解；说明将修订重点列为注释。",
     "date": "1991-02",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "全书级编者说明；各篇实际改动须查每卷校订表并核对对应页，不能把一般说明均摊成每篇具体改动。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -25,9 +27,15 @@
         "end": 7,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "1f086dfdc5dad46d2738ca82837354179d78440e7eff90afc34c9db3fe2e2fd5",
-        "evidence_text_file": "evidence-pages/MXE-001-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "1f086dfdc5dad46d2738ca82837354179d78440e7eff90afc34c9db3fe2e2fd5",
+        "stored_excerpt_sha256": "f779f2f094b3e785531deff6449e15962f65d7b3dbfb2ce507ac3a7b947c4638",
+        "evidence_text_file": "evidence-pages/MXE-001-A-8bfc27ba981e89432b11-reader_page-6-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -36,11 +44,13 @@
     "id": "MXE-002",
     "work_ids": [],
     "relation_type": "author_review_before_compilation",
-    "claim": "1951年出版说明称收入作品经作者校阅，有文字修正，也有个别内容补充和修改；同一说明又承认材料散失和选编取舍。由此必须分开“选集基线”与“原始成文稿”。",
+    "claim": "《毛泽东选集》1951年出版说明称，收入作品经过作者校阅，有文字修正及个别内容的补充和修改；说明另述材料散失和选编情况。",
     "date": "1951-08-25",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "总说明不能证明每篇均发生相同改动，也不提供逐稿次数。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -58,9 +68,15 @@
         "end": 9,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "7ff0a808fbcd344b6760467ac2ba3bedeeecb702d494effac0c52b5acd4b0ea7",
-        "evidence_text_file": "evidence-pages/MXE-002-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "7ff0a808fbcd344b6760467ac2ba3bedeeecb702d494effac0c52b5acd4b0ea7",
+        "stored_excerpt_sha256": "7641afa597640fb4072d4b834cc617b53db3bf23679636ed7c522179d77b948f",
+        "evidence_text_file": "evidence-pages/MXE-002-A-8bfc27ba981e89432b11-reader_page-8-9.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -71,11 +87,13 @@
       "MX1-003"
     ],
     "relation_type": "excerpt_and_retitle",
-    "claim": "《中国的红色政权为什么能够存在？》的题注把它指认为《政治问题和边界党的任务》这一决议的一部分，应建立母文件→节录的关系。",
+    "claim": "《中国的红色政权为什么能够存在？》题注称，该篇是《政治问题和边界党的任务》决议的一部分。",
     "date": "1928-10-05",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "母文件与节录关系由题注说明；节录边界之外的内容不能直接算作删除稿。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -93,9 +111,15 @@
         "end": 61,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "841652c8dedc9b4fe848beb1d445f24ce972f06d5b762c03f1ce06b9ff9fe855",
-        "evidence_text_file": "evidence-pages/MXE-003-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "841652c8dedc9b4fe848beb1d445f24ce972f06d5b762c03f1ce06b9ff9fe855",
+        "stored_excerpt_sha256": "9c3cd2f04788f9b423d227dca4b86f323153fb7fc9ace68f0382c01e70f7a458",
+        "evidence_text_file": "evidence-pages/MXE-003-A-8bfc27ba981e89432b11-reader_page-61-61.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -106,11 +130,13 @@
       "MX1-005"
     ],
     "relation_type": "resolution_part",
-    "claim": "《关于纠正党内的错误思想》是红四军第九次党代会决议的第一部分，不等于该次大会全部决议。",
+    "claim": "《关于纠正党内的错误思想》题注称，该篇是红四军第九次党代会决议的第一部分。",
     "date": "1929-12",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -128,9 +154,15 @@
         "end": 99,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "59cdea73cdb7d205c38161c4c35e33db12a591f3e1b9f33b62e04a75999d58ff",
-        "evidence_text_file": "evidence-pages/MXE-004-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "59cdea73cdb7d205c38161c4c35e33db12a591f3e1b9f33b62e04a75999d58ff",
+        "stored_excerpt_sha256": "c2ba7db837e6bb2a57c07a7fbb31b6ef6c48efcf902c33cd069f91a8b976a31a",
+        "evidence_text_file": "evidence-pages/MXE-004-A-8bfc27ba981e89432b11-reader_page-99-99.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -141,11 +173,13 @@
       "MX1-006"
     ],
     "relation_type": "retitle_and_named_criticism_removal",
-    "claim": "《星星之火，可以燎原》原为给林彪的信。选集题注明确记载1948年匿名请求及收入第一版时的改题、对指名批评处的删改。",
+    "claim": "《星星之火，可以燎原》题注称，该篇原为给林彪的信；题注记有1948年不公开姓名的请求，以及收入选集第一版时改题并删改指名批评之处的情况。",
     "date": "1948／收入第一版时",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "题注将匿名请求与后来刊行时删名相联系；不另行推断更深的政治动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -163,9 +197,15 @@
         "end": 111,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "4ad8b6e424c2391230367e6bab240cb8bf52ac04011fe88ffcb9bb94522e0ff8",
-        "evidence_text_file": "evidence-pages/MXE-005-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "4ad8b6e424c2391230367e6bab240cb8bf52ac04011fe88ffcb9bb94522e0ff8",
+        "stored_excerpt_sha256": "a7843456f053bd931a12b24502fda681408826fcb3238f1122536a8506920f31",
+        "evidence_text_file": "evidence-pages/MXE-005-A-8bfc27ba981e89432b11-reader_page-111-111.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -176,11 +216,13 @@
       "MX1-006"
     ],
     "relation_type": "publication_withheld_before_later_release",
-    "claim": "年谱1948年2月12日条记载，面对林彪不公开姓名的请求，当时批语首先要求这封信不要出版，并要求审阅文集、暂缓东北局印行翻译。不能把1948年的处理直接写成当天完成改题后公开发表。",
+    "claim": "《毛泽东年谱》1948年2月12日条载，毛泽东批示这封给林彪的信不要出版，并要求审阅所拟文集，暂缓东北局印行和翻译。",
     "date": "1948-02-12",
     "evidence_class": "年谱转录批语及编者说明",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-ce6e7a65555cd6cd36fd",
@@ -198,11 +240,17 @@
         "end": 285,
         "record_path": "archive/records/A-ce6e7a65555cd6cd36fd.json",
         "text_path": "archive/text/A-ce6e7a65555cd6cd36fd.txt",
+        "source_title": "毛泽东年谱_第3卷（1945.08-1949.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "646df9b08466515af3df70343c624d1c0c0c75836b420d44f5fad8d73d34c96c",
         "printed_page_seen": 280,
-        "stored_excerpt_sha256": "44013276d3d794b41f7448b88f218b53c936e0eace3786b98906ceb87f600bca",
-        "evidence_text_file": "evidence-pages/MXE-006-A-ce6e7a65555cd6cd36fd.txt"
+        "excerpt_text_sha256": "44013276d3d794b41f7448b88f218b53c936e0eace3786b98906ceb87f600bca",
+        "stored_excerpt_sha256": "211825adbf64a0b29dfa55857de48c82dbb5c37c9c0c93e98456f6365f244162",
+        "evidence_text_file": "evidence-pages/MXE-006-A-ce6e7a65555cd6cd36fd-pdf_page-285-285.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -213,11 +261,13 @@
       "MX1-007"
     ],
     "relation_type": "rediscovery_revision_and_retitle",
-    "claim": "年谱1961年3月11日条记载讨论《调查工作》的修改并印发，文字作修改，改题《关于调查工作》；同条说明1964年收入《毛泽东著作选读》时改题《反对本本主义》、署为1930年5月。检索必须保留异题链。",
+    "claim": "《毛泽东年谱》1961年3月11日条载，《调查工作》经文字修改后改题《关于调查工作》并印发；同条编者说明称，1964年收入《毛泽东著作选读》时改题《反对本本主义》，署为1930年5月。",
     "date": "1961-03-11；1964",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "当时重印供会议参考的用途有批语支持；更广泛的政策因果解释仍需另证。",
-    "limit": "本条按年谱所载题名和找回经过登记；不同回忆材料中的异题／发现年份若有出入，不静默合并。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-97c183f19ad837e7deff",
@@ -235,11 +285,17 @@
         "end": 558,
         "record_path": "archive/records/A-97c183f19ad837e7deff.json",
         "text_path": "archive/text/A-97c183f19ad837e7deff.txt",
+        "source_title": "毛泽东年谱_第7卷（1959.04-1961.06）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "9a14e2b127fff39106dbc6575ef28cdc4ab731161b06569695ec69ffd9051729",
         "printed_page_seen": 553,
-        "stored_excerpt_sha256": "87abbad23bc81839410ce0f75253ae4416f65e7f8150d1179e4ac3acf3ca5f2d",
-        "evidence_text_file": "evidence-pages/MXE-007-A-97c183f19ad837e7deff.txt"
+        "excerpt_text_sha256": "87abbad23bc81839410ce0f75253ae4416f65e7f8150d1179e4ac3acf3ca5f2d",
+        "stored_excerpt_sha256": "f82831a4b4763f198bf68e2a44a9d111e60536b0cb1b644880787b6c48573b5b",
+        "evidence_text_file": "evidence-pages/MXE-007-A-97c183f19ad837e7deff-pdf_page-558-558.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -250,11 +306,13 @@
       "MX1-007"
     ],
     "relation_type": "addition_to_second_edition",
-    "claim": "《反对本本主义》是1991年第二版新增篇目；出版说明称曾散失、六十年代初重得，经过作者审定并于1964年公开发表。旧版没有收录不等于旧版存在一次“删掉此篇”的操作。",
+    "claim": "《毛泽东选集》1991年第二版出版说明将《反对本本主义》列为增收篇目，并称该文曾散失、六十年代初重新找到，经作者审定，于1964年公开发表。",
     "date": "1964；1991-02",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -272,9 +330,15 @@
         "end": 7,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "1f086dfdc5dad46d2738ca82837354179d78440e7eff90afc34c9db3fe2e2fd5",
-        "evidence_text_file": "evidence-pages/MXE-008-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "1f086dfdc5dad46d2738ca82837354179d78440e7eff90afc34c9db3fe2e2fd5",
+        "stored_excerpt_sha256": "f779f2f094b3e785531deff6449e15962f65d7b3dbfb2ce507ac3a7b947c4638",
+        "evidence_text_file": "evidence-pages/MXE-008-A-8bfc27ba981e89432b11-reader_page-6-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -285,11 +349,13 @@
       "MX1-013"
     ],
     "relation_type": "never_completed_not_lost",
-    "claim": "《中国革命战争的战略问题》题注转述作者说明，只完成五章，其余拟写的战略进攻、政治工作等因西安事变发生而搁笔。“计划而未写”应与“原稿失佚”“选编未收”分开。",
+    "claim": "《中国革命战争的战略问题》题注转述作者说明，已写成五章，原拟续写的战略进攻、政治工作等部分因西安事变发生而搁笔。",
     "date": "1936-12",
     "evidence_class": "原书编者转述作者说明",
-    "cause_limit": "停笔与西安事变的关系是题注转述，不是本项目从日期自行推断。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -307,9 +373,15 @@
         "end": 184,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "82417dbf4753c45555523a07ac0f929aef7195622af82261a5cfa1067e5ef919",
-        "evidence_text_file": "evidence-pages/MXE-009-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "82417dbf4753c45555523a07ac0f929aef7195622af82261a5cfa1067e5ef919",
+        "stored_excerpt_sha256": "a9bd43414fa9bbae30135437b39335449ec529be78fbbb61d30b788068fd4c29",
+        "evidence_text_file": "evidence-pages/MXE-009-A-8bfc27ba981e89432b11-reader_page-184-184.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -320,11 +392,13 @@
       "MX1-017"
     ],
     "relation_type": "proposed_change_not_executed_at_first_publication",
-    "claim": "年谱1951年3月27日条引致李达信，认为《实践论》把太平天国放在排外主义中一起说不妥，拟出选集时修改；同页编者注却明确说第1卷出版时尚未照此修改。意向与实施不能合成同一状态。",
+    "claim": "《毛泽东年谱》1951年3月27日条转引致李达信，称《实践论》中将太平天国放在排外主义中一起说不妥，拟在出选集时修改；同页编者注称，第1卷出版时尚未按该意见修改。",
     "date": "1951-03-27／第1卷出版时",
     "evidence_class": "年谱转引书信＋编者实施状态说明",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "已核文字层；关键字词的最终逐字校勘仍须原页复核。不是已获得一对前后定稿。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-0a774548ee55c2288a21",
@@ -342,9 +416,15 @@
         "end": 323,
         "record_path": "archive/records/A-0a774548ee55c2288a21.json",
         "text_path": "archive/text/A-0a774548ee55c2288a21.txt",
+        "source_title": "毛泽东年谱_第4卷（1949.10-1952.12）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "d473afcb3e7a96c9e8c5597e1076ef72696c995738378beba412f3870da98d0c",
-        "evidence_text_file": "evidence-pages/MXE-010-A-0a774548ee55c2288a21.txt"
+        "excerpt_text_sha256": "d473afcb3e7a96c9e8c5597e1076ef72696c995738378beba412f3870da98d0c",
+        "stored_excerpt_sha256": "e8cf4383606fd6371d1b8bc0c921fcb723a49003301f2819464370813a08a1da",
+        "evidence_text_file": "evidence-pages/MXE-010-A-0a774548ee55c2288a21-pdf_page-323-323.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -355,11 +435,13 @@
       "MX1-018"
     ],
     "relation_type": "authorial_revision_on_collection",
-    "claim": "《矛盾论》题注明确说收入选集第一版时，作者作了部分补充、删节和修改。可登记修订事实的编者记载，不能凭这句话列出每一处删改。",
+    "claim": "《矛盾论》题注称，收入选集第一版时，作者作了部分补充、删节和修改。",
     "date": "收入第一版时",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -377,9 +459,15 @@
         "end": 313,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "4d87523db074704285c96f0abaf4b8bd8d27de73d0b719d5d94431af66f98167",
-        "evidence_text_file": "evidence-pages/MXE-011-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "4d87523db074704285c96f0abaf4b8bd8d27de73d0b719d5d94431af66f98167",
+        "stored_excerpt_sha256": "2624370871ce73c4427120b70aafeb3d2885b09cb25371a7a3de983d9827912c",
+        "evidence_text_file": "evidence-pages/MXE-011-A-8bfc27ba981e89432b11-reader_page-313-313.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -390,11 +478,13 @@
       "MX2-009"
     ],
     "relation_type": "speech_date_range",
-    "claim": "《论持久战》的题注把讲演日期定位为1938年5月26日至6月3日，篇下“1938年5月”是较粗的日期标签，不宜当作单日成文或发表日期。",
+    "claim": "《论持久战》题注所载讲演日期为1938年5月26日至6月3日；篇下日期标签为1938年5月。",
     "date": "1938-05-26／1938-06-03",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -412,9 +502,15 @@
         "end": 110,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "3ae864721abfaf37c7a2195b37f23063d21904679fd075c498489c35bdf7b358",
-        "evidence_text_file": "evidence-pages/MXE-012-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "3ae864721abfaf37c7a2195b37f23063d21904679fd075c498489c35bdf7b358",
+        "stored_excerpt_sha256": "13887dc93a5adeb51d035a7d5df60fac2827fbc7e0f2fff4d0ef3a1d24035283",
+        "evidence_text_file": "evidence-pages/MXE-012-A-3d8f454387e25bfae9a9-reader_page-110-110.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -425,11 +521,13 @@
       "MX2-010"
     ],
     "relation_type": "part_of_political_report",
-    "claim": "《中国共产党在民族战争中的地位》是《论新阶段》政治报告的一部分；题注区分10月12—14日报告全程和该部分在14日讲述。",
+    "claim": "《中国共产党在民族战争中的地位》题注称，该篇是《论新阶段》政治报告的一部分，报告于1938年10月12日至14日作，该部分于14日讲述。",
     "date": "1938-10-12／1938-10-14",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -447,9 +545,15 @@
         "end": 190,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "17d6cd8804c328a62e53e25ece4914be8a235587543437c7848c7628b33601db",
-        "evidence_text_file": "evidence-pages/MXE-013-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "17d6cd8804c328a62e53e25ece4914be8a235587543437c7848c7628b33601db",
+        "stored_excerpt_sha256": "a43c84622ed32676acd8f9e1342b648c6ff4ba16113c5312b676066c1641ce71",
+        "evidence_text_file": "evidence-pages/MXE-013-A-3d8f454387e25bfae9a9-reader_page-190-190.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -461,11 +565,13 @@
       "MX2-012"
     ],
     "relation_type": "different_parts_of_concluding_speech",
-    "claim": "《统一战线中的独立自主问题》和《战争和战略问题》题注定位为六届六中全会结论的不同部分，分别在11月5日和6日讲述。不能因同一次全会，就把二者与10月的《论新阶段》全都并为同一篇稿的三个版本。",
+    "claim": "《统一战线中的独立自主问题》和《战争和战略问题》的题注分别称，两篇是六届六中全会结论的一部分，讲述日期分别为1938年11月5日和6日。",
     "date": "1938-11-05／1938-11-06",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -483,9 +589,15 @@
         "end": 208,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "1a39f87c312b5eefa0d3ce14cef193fb79175a8a6f587b0fbf8f89cac13ff1fd",
-        "evidence_text_file": "evidence-pages/MXE-014-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "1a39f87c312b5eefa0d3ce14cef193fb79175a8a6f587b0fbf8f89cac13ff1fd",
+        "stored_excerpt_sha256": "12073f63ea543eea378a166141163751660a7ae76e9fdb24cea02dadc4492fb1",
+        "evidence_text_file": "evidence-pages/MXE-014-A-3d8f454387e25bfae9a9-reader_page-208-208.txt"
       },
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -503,9 +615,15 @@
         "end": 212,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "062903cabeaf62c832f6b5be8e35451b50052a2e6cb7c77cd63424c03148518e",
-        "evidence_text_file": "evidence-pages/MXE-014-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "062903cabeaf62c832f6b5be8e35451b50052a2e6cb7c77cd63424c03148518e",
+        "stored_excerpt_sha256": "c89b76c9cff42c9e84628e523342d34a5315e4b4cc11982d00c6c9be9bae696b",
+        "evidence_text_file": "evidence-pages/MXE-014-A-3d8f454387e25bfae9a9-reader_page-212-212.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -516,11 +634,13 @@
       "MX2-012"
     ],
     "relation_type": "translation_deletion_request_rejected",
-    "claim": "年谱1954年8月13日条记载，英国共产党方面要求英译本删去《战争和战略问题》第一节前两个自然段，中方最终复信不同意。该事件属于“跨语言删改建议被否决”，不是已实施的删改。",
+    "claim": "《毛泽东年谱》1954年8月13日条记有英国共产党方面提出的英译本删段请求：拟删《战争和战略问题》第一节前两个自然段；同条所载中方复信不同意该请求。",
     "date": "1954-03-29请求／1954-08-13处理",
     "evidence_class": "年谱转录来信、批语和复信",
-    "cause_limit": "建议方给出美国发行困难和与本党纲领不符的理由；拒绝方另有保持所述原则的理由。应分别归因，不把一方理由移给另一方。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-08e901d73dcd78e98c4b",
@@ -538,9 +658,15 @@
         "end": 274,
         "record_path": "archive/records/A-08e901d73dcd78e98c4b.json",
         "text_path": "archive/text/A-08e901d73dcd78e98c4b.txt",
+        "source_title": "毛泽东年谱_第5卷（1953.01-1956.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "6a5a2bae028aa246b96d1609a1b4a54194896f945e4e3fbde83524e609d316b5",
-        "evidence_text_file": "evidence-pages/MXE-015-A-08e901d73dcd78e98c4b.txt"
+        "excerpt_text_sha256": "6a5a2bae028aa246b96d1609a1b4a54194896f945e4e3fbde83524e609d316b5",
+        "stored_excerpt_sha256": "a155a7b72228dfaa187bd22c3aef4747f25580a081a9439982ef2e9a63ad0124",
+        "evidence_text_file": "evidence-pages/MXE-015-A-08e901d73dcd78e98c4b-pdf_page-273-274.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -551,11 +677,13 @@
       "MX2-023"
     ],
     "relation_type": "chapter_level_collaborative_authorship",
-    "claim": "《中国革命和中国共产党》题注区分：第一章由其他同志起草、毛泽东修改，第二章由毛泽东写，原拟第三章因承担写作的人未完稿而停止。署名与写作角色须下沉到章。",
+    "claim": "《中国革命和中国共产党》题注称，第一章由其他同志起草、毛泽东修改，第二章由毛泽东写，原拟第三章因承担写作的人没有完成而停止。",
     "date": "1939年冬季",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "不能据总体书名把第一章的全部初稿或未写成的第三章均归给毛泽东。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -573,9 +701,15 @@
         "end": 292,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "eca2e86150c753243d1e33be73f73193f86e84a6fcde790fbfb9d51e207ca368",
-        "evidence_text_file": "evidence-pages/MXE-016-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "eca2e86150c753243d1e33be73f73193f86e84a6fcde790fbfb9d51e207ca368",
+        "stored_excerpt_sha256": "b2566bb50a1ef26e2fe5f5c88645faa740949c3ff823bee48daa539908cc1747",
+        "evidence_text_file": "evidence-pages/MXE-016-A-3d8f454387e25bfae9a9-reader_page-292-292.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -586,11 +720,13 @@
       "MX2-023"
     ],
     "relation_type": "contextual_substantive_addition",
-    "claim": "年谱说明，1940年第一次反共高潮后，《中国革命和中国共产党》第二章第四节加写三段，细分大资产阶级与民族资产阶级、亲日派与英美派大资产阶级、大地主与中小地主及开明绅士。变化是分类和策略判断的细化，不能只归为文字润色。",
+    "claim": "《毛泽东年谱》称，1940年反对第一次反共高潮结束后，《中国革命和中国共产党》第二章第四节加写三段，分别区分大资产阶级与民族资产阶级、亲日派与英美派大资产阶级、大地主与中小地主及开明绅士。",
     "date": "1940年第一次反共高潮之后",
     "evidence_class": "年谱编者关于修订的说明",
-    "cause_limit": "年谱将修改与当时形势及经验总结联系起来；具体动机的强证据还应继续追到作者书信。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3aabe7d7d8be471b024f",
@@ -608,11 +744,17 @@
         "end": 162,
         "record_path": "archive/records/A-3aabe7d7d8be471b024f.json",
         "text_path": "archive/text/A-3aabe7d7d8be471b024f.txt",
+        "source_title": "毛泽东年谱_第2卷（1937.07-1945.08）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "1fb06920d1942b158f65ca195f6d9fdc30adbbf4dbd903e0d2bb001017d80868",
         "printed_page_seen": 157,
-        "stored_excerpt_sha256": "34d519bc6d61bf1c818e9830b5e559e188f98b76b348f71150e3177d5009fa27",
-        "evidence_text_file": "evidence-pages/MXE-017-A-3aabe7d7d8be471b024f.txt"
+        "excerpt_text_sha256": "34d519bc6d61bf1c818e9830b5e559e188f98b76b348f71150e3177d5009fa27",
+        "stored_excerpt_sha256": "4a5cd47a2c1d8b8cf9c393c569ea46323929ac39d487e818e2f224777d6ed340",
+        "evidence_text_file": "evidence-pages/MXE-017-A-3aabe7d7d8be471b024f-pdf_page-162-162.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -623,11 +765,13 @@
       "MX2-023"
     ],
     "relation_type": "author_explanation_reported_in_annotation",
-    "claim": "MIA所录《毛选》注释[34]/[34a]转引致萧向荣信，说明早先不易辨别不同阶层态度，至1940年3月看得更清楚，并提到第二章已作相应修改。这比单纯同年发生事件提供了更直接的理由陈述。",
+    "claim": "MIA所录《毛选》注释[34]和[34a]转引致萧向荣信，记有早先不易辨别不同阶层态度、至1940年3月看得更清楚的说明，并述及第二章的相应修改。",
     "date": "1940年／注释称4月以后",
     "evidence_class": "网页转录书注，再转引作者信件",
-    "cause_limit": "理由有作者信件的转引；尚未把转引升级为已见信件原件。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-29557ddcede8c9e85ac9",
@@ -645,9 +789,15 @@
         "end": 291,
         "record_path": "archive/records/A-29557ddcede8c9e85ac9.json",
         "text_path": "archive/text/A-29557ddcede8c9e85ac9.txt",
+        "source_title": "中国革命和中国共产党",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "411b9f86a783bf4c286395a047d00ed587191667f8668cdc053d7559346ea875",
-        "evidence_text_file": "evidence-pages/MXE-018-A-29557ddcede8c9e85ac9.txt"
+        "excerpt_text_sha256": "411b9f86a783bf4c286395a047d00ed587191667f8668cdc053d7559346ea875",
+        "stored_excerpt_sha256": "5a122f754de0ea2c6281e4195678dc15dfb0f944f7aa68422090345b06746ef5",
+        "evidence_text_file": "evidence-pages/MXE-018-A-29557ddcede8c9e85ac9-web_lines-284-291.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -658,11 +808,13 @@
       "MX2-026"
     ],
     "relation_type": "publication_retitle",
-    "claim": "《新民主主义论》题注记载：原题《新民主主义的政治与新民主主义的文化》，1940年2月15日刊《中国文化》，2月20日刊《解放》时改题。一次讲演日期、两次刊载和题名变化应分别建事件。",
+    "claim": "《新民主主义论》题注记载原题为《新民主主义的政治与新民主主义的文化》，1940年2月15日刊于《中国文化》，2月20日刊于《解放》时改为现题。",
     "date": "1940-01-09讲演；02-15／02-20刊载",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "题注支持日期与改题；不能由此认定两次刊载全文完全相同，亦未完成两刊逐字对照。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -680,9 +832,15 @@
         "end": 333,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "7f7d7eca1d8fa41d20edec0d1ef6b6180b00fe1b63297631c0b4dce11b35a0a4",
-        "evidence_text_file": "evidence-pages/MXE-019-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "7f7d7eca1d8fa41d20edec0d1ef6b6180b00fe1b63297631c0b4dce11b35a0a4",
+        "stored_excerpt_sha256": "9c12c85ece2a9d606b157f343dd148312d0f2c93d501e9506d7e28238d54771c",
+        "evidence_text_file": "evidence-pages/MXE-019-A-3d8f454387e25bfae9a9-reader_page-333-333.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -693,11 +851,13 @@
       "MX2-029"
     ],
     "relation_type": "institutional_telegram_not_personal_essay",
-    "claim": "《向国民党的十点要求》的题注标明它是为延安民众讨汪大会起草的通电。母文身份须包括大会／通电，不能只按现题名当作私人论说文。",
+    "claim": "《向国民党的十点要求》题注称，该文是为延安民众讨汪大会起草的通电。",
     "date": "1940-02-01",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3d8f454387e25bfae9a9",
@@ -715,9 +875,15 @@
         "end": 392,
         "record_path": "archive/records/A-3d8f454387e25bfae9a9.json",
         "text_path": "archive/text/A-3d8f454387e25bfae9a9.txt",
+        "source_title": "毛泽东选集（第二卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "6e72284edf7ea2b7357f92f01ba9e11d197436771e05ad0a886cec455121d288",
-        "evidence_text_file": "evidence-pages/MXE-020-A-3d8f454387e25bfae9a9.txt"
+        "excerpt_text_sha256": "6e72284edf7ea2b7357f92f01ba9e11d197436771e05ad0a886cec455121d288",
+        "stored_excerpt_sha256": "ffc1602b8a888f793a47c3b844e18fec2c0721a0be95ee11d2053e47bdd168cf",
+        "evidence_text_file": "evidence-pages/MXE-020-A-3d8f454387e25bfae9a9-reader_page-392-392.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -728,11 +894,13 @@
       "MX3-008"
     ],
     "relation_type": "speech_parts_and_delayed_publication",
-    "claim": "《在延安文艺座谈会上的讲话》的基线区分引言和结论；年谱记载1943年10月19日《解放日报》发表1942年5月的讲话，20日中央总学委通知组织学习。讲话、整理刊载和组织传播不是同一天或同一种关系。",
+    "claim": "《在延安文艺座谈会上的讲话》的选集基线列有引言和结论。《毛泽东年谱》记载，1943年10月19日《解放日报》发表1942年5月的讲话，20日中央总学委通知组织学习。",
     "date": "1942-05；1943-10-19／10-20",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "已定位发表和传播记载；该条本身不提供全部整理前后的逐段改动。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-30d13185d1f27d6e4de9",
@@ -750,9 +918,15 @@
         "end": 68,
         "record_path": "archive/records/A-30d13185d1f27d6e4de9.json",
         "text_path": "archive/text/A-30d13185d1f27d6e4de9.txt",
+        "source_title": "毛泽东选集（第三卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "2cfa09f2d11c19ce8fe477d974c260f60f74ce2752c562b7d0b58465131d10ea",
-        "evidence_text_file": "evidence-pages/MXE-021-A-30d13185d1f27d6e4de9.txt"
+        "excerpt_text_sha256": "2cfa09f2d11c19ce8fe477d974c260f60f74ce2752c562b7d0b58465131d10ea",
+        "stored_excerpt_sha256": "ca62cf2cc363a13971fcc7afd96b9d5640084780909e565b07ccc5e2771876a6",
+        "evidence_text_file": "evidence-pages/MXE-021-A-30d13185d1f27d6e4de9-reader_page-68-68.txt"
       },
       {
         "witness_id": "A-3aabe7d7d8be471b024f",
@@ -770,9 +944,15 @@
         "end": 483,
         "record_path": "archive/records/A-3aabe7d7d8be471b024f.json",
         "text_path": "archive/text/A-3aabe7d7d8be471b024f.txt",
+        "source_title": "毛泽东年谱_第2卷（1937.07-1945.08）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "bf7732858d89a5bf705d11ec668e0343e97bb2f8b0f194c1f6f37318e17e5f13",
-        "evidence_text_file": "evidence-pages/MXE-021-A-3aabe7d7d8be471b024f.txt"
+        "excerpt_text_sha256": "bf7732858d89a5bf705d11ec668e0343e97bb2f8b0f194c1f6f37318e17e5f13",
+        "stored_excerpt_sha256": "9c1d87f6adea7130c64c1d698860df31101dcb8836b6d19219540b9fc911961a",
+        "evidence_text_file": "evidence-pages/MXE-021-A-3aabe7d7d8be471b024f-pdf_page-483-483.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -783,11 +963,13 @@
       "MX3-012"
     ],
     "relation_type": "retitled_first_chapter_not_whole_report",
-    "claim": "《抗日时期的经济问题和财政问题》只是《经济问题与财政问题》的第一章，原章名《关于过去工作的基本总结》。与整部报告比对时，多出的其他章节首先是选编范围差异，而非作者一次删稿。",
+    "claim": "《抗日时期的经济问题和财政问题》题注称，该篇是《经济问题与财政问题》报告的第一章，原章名为《关于过去工作的基本总结》。",
     "date": "1942-12／编选时",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-30d13185d1f27d6e4de9",
@@ -805,9 +987,15 @@
         "end": 112,
         "record_path": "archive/records/A-30d13185d1f27d6e4de9.json",
         "text_path": "archive/text/A-30d13185d1f27d6e4de9.txt",
+        "source_title": "毛泽东选集（第三卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "ce947679e2eb83eaaf194804ae9be7ff64f86cfd0e00333b0c4eabcc4d7bb19c",
-        "evidence_text_file": "evidence-pages/MXE-022-A-30d13185d1f27d6e4de9.txt"
+        "excerpt_text_sha256": "ce947679e2eb83eaaf194804ae9be7ff64f86cfd0e00333b0c4eabcc4d7bb19c",
+        "stored_excerpt_sha256": "a6a23b572f5ce3e8ef34df0d6f5750cb03af93b74c065c326821fbbce65156fa",
+        "evidence_text_file": "evidence-pages/MXE-022-A-30d13185d1f27d6e4de9-reader_page-112-112.txt"
       },
       {
         "witness_id": "A-8bfc27ba981e89432b11",
@@ -825,9 +1013,15 @@
         "end": 8,
         "record_path": "archive/records/A-8bfc27ba981e89432b11.json",
         "text_path": "archive/text/A-8bfc27ba981e89432b11.txt",
+        "source_title": "毛泽东选集（第一卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "b37d5e348325c65ac6d340f56303afad88f132b36444aa73951c07e8cfe839e0",
-        "evidence_text_file": "evidence-pages/MXE-022-A-8bfc27ba981e89432b11.txt"
+        "excerpt_text_sha256": "b37d5e348325c65ac6d340f56303afad88f132b36444aa73951c07e8cfe839e0",
+        "stored_excerpt_sha256": "a7557bb515ad00c3a06217f17a9fdcce037963e40ef0faec8a228c18003a7ec3",
+        "evidence_text_file": "evidence-pages/MXE-022-A-8bfc27ba981e89432b11-reader_page-8-8.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -838,11 +1032,13 @@
       "MX3-019"
     ],
     "relation_type": "institutional_appendix",
-    "claim": "第三卷把《关于若干历史问题的决议》明确标为附录，并注明1945年4月20日六届七中全会通过。它保留在全书检索中，但不占159篇正文的篇目数，也不被自动认定为毛泽东独立起草的全文。",
+    "claim": "《毛泽东选集》第三卷将《关于若干历史问题的决议》标为附录，并注明1945年4月20日六届七中全会通过。",
     "date": "1945-04-20",
     "evidence_class": "基线标题和通过日期的直接观察",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-30d13185d1f27d6e4de9",
@@ -860,9 +1056,15 @@
         "end": 173,
         "record_path": "archive/records/A-30d13185d1f27d6e4de9.json",
         "text_path": "archive/text/A-30d13185d1f27d6e4de9.txt",
+        "source_title": "毛泽东选集（第三卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "3e0fe50dd7589402b13bda636f0be692331f002c8ac5fce1021c8692e4529209",
-        "evidence_text_file": "evidence-pages/MXE-023-A-30d13185d1f27d6e4de9.txt"
+        "excerpt_text_sha256": "3e0fe50dd7589402b13bda636f0be692331f002c8ac5fce1021c8692e4529209",
+        "stored_excerpt_sha256": "bfb0250444f422229ac1cc1c9fc7dce7ec601748186ae0d753cce21a0c552a94",
+        "evidence_text_file": "evidence-pages/MXE-023-A-30d13185d1f27d6e4de9-reader_page-173-173.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -873,11 +1075,13 @@
       "MX4-003"
     ],
     "relation_type": "multiple_telegrams_one_collection_entry",
-    "claim": "《第十八集团军总司令给蒋介石的两个电报》把两份电报作为一个选集条目，题注说明由毛泽东为总司令写。两份文书应各有子节点，不是同一稿的连续两个commit。",
+    "claim": "《第十八集团军总司令给蒋介石的两个电报》题注称，两份电报由毛泽东为第十八集团军总司令写。",
     "date": "1945-08",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-980973716441b9197629",
@@ -895,9 +1099,15 @@
         "end": 31,
         "record_path": "archive/records/A-980973716441b9197629.json",
         "text_path": "archive/text/A-980973716441b9197629.txt",
+        "source_title": "毛泽东选集（第四卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "49bf4f842cedc3453ff58f275fa635a1d58f65b52a29d89e33fd9e2add57b147",
-        "evidence_text_file": "evidence-pages/MXE-024-A-980973716441b9197629.txt"
+        "excerpt_text_sha256": "49bf4f842cedc3453ff58f275fa635a1d58f65b52a29d89e33fd9e2add57b147",
+        "stored_excerpt_sha256": "bd957271a22286360c7eed677bca0aafeb8193ac1c4b3ef0b07d18c4a8defdc0",
+        "evidence_text_file": "evidence-pages/MXE-024-A-980973716441b9197629-reader_page-31-31.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -908,11 +1118,13 @@
       "MX4-018"
     ],
     "relation_type": "different_dated_documents_compiled",
-    "claim": "《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》把不同情境、不同日期的两份文件合列。题注对写作地点和敌军占领延安前后也作了区分。",
+    "claim": "《中共中央关于暂时放弃延安和保卫陕甘宁边区的两个文件》在选集中合列两份文件，篇下注有不同日期；题注记述各自写作地点以及敌军占领延安前后的情况。",
     "date": "1946-11／1947-04",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "此处确认合编结构；每份文件各自的修订史仍须分别建立，不能跨文件直接diff成改稿。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-980973716441b9197629",
@@ -930,9 +1142,15 @@
         "end": 109,
         "record_path": "archive/records/A-980973716441b9197629.json",
         "text_path": "archive/text/A-980973716441b9197629.txt",
+        "source_title": "毛泽东选集（第四卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "f7d1ed6278ed58b12f69064ccdc532176c042a1a5d3f0344dd6e5adc530a15e2",
-        "evidence_text_file": "evidence-pages/MXE-025-A-980973716441b9197629.txt"
+        "excerpt_text_sha256": "f7d1ed6278ed58b12f69064ccdc532176c042a1a5d3f0344dd6e5adc530a15e2",
+        "stored_excerpt_sha256": "16ea8547dbe8e6c15844d165ad8796474cec310cebf07c82e48331ba777a37e2",
+        "evidence_text_file": "evidence-pages/MXE-025-A-980973716441b9197629-reader_page-109-109.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -943,11 +1161,13 @@
       "MX4-040"
     ],
     "relation_type": "operation_telegrams_compilation",
-    "claim": "《关于辽沈战役的作战方针》以战役主题汇集电报，首个小标题明确为“九月七日的电报”。主题统一不等于文书身份统一。",
+    "claim": "《关于辽沈战役的作战方针》的选集文本列有电报分项，首个小标题为“九月七日的电报”。",
     "date": "1948-09／1948-10",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-980973716441b9197629",
@@ -965,9 +1185,15 @@
         "end": 224,
         "record_path": "archive/records/A-980973716441b9197629.json",
         "text_path": "archive/text/A-980973716441b9197629.txt",
+        "source_title": "毛泽东选集（第四卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "9c450b8035a3d8d49bbb7aaa9e422784d3e5e9a42347d0e0ccb2a196abe5dde5",
-        "evidence_text_file": "evidence-pages/MXE-026-A-980973716441b9197629.txt"
+        "excerpt_text_sha256": "9c450b8035a3d8d49bbb7aaa9e422784d3e5e9a42347d0e0ccb2a196abe5dde5",
+        "stored_excerpt_sha256": "d25212c08b6ffff3be417952a781655a7878eb821c330196107a7327ea70a498",
+        "evidence_text_file": "evidence-pages/MXE-026-A-980973716441b9197629-reader_page-224-224.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -978,11 +1204,13 @@
       "MX4-059"
     ],
     "relation_type": "excerpt_from_concluding_speech",
-    "claim": "《党委会的工作方法》题注将它定位为七届二中全会结论的一部分。应先与该结论建立母子关系，再讨论节选内有没有改动。",
+    "claim": "《党委会的工作方法》题注称，该篇是七届二中全会结论的一部分。",
     "date": "1949-03-13",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-980973716441b9197629",
@@ -1000,9 +1228,15 @@
         "end": 330,
         "record_path": "archive/records/A-980973716441b9197629.json",
         "text_path": "archive/text/A-980973716441b9197629.txt",
+        "source_title": "毛泽东选集（第四卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "0d4236b76edda2528228a111e90079bf78e86e8a947fffb7cdafa847edbfb66f",
-        "evidence_text_file": "evidence-pages/MXE-027-A-980973716441b9197629.txt"
+        "excerpt_text_sha256": "0d4236b76edda2528228a111e90079bf78e86e8a947fffb7cdafa847edbfb66f",
+        "stored_excerpt_sha256": "fa019eca34efef896bed41b49e286c50ed8094bf43fdf18e85250afc77aa9ab1",
+        "evidence_text_file": "evidence-pages/MXE-027-A-980973716441b9197629-reader_page-330-330.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1017,11 +1251,13 @@
       "MX4-070"
     ],
     "relation_type": "related_commentary_series_not_versions",
-    "claim": "《丢掉幻想，准备斗争》及其后四篇，题注共同定位为评论美国国务院白皮书和艾奇逊信件的新华社评论组。它们是同一议题下的不同文章，不是五个修订版本。",
+    "claim": "《丢掉幻想，准备斗争》题注将该篇及其后四篇列为毛泽东为新华社写的评论，评论对象为美国国务院白皮书和艾奇逊的信。",
     "date": "1949-08／1949-09",
     "evidence_class": "原书编者陈述",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "共同议题由题注说明；各篇的具体政治评价仍属于作者或编者的陈述。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-980973716441b9197629",
@@ -1039,9 +1275,15 @@
         "end": 373,
         "record_path": "archive/records/A-980973716441b9197629.json",
         "text_path": "archive/text/A-980973716441b9197629.txt",
+        "source_title": "毛泽东选集（第四卷）〔官方阅读器全文文字层〕",
+        "source_media": "official_page_text",
+        "source_layer": "official_reader_text",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "4f3cd2f1b1e50e7cea4e8c8c21531930c9f18fc286931e196a790dacaa69a2d7",
-        "evidence_text_file": "evidence-pages/MXE-028-A-980973716441b9197629.txt"
+        "excerpt_text_sha256": "4f3cd2f1b1e50e7cea4e8c8c21531930c9f18fc286931e196a790dacaa69a2d7",
+        "stored_excerpt_sha256": "c617593f18c385f3263b96ae046b5169c44252b9ce96e674e79046055117598a",
+        "evidence_text_file": "evidence-pages/MXE-028-A-980973716441b9197629-reader_page-373-373.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1052,11 +1294,13 @@
       "MX5-002"
     ],
     "relation_type": "collective_amendment",
-    "claim": "《中国人民大团结万岁》网页题注说明，毛泽东受会议委托起草宣言，其中“在人民领袖毛泽东主席领导之下”一句由会议代表在通过时提议增加。修改主体可能是会议，而不是作者个人。",
+    "claim": "《中国人民大团结万岁》网页题注称，毛泽东受会议委托起草宣言，“在人民领袖毛泽东主席领导之下”一句由会议代表在通过时提议增加。",
     "date": "1949-09-30",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "已读网站题注；正式会议记录或草案原件仍是进一步核验对象。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-22723c8864d2e1c9b830",
@@ -1074,9 +1318,15 @@
         "end": 7,
         "record_path": "archive/records/A-22723c8864d2e1c9b830.json",
         "text_path": "archive/text/A-22723c8864d2e1c9b830.txt",
+        "source_title": "中国人民大团结万岁",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "624d13a71a0d9bde6f1037d465469f2efe1f2eeeb181fafd067a9e8c9b1ed249",
-        "evidence_text_file": "evidence-pages/MXE-029-A-22723c8864d2e1c9b830.txt"
+        "excerpt_text_sha256": "624d13a71a0d9bde6f1037d465469f2efe1f2eeeb181fafd067a9e8c9b1ed249",
+        "stored_excerpt_sha256": "5f8940d9f17d773f196c8167cdc84b1da924cad00a81e4de20160b76f742a55f",
+        "evidence_text_file": "evidence-pages/MXE-029-A-22723c8864d2e1c9b830-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1088,11 +1338,13 @@
       "MX5-006"
     ],
     "relation_type": "explanatory_speech_relates_to_written_report",
-    "claim": "《不要四面出击》网页题注明确说它是讲话的一部分，对《为争取国家财政经济状况的基本好转而斗争》书面报告作说明。应建立“说明／阐释”关系，而不是把口头说明当书面报告的改稿。",
+    "claim": "《不要四面出击》网页题注称，该篇是讲话的一部分，对《为争取国家财政经济状况的基本好转而斗争》书面报告作了说明。",
     "date": "1950-06-06",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-273871842698fffe094a",
@@ -1110,9 +1362,15 @@
         "end": 7,
         "record_path": "archive/records/A-273871842698fffe094a.json",
         "text_path": "archive/text/A-273871842698fffe094a.txt",
+        "source_title": "不要四面出击",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "fec67115d6dce4068346cf05e4bfc856fdee543f8fcbcbfd924769a16950592f",
-        "evidence_text_file": "evidence-pages/MXE-030-A-273871842698fffe094a.txt"
+        "excerpt_text_sha256": "fec67115d6dce4068346cf05e4bfc856fdee543f8fcbcbfd924769a16950592f",
+        "stored_excerpt_sha256": "dc33ee9cf62017d063e69ffd64241946a9d7b8a510cfbf5a414c7cb3af74a93c",
+        "evidence_text_file": "evidence-pages/MXE-030-A-273871842698fffe094a-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1123,11 +1381,13 @@
       "MX5-015"
     ],
     "relation_type": "drafted_by_other_rewritten_and_retitled",
-    "claim": "年谱1951年5月19日条记载，毛泽东修改胡乔木起草的《为什么重视〈武训传〉的讨论》，改为现题，并以《人民日报》社论发表。需要区分初稿起草、修改、机构刊发三个角色。",
+    "claim": "《毛泽东年谱》1951年5月19日条记载，毛泽东修改胡乔木起草的《为什么重视〈武训传〉的讨论》，改为《应当重视电影〈武训传〉的讨论》，以《人民日报》社论发表。",
     "date": "1951-05-19",
     "evidence_class": "年谱关于起草、改题及改写的说明",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-0a774548ee55c2288a21",
@@ -1145,11 +1405,17 @@
         "end": 348,
         "record_path": "archive/records/A-0a774548ee55c2288a21.json",
         "text_path": "archive/text/A-0a774548ee55c2288a21.txt",
+        "source_title": "毛泽东年谱_第4卷（1949.10-1952.12）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "12934d1a28c7671d66f7b37a5bba1c9d6a217e992d86cbf0fb32bffe610a5b6a",
         "printed_page_seen": 343,
-        "stored_excerpt_sha256": "1526ed0d80d85a147cba64d6b302da4ef9ded6671f58d392108fcd682cf54ea4",
-        "evidence_text_file": "evidence-pages/MXE-031-A-0a774548ee55c2288a21.txt"
+        "excerpt_text_sha256": "1526ed0d80d85a147cba64d6b302da4ef9ded6671f58d392108fcd682cf54ea4",
+        "stored_excerpt_sha256": "9519fe27c3829ab3bc42af918541a82145ecc526fe7306da8979b95cf7ddf014",
+        "evidence_text_file": "evidence-pages/MXE-031-A-0a774548ee55c2288a21-pdf_page-348-348.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1160,11 +1426,13 @@
       "MX5-015"
     ],
     "relation_type": "excerpt_of_editorial",
-    "claim": "第五卷网页题注又说明《应当重视电影〈武训传〉的讨论》是社论的节录。因此，即使原社论和选集有长度差，也不能跳过节录这一层直接称为作者删改。",
+    "claim": "MIA所录第五卷《应当重视电影〈武训传〉的讨论》题注称，该篇是社论的节录。",
     "date": "第五卷编选时",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-3edbba386c609096f1e6",
@@ -1182,9 +1450,15 @@
         "end": 7,
         "record_path": "archive/records/A-3edbba386c609096f1e6.json",
         "text_path": "archive/text/A-3edbba386c609096f1e6.txt",
+        "source_title": "应当重视电影《武训传》的讨论",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "8bff030383c9c97d7057060ddf0981ce234beccaf3c9fa8ed21f56bc9891df4f",
-        "evidence_text_file": "evidence-pages/MXE-032-A-3edbba386c609096f1e6.txt"
+        "excerpt_text_sha256": "8bff030383c9c97d7057060ddf0981ce234beccaf3c9fa8ed21f56bc9891df4f",
+        "stored_excerpt_sha256": "e93975b993e322cee01df1dadb387dba86d766c7586a098f4aafc4000fba0f55",
+        "evidence_text_file": "evidence-pages/MXE-032-A-3edbba386c609096f1e6-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1195,11 +1469,13 @@
       "MX5-018"
     ],
     "relation_type": "editorial_framing_separate_from_notice",
-    "claim": "《把农业互助合作当作一件大事去做》的1977版网页题注使用针对刘少奇的强烈政治评价。研究时应把该题注的后出解释，与1951年通知正文的内容及其原始行文目的分开，不把题注评价直接回填为1951年作者原话。",
+    "claim": "MIA所录第五卷《把农业互助合作当作一件大事去做》的网页题注包含有关刘少奇和农业互助合作政策的编者说明；本记录的引用位置为网页题注。",
     "date": "1951年正文／1977版题注",
     "evidence_class": "对网页中题注与正文层次的观察",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这里指出归因层次，不凭其政治措辞就反向断言全部题注事实错误。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-c5de4e4d84dc4ea01b16",
@@ -1217,9 +1493,15 @@
         "end": 7,
         "record_path": "archive/records/A-c5de4e4d84dc4ea01b16.json",
         "text_path": "archive/text/A-c5de4e4d84dc4ea01b16.txt",
+        "source_title": "把农业互助合作当作一件大事去做",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "adcdf5adf85d483f19429098b9ecaca5c83994e561a87721e5d57734630d72b5",
-        "evidence_text_file": "evidence-pages/MXE-033-A-c5de4e4d84dc4ea01b16.txt"
+        "excerpt_text_sha256": "adcdf5adf85d483f19429098b9ecaca5c83994e561a87721e5d57734630d72b5",
+        "stored_excerpt_sha256": "fa23424560b7bf3ecf9b41587372f1c9fce3a0379ee0c596f769400eab502747",
+        "evidence_text_file": "evidence-pages/MXE-033-A-c5de4e4d84dc4ea01b16-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1230,11 +1512,13 @@
       "MX5-044"
     ],
     "relation_type": "specified_textual_changes_reported_by_letter",
-    "claim": "年谱1955年10月13日条转录征求第三次修正稿意见的信，列出合并章节、增加解释工农联盟的一节、替换适用地区表述、删例以及补入重质量、停顿间歇和及时批评等修改。此处已经有“改了什么”的具体来源陈述。",
+    "claim": "《毛泽东年谱》1955年10月13日条转录征求《关于农业合作化问题》第三次修正稿意见的信，信中列出合并章节、增加解释工农联盟的一节、替换适用地区表述、删例，以及补入注重质量、停顿间歇和及时批评等修改。",
     "date": "1955-10-13",
     "evidence_class": "年谱转录作者征求意见信",
-    "cause_limit": "信中列举具体修改并征求意见；不能把同年所有农业政策事件自动当作这些修改的唯一原因。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-08e901d73dcd78e98c4b",
@@ -1252,11 +1536,17 @@
         "end": 455,
         "record_path": "archive/records/A-08e901d73dcd78e98c4b.json",
         "text_path": "archive/text/A-08e901d73dcd78e98c4b.txt",
+        "source_title": "毛泽东年谱_第5卷（1953.01-1956.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "4b455b3e9a955b92518636ad39213176316bfd4629a68fc1d844cec7a618c925",
         "printed_page_seen": 450,
-        "stored_excerpt_sha256": "a220d111912196e2d9ef6a3872952eccf14908b6b2d2d0d5e49c8d3f12bc6a13",
-        "evidence_text_file": "evidence-pages/MXE-034-A-08e901d73dcd78e98c4b.txt"
+        "excerpt_text_sha256": "a220d111912196e2d9ef6a3872952eccf14908b6b2d2d0d5e49c8d3f12bc6a13",
+        "stored_excerpt_sha256": "07ec11265b6aa658c81bc613a22f8dbb7730f0cefe337238560f3219a647aefe",
+        "evidence_text_file": "evidence-pages/MXE-034-A-08e901d73dcd78e98c4b-pdf_page-455-455.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1267,11 +1557,13 @@
       "MX5-044"
     ],
     "relation_type": "reported_revision_count_not_six_extant_drafts",
-    "claim": "年谱接续1955年10月14日讲话，载作者说农业合作化报告经过六次修改。应保存这个“作者报告次数”，与10月13日信中的“第三次修正稿”标签分别记录，不能伪造六份已经获得的稿本。",
+    "claim": "《毛泽东年谱》1955年10月14日讲话记录载，作者称农业合作化报告经过六次修改；10月13日条所转录信件使用“第三次修正稿”的表述。",
     "date": "1955-10-14",
     "evidence_class": "年谱转录作者讲话",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-08e901d73dcd78e98c4b",
@@ -1289,11 +1581,17 @@
         "end": 456,
         "record_path": "archive/records/A-08e901d73dcd78e98c4b.json",
         "text_path": "archive/text/A-08e901d73dcd78e98c4b.txt",
+        "source_title": "毛泽东年谱_第5卷（1953.01-1956.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "4b455b3e9a955b92518636ad39213176316bfd4629a68fc1d844cec7a618c925",
         "printed_page_seen": 450,
-        "stored_excerpt_sha256": "343b054fe0360bbe4558ce20d3c90427e94a97be969d239ce6fe48b3c9d76543",
-        "evidence_text_file": "evidence-pages/MXE-035-A-08e901d73dcd78e98c4b.txt"
+        "excerpt_text_sha256": "343b054fe0360bbe4558ce20d3c90427e94a97be969d239ce6fe48b3c9d76543",
+        "stored_excerpt_sha256": "ed915784c934c5bb57510f817aebdf32e9c1636bb3448ce57027d4a67e732658",
+        "evidence_text_file": "evidence-pages/MXE-035-A-08e901d73dcd78e98c4b-pdf_page-455-456.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1304,11 +1602,13 @@
       "MX5-048"
     ],
     "relation_type": "selection_of_annotations",
-    "claim": "《中国农村的社会主义高潮》的按语题注明确区分写过104篇与本卷选辑43篇，还提到1958年的部分重印说明。“未收入的61篇”首先是选编边界，不是61篇内容丢失或被同一次修改删除。",
+    "claim": "《〈中国农村的社会主义高潮〉的按语》网页题注称，作者写过104篇按语，本卷选辑43篇；题注另述1958年部分按语重印的情况。",
     "date": "1955年写作／1958年重印／1977年选编",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "104和43是题注报告的篇数；本轮未据此认证原书所有按语已逐篇校齐。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-d0045246180c909e5ed7",
@@ -1326,9 +1626,15 @@
         "end": 7,
         "record_path": "archive/records/A-d0045246180c909e5ed7.json",
         "text_path": "archive/text/A-d0045246180c909e5ed7.txt",
+        "source_title": "《中国农村的社会主义高潮》的按语",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "e47c479bfa69795850c27684c3c97d45ac0e4a97db6817a666dff8165c8bf140",
-        "evidence_text_file": "evidence-pages/MXE-036-A-d0045246180c909e5ed7.txt"
+        "excerpt_text_sha256": "e47c479bfa69795850c27684c3c97d45ac0e4a97db6817a666dff8165c8bf140",
+        "stored_excerpt_sha256": "fec72425f47c16fd9c7d9de3a12b6e4debc9c4f2aca81d19a086427843b20bfb",
+        "evidence_text_file": "evidence-pages/MXE-036-A-d0045246180c909e5ed7-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1339,11 +1645,13 @@
       "MX5-051"
     ],
     "relation_type": "internal_circulation_for_future_revision",
-    "claim": "年谱1965年12月条记载《论十大关系》拟发县团以上学习，毛泽东18日批示不大满意，发下去征求意见以助将来修改。“内部征求意见”与“公开定本”必须分开。",
+    "claim": "《毛泽东年谱》1965年12月条载，《论十大关系》拟发县团以上学习；18日批示称不大满意，发下去征求意见，以助将来修改。",
     "date": "1965-12-18",
     "evidence_class": "年谱转录批示",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-93d18940d055820ccb0b",
@@ -1361,9 +1669,15 @@
         "end": 552,
         "record_path": "archive/records/A-93d18940d055820ccb0b.json",
         "text_path": "archive/text/A-93d18940d055820ccb0b.txt",
+        "source_title": "毛泽东年谱_第8卷（1961.07-1966.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "7d84498f250f3f6a8437600da6f0d1d9f15f4ad8a9183d7e1d53c65d69086234",
-        "evidence_text_file": "evidence-pages/MXE-037-A-93d18940d055820ccb0b.txt"
+        "excerpt_text_sha256": "7d84498f250f3f6a8437600da6f0d1d9f15f4ad8a9183d7e1d53c65d69086234",
+        "stored_excerpt_sha256": "1b3e76dd8b16a2a1d0fbee507a9954247c325799d5d976bcd6656c5a755172a1",
+        "evidence_text_file": "evidence-pages/MXE-037-A-93d18940d055820ccb0b-pdf_page-552-552.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1374,11 +1688,13 @@
       "MX5-051"
     ],
     "relation_type": "public_release_deferred",
-    "claim": "年谱1975年7月13日条载审阅《论十大关系》整理稿和公开发表请示，批示暂不公开、可印发全党讨论、不登报，将来出选集再公开。批准内部流转不等于批准即时公开发表。",
+    "claim": "《毛泽东年谱》1975年7月13日条载，在审阅《论十大关系》整理稿和公开发表请示时，批示暂不公开，可印发全党讨论，不登报，将来出选集时再公开。",
     "date": "1975-07-13",
     "evidence_class": "年谱转录批示",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "该证据只确认1975年的整理与发布决定；1956年至此的完整稿本链未恢复。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-bc29fda8b40043e7d0d2",
@@ -1396,9 +1712,15 @@
         "end": 603,
         "record_path": "archive/records/A-bc29fda8b40043e7d0d2.json",
         "text_path": "archive/text/A-bc29fda8b40043e7d0d2.txt",
+        "source_title": "毛泽东年谱_第9卷（1966.10-1976.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "014df134cb7946390da456a491e126c758d8d5f2c24d77da545ee7022ff10a98",
-        "evidence_text_file": "evidence-pages/MXE-038-A-bc29fda8b40043e7d0d2.txt"
+        "excerpt_text_sha256": "014df134cb7946390da456a491e126c758d8d5f2c24d77da545ee7022ff10a98",
+        "stored_excerpt_sha256": "91a9b2e09678dd9b866d443383ddf7c4a47c0faac76d6a34ed894b8cd67eb738",
+        "evidence_text_file": "evidence-pages/MXE-038-A-bc29fda8b40043e7d0d2-pdf_page-603-603.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1409,11 +1731,13 @@
       "MX5-058"
     ],
     "relation_type": "speech_edited_before_publication",
-    "claim": "《正处》网页题注记载根据讲话原始记录整理并作补充，1957年6月19日发表。它现在只是全书229篇之一，保留原专题，不替代全书研究。",
+    "claim": "《关于正确处理人民内部矛盾的问题》网页题注称，该文根据讲话原始记录整理并作补充，于1957年6月19日发表。",
     "date": "1957-02-27讲话／1957-06-19发表",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-d5c116872a1a98cb93ae",
@@ -1431,9 +1755,15 @@
         "end": 7,
         "record_path": "archive/records/A-d5c116872a1a98cb93ae.json",
         "text_path": "archive/text/A-d5c116872a1a98cb93ae.txt",
+        "source_title": "关于正确处理人民内部矛盾的问题",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "7fdf1eda988a7a049d5b65cc05e43457693de16dc708661ed42e61fc18c8c69d",
-        "evidence_text_file": "evidence-pages/MXE-039-A-d5c116872a1a98cb93ae.txt"
+        "excerpt_text_sha256": "7fdf1eda988a7a049d5b65cc05e43457693de16dc708661ed42e61fc18c8c69d",
+        "stored_excerpt_sha256": "4f22707d7d492786ea67ba1487f6eee2583bd55109fca9d7cf557088726fe803",
+        "evidence_text_file": "evidence-pages/MXE-039-A-d5c116872a1a98cb93ae-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1444,11 +1774,13 @@
       "MX5-059"
     ],
     "relation_type": "later_prepublication_review",
-    "claim": "年谱1964年3月14日条记载，将1957年全国宣传工作会议讲话整理稿交康生、陈伯达看并提修改意见，拟收入新简选本；页下注说明1964年6月收入《毛泽东著作选读》甲种本。1957年的题下日期不等于1964年编选审核日期。",
+    "claim": "《毛泽东年谱》1964年3月14日条载，1957年全国宣传工作会议讲话整理稿交康生、陈伯达审阅并提修改意见，拟收入新简选本；编者注称，1964年6月收入《毛泽东著作选读》甲种本。",
     "date": "1957年讲话／1964-03-14审核／1964-06编入",
     "evidence_class": "年谱转录批示和编者出版说明",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-93d18940d055820ccb0b",
@@ -1466,9 +1798,15 @@
         "end": 328,
         "record_path": "archive/records/A-93d18940d055820ccb0b.json",
         "text_path": "archive/text/A-93d18940d055820ccb0b.txt",
+        "source_title": "毛泽东年谱_第8卷（1961.07-1966.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "b33e7afd2258703932b495d3c8fefb0bf03f1c4af421b99cd9e147eca1a05a45",
-        "evidence_text_file": "evidence-pages/MXE-040-A-93d18940d055820ccb0b.txt"
+        "excerpt_text_sha256": "b33e7afd2258703932b495d3c8fefb0bf03f1c4af421b99cd9e147eca1a05a45",
+        "stored_excerpt_sha256": "d031b5a115263a994ec60cb4945d16f5e4b7a656527229afe578c062a40a4b4e",
+        "evidence_text_file": "evidence-pages/MXE-040-A-93d18940d055820ccb0b-pdf_page-327-328.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1479,11 +1817,13 @@
       "MX5-060"
     ],
     "relation_type": "two_speeches_compiled",
-    "claim": "《坚持艰苦奋斗，密切联系群众》题注区分1957年3月18日济南讲话的一部分与3月19日南京讲话的一部分。两地讲话在选集里并为一篇，不能互当改稿。",
+    "claim": "《坚持艰苦奋斗，密切联系群众》网页题注称，该篇分别取自1957年3月18日济南讲话和3月19日南京讲话的一部分。",
     "date": "1957-03-18／1957-03-19",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-2c4941acc4b0d57f8bea",
@@ -1501,9 +1841,15 @@
         "end": 7,
         "record_path": "archive/records/A-2c4941acc4b0d57f8bea.json",
         "text_path": "archive/text/A-2c4941acc4b0d57f8bea.txt",
+        "source_title": "坚持艰苦奋斗，密切联系群众",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "577005fad765248885a015b84a86703e76b9cf1362d1542eedfa5b4d6cc6b1be",
-        "evidence_text_file": "evidence-pages/MXE-041-A-2c4941acc4b0d57f8bea.txt"
+        "excerpt_text_sha256": "577005fad765248885a015b84a86703e76b9cf1362d1542eedfa5b4d6cc6b1be",
+        "stored_excerpt_sha256": "a1459659c54952a07a6c2a35966cbd861d4ef48039f00d5c025b4998b2c0bb04",
+        "evidence_text_file": "evidence-pages/MXE-041-A-2c4941acc4b0d57f8bea-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1514,11 +1860,13 @@
       "MX5-066"
     ],
     "relation_type": "dated_sequence_of_revision_reports",
-    "claim": "年谱1957年7月19—30日条逐日记载《一九五七年夏季的形势》草稿及第一至第十次修改稿：19日草稿及第一次，20日第二和第三次，25日第四次，26—27日第五至第八次，29日第九次，30日第十次。是有来源的“版本事件骨架”，不是已拥有全部稿本的逐字diff链。",
+    "claim": "《毛泽东年谱》1957年7月19日至30日条载，《一九五七年夏季的形势》19日形成草稿和第一次修改稿，20日第二和第三次，25日第四次，26至27日第五至第八次，29日第九次，30日第十次。",
     "date": "1957-07-19／1957-07-30",
     "evidence_class": "年谱逐日修订记载（关键日期已对照页图）",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "第197页既有文字层明显乱码，事件据已查看的页图核对；原始提取文本不作静默修正。尚未逐份取得和比对十次稿本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-264a603d150bc5388914",
@@ -1536,11 +1884,17 @@
         "end": 197,
         "record_path": "archive/records/A-264a603d150bc5388914.json",
         "text_path": "archive/text/A-264a603d150bc5388914.txt",
+        "source_title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "b4dfdf022714ec251865f0d1e2109ed48840cf8b7667618fd537ebaa80773976",
         "printed_page_seen": 191,
-        "stored_excerpt_sha256": "9470b65d7dbdeedd61f506c7394bd7f7c00859532c9451b34dbf04f5cc5819ca",
-        "evidence_text_file": "evidence-pages/MXE-042-A-264a603d150bc5388914.txt"
+        "excerpt_text_sha256": "9470b65d7dbdeedd61f506c7394bd7f7c00859532c9451b34dbf04f5cc5819ca",
+        "stored_excerpt_sha256": "25a08d0c702f5de0004a13c068f3d2e7076bc5146e0c2e36140b953e6855f915",
+        "evidence_text_file": "evidence-pages/MXE-042-A-264a603d150bc5388914-pdf_page-196-197.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1551,11 +1905,13 @@
       "MX5-066"
     ],
     "relation_type": "distribution_scope_and_approval_state_change",
-    "claim": "同篇年谱记载，第三次稿拟发至地委一级，第四次稿拟发至县委及相当一级；第十次稿虽称最后定稿，仍要求交政治局批准，如有修改须告知。发放层级和审核状态都是演变信息，不能只比文字。",
+    "claim": "《毛泽东年谱》所载《一九五七年夏季的形势》稿上说明及批示中，第三次稿拟发至地委一级，第四次稿拟发至县委及相当一级；第十次稿标称最后定稿，同时注明须交政治局批准，如有修改须告知。",
     "date": "1957-07-20／1957-07-25／1957-07-30",
     "evidence_class": "年谱转录稿上说明、批示（已核关键页图）",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "这是已读到的来源陈述；没有据此认证原稿，也没有把未取得的中间稿补成逐字版本。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-264a603d150bc5388914",
@@ -1573,11 +1929,17 @@
         "end": 197,
         "record_path": "archive/records/A-264a603d150bc5388914.json",
         "text_path": "archive/text/A-264a603d150bc5388914.txt",
+        "source_title": "毛泽东年谱_第6卷（1956.10-1959.03）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_and_rendered_page_visual_check",
         "review_image_sha256": "b4dfdf022714ec251865f0d1e2109ed48840cf8b7667618fd537ebaa80773976",
         "printed_page_seen": 191,
-        "stored_excerpt_sha256": "9470b65d7dbdeedd61f506c7394bd7f7c00859532c9451b34dbf04f5cc5819ca",
-        "evidence_text_file": "evidence-pages/MXE-043-A-264a603d150bc5388914.txt"
+        "excerpt_text_sha256": "9470b65d7dbdeedd61f506c7394bd7f7c00859532c9451b34dbf04f5cc5819ca",
+        "stored_excerpt_sha256": "25a08d0c702f5de0004a13c068f3d2e7076bc5146e0c2e36140b953e6855f915",
+        "evidence_text_file": "evidence-pages/MXE-043-A-264a603d150bc5388914-pdf_page-196-197.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1589,11 +1951,13 @@
       "MX5-070"
     ],
     "relation_type": "same_meeting_different_excerpts",
-    "claim": "《党内团结的辩证方法》和《一切反动派都是纸老虎》网页题注都标为莫斯科共产党和工人党代表会议发言的节录。应优先核对母发言与节录范围，不能仅因日期相同就认定两篇相互修订。",
+    "claim": "《党内团结的辩证方法》和《一切反动派都是纸老虎》的网页题注均称，各篇为莫斯科共产党和工人党代表会议发言的节录。",
     "date": "1957-11-18",
     "evidence_class": "网站转录的第五卷题注",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "共同会议和节录属性有题注支持；是否同一完整母发言及精确段落范围仍待母稿校核。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-99879515e4ed83368bf7",
@@ -1611,9 +1975,15 @@
         "end": 7,
         "record_path": "archive/records/A-99879515e4ed83368bf7.json",
         "text_path": "archive/text/A-99879515e4ed83368bf7.txt",
+        "source_title": "党内团结的辩证方法",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "a7d490608b33cc77ab7cef8dca2836e1ed415009344b0db46abc7034524dedde",
-        "evidence_text_file": "evidence-pages/MXE-044-A-99879515e4ed83368bf7.txt"
+        "excerpt_text_sha256": "a7d490608b33cc77ab7cef8dca2836e1ed415009344b0db46abc7034524dedde",
+        "stored_excerpt_sha256": "0490ffab987d772fa2db9acf2875afc9737d57c927ee41c38acc6d2e7b8b76c5",
+        "evidence_text_file": "evidence-pages/MXE-044-A-99879515e4ed83368bf7-web_lines-7-7.txt"
       },
       {
         "witness_id": "A-5ba786bea4aefb470c0b",
@@ -1631,9 +2001,15 @@
         "end": 7,
         "record_path": "archive/records/A-5ba786bea4aefb470c0b.json",
         "text_path": "archive/text/A-5ba786bea4aefb470c0b.txt",
+        "source_title": "一切反动派都是纸老虎",
+        "source_media": "html",
+        "source_layer": "web_transcription",
+        "edition_verification_status": "not_independently_verified",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "5dd21df7821ef6481f0ef2a149a3eea4b47e6bc92cf6a230756b2d672226c7a6",
-        "evidence_text_file": "evidence-pages/MXE-044-A-5ba786bea4aefb470c0b.txt"
+        "excerpt_text_sha256": "5dd21df7821ef6481f0ef2a149a3eea4b47e6bc92cf6a230756b2d672226c7a6",
+        "stored_excerpt_sha256": "ccb57d4f38dda897094d9039d0565506353b5504681dc636a1e65e1af035ab36",
+        "evidence_text_file": "evidence-pages/MXE-044-A-5ba786bea4aefb470c0b-web_lines-7-7.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"
@@ -1647,11 +2023,13 @@
       "MX5-059"
     ],
     "relation_type": "revision_of_later_commentary_not_of_cited_works",
-    "claim": "年谱1966年的文艺座谈会纪要修订条引用四篇著作并修改评价它们的措辞。这里修改的是后来纪要，不是四篇被引著作本身。全库检索遇到这类高频命中必须排除错误归属。",
+    "claim": "《毛泽东年谱》1966年文艺座谈会纪要修订条，记述纪要中引用四篇著作及相关措辞的修改；该条所列被修改文件为纪要。",
     "date": "1966年",
     "evidence_class": "对年谱所记被修改对象的核对",
-    "cause_limit": "不从时间相邻推断修改动机。",
-    "limit": "此条用于校正映射对象，不把纪要的改动加入这四篇著作的作者改稿链。",
+    "summary_type": "attributed_source_paraphrase",
+    "assistant_analysis": null,
+    "independent_historical_verification": "not_asserted",
+    "limit": "所列内容为来源记载的汇录；底本、转引、版本及文字层状态见逐条来源记录。",
     "sources": [
       {
         "witness_id": "A-93d18940d055820ccb0b",
@@ -1669,9 +2047,15 @@
         "end": 567,
         "record_path": "archive/records/A-93d18940d055820ccb0b.json",
         "text_path": "archive/text/A-93d18940d055820ccb0b.txt",
+        "source_title": "毛泽东年谱_第8卷（1961.07-1966.09）",
+        "source_media": "pdf",
+        "source_layer": "digital_PDF_copy",
+        "edition_verification_status": "source_bytes_verified_imprint_images_available_for_review",
+        "public_url_rechecked_this_run": false,
         "review_method": "source_text_read",
-        "stored_excerpt_sha256": "f18359c4dbca320576c078671d1066a912d5931bda8b400d29f2713d06e41c32",
-        "evidence_text_file": "evidence-pages/MXE-045-A-93d18940d055820ccb0b.txt"
+        "excerpt_text_sha256": "f18359c4dbca320576c078671d1066a912d5931bda8b400d29f2713d06e41c32",
+        "stored_excerpt_sha256": "8256601910e745620f97cff25f3c270f6f52d1ca1917dd8aaa48353c4418c96d",
+        "evidence_text_file": "evidence-pages/MXE-045-A-93d18940d055820ccb0b-pdf_page-567-567.txt"
       }
     ],
     "status": "reviewed_source_statement_not_manuscript_authentication"

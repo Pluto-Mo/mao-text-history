@@ -60,6 +60,9 @@
   "works_with_reviewed_statements": 40,
   "first_pass_traversal_complete": true,
   "all_historical_revisions_collated": false,
+  "output_policy": "public_source_records_only",
+  "assistant_analysis_included": false,
+  "new_historical_evidence_added_in_this_edit": 0,
   "new_manuscripts_authenticated": 0,
   "warnings": [
     "Page/title retrieval is not historical revision confirmation.",

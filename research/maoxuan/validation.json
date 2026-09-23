@@ -7,6 +7,8 @@
     "all_title_starts_checked": true,
     "all_cards_and_mapping_files_written": true,
     "evidence_has_sources": true,
+    "all_records_are_attributed_paraphrases": true,
+    "evidence_snapshots_match_hashes": true,
     "no_auto_manuscript_authentication": true,
     "fifth_alternate_not_double_counted": true,
     "text_matches_are_retained": true,
