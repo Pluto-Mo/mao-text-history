@@ -1,0 +1,77 @@
+name: Rebuild objective public-source records
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/objective-records.yml
+permissions:
+  contents: write
+concurrency:
+  group: whole-maoxuan-survey
+  cancel-in-progress: false
+jobs:
+  records:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: main
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            archive/records
+            archive/text
+            archive/pages
+            catalog
+            config
+            research/maoxuan
+            scripts
+            skills/text-history
+      - name: Install existing parsers
+        run: python -m pip install -r requirements.txt
+      - name: Convert existing summaries without altering source files
+        run: |
+          python scripts/apply_objective_records.py
+          python -m py_compile maoxuan_reviewed.py maoxuan_survey.py
+          python -u maoxuan_survey.py
+      - name: Verify attribution, original source paths and generated snapshot hashes
+        env:
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          python - <<'PY'
+          import json, pathlib, hashlib, subprocess, os
+          out=pathlib.Path('research/maoxuan')
+          checks=json.loads((out/'validation.json').read_text())
+          coverage=json.loads((out/'coverage.json').read_text())
+          evidence=json.loads((out/'reviewed-evidence.json').read_text())
+          works=[json.loads(x) for x in (out/'works.jsonl').read_text().splitlines() if x]
+          assert checks['passed'] and all(checks['checks'].values())
+          assert len(works)==230 and len(evidence)==45
+          assert all(e['summary_type']=='attributed_source_paraphrase' and e['assistant_analysis'] is None for e in evidence)
+          assert all(e['claim'].startswith(('《','MIA')) for e in evidence)
+          assert all(s.get('source_url') and s.get('raw_sha256') and s.get('source_layer') for e in evidence for s in e['sources'])
+          assert not subprocess.check_output(['git','diff','--name-only','--','archive/']).strip()
+          snapshots=[s for e in evidence for s in e['sources']]
+          assert len({s['evidence_text_file'] for s in snapshots})==len(snapshots)
+          for s in snapshots:
+              assert hashlib.sha256((out/s['evidence_text_file']).read_bytes()).hexdigest()==s['stored_excerpt_sha256']
+          generators={p:hashlib.sha256(pathlib.Path(p).read_bytes()).hexdigest() for p in ['maoxuan_survey.py','maoxuan_reviewed.py']}
+          audit={'run_id':os.environ['RUN_ID'],'source_commit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),'policy':'public_source_records_only','rewritten_existing_source_records':len(evidence),'regenerated_work_cards':len(works),'source_excerpt_ranges':len(snapshots),'distinct_snapshot_paths':len({s['evidence_text_file'] for s in snapshots}),'all_snapshot_hashes_match':True,'archive_files_changed':0,'new_historical_evidence_added':0,'all_historical_revisions_collated':False,'generator_sha256':generators,'input_text_corpus_sha256':coverage['input_text_corpus_sha256'],'checks':checks['checks']}
+          (out/'objective-mode.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          (out/'run.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(audit,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit updated rules, summaries, cards and mappings
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add maoxuan_reviewed.py maoxuan_survey.py AGENTS.md README.md skills/text-history/SKILL.md research/maoxuan
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m 'data: replace interpretive summaries with attributed source records across all Maoxuan cards'
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            git fetch origin main
+            git rebase origin/main
+          done
+          exit 1
