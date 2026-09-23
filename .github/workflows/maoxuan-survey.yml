@@ -1,0 +1,84 @@
+name: Build whole Maoxuan text-history survey
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/maoxuan-survey.yml
+permissions:
+  contents: write
+concurrency:
+  group: whole-maoxuan-survey
+  cancel-in-progress: false
+jobs:
+  survey:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: main
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            archive/records
+            archive/text
+            archive/pages
+            catalog
+            config
+            research/maoxuan
+      - name: Install retained text parsers
+        run: python -m pip install -r requirements.txt
+      - name: Build all work cards and preserve candidate versus reviewed distinction
+        run: |
+          python -m py_compile maoxuan_survey.py maoxuan_reviewed.py
+          python -u maoxuan_survey.py
+      - name: Validate output and record exact source and generator versions
+        env:
+          RUN_ID: ${{ github.run_id }}
+        run: |
+          python - <<'PY'
+          import json, pathlib, hashlib, subprocess, os
+          out=pathlib.Path('research/maoxuan')
+          checks=json.loads((out/'validation.json').read_text())
+          coverage=json.loads((out/'coverage.json').read_text())
+          assert checks['passed'] and all(checks['checks'].values())
+          assert coverage['main_works']==229 and coverage['appendices']==1
+          assert coverage['reviewed_source_statements']==45
+          assert not coverage['all_historical_revisions_collated']
+          assert coverage['candidate_links']>8000, 'Candidate retention regression'
+          generators={p:hashlib.sha256(pathlib.Path(p).read_bytes()).hexdigest() for p in ['maoxuan_survey.py','maoxuan_reviewed.py']}
+          run={'source_commit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),'run_id':os.environ['RUN_ID'],'generator_sha256':generators,'input_text_corpus_sha256':coverage['input_text_corpus_sha256'],'review_date':'2026-09-23','new_original_manuscripts_authenticated':0}
+          (out/'run.json').write_text(json.dumps(run,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(run,ensure_ascii=False,indent=2))
+          marker='## 全《毛选》逐篇研究入口'
+          insert='\n'+marker+'\n\n《正处》只是样例。全书研究先读 [总览与综合结论](research/maoxuan/README.md)、[逐篇总表](research/maoxuan/all-works.md) 和 [映射规则](research/maoxuan/RULES.md)。229篇正文与1篇附录均有首轮研究卡；全库候选、已复核来源陈述及缺稿分别登记。卡片齐全不等于全部历史稿本完成校勘；当前研究进度见 `research/maoxuan/coverage.json`，资料入库进度仍见 `reports/completion.json`。\n'
+          for name in ['README.md','AGENTS.md']:
+              p=pathlib.Path(name);s=p.read_text(encoding='utf-8')
+              if marker not in s:
+                  first,rest=s.split('\n',1)
+                  p.write_text(first+'\n'+insert+'\n'+rest,encoding='utf-8')
+          PY
+      - name: Commit generated research without touching retained source files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add research/maoxuan README.md AGENTS.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m 'research: publish 230 Maoxuan dossiers, 8687 candidates and 45 reviewed source statements'
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo 'Unable to publish after three non-force attempts' >&2
+          exit 1
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        if: always()
+        with:
+          name: whole-maoxuan-survey
+          path: |
+            research/maoxuan
+            maoxuan_survey.py
+            maoxuan_reviewed.py
+          if-no-files-found: error
+          retention-days: 14
