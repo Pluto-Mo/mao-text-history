@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "input_text_corpus_sha256": "2c821d42ebe01c68e02554a1efd05947ef3e7e5aaef4cfa8b2cc6f3bc35d06ea",
+  "scan_scope": "all retained text witnesses; existing text layers only, no OCR",
+  "main_works": 229,
+  "appendices": 1,
+  "volume_statistics": [
+    {
+      "volume": 1,
+      "main_works": 18,
+      "appendices": 0,
+      "baselines_located": 18,
+      "with_reviewed_statements": 7,
+      "with_nianpu_candidates": 18,
+      "with_wengao_candidates": 14
+    },
+    {
+      "volume": 2,
+      "main_works": 40,
+      "appendices": 0,
+      "baselines_located": 40,
+      "with_reviewed_statements": 7,
+      "with_nianpu_candidates": 37,
+      "with_wengao_candidates": 13
+    },
+    {
+      "volume": 3,
+      "main_works": 31,
+      "appendices": 1,
+      "baselines_located": 32,
+      "with_reviewed_statements": 3,
+      "with_nianpu_candidates": 30,
+      "with_wengao_candidates": 13
+    },
+    {
+      "volume": 4,
+      "main_works": 70,
+      "appendices": 0,
+      "baselines_located": 70,
+      "with_reviewed_statements": 9,
+      "with_nianpu_candidates": 59,
+      "with_wengao_candidates": 7
+    },
+    {
+      "volume": 5,
+      "main_works": 70,
+      "appendices": 0,
+      "baselines_located": 70,
+      "with_reviewed_statements": 14,
+      "with_nianpu_candidates": 24,
+      "with_wengao_candidates": 39
+    }
+  ],
+  "retained_text_witnesses_scanned": 1476,
+  "segments_scanned": 48352,
+  "characters_scanned": 39475121,
+  "no_alphanumeric_text_pages": 3616,
+  "candidate_links": 8687,
+  "reviewed_source_statements": 45,
+  "works_with_reviewed_statements": 40,
+  "first_pass_traversal_complete": true,
+  "all_historical_revisions_collated": false,
+  "new_manuscripts_authenticated": 0,
+  "warnings": [
+    "Page/title retrieval is not historical revision confirmation.",
+    "Repeated editions may reproduce the same editorial statement and are not automatically independent corroboration.",
+    "Only retained searchable text layers were scanned; figures, underlining, marginal codes, and unreadable OCR require source-page review.",
+    "All authorial, institutional, later-editorial and electronic-transcriber interventions must remain separate."
+  ]
+}

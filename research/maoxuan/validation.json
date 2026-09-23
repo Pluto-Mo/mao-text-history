@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "registry_main_count": true,
+    "one_appendix": true,
+    "unique_ids": true,
+    "all_baselines_nonempty": true,
+    "all_title_starts_checked": true,
+    "all_cards_and_mapping_files_written": true,
+    "evidence_has_sources": true,
+    "no_auto_manuscript_authentication": true,
+    "fifth_alternate_not_double_counted": true,
+    "text_matches_are_retained": true,
+    "each_baseline_has_title_candidate": true
+  },
+  "passed": true
+}

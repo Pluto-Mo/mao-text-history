@@ -1,5 +1,10 @@
 # Agent 研究规则
 
+## 全《毛选》逐篇研究入口
+
+《正处》只是样例。全书研究先读 [总览与综合结论](research/maoxuan/README.md)、[逐篇总表](research/maoxuan/all-works.md) 和 [映射规则](research/maoxuan/RULES.md)。229篇正文与1篇附录均有首轮研究卡；全库候选、已复核来源陈述及缺稿分别登记。卡片齐全不等于全部历史稿本完成校勘；当前研究进度见 `research/maoxuan/coverage.json`，资料入库进度仍见 `reports/completion.json`。
+
+
 ## 先确认实际资料，不沿用早期状态
 
 先读 `reports/completion.json`、`reports/research-index.json` 和 `exports/zhengchu-fulltext-guide.md`。本轮原文件和全文已实际保存在 `archive/`，不是只有目录或八篇样例。按最新逐卷报告判断缺什么，不把历史报告中的“0全文”继续当成现状。

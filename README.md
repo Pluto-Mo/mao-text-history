@@ -1,5 +1,10 @@
 # 毛泽东文本演变研究库
 
+## 全《毛选》逐篇研究入口
+
+《正处》只是样例。全书研究先读 [总览与综合结论](research/maoxuan/README.md)、[逐篇总表](research/maoxuan/all-works.md) 和 [映射规则](research/maoxuan/RULES.md)。229篇正文与1篇附录均有首轮研究卡；全库候选、已复核来源陈述及缺稿分别登记。卡片齐全不等于全部历史稿本完成校勘；当前研究进度见 `research/maoxuan/coverage.json`，资料入库进度仍见 `reports/completion.json`。
+
+
 ## 全文库：本轮实际交付
 
 [最终验收与逐卷入口](reports/completion.md) · [全文和原文件](archive/README.md) · [《正处》全文查阅包](exports/zhengchu-fulltext-guide.md)。
